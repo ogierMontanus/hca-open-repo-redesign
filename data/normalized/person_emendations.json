@@ -1,0 +1,72 @@
+[
+  {
+    "match_surname": "Oesterling",
+    "match_refs": "II:406",
+    "original": {
+      "surname": "Oesterling",
+      "given_names": "",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "emended": {
+      "surname": "Osterley",
+      "given_names": "Carl",
+      "birth_year": "1805",
+      "death_year": "1891"
+    },
+    "sources": [
+      {
+        "field": "surname",
+        "source": "HCAC",
+        "source_detail": "",
+        "date": "2026-09-03",
+        "confidence": "probable",
+        "notes": "Registret flager selv tvivlen: »(Navnet maaske misforstaaet)«. Identificeret som den tyske maler Carl Osterley (1805-1891), Hannover. Rettelsen besvarer præcis det, de trykte redaktører markerede som usikkert."
+      },
+      {
+        "field": "given_names",
+        "source": "HCAC",
+        "source_detail": "",
+        "date": "2026-09-03",
+        "confidence": "probable",
+        "notes": "Fornavn mangler helt i registret; følger af identifikationen ovenfor."
+      },
+      {
+        "field": "birth_year",
+        "source": "HCAC",
+        "source_detail": "",
+        "date": "2026-09-03",
+        "confidence": "probable",
+        "notes": "Levetid følger af identifikationen; registret har ingen årstal for posten."
+      },
+      {
+        "field": "death_year",
+        "source": "HCAC",
+        "source_detail": "",
+        "date": "2026-09-03",
+        "confidence": "probable",
+        "notes": "Se ovenfor."
+      }
+    ]
+  },
+  {
+    "match_surname": "Hascbroek",
+    "match_refs": "VII:36;VII:37;VII:39;VII:45;VII:47;VII:51",
+    "original": {
+      "surname": "Hascbroek"
+    },
+    "emended": {
+      "surname": "Hasebroek"
+    },
+    "sources": [
+      {
+        "field": "surname",
+        "source": "HCAC",
+        "source_detail": "",
+        "date": "2026-09-03",
+        "confidence": "certain",
+        "notes": "OCR-fejl (e->c) i det trykte register; navnet er tre uafhængige steder i bind 12s eget værkregister (Reg003607, Reg002509, Reg003511) stavet »Hasebroek«, i overensstemmelse med den dokumenterede hollandske digter og præst i Amsterdam Jan Pieter Hasebroek (1812–1896) som allerede angivet i postens egne leveår og beskrivelse."
+      }
+    ]
+  }
+]

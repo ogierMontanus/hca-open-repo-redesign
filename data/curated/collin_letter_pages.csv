@@ -1,0 +1,506 @@
+volume,letter_no,direction,person,pdf_page_start,printed_page_start,printed_page_end,dateline_iso
+1,2,Til,E. Collin,13,,11,1829-07-18
+1,7,Til,E. Collin,22,11,12,1830-02-08
+1,8,Fra,E. Collin,25,12,17,1830-02-08
+1,10,Fra,E. Collin,28,17,24,1830-06-12
+1,12,Fra,E. Collin,35,24,25,1830-06-23
+1,13,Til,E. Collin,36,25,31,1830-06-23
+1,16,Til,E. Collin,42,31,46,1830-07-07
+1,20,Fra,E. Collin,57,46,50,1830-07-22
+1,21,Til,E. Collin,61,50,55,1830-07-28
+1,22,Til,E. Collin,66,55,60,1830-08-03
+1,25,Fra,E. Collin,72,60,70,1830-08-13
+1,28,Fra,E. Collin,83,70,92,1831-06-04
+1,33,Til,E. Collin,104,92,98,1831-08-20
+1,35,Til,E. Collin,109,98,105,1832-07-06
+1,41,Til,E. Collin,119,105,105,1832-08-03
+1,42,Fra,E. Collin,120,105,113,1832-08-07
+1,44,Til,E. Collin,124,113,115,1832-08-23
+1,46,Til,E. Collin,127,115,115,
+1,47,Til,E. Collin,127,115,115,
+1,48,Til,E. Collin,129,115,115,
+1,49,Til,E. Collin,129,115,120,
+1,51,Fra,E. Collin,131,120,121,
+1,55,Til,E. Collin,132,121,125,
+1,54,Til,E. Collin,136,125,128,
+1,55,Til,E. Collin,139,128,138,1833-06-11
+1,58,Fra,E. Collin,149,138,140,1833-06-25
+1,60,Til,E. Collin,151,140,156,1833-06-25
+1,64,Til,E. Collin,167,156,165,1833-08-07
+1,68,Fra,E. Collin,176,165,170,1833-08-15
+1,69,Til,E. Collin,182,170,174,1833-09-02
+1,70,Til,E. Collin,188,174,189,1833-09-12
+1,72,Fra,E. Collin,201,189,197,
+1,74,Fra,E. Collin,208,197,201,
+1,76,Fra,E. Collin,212,201,217,1834-01-29
+1,79,Fra,E. Collin,228,217,217,
+1,80,Til,E. Collin,229,217,220,1834-07-10
+1,82,Til,E. Collin,231,220,222,1834-11-20
+1,83,Til,E. Collin,233,222,222,1834-11-20
+1,84,Til,E. Collin,234,222,227,1835-07-05
+1,85,Fra,E. Collin,238,227,230,1835-07-11
+1,86,Til,E. Collin,241,230,235,1835-07-28
+1,87,Til,E. Collin,247,235,249,1835-07-28
+1,94,Fra,E. Collin,260,249,255,1836-06-28
+1,96,Fra,E. Collin,266,255,265,1836-07-16
+1,101,Til,E. Collin,276,265,265,
+1,102,Til,E. Collin,277,265,265,
+1,103,Til,E. Collin,277,265,265,1837-08-11
+1,104,Til,E. Collin,278,265,270,1837-08-11
+1,106,Til,Henriette Collin,282,270,273,1839-06-22
+1,107,Til,Henriette Collin,284,273,276,1839-07-11
+1,108,Til,Henriette Collin,287,276,279,1839-07-26
+1,109,Til,Henriette Collin,291,279,279,1839-08-16
+1,110,Til,Henriette Collin,292,279,5,1839-08-27
+1,III,Til,Henriette Collin,294,5,286,1840-07-31
+1,112,Til,E. Collin,297,286,295,1840-11-10
+1,114,Fra,Familien Collin,306,295,304,
+1,116,Til,E. og Henriette Collin,315,304,312,1841-01-20
+1,118,Til,E. Collin,327,312,318,1842-07-02
+1,120,Til,E.Collin,330,318,320,1842-07-02
+1,121,Fra,E.Collin,331,320,322,1842-07-05
+1,122,Til,Henriette Collin,333,322,323,1842-07-24
+1,123,Fra,E.Collin,334,323,324,1842-07-26
+1,124,Til,E.Collin,335,324,326,1842-07-26
+1,125,Til,E.Collin,338,326,326,
+1,126,Til,E.Collin,340,326,5,
+1,127,Fra,"E.Collin, Jette Boye og Jonna Drewsen",342,5,334,
+1,128,Til,E.Collin,345,334,335,
+1,129,Til,E.Collin,346,335,5,
+1,130,Til,Henriette Collin,348,5,342,
+1,134,Fra,E. Collin,353,342,343,1843-11-24
+1,135,Til,Henriette Collin,354,343,346,1843-11-24
+1,136,Til,E.Collin,357,346,349,1843-11-27
+1,138,Til,E.Collin,360,349,350,1843-12-25
+2,141,Fra,"E. Collin, Jonna Drewsen og J. Collin sen",20,6,11,1844-07-05
+2,145,Til,E. Collin,25,11,12,1844-08-23
+2,144,Til,E.Collin,26,12,14,1845-06-05
+2,146,Fra,Henriette Collin,31,14,14,1845-06-05
+2,147,Til,E. Collin,32,14,20,1845-06-23
+2,148,Til,Henriette Collin,34,20,25,1845-06-23
+2,150,Fra,E.Collin,39,25,26,1845-07-26
+2,151,Til,E.Collin,40,26,35,1845-07-26
+2,156,Til,E. Collin,50,35,43,1845-12-19
+2,159,Til,E.Collin,57,43,49,1845-12-27
+2,162,Fra,E.Collin,64,49,52,
+2,163,Til,E.Collin,66,52,56,
+2,164,Fra,E. og Henriette Collin,71,56,61,1846-02-11
+2,165,Til,E.Collin,75,61,65,1846-02-11
+2,166,Til,E. Collin,79,65,72,1846-02-21
+2,167,Fra,E.Collin,86,72,79,
+2,170,Til,Henriette Collin,94,79,88,
+2,174,Fra,E.Collin,102,88,92,
+2,176,Til,E. og Henriette Collin,106,92,95,
+2,777,Fra,E. og Henriette Collin,109,95,98,
+2,179,Fra,Henriette Og E.Collin,112,98,104,1846-07-19
+2,181,Til,E.Collin,118,104,107,1846-08-08
+2,182,Fra,E.Collin,121,107,107,1846-08-15
+2,183,Til,E.Collin,122,107,113,1846-08-15
+2,184,Fra,E. Collin,127,113,117,
+2,186,Fra,E.Collin,133,117,123,1846-09-19
+2,188,Fra,E.Collin,137,123,124,1846-09-26
+2,189,Til,E.Collin,139,124,132,
+2,192,Fra,E.Collin,146,132,132,
+2,1,Til,Lorck kan De qvittere for at have modtaget å Vexel paa Hamborg,146,132,142,1847-06-01
+2,197,Fra,E.Collin,156,142,145,1847-07-03
+2,199,Til,E.Collin,159,145,147,1847-07-08
+2,200,Til,E.Collin,161,147,148,1847-07-21
+2,201,Fra,Henriette Collin,163,148,150,
+2,202,Til,E. Collin,165,150,152,
+2,203,Til,Henriette Collin,166,152,154,
+2,204,Fra,E.Collin,168,154,159,1847-08-14
+2,206,Til,E.Collin,173,159,159,1847-08-07
+2,207,Fra,E.Collin,174,159,164,
+2,209,Fra,E.Collin,178,164,164,
+2,210,Til,E.Collin,179,164,167,
+2,211,Til,E.Collin,181,167,168,
+2,212,Fra,E.Collin,182,168,169,
+2,213,Til,E.Collin,183,169,170,1848-06-01
+2,214,Til,E. Collin,185,170,173,1848-06-01
+2,216,Til,E. Collin,187,173,176,1848-06-05
+2,218,Fra,E.Collin,190,176,178,1848-06-12
+2,220,Til,E.Collin,192,178,179,1848-06-23
+2,221,Til,E.Collin,193,179,180,
+2,222,Til,E.Collin,194,180,181,
+2,20225,Til,E.Collin,195,181,5,1848-09-18
+2,224,Til,E.Collin,197,5,185,1848-09-18
+2,225,Til,E.Collin,199,185,185,1849-06-13
+2,226,Til,Henriette Collin,200,185,188,1849-06-13
+2,228,Til,Henriette Collin,202,188,188,1849-07-10
+2,230,Til,E.Collin,206,188,194,1849-07-20
+2,232,Fra,E.Collin,210,194,194,
+2,233,Til,E.Collin,210,194,198,
+2,234,Fra,E.Collin,213,198,200,1850-07-08
+2,255,Til,E.Collin,214,200,201,1850-07-08
+2,236,Til,E.Collin,216,201,201,1851-06-09
+2,237,Til,E.Collin,216,201,204,1851-06-09
+2,238,Til,Henriette Collin,218,204,206,1851-06-16
+2,233,Fra,E.Collin,220,206,209,1851-06-18
+2,240,Til,E.Collin,223,209,212,1851-06-18
+2,241,Fra,E.Collin,226,212,5,
+2,242,Fra,Henriette Collin,227,5,216,1851-06-21
+2,244,Til,E.Collin,230,216,219,1851-06-22
+2,25246,Til,E.Collin,233,219,222,1851-08-06
+2,247,Til,E.Collin,236,222,222,1851-11-19
+2,248,Til,E.Collin,236,222,225,1851-11-19
+2,252,Fra,Henriette Collin,239,225,227,1852-08-16
+2,255,Til,E. Collin,241,227,5,1852-08-16
+2,255,Fra,E. Collin,244,5,231,1853-06-14
+2,257,Fra,Henriette Collin,246,231,236,1853-06-21
+2,259,Fra,E.Collin,250,236,236,1853-07-15
+2,260,Til,E.Collin,252,236,239,1853-07-17
+2,261,Til,E.Collin,253,239,242,1853-07-23
+2,262,Til,Henriette Collin,256,242,245,1853-07-27
+2,264,Til,E.Collin,259,245,247,1853-07-27
+2,265,Fra,E.Collin,261,247,248,
+2,266,Til,E.Collin,262,248,5,1854-02-07
+2,267,Til,E. Collin,265,5,5,1854-02-07
+2,268,Til,E.Collin,265,5,5,1854-02-07
+2,269,Til,E.Collin,265,5,253,1854-02-07
+2,270,Fra,E. og Henriette Collin,268,253,259,1855-07-05
+2,275,Fra,E.Collin,273,259,259,
+2,274,Fra,E.Collin,274,259,5,1855-09-08
+2,575,Til,E.Collin,275,5,263,1855-09-08
+2,277,Til,E.Collin,278,263,266,
+2,278,Fra,E.Collin,280,266,267,
+2,279,Til,Henriette Collin,281,267,268,
+2,280,Fra,Henriette Collin,282,268,269,
+2,281,Til,Henriette Collin,283,269,271,
+2,282,Fra,E.Collin,285,271,271,
+2,283,Til,E.Collin,286,271,273,1856-06-14
+2,284,Til,Henriette Collin,287,273,275,1856-06-14
+2,285,Til,E.Collin,289,275,278,1856-06-26
+2,286,Fra,Henriette Collin,292,278,279,
+2,287,Fra,E.Collin,294,279,279,
+2,288,Fra,E. og Henriette Collin,294,279,284,1856-07-24
+2,290,Til,Henriette Collin,298,284,285,
+2,291,Fra,Henriette Collin,300,285,287,1857-08-06
+2,292,Fra,E. Collin,301,287,290,1857-08-06
+2,295,Fra,E.Collin,304,290,293,
+2,298,Fra,E.Collin,308,293,299,
+2,300,Fra,Henriette Collin,313,299,299,
+2,301,Fra,E. Collin,314,299,301,1858-07-24
+2,302,Til,Henriette Collin,315,301,303,1858-07-24
+2,303,Til,E.Collin,318,303,306,1858-08-01
+2,304,Til,E.Collin,320,306,306,
+2,505,Fra,E.Collin,322,306,306,1859-06-09
+2,306,Til,Henriette Collin,324,306,306,1859-06-09
+2,507,Fra,E.Collin,325,306,306,1859-06-15
+2,308,Til,E.Collin,325,306,312,1859-06-15
+2,509,Fra,Henriette Collin,327,312,316,
+2,311,Fra,Henriette Collin,330,316,316,
+2,312,Fra,E. Collin,331,316,316,1859-08-12
+2,313,Til,Henriette Collin,332,316,320,1859-08-12
+2,314,Til,E.Collin,334,320,324,1859-12-20
+2,316,Fra,E.Collin,338,324,329,1859-12-30
+2,319,Til,E.Collin,343,329,335,1859-12-30
+2,322,Til,Henriette Collin,349,335,338,1860-07-26
+2,323,Fra,E. og Henriette Collin,353,338,342,1860-07-26
+2,324,Til,Henriette Collin,356,342,345,1860-08-03
+2,325,Fra,E.Collin,359,345,346,
+2,326,Fra,Henriette Collin,360,346,347,1860-08-15
+2,327,Til,E.Collin,361,347,351,1860-08-15
+2,328,Fra,E. Collin,365,351,352,
+2,329,Fra,E. og Henriette Collin,366,352,354,
+2,330,Til,E.Collin,368,354,355,1860-09-05
+2,331,Fra,E.Collin,371,355,360,1860-09-05
+2,332,Fra,Henriette Collin,374,360,365,1860-09-11
+2,334,Fra,E.Collin,379,365,370,1860-09-20
+2,336,Fra,E.Collin,384,370,381,
+2,340,Fra,E.Collin,395,381,382,
+2,341,Til,E. og Henriette Collin,396,382,384,1860-11-02
+2,343,Til,Henriette Collin,399,384,388,1860-11-11
+2,244,Fra,Henriette Collin,402,388,393,
+2,346,Fra,Henriette Collin,407,393,393,
+2,347,Til,Henriette Collin,408,393,393,
+2,348,Fra,E. og Henriette Collin,408,393,397,1860-12-28
+3,551,Fra,E. Collin,12,2,2,
+3,352,Til,Henriette Collin,12,2,5,
+3,354,Til,Henriette Collin,15,5,8,
+3,356,Til,Henriette Collin,18,8,9,
+3,557,Fra,Henriette Collin,19,9,11,
+3,358,Til,Henriette Collin,21,11,14,
+3,360,Fra,E. Collin,24,14,16,
+3,361,Til,E. Collin,26,16,20,
+3,362,Fra,Henriette Collin,30,20,24,
+3,363,Til,Henriette Collin,34,24,24,
+3,364,Fra,Henriette Collin,35,24,24,
+3,365,Fra,Henriette Collin,36,24,28,
+3,366,Fra,E. Collin,38,28,34,1861-06-28
+3,370,Til,E.Collin,44,34,5,
+3,371,Til,Henriette Collin,46,5,38,1861-07-05
+3,372,Til,E.Collin,48,38,40,1861-07-05
+3,575,Fra,E. og Henriette Collin,50,40,43,1861-07-07
+3,575,Fra,Henriette Collin,53,43,44,1861-07-16
+3,376,Til,Henriette Collin,54,44,46,1861-07-16
+3,377,Fra,E. og Henriette Collin,56,46,48,
+3,579,Fra,E. Collin,58,48,50,1861-08-05
+3,380,Til,Henriette Collin,60,50,52,1861-08-05
+3,381,Fra,Henriette Collin,62,52,55,1861-08-16
+3,384,Fra,Henriette Collin,67,55,59,
+3,386,Fra,E. Collin,70,59,59,
+3,387,Til,Henriette Collin,70,59,59,
+3,383,Fra,E. Collin,71,59,62,
+3,390,Fra,Henriette Collin,72,62,62,
+3,392,Fra,E. Collin,73,62,65,1862-06-05
+3,595,Fra,E. Collin,75,65,67,1862-06-05
+3,595,Fra,Henriette Collin,77,67,68,
+3,396,Fra,Henriette Collin,78,68,69,1862-06-20
+3,397,Til,Henriette Collin,79,69,70,1862-06-20
+3,398,Fra,E. og Henriette Collin,81,70,77,1862-06-29
+3,401,Fra,Henriette Collin,87,77,77,
+3,402,Fra,E. Collin,87,77,79,
+3,404,Til,Henriette Collin,90,79,82,1862-09-07
+3,406,Fra,E. Collin,92,82,85,1862-09-17
+3,408,Til,Henriette Collin,95,85,86,
+3,409,Fra,Henriette og Louise Collin,96,86,88,
+3,410,Fra,Henriette Collin,98,88,88,1862-12-05
+3,411,Til,Henriette Collin,99,88,88,1862-12-05
+3,412,Til,Henriette Collin,101,88,94,1862-12-09
+3,413,Fra,E. Collin,104,94,95,
+3,414,Fra,Henriette og E. Collin,105,95,97,1862-12-21
+3,415,Til,Henriette Collin,107,97,98,1862-12-21
+3,416,Til,Henriette Collin,108,98,99,1863-01-14
+3,417,Til,Henriette Collin,110,99,99,1863-01-14
+3,418,Fra,E. og Henriette Collin,111,99,103,1863-02-07
+3,420,Til,Henriette og Louise Collin,114,103,107,1863-02-11
+3,421,Til,E.Collin,117,107,107,1863-02-16
+3,422,Fra,Henriette Collin,119,107,5,1863-02-24
+3,424,Fra,"E., Henriette og Louise Collin",123,5,116,
+3,426,Fra,E. Collin,129,116,125,
+3,428,Fra,Henriette Collin,135,125,126,
+3,429,Til,Henriette Collin,136,126,128,
+3,430,Til,Henriette Collin,138,128,129,
+3,431,Fra,E. Collin,140,129,132,
+3,433,Fra,E. Collin,142,132,136,1863-06-24
+3,436,Til,Henriette Collin,146,136,137,
+3,437,Til,E.Collin,147,137,138,1863-07-21
+3,438,Fra,E.Collin,148,138,138,1863-07-21
+3,433,Til,Henriette Collin,148,138,140,1863-07-21
+3,440,Fra,E.Collin,150,140,5,
+3,441,Fra,Henriette Collin,151,5,144,1863-08-07
+3,443,Fra,E.Collin,154,144,148,1863-12-25
+3,446,Til,Henriette Collin,158,148,149,1864-01-01
+3,448,Til,Henriette Collin,159,149,154,1864-06-04
+3,452,Fra,Henriette Collin,164,154,155,1864-06-22
+3,455,Til,Henriette Collin,165,155,157,1864-06-22
+3,454,Fra,E.Collin,167,157,158,
+3,456,Fra,E.Collin,169,158,160,
+3,457,Til,E. Collin,171,160,162,
+3,458,Fra,E.Collin,172,162,164,1864-07-09
+3,460,Til,Henriette Collin,174,164,166,1864-07-09
+3,461,Til,E.Collin,176,166,168,
+3,463,Til,Henriette Collin,178,168,169,
+3,464,Til,Henriette Collin,179,169,5,
+3,465,Til,Henriette Collin,181,5,172,1864-08-05
+3,466,Til,Henriette Collin,182,172,173,1864-08-05
+3,467,Til,Henriette Collin. Conradine Lyst ved Slagelse. Den 14 August 1864,183,173,174,
+3,468,Fra,Henriette Collin,184,174,175,1864-08-17
+3,469,Til,Henriette Collin,185,175,176,1864-08-17
+3,470,Fra,Henriette Collin,186,176,177,
+3,472,Til,Henriette Collin,187,177,179,
+3,475,Fra,E.Collin,189,179,184,
+3,476,Fra,Henriette Collin,194,184,186,
+3,477,Fra,E.Collin,196,186,186,
+3,478,Til,E.Collin,196,186,190,1865-06-08
+3,480,Fra,E.Collin,200,190,192,1865-06-13
+3,481,Til,Henriette Collin,202,192,192,1865-06-13
+3,482,Fra,Henriette Collin,205,192,196,1865-06-28
+3,483,Til,Henriette Collin,206,196,198,1865-06-28
+3,484,Til,E.Collin,208,198,198,
+3,485,Fra,E.Collin,209,198,200,1865-07-09
+3,486,Til,Henriette Collin,210,200,203,1865-07-09
+3,487,Fra,E. og Henriette Collin,213,203,207,1865-07-11
+3,488,Til,E.Collin,217,207,213,1865-07-11
+3,495,Til,E.Collin,223,213,214,
+3,494,Til,E.Collin,224,214,217,1865-09-18
+3,496,Fra,E. og Henriette Collin,227,217,222,
+3,498,Fra,E.Collin,232,222,224,
+3,500,Til,E.Collin,234,224,226,
+3,501,Til,E.Collin,236,226,228,1865-12-18
+3,505,Til,E. Collin,238,228,5,1865-12-18
+3,504,Til,E. Collin,239,5,231,1865-12-22
+3,505,Til,Henriette Collin,241,231,235,1865-12-22
+3,507,Fra,Henriette Collin,245,235,236,
+3,508,Til,Henriette Collin,247,236,238,1866-01-04
+3,509,Til,E. Collin,248,238,240,1866-01-04
+3,510,Fra,E. Collin,250,240,244,1866-01-07
+3,512,Fra,E.Collin,254,244,244,
+3,513,Fra,Henriette Collin,254,244,247,1866-01-31
+3,515,Fra,E. Collin,257,247,248,1866-01-31
+3,516,Til,E. Collin,258,248,254,
+3,519,Til,Henriette Collin,264,254,266,
+3,524,Til,E. Collin,276,266,267,
+3,525,Fra,E. og Henriette Collin,277,267,270,
+3,526,Til,Henriette Collin,280,270,272,
+3,527,Til,E.Collin,282,272,274,
+3,528,Fra,"E., Henriette og Theodor Collin",284,274,292,
+3,534,Til,Henriette Collin,302,292,295,
+3,555,Fra,E.Collin,305,295,298,
+3,557,Til,E. Collin,308,298,300,
+3,338,Fra,E. og Henriette Collin,310,300,302,
+3,539,Til,E.Collin,312,302,308,
+3,541,Fra,E. og Henriette Collin,318,308,312,1866-06-11
+3,543,Til,Henriette Collin,323,312,316,1866-06-22
+3,544,Fra,Henriette og E. Collin,326,316,318,1866-06-28
+3,545,Til,E.Collin,329,318,324,1866-07-12
+3,547,Til,Henriette og E. Collin,334,324,329,1866-07-05
+3,549,Til,E. Collin,339,329,337,1866-08-07
+3,552,Til,Henriette Collin,347,337,338,1866-08-23
+3,555,Fra,E. og Henriette Collin,349,338,343,
+3,556,Til,E.Collin,353,343,344,
+3,557,Fra,Henriette Collin,354,344,344,
+3,558,Til,Henriette Collin,354,344,347,
+3,559,Til,E.Collin,357,347,349,
+3,561,Fra,E. Collin,360,349,354,
+3,363,Fra,Henriette Collin,364,354,355,
+3,564,Til,Henriette Collin,365,355,360,1866-12-25
+3,567,Til,E. og Henriette Collin,370,360,362,
+4,569,Fra,E. og Henriette Collin,12,2,3,1867-01-08
+4,570,Til,Henriette Collin,14,3,8,1867-01-08
+4,572,Fra,E. og Henriette Collin,18,8,12,
+4,574,Fra,E.Collin,22,12,20,
+4,579,Fra,Henriette Collin,30,20,27,1867-06-27
+4,585,Fra,E.Collin,37,27,30,1867-07-12
+4,588,Fra,Henriette Collin,41,30,32,1867-07-29
+4,589,Til,Henriette Og E. Collin,42,32,35,1867-07-29
+4,591,Fra,Henriette og E. Collin,45,35,40,1867-09-06
+4,594,Fra,Henriette Collin,51,40,46,1867-12-05
+4,597,Til,Henriette Collin,56,46,46,1867-12-10
+4,598,Fra,E. Collin,56,46,46,1867-12-10
+4,599,Til,E. Collin,58,46,46,
+4,600,Fra,Henriette og E. Collin,58,46,49,
+4,601,Til,Henriette Collin,60,49,49,
+4,602,Fra,E. og Henriette Collin,62,49,53,
+4,603,Til,E. Collin,64,53,56,1868-06-17
+4,604,Fra,E. Collin,66,56,56,1868-06-17
+4,605,Til,Henriette Collin,66,56,58,1868-06-17
+4,608,Fra,E. Collin,71,58,62,
+4,609,Fra,Henriette Collin,72,62,63,
+4,610,Fra,Henriette Collin,73,63,63,
+4,611,Til,Henriette Collin,74,63,65,
+4,612,Til,Henriette Collin,76,65,67,
+4,613,Til,Henriette Collin,77,67,67,
+4,614,Til,Henriette Collin,78,67,70,1869-06-05
+4,615,Til,Henriette Collin,81,70,73,1869-06-05
+4,616,Fra,Henriette Collin,83,73,76,
+4,618,Til,Henriette Collin,86,76,79,
+4,620,Fra,Henriette Collin,89,79,81,
+4,621,Til,Henriette Collin,91,81,83,
+4,622,Fra,Henriette Collin,93,83,84,
+4,623,Til,Henriette Collin,94,84,87,
+4,625,Fra,E. og Henriette Collin,97,87,89,
+4,627,Til,Henriette Collin,99,89,89,
+4,628,Fra,Henriette Collin,101,89,94,1869-09-21
+4,631,Til,Henriette Collin,104,94,96,
+4,632,Fra,E. og Henriette Collin,106,96,98,
+4,633,Til,Henriette Collin,108,98,100,
+4,634,Fra,E. Collin,110,100,101,
+4,635,Til,E. Collin,111,101,105,
+4,637,Til,E. Collin,115,105,105,
+4,638,Til,E. Collin,118,105,112,1869-11-29
+4,641,Til,Henriette Collin,122,112,114,1869-11-29
+4,642,Fra,E. Collin,125,114,118,1869-12-04
+4,644,Fra,E. og Henriette Collin,128,118,123,1869-12-15
+4,646,Fra,E. Collin,134,123,126,
+4,647,Fra,E. Collin,136,126,127,
+4,648,Fra,E. Collin,137,127,127,
+4,649,Fra,Henriette Collin,137,127,128,
+4,650,Fra,Henriette Collin,138,128,129,
+4,651,Fra,Henriette Collin,139,129,5,
+4,652,Fra,E. Collin,141,5,133,
+4,653,Fra,Henriette og Louise Collin,143,133,133,
+4,654,Fra,E. Collin,144,133,135,
+4,655,Fra,E. Collin,145,135,139,
+4,656,Fra,E. og Henriette Collin,149,139,140,
+4,657,Fra,E.Collin,150,140,145,
+4,660,Fra,Henriette Collin,155,145,145,
+4,661,Fra,E. Collin,155,145,146,
+4,662,Til,E. Collin,156,146,147,
+4,663,Fra,Henriette Collin,157,147,148,1870-06-09
+4,664,Fra,E. Collin,158,148,148,1870-06-09
+4,665,Til,Henriette Collin,158,148,148,1870-06-09
+4,666,Fra,Henriette Collin,161,148,148,1870-06-13
+4,667,Til,Henriette Collin,162,148,153,1870-06-13
+4,668,Til,Henriette Collin,163,153,156,1870-07-11
+4,670,Til,Henriette Collin,167,156,156,1870-07-11
+4,671,Fra,Henriette Collin,168,156,156,
+4,672,Til,Henriette Collin,169,156,162,
+4,674,Til,Henriette Collin,172,162,163,
+4,675,Til,Henriette Collin,173,163,166,
+4,677,Til,Henriette Collin,176,166,170,
+4,680,Fra,Henriette Collin,181,170,174,
+4,682,Fra,Henriette Collin,184,174,177,
+4,684,Fra,Henriette Collin,187,177,177,
+4,685,Til,Henriette Collin,188,177,177,
+4,686,Fra,E. Collin,189,177,177,
+4,687,Til,Henriette Collin,189,177,182,
+4,688,Fra,Henriette Collin,192,182,183,
+4,689,Til,Henriette Collin,193,183,184,1871-07-29
+4,690,Til,Henriette Collin,194,184,189,1871-07-29
+4,695,Til,Henriette Collin,199,189,192,1871-08-28
+4,695,Til,Henriette Collin,202,192,194,
+4,696,Til,Henriette Collin,204,194,197,1872-02-03
+4,700,Til,Henriette Collin,207,197,198,
+4,701,Til,Henriette Collin,208,198,199,
+4,702,Fra,Henriette Collin,209,199,202,
+4,704,Fra,E. og Henriette Collin,212,202,205,
+4,706,Fra,E. og Henriette Collin,215,205,215,
+4,712,Til,Henriette Collin,225,215,5,1872-06-08
+4,714,Til,Henriette Collin,227,5,220,1872-06-08
+4,716,Fra,Henriette Collin,230,220,224,1872-08-31
+4,718,Til,Henriette Collin,234,224,226,1872-08-31
+4,720,Til,Henriette Collin,236,226,226,
+4,721,Fra,E. Collin,236,226,229,
+4,725,Til,Henriette Collin,239,229,229,
+4,724,Fra,Henriette og E.Collin,239,229,231,
+4,725,Fra,E. og Henriette Collin,241,231,233,
+4,726,Til,Henriette Collin,243,233,236,
+4,727,Fra,Henriette Collin,246,236,237,
+4,725,Fra,E. Collin,249,237,240,
+4,750,Til,Henriette Collin,250,240,246,1873-06-03
+4,754,Til,Henriette Collin,256,246,250,1873-06-03
+4,736,Til,Henriette Collin,260,250,256,
+4,740,Fra,Henriette Collin,266,256,256,
+4,741,Fra,Henriette Collin,267,256,260,1873-08-07
+4,745,Til,Henriette Collin,271,260,263,
+4,746,Fra,Henriette Collin,273,263,266,
+4,749,Til,E.Collin,276,266,266,
+4,750,Fra,E.Collin,276,266,267,
+4,755,Til,Henriette Collin,277,267,268,
+4,755,Til,Henriette Collin,278,268,270,1873-11-16
+4,761,Fra,E. Collin (med et Brev fra S. W. Isberg til E. Collin),281,270,270,1873-11-07
+4,763,Til,E. Collin,282,270,273,1873-12-12
+4,764,Til,Henriette Collin,283,273,274,1873-12-15
+4,766,Til,Henriette Collin,284,274,274,1873-12-17
+4,767,Til,Henriette Collin,284,274,275,1873-12-17
+4,768,Til,Henriette Collin,285,275,275,1873-12-23
+4,770,Fra,E. Collin,287,275,278,1874-01-01
+4,772,Fra,E. Collin,288,278,278,1874-02-08
+4,773,Til,Henriette Collin. Kjøbenhavn den 7 Marts,288,278,279,1874-02-08
+4,774,Til,E. Collin,289,279,279,
+4,775,Til,Henriette Collin,290,279,279,
+4,776,Til,Henriette Collin,290,279,281,
+4,777,Til,Henriette Collin,291,281,284,1874-06-05
+4,779,Til,Henriette Collin,294,284,285,1874-06-05
+4,780,Fra,E. og Henriette Collin,295,285,290,1874-06-12
+4,782,Fra,E. Collin,300,290,291,1874-06-29
+4,785,Til,Henriette Collin,302,291,295,1874-06-29
+4,786,Til,E. Collin,305,295,303,1874-07-04
+4,790,Fra,E. Collin,314,303,311,1874-07-22
+4,794,Fra,Henriette Collin,321,311,312,
+4,795,Til,Henriette Collin,323,312,312,
+4,796,Til,Henriette Collin,326,312,312,
+4,797,Fra,Henriette Collin,328,312,321,
+4,799,Fra,E. og Henriette Collin,331,321,321,1874-09-18
+4,800,Fra,E. Collin,332,321,321,1874-09-18
+4,801,Til,Henriette Collin,332,321,323,1874-09-18
+4,802,Til,Henriette Collin,333,323,323,
+4,803,Til,Henriette Collin,333,323,323,1875-02-07
+4,805,Til,Henriette Collin,334,323,323,1875-02-07
+4,807,Til,Henriette Collin,335,323,323,1875-06-22
+4,810,Til,Henriette Collin,338,323,340,1862-07-04
+4,821,Til,Henriette Collin. {Koncept til Nr. 499.},350,340,342,
+4,822,Til,Henriette Collin. {Koncept til Nr. 52I.),352,342,345,
+4,823,Til,Henriette Collin. (Koncept til Nr. 547.),355,345,346,
+4,824,Til,Henriette Collin. (Koncept til Nr. 677.),356,346,348,

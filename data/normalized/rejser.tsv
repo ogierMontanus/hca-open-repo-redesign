@@ -1,0 +1,1469 @@
+RejseID	DestinationType	Destination_DA	Destination_EN	Destination_ORG	ArrivalDate	DepartureDate	ArrivalMethod	Latitude	Longitude
+1	Departure	København	Copenhagen	København		1831-05-16		55.676098	12.568337
+1	Passing through	Lübeck	Lübeck	Lübeck	1831-05-17	1831-05-17	🛳 Dampskib	53.865467	10.686559
+1	Passing through	Schönberg	Schönberg	Schönberg	1831-05-17	1831-05-17	🐎 Postvogn	48.840641	13.336730
+1	Stay	Hamborg	Hamburg	Hamburg	1831-05-18	1831-05-21	🐎 Postvogn	53.551086	9.993682
+1	Passing through	Lüneburg	Lüneburg	Lüneburg	1831-05-22	1831-05-22	🐎 Postvogn	53.249950	10.408870
+1	Stay	Braunschweig	Braunschweig	Braunschweig	1831-05-23	1831-05-25	🐎 Postvogn	52.2646577	10.5236066
+1	Stay	Goslar	Goslar	Goslar	1831-05-25	1831-05-26	🐎 Postvogn	51.9059936	10.4266284
+1	Passing through	Harzburg	Harzburg	Harzburg	1831-05-26	1831-05-26	🚶 Til fods	51.588694	10.757222
+1	Passing through	Ilsenstein	Ilsenstein	Ilsenstein	1831-05-26	1831-05-26	🚶 Til fods	50.5492841	7.4671961
+1	Stay	Brocken	Brocken	Brocken	1831-05-26	1831-05-27	🚶 Til fods	51.7991251	10.6156365
+1	Passing through	Elbingerode	Elbingerode	Elbingerode	1831-05-27	1831-05-27	🚶 Til fods	51.6589571	10.2803803
+1	Stay	Blankenburg	Blankenburg	Blankenburg	1831-05-27	1831-05-28	🚶 Til fods	51.7902676	10.9551991
+1	Passing through	Felsenstein	Felsenstein	Felsenstein	1831-05-28	1831-05-28	🚶 Til fods	47.939418	16.698168
+1	Passing through	Alexisbad	Alexisbad	Alexisbad	1831-05-28	1831-05-28	🚶 Til fods	51.6499442	11.1165337
+1	Stay	Harzgerode	Harzgerode	Harzgerode	1831-05-28	1831-05-29	🚶 Til fods	51.6381169	11.1465703
+1	Passing through	Leimbach	Leimbach	Leimbach	1831-05-29	1831-05-29	🚶 Til fods	50.0247623	6.2562458
+1	Stay	Eisleben	Eisleben	Eisleben	1831-05-29	1831-05-30	🚶 Til fods	51.5283282	11.5465911
+1	Passing through	Halle	Halle	Halle	1831-05-30	1831-05-30	🐎 Postvogn	51.4825041	11.9705452
+1	Stay	Leipzig	Leipzig	Leipzig	1831-05-30	1831-06-01	🐎 Postvogn	51.3406321	12.3747329
+1	Passing through	Oschatz	Oschatz	Oschatz	1831-06-02	1831-06-02	🐎 Postvogn	51.2979627	13.1081103
+1	Stay	Dresden	Dresden	Dresden	1831-06-02	1831-06-10	🐎 Postvogn	51.0493286	13.7381437
+1	Passing through	Potsdam	Potsdam	Potsdam	1831-06-11	1831-06-11	🐎 Postvogn	52.4009309	13.0591397
+1	Stay	Berlin	Berlin	Berlin	1831-06-11	1831-06-16	🐎 Postvogn	52.5108638	13.3989421
+1	Passing through	Spandau	Spandau	Spandau	1831-06-16	1831-06-16	🛺 Vogn	52.535788	13.1977924
+1	Passing through	Ludwigslust	Ludwigslust	Ludwigslust	1831-06-17	1831-06-17	🛺 Vogn	52.58104705810547	12.318140029907227
+1	Stay	Hamborg	Hamburg	Hamburg	1831-06-18	1831-06-21	🐎 Postvogn	53.550341	10.000654
+1	Stay	Lübeck	Lübeck	Lübeck	1831-06-21	1831-06-23	🐎 Postvogn	53.865467	10.686559
+1	Return	København	Copenhagen	København	1831-06-24		🛳 Dampskib	55.676098	12.568337
+2	Departure	København	Copenhagen	København		1833-04-22		55.676098	12.568337
+2	Passing through	Travemünde	Travemünde	Travemünde	1833-04-23	1833-04-23	🛳 Dampskib	53.939609	10.8587192
+2	Passing through	Lübeck	Lübeck	Lübeck	1833-04-23	1833-04-23	🛳 Dampskib	53.866444	10.684738
+2	Stay	Hamborg	Hamburg	Hamburg	1833-04-23	1833-04-27	🛺 Vogn	53.550341	10.000654
+2	Passing through	Harburg	Harburg	Harburg	1833-04-27	1833-04-27	🛳 Dampskib	53.3172234	9.9084975
+2	Passing through	Celle	Celle	Celle	1833-04-28	1833-04-28	🐎 Postvogn	52.624056	10.081052
+2	Stay	Hannover	Hannover	Hannover	1833-04-28	1833-04-29	🐎 Postvogn	52.3744779	9.7385532
+2	Passing through	Göttingen	Göttingen	Göttingen	1833-04-29	1833-04-29	🐎 Postvogn	51.5328328	9.9351811
+2	Stay	Kassel	Kassel	Kassel	1833-04-30	1833-05-02	🐎 Postvogn	51.3154546	9.4924096
+2	Stay	Frankfurt	Frankfurt	Frankfurt am Main	1833-05-03	1833-05-04	🐎 Postvogn	50.1106444	8.6820917
+2	Stay	Mainz	Mainz	Mainz	1833-05-04	1833-05-05	🐎 Postvogn	50.0012314	8.2762513
+2	Passing through	Mainz	Mainz	Mainz	1833-05-06	1833-05-06	🛳 Dampskib	50.0012314	8.2762513
+2	Passing through	Koblenz	Koblenz	Koblenz	1833-05-06	1833-05-06	🛳 Dampskib	50.3533278	7.5943951
+2	Passing through	Metz	Metz	Metz	1833-05-07	1833-05-07	🐎 Postvogn	49.1196964	6.1763552
+2	Passing through	Verdun	Verdun	Verdun	1833-05-08	1833-05-08	🐎 Postvogn	49.1589278	5.3867277
+2	Passing through	Meaux	Meaux	Meaux	1833-05-09	1833-05-09	🐎 Postvogn	48.9582708	2.8773541
+2	Stay	Paris	Paris	Paris	1833-05-10	1833-08-15	🐎 Postvogn	48.8588897	2.320041
+2	Passing through	Marburg	Marburg	Marburg	1833-05-22	1833-05-22	🐎 Postvogn	48.183363	-0.790039
+2	Passing through	Sens	Sens	Sens	1833-08-15	1833-08-15	🐎 Postvogn	48.1978559	3.282606
+2	Passing through	Dijon	Dijon	Dijon	1833-08-16	1833-08-16	🐎 Postvogn	47.3215806	5.0414701
+2	Passing through	Poligny	Poligny	Poligny	1833-08-17	1833-08-17	🐎 Postvogn	48.224132	2.7448859
+2	Stay	Genève	Geneva	Genève	1833-08-18	1833-08-22	🐎 Postvogn	46.2017559	6.1466014
+2	Stay	Lausanne	Lausanne	Lausanne	1833-08-22	1833-08-24	🛳 Dampskib	46.5218269	6.6327025
+2	Overnight stay	Neuchâtel	Neuchâtel	Neuchâtel	1833-08-24	1833-08-25	🛺 Vogn	46.9895828	6.9292641
+2	Stay	Le Locle	Le Locle	Le Locle	1833-08-25	1833-09-14	🛺 Vogn	47.0555907	6.745454
+2	Overnight stay	Neuchâtel	Neuchâtel	Neuchâtel	1833-09-14	1833-09-15	🛺 Vogn	46.9895828	6.9292641
+2	Stay	Brig	Brig	Brig	1833-09-16	1833-09-19	🐎 Postvogn	46.3163457	7.9879473
+2	Passing through	Simplon passet	Simplonpass	Simplonpass	1833-09-19	1833-09-19	🐎 Postvogn	46.2507524	8.0324567
+2	Passing through	Domodossla	Domodossla	Domodossola	1833-09-19	1833-09-19	🐎 Postvogn	46.1152451	8.2920459
+2	Overnight stay	Baveno	Baveno	Baveno	1833-09-19	1833-09-20	🐎 Postvogn	45.9089158	8.5050171
+2	Passing through	Sesto	Sesto	Sesto	1833-09-20	1833-09-20	🛳 Dampskib	46.7027433	12.350544
+2	Stay	Milano	Milan	Milano	1833-09-20	1833-09-27	🛺 Vogn	45.4641943	9.1896346
+2	Overnight stay	Voghera	Voghera	Voghera	1833-09-27	1833-09-28	🐎 Postvogn	44.9926704	9.0086667
+2	Overnight stay	Ronco all'Adige	Ronco all'Adige	Ronco all'Adige	1833-09-28	1833-09-29	🐎 Postvogn	45.3377659	11.2424521
+2	Stay	Génova (Genua)	Génova	Génova	1833-09-29	1833-10-02	🐎 Postvogn	44.40726	8.9338624
+2	Overnight stay	Sestri Lavante	Sestri Lavante	Sestri Levante	1833-10-02	1833-10-03	🛺 Vogn	44.2714526	9.3958627
+2	Overnight stay	Sarzana	Sarzana	Sarzana	1833-10-03	1833-10-04	🛺 Vogn	44.1131762	9.9599823
+2	Passing through	Lucca	Lucca	Lucca	1833-10-04	1833-10-04	🛺 Vogn	44.0177639	10.45443
+2	Stay	Pisa	Pisa	Pisa	1833-10-04	1833-10-08	🛺 Vogn	43.4714722	10.6797912
+2	Stay	Firenze	Florens	Firenze	1833-10-08	1833-10-13	🛺 Vogn	43.7697955	11.2556404
+2	Overnight stay	Levane	Levane	Levane	1833-10-13	1833-10-14	🛺 Vogn	43.4985602	11.6186642
+2	Overnight stay	Passignano sul Trasimeno	Passignano sul Trasimeno	Passignano sul Trasimeno	1833-10-14	1833-10-15	🛺 Vogn	43.1847425	12.136838
+2	Overnight stay	Foligno	Foligno	Foligno	1833-10-15	1833-10-16	🛺 Vogn	42.9559744	12.7034782
+2	Overnight stay	Terni	Terni	Terni	1833-10-16	1833-10-17	🛺 Vogn	42.6539486	12.4396528
+2	Overnight stay	Nepi	Nepi	Nepi	1833-10-17	1833-10-18	🛺 Vogn	42.242824	12.34557
+2	Stay	Rom	Rome	Roma	1833-10-18	1834-02-12	🛺 Vogn	41.8933203	12.4829321
+2	Overnight stay	Velletri	Velletri	Velletri	1834-02-12	1834-02-13	🛺 Vogn	41.6867015	12.7770433
+2	Stay	Terracina	Terracina	Terracina	1834-02-13	1834-02-14	🛺 Vogn	41.2871196	13.2492009
+2	Overnight stay	S. Agata	S. Agata	S. Agata	1834-02-14	1834-02-15	🛺 Vogn	46.0708888	8.6857185
+2	Passing through	Capua	Capua	Capua	1834-02-15	1834-02-15	🛺 Vogn	41.1079984	14.2097176
+2	Stay	Napoli	Naples	Napoli	1834-02-15	1834-03-20	🛺 Vogn	40.8358846	14.2487679
+2	Overnight stay	S. Agata	S. Agata	S. Agata	1834-03-20	1834-03-21	🛺 Vogn	46.0708888	8.6857185
+2	Overnight stay	Terracina	Terracina	Terracina	1834-03-21	1834-03-22	🛺 Vogn	41.2871196	13.2492009
+2	Overnight stay	Velletri	Velletri	Velletri	1834-03-22	1834-03-23	🛺 Vogn	41.6867015	12.7770433
+2	Stay	Rom	Rome	Roma	1834-03-23	1834-04-01	🛺 Vogn	41.8933203	12.4829321
+2	Overnight stay	Ronciglione	Ronciglione	Ronciglione	1834-04-01	1834-04-02	🛺 Vogn	42.2902415	12.2138064
+2	Overnight stay	Aquapendente	Aquapendente	Aquapendente	1834-04-02	1834-04-03	🛺 Vogn	42.7439961	11.864988
+2	Overnight stay	S. Quirico	S. Quirico	S. Quirico	1834-04-03	1834-04-04	🛺 Vogn	41.8449417	13.0732274
+2	Overnight stay	Poggibonsi	Poggibonsi	Poggibonsi	1834-04-04	1834-04-05	🛺 Vogn	43.4677215	11.148762
+2	Stay	Firenze	Florens	Firenze	1834-04-05	1834-04-15	🛺 Vogn	43.7697955	11.2556404
+2	Overnight stay	Filigare	Filigare	Filigare	1834-04-15	1834-04-16	🛺 Vogn	44.1989423	11.3332427
+2	Stay	Bologna (Bologne)	Bologna	Bologna	1834-04-16	1834-04-17	🛺 Vogn	44.4938203	11.3426327
+2	Overnight stay	Ferrara	Ferrara	Ferrara	1834-04-17	1834-04-18	🛺 Vogn	44.7667642	11.827939
+2	Overnight stay	Padova	Padova	Padova	1834-04-18	1834-04-19	🛺 Vogn	45.391408	11.8058487
+2	Stay	Venedig	Venice	Venezia	1834-04-19	1834-04-22	🛺 Vogn	45.4371908	12.3345898
+2	Overnight stay	Padova	Padova	Padova	1834-04-22	1834-04-23	🛺 Vogn	45.391408	11.8058487
+2	Overnight stay	Villanuova	Villanuova	Villanuova	1834-04-23	1834-04-24	🛺 Vogn	45.2909958	10.0436756
+2	Overnight stay	Borghetto all´ Adige	Borghetto all´ Adige	Borghetto all´ Adige	1834-04-24	1834-04-25	🛺 Vogn	45.6968932	10.9271072
+2	Overnight stay	Trento (Trient)	Trento	Trento	1834-04-25	1834-04-26	🛺 Vogn	46.1029536	11.1297425
+2	Overnight stay	Bolzano (Bozen)	Bolzano	Bolzano	1834-04-26	1834-04-27	🛺 Vogn	46.4984781	11.3547399
+2	Passing through	Brennerpasset	Brenner pass	Brennerpass	1834-04-27	1834-04-27	🛺 Vogn	47.0073993	11.5066996
+2	Stay	Innsbruck	Innsbruck	Innsbruck	1834-04-27	1834-04-29	🛺 Vogn	47.2654296	11.3927685
+2	Overnight stay	Benediktbeuern	Benediktbeuern	Benediktbeuern	1834-04-29	1834-04-30	🐎 Postvogn	47.7060548	11.4100763
+2	Stay	München	Munich	München	1834-04-30	1834-05-31	🐎 Postvogn	48.1371079	11.5753822
+2	Overnight stay	Frabertsham	Frabertsham	Frabertsham	1834-05-31	1834-06-01	🛺 Vogn	48.0259364	12.3704641
+2	Stay	Salzburg	Salzburg	Salzburg	1834-06-01	1834-06-05	🛺 Vogn	47.7981346	13.0464806
+2	Overnight stay	Vöklabrück	Vöklabrück	Vöcklabruck	1834-06-05	1834-06-06	🛺 Vogn	48.0078587	13.6460378
+2	Stay	Linz	Linz	Linz	1834-06-06	1834-06-07	🛺 Vogn	48.3059078	14.286198
+2	Overnight stay	Amstetten	Amstetten	Amstetten	1834-06-07	1834-06-08	🛺 Vogn	48.1203262	14.8752424
+2	Overnight stay	St. Pölten	St. Pölten	St. Pölten	1834-06-08	1834-06-09	🛺 Vogn	48.2043985	15.6229118
+2	Stay	Wien	Vienna	Wien	1834-06-09	1834-07-08	🛺 Vogn	48.2083537	16.3725042
+2	Overnight stay	Hollabrun	Hollabrun	Hollabrunn	1834-07-08	1834-07-09	🛺 Vogn	48.5625384	16.0798033
+2	Passing through	Kolin	Kolin	Kolin	1834-07-10	1834-07-10	🛺 Vogn	50.0288894	15.2011571
+2	Stay	Prag	Prague	Praha	1834-07-10	1834-07-14	🛺 Vogn	50.0596288	14.4464593
+2	Stay	Teplitz	Teplice	Teplice	1834-07-14	1834-07-16	🛺 Vogn	50.6406644	13.8244461
+2	Passing through	Peterwalde	Peterwalde	Peterwalde	1834-07-16	1834-07-16	🛺 Vogn	49.5540657	14.3377897
+2	Stay	Dresden	Dresden	Dresden	1834-07-16	1834-07-21	🛺 Vogn	51.0493286	13.7381437
+2	Overnight stay	Liebenwerda	Liebenwerda	Liebenwerda	1834-07-21	1834-07-22	🛺 Vogn	51.5210174	13.363001
+2	Overnight stay	Treuenbritzen	Treuenbritzen	Treuenbrietzen	1834-07-22	1834-07-23	🛺 Vogn	52.0966552	12.8734896
+2	Stay	Berlin	Berlin	Berlin	1834-07-23	1834-07-26	🛺 Vogn	52.510885	13.3989367
+2	Passing through	Ludwigslust	Ludwigslust	Ludwigslust	1834-07-27	1834-07-27	🐎 Postvogn	53.3300229	11.4993644
+2	Stay	Hamborg	Hamburg	Hamburg	1834-07-27	1834-08-02	🐎 Postvogn	53.550341	10.000654
+2	Passing through	Kiel	Kiel	Kiel	1834-08-02	1834-08-02	🛺 Vogn	54.3227085	10.135555
+2	Return	København	Copenhagen	København	1834-08-03		🛳 Dampskib	55.676098	12.568337
+3	Departure	København	Copenhagen	København		1837-06-20		55.676098	12.568337
+3	Stay	Helsingør	Elsinore	Helsingør	1837-06-20	1837-06-22	🛺 Vogn	56.0348739	12.6130073
+3	Stay	Helsingborg	Hälsingborg	Hälsingborg	1837-06-22	1837-06-23	🛳 Dampskib	56.0442098	12.703706
+3	Passing through	Laholm	Laholm	Laholm	1837-06-23	1837-06-23	🐎 Postvogn	56.5132738	13.043458
+3	Passing through	Halmstad	Halmstad	Halmstad	1837-06-23	1837-06-23	🐎 Postvogn	56.6739826	12.8574827
+3	Stay	Falkenberg	Falkenberg	Falkenberg	1837-06-23	1837-06-24	🐎 Postvogn	56.904894	12.4912926
+3	Passing through	Varberg	Varberg	Varberg	1837-06-24	1837-06-24	🐎 Postvogn	57.1057412	12.2502949
+3	Stay	Gøteborg	Gothenburg	Göteborg	1837-06-24	1837-06-25	🐎 Postvogn	57.7072326	11.9670171
+3	Passing through	Trollhättan	Trollhättan	Trollhättan	1837-06-25	1837-06-25	🛳 Dampskib	58.2827931	12.2908612
+3	Passing through	Vänersborg	Vänersborg	Vänersborg	1837-06-25	1837-06-25	🛳 Dampskib	58.3811988	12.3226877
+3	Passing through	Kinnekulle	Kinnekulle	Kinnekulle	1837-06-26	1837-06-26	🛳 Dampskib	65.4635991	18.1579542
+3	Passing through	Motala	Motala	Motala	1837-06-27	1837-06-27	🛳 Dampskib	58.5420395	15.041261
+3	Stay	Söderköping	Söderköping	Söderköping	1837-06-28	1837-06-28	🛳 Dampskib	58.4823802	16.3216224
+3	Stay	Stockholm	Stockholm	Stockholm	1837-06-29	1837-07-04	🛳 Dampskib	59.3251172	18.0710935
+3	Passing through	Sigtuna	Sigtuna	Sigtuna	1837-07-04	1837-07-04	🛳 Dampskib	59.6165201	17.7236301
+3	Passing through	Skokloster	Skokloster	Skokloster	1837-07-04	1837-07-04	🛳 Dampskib	59.7038281	17.6219737
+3	Stay	Uppsala	Uppsala	Uppsala	1837-07-04	1837-07-06	🛳 Dampskib	59.8586126	17.6387436
+3	Stay	Skokloster	Skokloster	Skokloster	1837-07-06	1837-07-06	🛳 Dampskib	59.7038281	17.6219737
+3	Stay	Stockholm	Stockholm	Stockholm	1837-07-06	1837-07-09	🛳 Dampskib	59.3251172	18.0710935
+3	Passing through	Enköping	Enköping	Enköping	1837-07-09	1837-07-09	🐎 Postvogn	59.6356115	17.077856
+3	Overnight stay	Västerås	Västerås	Västerås	1837-07-09	1837-07-10	🐎 Postvogn	59.6110992	16.5463679
+3	Passing through	Örebro	Örebro	Örebro	1837-07-10	1837-07-10	🐎 Postvogn	59.2747287	15.2151181
+3	Overnight stay	Vrestorp	Vrestorp	Vrestorp	1837-07-10	1837-07-11	🐎 Postvogn	59.0235555	14.8668288
+3	Overnight stay	Lidköping	Lidköping	Lidköping	1837-07-11	1837-07-12	🛺 Vogn	58.5037196	13.1576427
+3	Stay	Göteborg	Gothenburg	Göteborg	1837-07-12	1837-07-14	🛺 Vogn	57.7072326	11.9670171
+3	Passing through	Varberg	Varberg	Varberg	1837-07-14	1837-07-14	🛺 Vogn	57.1057412	12.2502949
+3	Passing through	Falkenberg	Falkenberg	Falkenberg	1837-07-14	1837-07-14	🛺 Vogn	56.904894	12.4912926
+3	Passing through	Halmstad	Halmstad	Halmstad	1837-07-15	1837-07-15	🛺 Vogn	56.6739826	12.8574827
+3	Stay	Helsingborg	Helsingborg	Helsingborg	1837-07-15	1837-07-16	🛺 Vogn	56.0442098	12.703706
+3	Passing through	Helsingborg	Helsingborg	Helsingborg	1837-07-17	1837-07-17	🛺 Vogn	56.0442098	12.703706
+3	Stay	Helsingør	Elsinore	Helsingør	1837-07-17	1837-07-18	🛳 Dampskib	56.0348739	12.6130073
+3	Passing through	Gurre	Gurre	Gurre	1837-07-18	1837-07-18	🛺 Privatvogn	56.0212509	12.5199932
+3	Passing through	Fredensborg	Fredensborg	Fredensborg	1837-07-18	1837-07-18	🛺 Privatvogn	55.9821565	12.3950911
+3	Stay	Hillerød	Hillerød	Hillerød	1837-07-18	1837-07-19	🛺 Privatvogn	55.9285735	12.3063909
+3	Return	København	Copenhagen	København	1837-07-19		🛺 Vogn	55.676098	12.568337
+4	Departure	København	Copenhagen	København		1839-06-22		55.676098	12.568337
+4	Passing through	Malmø	Malmö	Malmö	1839-06-22	1839-06-22	🛳 Dampskib	55.6052931	13.0001566
+4	Stay	Hyby gods	Hyby manor	Hyby gods	1839-06-22	1839-06-30	🛺 Vogn	55.599700	13.267600
+4	Stay	Malmø	Malmö	Malmö	1839-06-30	1839-07-01	🛺 Privatvogn	55.6052931	13.0001566
+4	Return	København	Copenhagen	København	1839-07-01		🛳 Dampskib	55.676098	12.568337
+5	Departure	København	Copenhagen	København		1840-04-13		55.676098	12.568337
+5	Stay	Malmø	Malmö	Malmö	1840-04-13	1840-04-15	🛳 Dampskib	55.6052931	13.0001566
+5	Stay	Hyby gods	Hyby manor	Hyby gods	1840-04-15	1840-04-17	🛺 Privatvogn	55.599700	13.267600
+5	Stay	Lund	Lund	Lund	1840-04-17	1840-04-18	🛺 Privatvogn	55.7029296	13.1929449
+5	Stay	Malmø	Malmö	Malmö	1840-04-18	1840-04-20	🐎 Postvogn	55.6052931	13.0001566
+5	Return	København	Copenhagen	København	1840-04-20		🛳 Dampskib	55.676098	12.568337
+6	Departure	København	Copenhagen	København		1840-10-31		55.676098	12.568337
+6	Stay	Kiel	Kiel	Kiel	1840-11-01	1840-11-02	🛳 Dampskib	54.3227085	10.135555
+6	Passing through	Neumünster	Neumünster	Neumünster	1840-11-02	1840-11-02	🛺 Vogn	54.0757442	9.9815377
+6	Stay	Itzehoe, Breitenburg slot	Itzehoe, Breitenburg Castle	Itzehoe, Breitenburg Schloss	1840-11-02	1840-11-05	🛺 Vogn	53.9060905	9.5667115
+6	Passing through	Altona	Altona	Altona	1840-11-05	1840-11-05	🛳 Dampskib	53.5864676	9.7776697
+6	Stay	Hamborg	Hamburg	Hamburg	1840-11-05	1840-11-07	🛺 Vogn	53.550341	10.000654
+6	Passing through	Altona	Altona	Altona	1840-11-07	1840-11-07	🛳 Dampskib	53.5864676	9.7776697
+6	Passing through	Celle	Celle	Celle	1840-11-07	1840-11-07	🐎 Postvogn	52.624056	10.081052
+6	Stay	Braunschweig	Braunschweig	Braunschweig	1840-11-08	1840-11-09	🐎 Postvogn	52.2646577	10.5236066
+6	Passing through	Magdeburg	Magdeburg	Magdeburg	1840-11-10	1840-11-10	🐎 Postvogn	52.1315889	11.6399609
+6	Passing through	Halle	Halle	Halle	1840-11-10	1840-11-10	🚂 Tog	51.4825041	11.9705452
+6	Stay	Leipzig	Leipzig	Leipzig	1840-11-10	1840-11-11	🚂 Tog	51.3406321	12.3747329
+6	Passing through	Altenburg	Altenburg	Altenburg	1840-11-11	1840-11-11	🐎 Postvogn	50.9852411	12.4340988
+6	Passing through	Zwickau	Zwickau	Zwickau	1840-11-11	1840-11-11	🐎 Postvogn	50.7185043	12.4939267
+6	Passing through	Reichenbach	Reichenbach	Reichenbach	1840-11-12	1840-11-12	🐎 Postvogn	50.6200076	12.298936
+6	Passing through	Münchberg	Münchberg	Münchberg	1840-11-12	1840-11-12	🐎 Postvogn	50.1911369	11.7913908
+6	Stay	Bayreuth	Bayreuth	Bayreuth	1840-11-12	1840-11-13	🐎 Postvogn	49.9427202	11.5763079
+6	Passing through	Pegnitz	Pegnitz	Pegnitz	1840-11-13	1840-11-13	🛺 Vogn	49.75649	11.540944
+6	Stay	Nürnberg	Nürnberg	Nürnberg	1840-11-13	1840-11-15	🛺 Vogn	49.453872	11.077298
+6	Passing through	Weisenburg	Weisenburg	Weisenburg	1840-11-15	1840-11-15	🐎 Postvogn	49.0305748	10.9718974
+6	Passing through	Donauwörth	Donauwörth	Donauwörth	1840-11-16	1840-11-16	🐎 Postvogn	48.7180364	10.7807299
+6	Stay	Augsburg	Augsburg	Augsburg	1840-11-16	1840-11-17	🐎 Postvogn	48.3690341	10.8979522
+6	Stay	München	Munich	München	1840-11-17	1840-12-02	🚂 Tog	48.1371079	11.5753822
+6	Passing through	Garmisch-Partenkirken	Garmisch-Partenkirken	Garmisch-Partenkirken	1840-12-03	1840-12-03	🛺 Vogn	47.4923741	11.0962815
+6	Passing through	Seefeld	Seefeld	Seefeld	1840-12-03	1840-12-03	🛺 Vogn	47.3289241	11.1867187
+6	Stay	Innsbruck	Innsbruck	Innsbruck	1840-12-03	1840-12-04	🐎 Postvogn	47.2654296	11.3927685
+6	Passing through	Brenner passet	Brenner pass	Brennerpass	1840-12-04	1840-12-04	🐎 Postvogn	47.0073993	11.5066996
+6	Passing through	Brixen (Bressanone)	Brixen (Bressanone)	Brixen (Bressanone)	1840-12-05	1840-12-05	🐎 Postvogn	46.716413	11.657792
+6	Stay	Bozen (Bolzano)	Bozen (Bolzano)	Bozen (Bolzano)	1840-12-05	1840-12-06	🐎 Postvogn	46.4984781	11.3547399
+6	Passing through	Trient (Trento)	Trient (Trento)	Trient (Trento)	1840-12-06	1840-12-06	🛺 Vogn	46.0664228	11.1257601
+6	Stay	Verona	Verona	Verona	1840-12-07	1840-12-07	🛺 Vogn	45.4424977	10.9857377
+6	Stay	Mantua (Mantova)	Mantua (Mantova)	Mantua (Mantova)	1840-12-07	1840-12-08	🛺 Vogn	45.1692628	10.6708365
+6	Passing through	Modena	Modena	Modena	1840-12-09	1840-12-09	🐎 Postvogn	44.5384728	10.9359609
+6	Stay	Bologna	Bologna	Bologna	1840-12-09	1840-12-10	🐎 Postvogn	44.4938203	11.3426327
+6	Overnight stay	Loiano	Loiano	Loiano	1840-12-10	1840-12-11	🛺 Vogn	44.26833	11.3234319
+6	Stay	Firenze	Florens	Firenze	1840-12-11	1840-12-14	🛺 Vogn	43.7697955	11.2556404
+6	Passing through	Arezzo	Arezzo	Arezzo	1840-12-15	1840-12-15	🛺 Vogn	43.5171442	11.7639282
+6	Passing through	Castiglione	Castiglione	Castiglione	1840-12-15	1840-12-15	🛺 Vogn	42.5718132	13.217984
+6	Overnight stay	Pasignano	Pasignano	Pasignano	1840-12-15	1840-12-16	🛺 Vogn	43.1847425	12.136838
+6	Passing through	Perugia	Perugia	Perugia	1840-12-16	1840-12-16	🛺 Vogn	43.1070321	12.4029962
+6	Passing through	Assisi	Assisi	Assisi	1840-12-16	1840-12-16	🛺 Vogn	43.0711952	12.6146669
+6	Stay	Foligno	Foligno	Foligno	1840-12-16	1840-12-17	🛺 Vogn	42.9559744	12.7034782
+6	Stay	Terni	Terni	Terni	1840-12-17	1840-12-18	🛺 Vogn	42.6539486	12.4396528
+6	Passing through	Rocca	Rocca	Rocca	1840-12-18	1840-12-18	🛺 Vogn	45.2744541	7.9812719
+6	Passing through	Otricoli	Otricoli	Otricoli	1840-12-18	1840-12-18	🛺 Vogn	42.4230234	12.4776861
+6	Stay	Civita Castellana	Civita Castellana	Civita Castellana	1840-12-18	1840-12-19	🛺 Vogn	42.295226	12.40917
+6	Passing through	Nepi	Nepi	Nepi	1840-12-19	1840-12-19	🛺 Vogn	42.242824	12.34557
+6	Stay	Rom	Rome	Roma	1840-12-19	1841-02-25	🛺 Vogn	41.8933203	12.4829321
+6	Passing through	Albano	Albano	Albano	1841-02-25	1841-02-25	🛺 Vogn	41.7479605	12.670204
+6	Overnight stay	Cisterna	Cisterna	Cisterna	1841-02-25	1841-02-26	🛺 Vogn	46.0851766	12.9896174
+6	Passing through	Terracina	Terracina	Terracina	1841-02-26	1841-02-26	🛺 Vogn	41.2871196	13.2492009
+6	Overnight stay	Mola di Gaëta	Mola di Gaëta	Mola di Gaëta	1841-02-26	1841-02-27	🛺 Vogn	41.2589032	13.6139525
+6	Overnight stay	Sant´ Agata	Sant´ Agata	Sant´ Agata	1841-02-27	1841-02-28	🛺 Vogn	46.0708888	8.6857185
+6	Passing through	Capua	Capua	Capua	1841-02-28	1841-02-28	🛺 Vogn	41.1079984	14.2097176
+6	Stay	Napoli	Naples	Napoli	1841-02-28	1841-03-15	🛺 Vogn	40.8358846	14.2487679
+6	Stay	Valetta (på Malta)	Valetta (in Malta)	Valetta	1841-03-17	1841-03-18	🛳 Dampskib	35.8989818	14.5136759
+6	Passing through	Syra (Siros), Neopoli	Syra (Siros), Neopoli	Siros, Neopoli	1841-03-21	1841-03-21	🛳 Dampskib	37.4385101	24.9123772
+6	Stay	Piræus	Piraievs	Piraievs	1841-03-22	1841-03-24	🛳 Dampskib	37.94745	23.63708
+6	Stay	Athen	Athens	Athínai	1841-03-24	1841-04-20	🛺 Vogn	37.9755648	23.7348324
+6	Overnight stay	Piræus	Piraievs	Piraievs	1841-04-20	1841-04-20	🛺 Vogn	37.94745	23.63708
+6	Stay	Syra (Siros)	Syra (Siros)	Siros	1841-04-21	1841-04-22	🛳 Dampskib	37.4385101	24.9123772
+6	Passing through	Smyrna (Izmir)	Smyrna (Izmir)	Izmir	1841-04-23	1841-04-23	🛳 Dampskib	38.4237433	27.1428019
+6	Passing through	Gallipoli	Gelibolu	Gelibolu	1841-04-24	1841-04-24	🛳 Dampskib	40.4054063	26.6722539
+6	Stay	Konstantinopel (Istanbul)	Constantinople (Istanbul)	Istanbul	1841-04-25	1841-05-05	🛳 Dampskib	41.006381	28.9758715
+6	Stay	Küstendje (Constanta)	Küstendje (Constanta)	Constanta	1841-05-06	1841-05-07	🛳 Dampskib	44.1767161	28.6507598
+6	Passing through	Czerna woda	Czerna woda	Czerna woda	1841-05-07	1841-05-07	🛺 Vogn	50.1685328	19.6339599
+6	Passing through	Selistria	Selistra	Selistra	1841-05-08	1841-05-08	🛳 Dampskib	49.4388652	27.0029903
+6	Passing through	Rustschuck (Ruse)	Rustschuck (Ruse)	Ruse	1841-05-08	1841-05-08	🛳 Dampskib	43.8480413	25.9542057
+6	Overnight stay	Widin (Vidin)	Widin (Vidin)	Vidin	1841-05-10	1841-05-11	🛳 Dampskib	43.9858809	22.8773117
+6	Passing through	Radejevecz (Grabovica)	Radejevecz (Grabovica)	Grabovica	1841-05-11	1841-05-11	🛳 Dampskib	44.5477678	18.7108702
+6	Passing through	Jernporten	The Iron Gate	Portile de Fier	1841-05-12	1841-05-12	🛳 Dampskib	44.5843173	22.249124
+6	Passing through	Orsova	Orsova	Orsova	1841-05-12	1841-05-12	🛳 Dampskib	44.7234689	22.3982754
+6	Passing through	Gladova (Gladkow)	Gladova (Gladkow)	Kladovo	1841-05-12	1841-05-12	🛳 Dampskib	44.6093983	22.6136517
+6	Stay	Schupanek	Schupanek	Schupanek (Jupalnic)	1841-05-12	1841-05-22	🚶 Til fods	44.7226514	22.4634682
+6	Passing through	Orsova	Orsova	Orsova	1841-05-22	1841-05-24	🛺 Vogn	44.7234689	22.3982754
+6	Stay	Drenkova	Drenkova	Drenkova	1841-05-24	1841-05-24	🛺 Vogn	42.0011697	23.7905054
+6	Passing through	Belgrad (Beograd)	Belgrade (Beograd)	Beograd	1841-05-25	1841-05-25	🛳 Dampskib	44.8178131	20.4568974
+6	Stay	Semlin (Zemun)	Semlin (Zemun)	Zemun	1841-05-25	1841-05-27	🛳 Dampskib	44.8444	20.4123996
+6	Passing through	Peterwardein (Petrovaradin)	Peterwardein (Petrovaradin)	Petrovaradin	1841-05-27	1841-05-27	🛳 Dampskib	45.2426175	19.8820073
+6	Passing through	Neusatz (Novi Sad)	Neusatz (Novi Sad)	Novi Sad	1841-05-27	1841-05-27	🛳 Dampskib	45.2551338	19.8451756
+6	Passing through	Mohacs	Mohacs	Mohacs	1841-05-28	1841-05-28	🛳 Dampskib	45.9933836	18.6821079
+6	Passing through	Baja	Baja	Baja	1841-05-29	1841-05-29	🛳 Dampskib	46.1785471	18.9517255
+6	Stay	Budapest	Budapest	Budapest	1841-05-30	1841-06-02	🛳 Dampskib	47.4978789	19.0402383
+6	Passing through	Vaitzen	Vaitzen	Vaitzen (Vac?)	1841-06-02	1841-06-02	🛳 Dampskib	47.1436435	15.4835342
+6	Passing through	Pressburg (Bratislava)	Pressburg (Bratislava)	Bratislava	1841-06-03	1841-06-03	🛳 Dampskib	48.1592603	17.1396587
+6	Stay	Wien	Vienna	Wien	1841-06-04	1841-06-23	🛳 Dampskib	48.2083537	16.3725042
+6	Passing through	Znaim (Znojmo)	Znaim (Znojmo)	Znojmo	1841-06-24	1841-06-24	🐎 Postvogn	48.8554341	16.0489457
+6	Passing through	Iglau (Jihlava)	Iglau (Jihlava)	Jihlava	1841-06-24	1841-06-24	🐎 Postvogn	49.396064	15.5903065
+6	Passing through	Deutschbrod (Huvlilickuv Brod)	Deutschbrod (Huvlilickuv Brod)	Huvlilickuv Brod	1841-06-24	1841-06-24	🐎 Postvogn	49.606942	15.5795748
+6	Passing through	Kolin	Kolin	Kolin	1841-06-25	1841-06-25	🐎 Postvogn	49.9572385	15.0807489
+6	Stay	Prag	Prague	Praha	1841-06-25	1841-06-28	🐎 Postvogn	50.0874654	14.4212535
+6	Stay	Dresden	Dresden	Dresden	1841-06-28	1841-07-03	🛳 Dampskib	51.0493286	13.7381437
+6	Stay	Leipzig	Leipzig	Leipzig	1841-07-03	1841-07-06	🚂 Tog	51.3406321	12.3747329
+6	Stay	Magdeburg	Magdeburg	Magdeburg	1841-07-06	1841-07-07	🛳 Dampskib	52.1315889	11.6399609
+6	Stay	Hamborg	Hamburg	Hamburg	1841-07-08	1841-07-12	🛳 Dampskib	53.550341	10.000654
+6	Stay	Kiel	Kiel	Kiel	1841-07-12	1841-07-13	🛺 Vogn	54.3227085	10.135555
+6	Passing through	Årøsund	Årøsund	Årøsund	1841-07-13	1841-07-13	🛳 Dampskib	55.2580919	9.7068676
+6	Overnight stay	Assens	Assens	Assens	1841-07-13	1841-07-14	🛳 Dampskib	55.265798	9.9002174
+6	Stay	Odense	Odense	Odense	1841-07-14	1841-07-17	🐎 Postvogn	55.3997225	10.3852104
+6	Stay	Glorup herregård	Glorup manor	Glorup herregård	1841-07-17	1841-07-22	🛺 Privatvogn	55.206111	10.707778
+6	Passing through	Nyborg	Nyborg	Nyborg	1841-07-21	1841-07-21	🛺 Privatvogn	55.3098281	10.7976604
+6	Passing through	Korsør	Korsør	Korsør	1841-07-21	1841-07-21	🛳 Dampskib	55.3266045	11.1425876
+6	Return	København	Copenhagen	København	1841-07-22		🐎 Postvogn	55.676098	12.568337
+7	Departure	København	Copenhagen	København		1843-01-30		55.676098	12.568337
+7	Passing through	Ringsted	Ringsted	Ringsted	1843-01-30	1843-01-30	🐎 Postvogn	55.446817	11.7975218
+7	Passing through	Korsør	Korsør	Korsør	1843-01-31	1843-01-31	🐎 Postvogn	55.3266045	11.1425876
+7	Passing through	Nyborg	Nyborg	Nyborg	1843-01-31	1843-01-31	🛳 Dampskib	55.3098281	10.7976604
+7	Passing through	Odense	Odense	Odense	1843-01-31	1843-01-31	🐎 Postvogn	55.3997225	10.3852104
+7	Passing through	Assens	Assens	Assens	1843-01-31	1843-01-31	🐎 Postvogn	55.265798	9.9002174
+7	Passing through	Haderslev	Haderslev	Haderslev	1843-01-31	1843-01-31	🐎 Postvogn	55.2500715	9.4997871
+7	Passing through	Årøsund	Årøsund	Årøsund	1843-01-31	1843-01-31	🛳 Dampskib	55.2580919	9.7068676
+7	Passing through	Aabenraa	Aabenraa	Aabenraa	1843-02-01	1843-02-01	🐎 Postvogn	55.0446228	9.4209667
+7	Passing through	Slesvig	Schleswig	Schleswig	1843-02-01	1843-02-01	🐎 Postvogn	54.51851	9.5653284
+7	Passing through	Rendsborg	Rendsburg	Rendsburg	1843-02-01	1843-02-01	🐎 Postvogn	54.3000225	9.6516356
+7	Overnight stay	Itzehoe	Itzehoe	Itzehoe	1843-02-01	1843-02-02	🐎 Postvogn	53.919448	9.5172441
+7	Stay	Breitenburg slot	Breitenburg castle	Breitenburg Schloss	1843-02-02	1843-02-19	🛺 Vogn	53.9060905	9.5667115
+7	Passing through	Itzehoe	Itzehoe	Itzehoe	1843-02-19	1843-02-19	🛺 Vogn	53.919448	9.5172441
+7	Stay	Hamborg	Hamburg	Hamburg	1843-02-20	1843-02-25	🐎 Postvogn	53.550341	10.000654
+7	Stay	Bremen	Bremen	Bremen	1843-02-26	1843-02-26	🐎 Postvogn	53.0758196	8.8071646
+7	Passing through	Osnabrück	Osnabrück	Osnabrück	1843-02-27	1843-02-27	🐎 Postvogn	52.2719595	8.047635
+7	Passing through	Münster	Münster	Münster	1843-02-27	1843-02-27	🐎 Postvogn	51.9625101	7.6251879
+7	Stay	Düsseldorf	Düsseldorf	Düsseldorf	1843-02-28	1843-03-01	🐎 Postvogn	51.2254018	6.7763137
+7	Stay	Köln	Köln	Köln	1843-03-01	1843-03-02	🐎 Postvogn	50.938361	6.959974
+7	Passing through	Aachen	Aachen	Aachen	1843-03-02	1843-03-02	🚂 Tog	50.776351	6.083862
+7	Passing through	Liége	Liége	Liége	1843-03-03	1843-03-03	🐎 Postvogn	50.6450944	5.5736112
+7	Passing through	Bruxelles	Bruxelles	Bruxelles	1843-03-03	1843-03-07	🚂 Tog	50.8465573	4.351697
+7	Passing through	Mons	Mons	Mons	1843-03-07	1843-03-07	🚂 Tog	50.4549568	3.951958
+7	Passing through	Cambrai	Cambrai	Cambrai	1843-03-07	1843-03-07	🐎 Postvogn	50.1757546	3.2346145
+7	Passing through	Senlis	Senlis	Senlis	1843-03-08	1843-03-08	🐎 Postvogn	50.5331612	2.1523287
+7	Stay	Paris	Paris	Paris	1843-03-08	1843-05-08	🐎 Postvogn	48.8534951	2.3483915
+7	Passing through	Meaux	Meaux	Meaux	1843-05-08	1843-05-08	🐎 Postvogn	48.9582708	2.8773541
+7	Passing through	Nancy	Nancy	Nancy	1843-05-09	1843-05-09	🐎 Postvogn	48.6937223	6.1834097
+7	Passing through	Luneville	Luneville	Luneville	1843-05-09	1843-05-09	🐎 Postvogn	48.5916164	6.4919563
+7	Passing through	Domremy	Domremy	Domrémy-la-Pucelle	1843-05-09	1843-05-09	🐎 Postvogn	48.4430626	5.6758235
+7	Stay	Strasbourg	Strasbourg	Strasbourg	1843-05-10	1843-05-11	🐎 Postvogn	48.584614	7.7507127
+7	Passing through	Mannheim	Mannheim	Mannheim	1843-05-11	1843-05-11	🛳 Dampskib	49.4892913	8.4673098
+7	Stay	Heidelberg	Heidelberg	Heidelberg	1843-05-11	1843-05-12	🚂 Tog	49.4093582	8.694724
+7	Passing through	Mannheim	Mannheim	Mannheim	1843-05-12	1843-05-13	🚂 Tog	49.4892913	8.4673098
+7	Passing through	Mainz	Mainz	Mainz	1843-05-13	1843-05-13	🛳 Dampskib	50.0012314	8.2762513
+7	Stay	Frankfurt	Frankfurt	Frankfurt	1843-05-13	1843-05-16	🚂 Tog	50.1106444	8.6820917
+7	Passing through	Mainz	Mainz	Mainz	1843-05-16	1843-05-16	🚂 Tog	50.0012314	8.2762513
+7	Overnight stay	Wiesbaden	Wiesbaden	Wiesbaden	1843-05-16	1843-05-17	🚂 Tog	50.0820384	8.2416556
+7	Passing through	Biebrich	Biebrich	Biebrich	1843-05-17	1843-05-17	🚌 Omnibus	50.3030289	7.9544958
+7	Stay	Bingen	Bingen	Bingen	1843-05-17	1843-05-18	🛳 Dampskib	49.9667	7.9
+7	Stay	St. Goar	St. Goar	St. Goar	1843-05-18	1843-05-18	🛳 Dampskib	50.15	7.71667
+7	Overnight stay	Koblenz	Koblenz	Koblenz	1843-05-18	1843-05-19	🛳 Dampskib	50.3533278	7.5943951
+7	Stay	Bonn	Bonn	Bonn	1843-05-19	1843-05-19	🛳 Dampskib	50.735851	7.10066
+7	Passing through	Köln	Köln	Köln	1843-05-19	1843-05-19	🛳 Dampskib	50.938361	6.959974
+7	Stay	Düsseldorf	Düsseldorf	Düsseldorf	1843-05-19	1843-05-20	🛳 Dampskib	51.2254018	6.7763137
+7	Passing through	Münster	Münster	Münster	1843-05-21	1843-05-21	🛺 Vogn	51.9625101	7.6251879
+7	Stay	Oldenburg	Oldenburg	Oldenburg	1843-05-22	1843-05-27	🐎 Postvogn	53.1389753	8.2146017
+7	Passing through	Delmenhorst	Delmenhorst	Delmenhorst	1843-05-27	1843-05-27	🐎 Postvogn	53.048095	8.6286066
+7	Passing through	Bremen	Bremen	Bremen	1843-05-27	1843-05-27	🐎 Postvogn	53.0758196	8.8071646
+7	Passing through	Harburg	Harburg	Harburg	1843-05-27	1843-05-27	🚌 Omnibus	53.3172234	9.9084975
+7	Stay	Hamburg	Hamburg	Hamburg	1843-05-28	1843-06-02	🛺 Vogn	53.550341	10.000654
+7	Passing through	Itzehoe	Itzehoe	Itzehoe	1843-06-02	1843-06-02	🛳 Dampskib	53.919448	9.5172441
+7	Stay	Breitenburg slot	Breitenburg castle	Breitenburg Schloss	1843-06-02	1843-06-13	🛺 Vogn	53.9060905	9.5667115
+7	Passing through	Neumünster	Neumünster	Neumünster	1843-06-13	1843-06-13	🛺 Vogn	54.0757442	9.9815377
+7	Stay	Kiel	Kiel	Kiel	1843-06-13	1843-06-14	🐎 Postvogn	54.3227085	10.135555
+7	Return	København	Copenhagen	København	1843-06-15		🛳 Dampskib	55.676098	12.568337
+8	Departure	København	Copenhagen	København		1844-05-23		55.676098	12.568337
+8	Passing through	Kiel	Kiel	Kiel	1844-05-24	1844-05-24	🛳 Dampskib	54.3227085	10.135555
+8	Stay	Bramstedt	Bramstedt	Bad Bramstedt	1844-05-24	1844-05-25	🐎 Postvogn	53.3667515	8.6902857
+8	Stay	Breitenburg slot	Breitenburg castle	Breitenburg Schloss	1844-05-25	1844-06-14	🛺 Vogn	53.9060905	9.5667115
+8	Passing through	Itzehoe	Itzehoe	Itzehoe	1844-06-14	1844-06-14	🛺 Vogn	53.919448	9.5172441
+8	Stay	Hamborg	Hamburg	Hamburg	1844-06-14	1844-06-17	🛳 Dampskib	53.550341	10.000654
+8	Stay	Bremen	Bremen	Bremen	1844-06-17	1844-06-19	🛺 Vogn	53.0758196	8.8071646
+8	Stay	Hannover	Hannover	Hannover	1844-06-20	1844-06-21	🐎 Postvogn	52.3744779	9.7385532
+8	Stay	Braunschweig	Braunschweig	Braunschweig	1844-06-21	1844-06-23	🚂 Tog	52.2646577	10.5236066
+8	Passing through	Halle	Halle	Halle	1844-06-23	1844-06-23	🐎 Postvogn	51.4825041	11.9705452
+8	Passing through	Merseburg	Merseburg	Merseburg	1844-06-23	1844-06-23	🐎 Postvogn	51.3564413	11.996148
+8	Stay	Naumburg	Naumburg	Naumburg	1844-06-23	1844-06-24	🐎 Postvogn	51.1525648	11.8099186
+8	Stay	Weimar	Weimar	Weimar	1844-06-24	1844-07-01	🐎 Postvogn	50.9769686	11.3275394
+8	Stay	Jena	Jena	Jena	1844-07-01	1844-07-02	🛺 Vogn	50.9281717	11.5879359
+8	Stay	Altenburg	Altenburg	Altenburg	1844-07-02	1844-07-03	🐎 Postvogn	50.9852411	12.4340988
+8	Passing through	Leipzig	Leipzig	Leipzig	1844-07-03	1844-07-03	🚂 Tog	51.3406321	12.3747329
+8	Stay	Dresden	Dresden	Dresden	1844-07-03	1844-07-09	🚂 Tog	51.0493286	13.7381437
+8	Stay	Tharandt	Tharandt	Tharandt	1844-07-09	1844-07-12	🐎 Postvogn	50.9853391	13.5794907
+8	Passing through	Dresden	Dresden	Dresden	1844-07-12	1844-07-12	🐎 Postvogn	51.0493286	13.7381437
+8	Stay	Maxen	Maxen	Maxen	1844-07-12	1844-07-18	🛺 Vogn	50.9251208	13.8016064
+8	Stay	Dresden	Dresden	Dresden	1844-07-18	1844-07-21	🛺 Vogn	51.0493286	13.7381437
+8	Stay	Leipzig	Leipzig	Leipzig	1844-07-21	1844-07-23	🚂 Tog	51.3406321	12.3747329
+8	Stay	Halle	Halle	Halle	1844-07-23	1844-07-25	🚂 Tog	51.4825041	11.9705452
+8	Stay	Berlin	Berlin	Berlin	1844-07-25	1844-08-01	🚂 Tog	52.510885	13.3989367
+8	Stay	Stettin	Stettin	Stettin	1844-08-01	1844-08-02	🚂 Tog	53.4301818	14.5509623
+8	Return	København	Copenhagen	København	1844-08-03		🛳 Dampskib	55.676098	12.568337
+9	Departure	København	Copenhagen	København		1845-10-31		55.676098	12.568337
+9	Passing through	Roskilde	Roskilde	Roskilde	1845-10-31	1845-10-31	🚌 Omnibus	55.6433478	12.0819247
+9	Passing through	Korsør	Korsør	Korsør	1845-11-01	1845-11-01	🚌 Omnibus	55.3266045	11.1425876
+9	Passing through	Nyborg	Nyborg	Nyborg	1845-11-01	1845-11-01	🛳 Dampskib	55.3098281	10.7976604
+9	Stay	Glorup	Glorup Manor	Glorup	1845-11-01	1845-11-10	🛺 Privatvogn	55.206111	10.707778
+9	Stay	Odense	Odense	Odense	1845-11-10	1845-11-11	🛺 Vogn	55.3997225	10.3852104
+9	Passing through	Assens	Assens	Assens	1845-11-11	1845-11-11	🐎 Postvogn	55.265798	9.9002174
+9	Passing through	Haderslev	Haderslev	Haderslev	1845-11-11	1845-11-11	🛺 Vogn	55.2500715	9.4997871
+9	Passing through	Årøsund	Årøsund	Årøsund	1845-11-11	1845-11-11	🛳 Dampskib	55.2580919	9.7068676
+9	Stay	Aabenraa	Aabenraa	Aabenraa	1845-11-11	1845-11-12	🐎 Postvogn	55.0446228	9.4209667
+9	Stay	Graasten	Graasten	Graasten	1845-11-12	1845-11-22	🐎 Postvogn	54.9289318	9.5963513
+9	Stay	Flensborg	Flensburg	Flensburg	1845-11-22	1845-11-23	🐎 Postvogn	54.7833021	9.4333264
+9	Passing through	Rendsborg	Rendsburg	Rendsburg	1845-11-23	1845-11-23	🐎 Postvogn	54.3000225	9.6516356
+9	Passing through	Altona	Altona	Altona	1845-11-23	1845-11-23	🐎 Postvogn	53.5864676	9.7776697
+9	Stay	Hamborg	Hamburg	Hamburg	1845-11-23	1845-11-27	🐎 Postvogn	53.550341	10.000654
+9	Stay	Bremen	Bremen	Bremen	1845-11-28	1845-11-29	🐎 Postvogn	53.0758196	8.8071646
+9	Stay	Oldenburg	Oldenburg	Oldenburg	1845-11-29	1845-12-17	🐎 Postvogn	53.1389753	8.2146017
+9	Passing through	Delmenhorst	Delmenhorst	Delmenhorst	1845-12-17	1845-12-17	🛺 Vogn	53.048095	8.6286066
+9	Overnight stay	Hannover	Hannover	Hannover	1845-12-17	1845-12-18	🐎 Postvogn	52.3744779	9.7385532
+9	Passing through	Braunschweig	Braunschweig	Braunschweig	1845-12-18	1845-12-18	🐎 Postvogn	52.2646577	10.5236066
+9	Overnight stay	Magdeburg	Magdeburg	Magdeburg	1845-12-18	1845-12-19	🚂 Tog	52.1315889	11.6399609
+9	Stay	Berlin	Berlin	Berlin	1845-12-19	1846-01-07	🚂 Tog	52.510885	13.3989367
+9	Passing through	Halle	Halle	Halle	1846-01-07	1846-01-07	🚂 Tog	51.4825041	11.9705452
+9	Overnight stay	Naumburg	Naumburg	Naumburg	1846-01-07	1846-01-08	🐎 Postvogn	51.1525648	11.8099186
+9	Stay	Weimar	Weimar	Weimar	1846-01-08	1846-02-07	🐎 Postvogn	50.9769686	11.3275394
+9	Stay	Jena	Jena	Jena	1846-02-07	1846-02-10	🛺 Vogn	50.9281717	11.5879359
+9	Passing through	Naumburg	Naumburg	Naumburg	1846-02-11	1846-02-11	🐎 Postvogn	51.1525648	11.8099186
+9	Passing through	Weisenfeld	Weisenfeld	Weisenfeld	1846-02-11	1846-02-11	🐎 Postvogn	51.2751302	8.4793672
+9	Stay	Leipzig	Leipzig	Leipzig	1846-02-11	1846-02-20	🐎 Postvogn	51.3406321	12.3747329
+9	Stay	Dresden	Dresden	Dresden	1846-02-20	1846-03-02	🚂 Tog	51.0493286	13.7381437
+9	Passing through	Pederwarde	Pederwarde	Pederwarde	1846-03-02	1846-03-02	🚂 Tog	53.887638	13.3944124
+9	Stay	Prag	Prague	Praha	1846-03-03	1846-03-05	🐎 Postvogn	50.0596288	14.4464593
+9	Passing through	Olomouc (Olmütz)	Olomouc	Olomouc	1846-03-06	1846-03-06	🚂 Tog	49.5940567	17.251143
+9	Stay	Wien	Vienna	Wien	1846-03-06	1846-03-18	🚂 Tog	48.2083537	16.3725042
+9	Passing through	Graz	Graz	Graz	1846-03-18	1846-03-18	🚂 Tog	47.0708678	15.4382786
+9	Overnight stay	Ljubljana (Laibach)	Ljubljana	Ljubljana (Laibach)	1846-03-19	1846-03-20	🐎 Postvogn	46.0500268	14.5069289
+9	Stay	Trieste	Trieste	Trieste	1846-03-20	1846-03-24	🐎 Postvogn	45.6496485	13.7772781
+9	Stay	Ancona	Ancona	Ancona	1846-03-25	1846-03-26	🛳 Dampskib	43.4801204	13.2187906
+9	Overnight stay	Macerata	Macerata	Macerata	1846-03-26	1846-04-27	🐎 Postvogn	43.1529781	13.1508822
+9	Passing through	Tolentino	Tolentino	Tolentino	1846-03-27	1846-03-27	🐎 Postvogn	43.2087546	13.2844096
+9	Passing through	Valcimara	Valcimara	Valcimara	1846-03-27	1846-03-27	🐎 Postvogn	45.9596383	8.9865107
+9	Overnight stay	Monze	Monze	Monze	1846-03-27	1846-03-28	🐎 Postvogn	43.1564188	2.4586324
+9	Passing through	Foligno	Foligno	Foligno	1846-03-28	1846-03-28	🐎 Postvogn	42.9559744	12.7034782
+9	Overnight stay	Spoleto	Spoleto	Spoleto	1846-03-28	1846-03-29	🐎 Postvogn	42.7342971	12.7382035
+9	Passing through	Terni	Terni	Terni	1846-03-29	1846-03-29	🐎 Postvogn	42.6539486	12.4396528
+9	Overnight stay	Narni	Narni	Narni	1846-03-29	1846-03-30	🐎 Postvogn	42.5195891	12.5152257
+9	Passing through	Civita Castellana	Civita Castellana	Civita Castellana	1846-03-30	1846-03-30	🐎 Postvogn	42.295226	12.40917
+9	Passing through	Nepi	Nepi	Nepi	1846-03-30	1846-03-30	🐎 Postvogn	42.242824	12.34557
+9	Overnight stay	Baccano	Baccano	Baccano	1846-03-30	1846-03-31	🐎 Postvogn	44.1123529	9.8965989
+9	Stay	Rom	Rome	Roma	1846-03-31	1846-05-01	🐎 Postvogn	41.8933203	12.4829321
+9	Passing through	Albano	Albano	Albano	1846-05-01	1846-05-01	🛺 Vogn	41.7479605	12.670204
+9	Overnight stay	Cisterna	Cisterna	Cisterna	1846-05-01	1846-05-02	🛺 Vogn	46.0851766	12.9896174
+9	Passing through	Terracina	Terracina	Terracina	1846-05-02	1846-05-02	🛺 Vogn	41.2871196	13.2492009
+9	Stay	Mola di Gaëta	Mola di Gaëta	Mola di Gaëta	1846-05-02	1846-05-03	🛺 Vogn	41.2589032	13.6139525
+9	Passing through	St. Agathe	St. Agathe	St. Agathe	1846-05-03	1846-05-03	🛺 Vogn	50.8649231	4.2946734
+9	Stay	Capua	Capua	Capua	1846-05-03	1846-05-04	🛺 Vogn	41.1079984	14.2097176
+9	Stay	Napoli (Neapel)	Naples	Napoli	1846-05-04	1846-05-20	🛺 Vogn	40.8358846	14.2487679
+9	Stay	Castellamare	Castellamare	Castellamare	1846-05-20	1846-05-25	🚂 Tog	40.6943046	14.4804813
+9	Stay	Sorrento	Sorrento	Sorrento	1846-05-25	1846-05-27	🐎 Postvogn	40.624906	14.374836
+9	Stay	Capri	Capri (island)	Capri	1846-05-27	1846-05-29	🚣 Robåd	40.5487747	14.2280874
+9	Passing through	Sorrento	Sorrento	Sorrento	1846-05-29	1846-05-29	⛵ Sejlskib	40.624906	14.374836
+9	Passing through	Castellammare	Castellammare	Castellammare	1846-05-29	1846-05-29	🛺 Vogn	40.6943046	14.4804813
+9	Stay	Napoli	Naples	Napoli	1846-05-29	1846-06-23	🚂 Tog	40.8358846	14.2487679
+9	Passing through	Civitavécchia	Civitavécchia	Civitavécchia	1846-06-24	1846-06-24	🛳 Dampskib	42.0937524	11.7922462
+9	Stay	Livorno	Livorno	Livorno	1846-06-25	1846-06-25	🛳 Dampskib	42.7902166	10.3402787
+9	Stay	Génova (Genua)	Génova	Génova	1846-06-26	1846-06-26	🛳 Dampskib	44.40726	8.9338624
+9	Stay	Marseilles	Marseilles	Marseilles	1846-06-27	1846-06-30	🛳 Dampskib	47.0706778	3.0029271
+9	Passing through	Arles	Arles	Arles	1846-06-30	1846-06-30	🛥️ Trækbåd	43.6776223	4.6309653
+9	Stay	Nîmes	Nîmes	Nîmes	1846-06-30	1846-07-02	🛺 Vogn	43.8374249	4.3600687
+9	Passing through	Montpellier	Montpellier	Montpellier	1846-07-02	1846-07-02	🚂 Tog	43.6112422	3.8767337
+9	Stay	Sète (Cette)	Sète	Sète	1846-07-02	1846-07-04	🚂 Tog	43.4014434	3.6959771
+9	Overnight stay	Narbonne	Narbonne	Narbonne	1846-07-04	1846-07-05	🛺 Vogn	43.1837757	3.0041906
+9	Stay	Perpignan	Perpignan	Perpignan	1846-07-05	1846-07-06	🐎 Postvogn	42.6985304	2.8953121
+9	Passing through	Prades	Prades	Prades	1846-07-06	1846-07-06	🛺 Vogn	43.6132	1.97337
+9	Stay	Vernet les Bains	Vernet les Bains	Vernet les Bains	1846-07-07	1846-07-13	🛺 Vogn	42.5484832	2.3878706
+9	Passing through	Prades	Prades	Prades	1846-07-13	1846-07-13	🛺 Vogn	43.6132	1.97337
+9	Stay	Perpignan	Perpignan	Perpignan	1846-07-13	1846-07-14	🐎 Postvogn	42.6985304	2.8953121
+9	Passing through	Narbonne	Narbonne	Narbonne	1846-07-15	1846-07-15	🛺 Vogn	43.1837757	3.0041906
+9	Stay	Sète (Cette)	Sète	Sète	1846-07-15	1846-07-17	🛥️ Trækbåd	43.4014434	3.6959771
+9	Stay	Montpellier	Montpellier	Montpellier	1846-07-17	1846-07-18	🚂 Tog	43.6112422	3.8767337
+9	Passing through	Nîmes	Nîmes	Nîmes	1846-07-18	1846-07-18	🚂 Tog	43.8374249	4.3600687
+9	Stay	Avignon	Avignon	Avignon	1846-07-18	1846-07-20	🐎 Postvogn	43.9492493	4.8059012
+9	Passing through	Montélimar	Montélimar	Montélimar	1846-07-20	1846-07-20	🐎 Postvogn	44.5579391	4.750318
+9	Stay	Valence	Valence	Valence	1846-07-20	1846-07-21	🐎 Postvogn	44.9332277	4.8920811
+9	Stay	Lyon	Lyon	Lyon	1846-07-21	1846-07-25	🛳 Dampskib	45.7578137	4.8320114
+9	Stay	Genève	Geneva	Genève	1846-07-26	1846-07-28	🐎 Postvogn	46.2017559	6.1466014
+9	Stay	Vevey	Vevey	Vevey	1846-07-28	1846-07-30	🛳 Dampskib	46.4602978	6.8418655
+9	Stay	Bern	Bern	Bern	1846-07-30	1846-08-01	🐎 Postvogn	46.9484742	7.4521749
+9	Passing through	Thun	Thun	Thun	1846-08-01	1846-08-01	🐎 Postvogn	46.7582827	7.628086
+9	Passing through	Interlaken	Interlaken	Interlaken	1846-08-01	1846-08-01	🐎 Postvogn	46.6855231	7.8585139
+9	Stay	Lauterbrunnen	Lauterbrunnen	Lauterbrunnen	1846-08-01	1846-08-02	🐎 Postvogn	46.5939043	7.9078016
+9	Overnight stay	Bern	Bern	Bern	1846-08-02	1846-08-03	🐎 Postvogn	46.9484742	7.4521749
+9	Stay	Basel	Basel	Basel	1846-08-03	1846-08-05	🐎 Postvogn	47.5581077	7.5878261
+9	Stay	Strasbourg	Strasbourg	Strasbourg	1846-08-05	1846-08-05	🚂 Tog	48.584614	7.7507127
+9	Stay	Mainz	Mainz	Mainz	1846-08-05	1846-08-10	🛳 Dampskib	50.0012314	8.2762513
+9	Stay	Frankfurt am Main	Frankfurt am Main	Frankfurt am Main	1846-08-10	1846-08-15	🚂 Tog	50.1106444	8.6820917
+9	Stay	Eisenach	Eisenach	Eisenach	1846-08-16	1846-08-17	🐎 Postvogn	50.9747134	10.3193565
+9	Stay	Erfurt	Erfurt	Erfurt	1846-08-17	1846-08-19	🐎 Postvogn	50.9777974	11.0287364
+9	Stay	Weimar	Weimar	Weimar	1846-08-19	1846-09-03	🐎 Postvogn	50.9769686	11.3275394
+9	Stay	Jena	Jena	Jena	1846-09-03	1846-09-07	🛺 Vogn	50.9281717	11.5879359
+9	Stay	Naumburg	Naumburg	Naumburg	1846-09-07	1846-09-08	🐎 Postvogn	51.1525648	11.8099186
+9	Stay	Leipzig	Leipzig	Leipzig	1846-09-08	1846-09-16	🚂 Tog	51.3406321	12.3747329
+9	Passing through	Magdeburg	Magdeburg	Magdeburg	1846-09-16	1846-09-16	🚂 Tog	52.1315889	11.6399609
+9	Stay	Braunschweig	Braunschweig	Braunschweig	1846-09-16	1846-09-18	🚂 Tog	52.2646577	10.5236066
+9	Stay	Bremen	Bremen	Bremen	1846-09-18	1846-09-19	🐎 Postvogn	53.0758196	8.8071646
+9	Stay	Oldenburg	Oldenburg	Oldenburg	1846-09-19	1846-10-05	🛺 Vogn	53.1389753	8.2146017
+9	Stay	Bremen	Bremen	Bremen	1846-10-05	1846-10-06	🐎 Postvogn	53.0758196	8.8071646
+9	Stay	Hamborg	Hamburg	Hamburg	1846-10-07	1846-10-10	🐎 Postvogn	53.550341	10.000654
+9	Stay	Kiel	Kiel	Kiel	1846-10-10	1846-10-12	🚂 Tog	54.3227085	10.135555
+9	Return	København	Copenhagen	København	1846-10-14		🛳 Dampskib	55.676098	12.568337
+10	Departure	København	Copenhagen	København		1847-05-13		55.676098	12.568337
+10	Passing through	Roskilde	Roskilde	Roskilde	1847-05-13	1847-05-13	🚂 Tog	55.6433478	12.0819247
+10	Passing through	Korsør	Korsør	Korsør	1847-05-14	1847-05-14	🛺 Vogn	55.3266045	11.1425876
+10	Passing through	Nyborg	Nyborg	Nyborg	1847-05-14	1847-05-14	🛳 Dampskib	55.3098281	10.7976604
+10	Stay	Glorup Slot	Glorup Manor	Glorup Slot	1847-05-14	1847-06-01	🛺 Vogn	55.206111	10.707778
+10	Overnight stay	Odense	Odense	Odense	1847-06-01	1847-06-02	🛺 Vogn	55.3997225	10.3852104
+10	Passing through	Assens	Assens	Assens	1847-06-02	1847-06-02	🛺 Vogn	55.265798	9.9002174
+10	Overnight stay	Aarøsund	Aarøsund	Aarøsund	1847-06-02	1847-06-03	🛳 Dampskib	55.2580919	9.7068676
+10	Overnight stay	Kiel	Kiel	Kiel	1847-06-03	1847-06-04	🛳 Dampskib	54.3227085	10.135555
+10	Stay	Hamborg	Hamburg	Hamburg	1847-06-04	1847-06-06	🚂 Tog	53.550341	10.000654
+10	Passing through	Harburg	Harburg	Harburg	1847-06-06	1847-06-06	🐎 Postvogn	53.3172234	9.9084975
+10	Stay	Bremen	Bremen	Bremen	1847-06-07	1847-06-08	🛺 Vogn	53.0758196	8.8071646
+10	Stay	Oldenburg	Oldenburg	Oldenburg	1847-06-08	1847-06-12	🛺 Vogn	53.1389753	8.2146017
+10	Passing through	Lingen	Lingen	Lingen	1847-06-12	1847-06-12	🛺 Vogn	52.1553437	4.8513712
+10	Passing through	Utrecht	Utrecht	Utrecht	1847-06-13	1847-06-13	🛺 Vogn	52.0907006	5.1215634
+10	Stay	Amsterdam	Amsterdam	Amsterdam	1847-06-13	1847-06-15	🚂 Tog	52.3730796	4.8924534
+10	Passing through	Haarlem	Haarlem	Haarlem	1847-06-15	1847-06-15	🛺 Vogn	52.3837058	4.6435597
+10	Stay	Leiden	Leiden	Leiden	1847-06-15	1847-06-16	🚂 Tog	52.1594747	4.4908843
+10	Stay	Haag	Hague	Haag	1847-06-16	1847-06-21	🚂 Tog	52.0799838	4.3113461
+10	Passing through	Delf, Schiedam	Delf, Schiedam	Delf, Schiedam	1847-06-21	1847-06-21	🚂 Tog	51.91917	4.38889
+10	Stay	Rotterdam	Rotterdam	Rotterdam	1847-06-21	1847-06-22	🚂 Tog	51.9244424	4.47775
+10	Stay	London	London	London	1847-06-23	1847-08-10	🛳 Dampskib	51.5074456	-0.1277653
+10	Stay	York	York	York	1847-08-10	1847-08-11	🚂 Tog	53.9656578	-1.0743052
+10	Passing through	Newcastle	Newcastle	Newcastle	1847-08-11	1847-08-11	🐎 Postvogn	54.9738474	-1.6131572
+10	Passing through	Berwick	Berwick	Berwick	1847-08-11	1847-08-11	🚂 Tog	55.7692442	-2.0026472
+10	Stay	Edinburgh	Edinburgh	Edinburgh	1847-08-11	1847-08-19	🚂 Tog	55.9533456	-3.1883749
+10	Stay	Stirling	Stirling	Stirling	1847-08-19	1847-08-20	🐎 Postvogn	56.1181242	-3.9360012
+10	Stay	Callender	Callender	Callender	1847-08-20	1847-08-21	🛺 Vogn	51.0160405	-0.135454
+10	Passing through	Loch Catherine	Loch Catherine	Loch Catherine	1847-08-21	1847-08-21	🐎 Postvogn	58.3203425	-3.6373779
+10	Passing through	Loch Lomond	Loch Lomond	Loch Lomond	1847-08-21	1847-08-21	🐎 Postvogn	56.1561963	-4.6562105
+10	Stay	Dumbarton	Dumbarton	Dumbarton	1847-08-21	1847-08-23	🛺 Vogn	55.9432443	-4.5708479
+10	Stay	Glasgow	Glasgow	Glasgow	1847-08-23	1847-08-24	🛳 Dampskib	55.861155	-4.2501687
+10	Stay	Edinburgh	Edinburgh	Edinburgh	1847-08-24	1847-08-25	🚂 Tog	55.9533456	-3.1883749
+10	Passing through	Berwick	Berwick	Berwick	1847-08-25	1847-08-25	🚂 Tog	55.7692442	-2.0026472
+10	Overnight stay	York	York	York	1847-08-25	1847-08-26	🚂 Tog	53.9656578	-1.0743052
+10	Passing through	Sheffield	Sheffield	Sheffield	1847-08-26	1847-08-26	🚂 Tog	53.3806626	-1.4702278
+10	Stay	London	London	London	1847-08-26	1847-08-29	🚂 Tog	51.5074456	-0.1277653
+10	Stay	Seven Oaks	Seven Oaks	Seven Oaks	1847-08-29	1847-08-30	🛺 Vogn	54.3461757	-6.6421305
+10	Passing through	Tunbridge	Tunbridge	Tunbridge	1847-08-30	1847-08-30	🛺 Vogn	51.1371483	0.2673446
+10	Stay	Ramsgate	Ramsgate	Ramsgate	1847-08-30	1847-08-31	🚂 Tog	51.3334726	1.4196476
+10	Passing through	Oostende	Oostende	Oostende	1847-08-31	1847-08-31	🛥️ Båd	51.2258565	2.919496
+10	Stay	Gent	Gent	Gent	1847-08-31	1847-09-01	🚂 Tog	51.0538286	3.7250121
+10	Passing through	Aachen	Aachen	Aachen	1847-09-01	1847-09-01	🚂 Tog	50.776351	6.083862
+10	Overnight stay	Köln	Köln	Köln	1847-09-01	1847-09-02	🚂 Tog	50.938361	6.959974
+10	Passing through	Bonn	Bonn	Bonn	1847-09-02	1847-09-02	🚂 Tog	50.735851	7.10066
+10	Stay	Koblenz	Koblenz	Koblenz	1847-09-02	1847-09-03	🛳 Dampskib	50.3533278	7.5943951
+10	Passing through	Biberich	Biberich	Biberich	1847-09-03	1847-09-03	🛳 Dampskib	47.7038818	8.5571923
+10	Stay	Frankfurt	Frankfurt	Frankfurt	1847-09-03	1847-09-05	🚂 Tog	50.1106444	8.6820917
+10	Overnight stay	Eisenach	Eisenach	Eisenach	1847-09-06	1847-09-07	🚂 Tog	50.9747134	10.3193565
+10	Passing through	Gotha, Erfurt	Gotha, Erfurt	Gotha, Erfurt	1847-09-07	1847-09-07	🚌 Omnibus	50.9460511	10.7048551
+10	Stay	Weimar	Weimar	Weimar	1847-09-07	1847-09-12	🚌 Omnibus	50.9769686	11.3275394
+10	Stay	Leipzig	Leipzig	Leipzig	1847-09-12	1847-09-17	🚂 Tog	51.3406321	12.3747329
+10	Overnight stay	Braunschweig	Braunschweig	Braunschweig	1847-09-17	1847-09-18	🚂 Tog	52.2646577	10.5236066
+10	Passing through	Harburg	Harburg	Harburg	1847-09-18	1847-09-18	🚂 Tog	53.3172234	9.9084975
+10	Stay	Hamborg	Hamburg	Hamburg	1847-09-18	1847-09-21	🛳 Dampskib	53.550341	10.000654
+10	Stay	Kiel	Kiel	Kiel	1847-09-21	1847-09-22	🚂 Tog	54.3227085	10.135555
+10	Return	København	Copenhagen	København	1847-09-23		🛥️ Båd	55.676098	12.568337
+11	Departure	København	Copenhagen	København		1849-05-17		55.676098	12.568337
+11	Stay	Helsingborg	Helsingborg	Helsingborg	1849-05-17	1849-05-18	🛳 Dampskib	56.0442098	12.703706
+11	Passing through	Halmstad	Halmstad	Halmstad	1849-05-18	1849-05-18	🛺 Vogn	56.6739826	12.8574827
+11	Overnight stay	Falkenberg	Falkenberg	Falkenberg	1849-05-18	1849-05-19	🛺 Vogn	56.904894	12.4912926
+11	Passing through	Varberg	Varberg	Varberg	1849-05-19	1849-05-19	🛺 Vogn	57.1057412	12.2502949
+11	Stay	Göteborg	Göteborg	Göteborg	1849-05-19	1849-05-22	🛺 Vogn	57.7072326	11.9670171
+11	Passing through	Trollhättan	Trollhättan	Trollhättan	1849-05-22	1849-05-22	🛳 Dampskib	58.2827931	12.2908612
+11	Passing through	Vänersborg	Vänersborg	Vänersborg	1849-05-22	1849-05-22	🛳 Dampskib	58.3811988	12.3226877
+11	Overnight stay	Vänern	Vänern (lake)	Vänern	1849-05-22	1849-05-23	🛳 Dampskib	58.8866658	13.5627329
+11	Passing through	Viken	Viken	Viken	1849-05-23	1849-05-23	🛳 Dampskib	58.6313939	14.2584808
+11	Overnight stay	Vättern	Vättern (lake)	Vättern	1849-05-23	1849-05-24	🛳 Dampskib	58.3227727	14.4843777
+11	Passing through	Motala	Motala	Motala	1849-05-24	1849-05-24	🛳 Dampskib	58.5420395	15.041261
+11	Passing through	Roxen	Roxen (lake)	Roxen	1849-05-24	1849-05-24	🛳 Dampskib	58.492293	15.629404
+11	Passing through	Söderköping	Söderköping	Söderköping	1849-05-24	1849-05-24	🛳 Dampskib	58.4823802	16.3216224
+11	Passing through	Skærgården	Stockholm Skerries	Skärgården	1849-05-25	1849-05-25	🛳 Dampskib	59.380000	18.730000
+11	Passing through	Södertalje	Södertalje	Södertalje	1849-05-25	1849-05-25	🛳 Dampskib	59.1964289	17.6271663
+11	Passing through	Mälaren	Mälaren (lake)	Mälaren	1849-05-25	1849-05-25	🛳 Dampskib	59.4947382	16.7862981
+11	Stay	Stockholm	Stockholm	Stockholm	1849-05-25	1849-06-05	🛳 Dampskib	59.3251172	18.0710935
+11	Stay	Uppsala	Uppsala	Uppsala	1849-06-05	1849-06-11	🛳 Dampskib	59.8586126	17.6387436
+11	Stay	Stockholm	Stockholm	Stockholm	1849-06-11	1849-06-18	🛳 Dampskib	59.3251172	18.0710935
+11	Stay	Uppsala	Uppsala	Uppsala	1849-06-18	1849-06-19	🛳 Dampskib	59.8586126	17.6387436
+11	Passing through	Härvsta	Härvsta	Härvsta	1849-06-19	1849-06-19	🛺 Privatvogn	59.7364417	16.8897118
+11	Overnight stay	Sala	Sala	Sala	1849-06-19	1849-06-20	🛺 Privatvogn	59.9202268	16.6056444
+11	Passing through	Avesta, Hedemora	Avesta, Hedemora	Avesta, Hedemora	1849-06-20	1849-06-20	🛺 Privatvogn	60.27764	15.99172
+11	Overnight stay	Säter	Säter	Säter	1849-06-20	1849-06-21	🛺 Privatvogn	60.316667	15.75
+11	Overnight stay	Tuna	Tuna	Tuna	1849-06-21	1849-06-22	🛺 Privatvogn	62.3368898	17.0286943
+11	Overnight stay	Rättvik	Rättvik	Rättvik	1849-06-22	1849-06-23	🛺 Privatvogn	60.966667	15.383333
+11	Stay	Leksand	Leksand	Leksand	1849-06-23	1849-06-25	🛺 Privatvogn	60.7329032	14.9968205
+11	Passing through	Rättvik	Rättvik	Rättvik	1849-06-26	1849-06-26	🛺 Privatvogn	60.966667	15.383333
+11	Passing through	Falun	Falun	Falun	1849-06-27	1849-06-27	🛺 Privatvogn	60.6070068	15.6323059
+11	Passing through	Gävle	Gävle	Gävle	1849-06-28	1849-06-28	🛺 Privatvogn	60.6750132	17.1467019
+11	Stay	Älvkarleö bruk	Älvkarleö bruk	Älvkarleö bruk	1849-06-29	1849-06-30	🛺 Privatvogn	60.53333	17.4
+11	Passing through	Karlholmsbruk	Karlholmsbruk	Karlholmsbruk	1849-06-30	1849-06-30	🛺 Privatvogn	60.5219407	17.6362316
+11	Passing through	Lövstabruk, Dannemora	Lövstabruk, Dannemora	Lövstabruk, Dannemora	1849-06-30	1849-06-30	🛺 Privatvogn	60.4087406	17.8794105
+11	Stay	Österby (bruk)	Österby (bruk)	Österby (bruk)	1849-06-30	1849-07-01	🛺 Privatvogn	60.1959366	17.9014485
+11	Passing through	Ekeby, Gamla Uppsala	Ekeby, Gamla Uppsala	Ekeby, Gamla Uppsala	1849-07-01	1849-07-01	🛺 Privatvogn	59.89691	17.6360589
+11	Passing through	Salsta, Vattholma	Salsta, Vattholma	Salsta, Vattholma	1849-07-01	1849-07-01	🛺 Privatvogn	60.0515705	17.7516796
+11	Stay	Uppsala	Uppsala	Uppsala	1849-07-01	1849-07-03	🛺 Privatvogn	59.8586126	17.6387436
+11	Passing through	Stockholm	Stockholm	Stockholm	1849-07-03	1849-07-13	🛳 Dampskib	59.3251172	18.0710935
+11	Passing through	Nyköping, Stegeborg	Nyköping, Stegeborg	Nyköping, Stegeborg	1849-07-13	1849-07-13	🛳 Dampskib	58.7545409	17.0120656
+11	Passing through	Mem	Mem	Mem	1849-07-13	1849-07-13	🛳 Dampskib	58.4796199	16.4153147
+11	Passing through	Bergs Slussar	Bergs Sluices	Bergs Slussar	1849-07-14	1849-07-14	🛳 Dampskib	58.4846796	15.5249835
+11	Passing through	Linköping	Linköping	Linköping	1849-07-14	1849-07-14	🐎 Postvogn	58.4098135	15.6245252
+11	Stay	Bjärka-Säby	Bjärka-Säby	Bjärka-Säby	1849-07-14	1849-07-20	🛺 Vogn	58.2683253	15.7409421
+11	Passing through	Linköping	Linköping	Linköping	1849-07-20	1849-07-20	🛺 Vogn	58.4098135	15.6245252
+11	Overnight stay	Bergs Slussar	Bergs Sluices	Bergs Slussar	1849-07-20	1849-07-21	🛺 Vogn	58.4846796	15.5249835
+11	Passing through	Roxen	Roxen (lake)	Roxen	1849-07-21	1849-07-21	🛳 Dampskib	58.492293	15.629404
+11	Stay	Motala	Motala	Motala	1849-07-21	1849-07-24	🛳 Dampskib	58.5420395	15.041261
+11	Stay	Vadstena	Vadstena	Vadstena	1849-07-24	1849-07-27	🐎 Postvogn	58.433333	14.783333
+11	Stay	Motala	Motala	Motala	1849-07-27	1849-07-28	🐎 Postvogn	58.5420395	15.041261
+11	Stay	Mariestad	Mariestad	Mariestad	1849-07-28	1849-07-30	🛺 Vogn	58.7093225	13.8228754
+11	Passing through	Svanberg	Svanberg	Svanberg	1849-07-30	1849-07-30	🐎 Postvogn	60.582721	12.0948755
+11	Stay	Hönsäter	Hönsäter	Hönsäter	1849-07-30	1849-08-01	🛺 Vogn	58.6252835	13.4259209
+11	Stay	Blomberg	Blomberg	Blomberg	1849-08-01	1849-08-02	🛺 Vogn	51.9434473	9.0967908
+11	Passing through	Hällekis	Hällekis	Hällekis	1849-08-02	1849-08-02	🛺 Vogn	58.6305638	13.4378627
+11	Stay	Vänersborg	Vänersborg	Vänersborg	1849-08-03	1849-08-05	🛳 Dampskib	58.3811988	12.3226877
+11	Stay	Trollhättan	Trollhättan	Trollhättan	1849-08-05	1849-08-10	🛳 Dampskib	58.2827931	12.2908612
+11	Stay	Göteborg	Göteborg	Göteborg	1849-08-10	1849-08-13	🛳 Dampskib	57.7072326	11.9670171
+11	Stay	Falkenberg	Falkenberg	Falkenberg	1849-08-13	1849-08-14	🛥️ Båd	56.904894	12.4912926
+11	Stay	Helsingborg	Helsingborg	Helsingborg	1849-08-14	1849-08-16	🛳 Dampskib	56.0442098	12.703706
+11	Return	København	Copenhagen	København	1849-08-16		🛳 Dampskib	55.676098	12.568337
+12	Departure	København	Copenhagen	København		1851-05-24		55.676098	12.568337
+12	Stay	Christinelund, Præstø	Christinelund, Præstø	Christinelund, Præstø	1851-05-24	1851-06-02	🛺 Vogn	55.1193228	12.0757497
+12	Passing through	Kalvehave	Kalvehave	Kalvehave	1851-06-02	1851-06-02	🛺 Vogn	54.9977367	12.1631205
+12	Passing through	Svendborg	Svendborg	Svendborg	1851-06-02	1851-06-02	🛳 Dampskib	55.0636926	10.6085377
+12	Stay	Glorup Slot	Glorup Manor	Glorup Slot	1851-06-02	1851-07-17	🐎 Postvogn	55.206111	10.707778
+12	Passing through	Svendborg	Svendborg	Svendborg	1851-07-17	1851-07-17	🛺 Vogn	55.0636926	10.6085377
+12	Stay	Flensborg	Flensburg	Flensburg	1851-07-18	1851-07-19	🛳 Dampskib	54.7833021	9.4333264
+12	Stay	Slesvig	Schleswig	Schleswig	1851-07-19	1851-07-20	🛺 Vogn	54.51851	9.5653284
+12	Passing through	Rendsborg	Rendsburg	Rendsburg	1851-07-20	1851-07-20	🛺 Vogn	54.3000225	9.6516356
+12	Stay	Hamborg	Hamburg	Hamburg	1851-07-20	1851-07-22	🚂 Tog	53.550341	10.000654
+12	Passing through	Lehrte	Lehrte	Lehrte	1851-07-22	1851-07-22	🛥️ Båd	52.3749334	9.9748557
+12	Passing through	Braunschweig	Braunschweig	Braunschweig	1851-07-22	1851-07-22	🐎 Postvogn	52.2646577	10.5236066
+12	Overnight stay	Magdeburg	Magdeburg	Magdeburg	1851-07-22	1851-07-23	🚂 Tog	52.1315889	11.6399609
+12	Stay	Leipzig	Leipzig	Leipzig	1851-07-23	1851-07-24	🚂 Tog	51.3406321	12.3747329
+12	Stay	Dresden	Dresden	Dresden	1851-07-24	1851-07-30	🚂 Tog	51.0493286	13.7381437
+12	Stay	Bodenbach	Bodenbach	Bodenbach	1851-07-30	1851-07-30	🚂 Tog	50.3114741	6.8481486
+12	Stay	Aussig	Aussig	Aussig	1851-07-30	1851-07-30	🚂 Tog	51.4048063	13.1899361
+12	Stay	Teplitz	Teplice	Teplitz	1851-07-30	1851-07-31	🐎 Postvogn	50.6406644	13.8244461
+12	Stay	Prag	Prague	Praha	1851-07-31	1851-08-02	🐎 Postvogn	50.0596288	14.4464593
+12	Passing through	Aussig	Aussig	Aussig	1851-08-02	1851-08-02	🚂 Tog	51.4048063	13.1899361
+12	Passing through	Niedergrund	Niedergrund	Niedergrund	1851-08-02	1851-08-02	🛳 Dampskib	50.8810017	14.5946473
+12	Passing through	Teschen	Teschen	Teschen	1851-08-02	1851-08-02	🛳 Dampskib	49.7488623	18.6334308
+12	Stay	Herrnskretchen	Herrnskretchen	Herrnskretschen	1851-08-02	1851-08-03	🛳 Dampskib	50.8739272	14.2402549
+12	Stay	Schandau	Schandau	Schandau	1851-08-03	1851-08-04	🛥️ Båd	50.918091	14.1534018
+12	Passing through	Rathen	Rathen	Rathen	1851-08-04	1851-08-04	🚂 Tog	50.958235	14.0824651
+12	Stay	Bastei	Bastei	Bastei	1851-08-04	1851-08-05	🪑️ Bærestol	50.9617474	14.0719631
+12	Passing through	Rathen	Rathen	Rathen	1851-08-05	1851-08-05	🚶️ Til fods	50.958235	14.0824651
+12	Stay	Maxen	Maxen	Maxen	1851-08-09	1851-08-19	🛺 Privatvogn	50.9251208	13.8016064
+12	Stay	Dresden	Dresden	Dresden	1851-08-19	1851-08-21	🛺 Privatvogn	51.0493286	13.7381437
+12	Stay	Leipzig	Leipzig	Leipzig	1851-08-21	1851-08-23	🚂 Tog	51.3406321	12.3747329
+12	Passing through	Halle	Halle	Halle	1851-08-23	1851-08-23	🚂 Tog	51.4825041	11.9705452
+12	Passing through	Magdeburg	Magdeburg	Magdeburg	1851-08-23	1851-08-23	🚂 Tog	52.1315889	11.6399609
+12	Stay	Braunschweig	Braunschweig	Braunschweig	1851-08-23	1851-08-24	🚂 Tog	52.2646577	10.5236066
+12	Stay	Hamborg	Hamburg	Hamburg	1851-08-24	1851-08-27	🚂 Tog	53.550341	10.000654
+12	Passing through	Rendsborg	Rendsburg	Rendsburg	1851-08-27	1851-08-27	🚂 Tog	54.3000225	9.6516356
+12	Stay	Schleswig	Schleswig	Schleswig	1851-08-27	1851-08-28	🐎 Postvogn	54.51851	9.5653284
+12	Stay	Flensborg	Flensburg	Flensburg	1851-08-28	1851-08-29	🐎 Postvogn	54.7833021	9.4333264
+12	Passing through	Svendborg	Svendborg	Svendborg	1851-08-29	1851-08-29	🛥️ Båd	55.0636926	10.6085377
+12	Stay	Glorup Slot	Glorup Manor	Glorup Slot	1851-08-29	1851-09-09	🛺 Privatvogn	55.206111	10.707778
+12	Passing through	Nyborg	Nyborg	Nyborg	1851-09-09	1851-09-09	🐎 Postvogn	55.3098281	10.7976604
+12	Passing through	Korsør	Korsør	Korsør	1851-09-09	1851-09-09	🛥️ Båd	55.3266045	11.1425876
+12	Stay	Roskilde	Roskilde	Roskilde	1851-09-10	1851-09-10	🐎 Postvogn	55.6433478	12.0819247
+12	Return	København	København	København	1851-09-10		🚂 Tog	55.676098	12.568337
+13	Departure	København	Copenhagen	København		1852-05-16		55.676098	12.568337
+13	Stay	Lübeck	Lübeck	Lübeck	1852-05-17	1852-05-18	🛳 Dampskib	53.866444	10.684738
+13	Passing through	Bücken	Bücken	Bücken	1852-05-18	1852-05-18	🚂 Tog	52.7792637	9.1333766
+13	Overnight stay	Magdeburg	Magdeburg	Magdeburg	1852-05-18	1852-05-19	🚂 Tog	52.1315889	11.6399609
+13	Passing through	Halle	Halle	Halle	1852-05-19	1852-05-19	🚂 Tog	51.4825041	11.9705452
+13	Stay	Weimar	Weimar	Weimar	1852-05-19	1852-06-10	🚂 Tog	50.9769686	11.3275394
+13	Stay	Leipzig	Leipzig	Leipzig	1852-06-10	1852-06-13	🚂 Tog	51.3406321	12.3747329
+13	Overnight stay	Hof	Hof	Hof	1852-06-13	1852-06-14	🚂 Tog	50.3219015	11.9178807
+13	Stay	Nürnberg	Nürnberg	Nürnberg	1852-06-14	1852-06-16	🚂 Tog	49.453872	11.077298
+13	Passing through	Augsburg	Augsburg	Augsburg	1852-06-16	1852-06-16	🚂 Tog	48.3690341	10.8979522
+13	Stay	München	Munich	München	1852-06-16	1852-06-28	🚂 Tog	48.1371079	11.5753822
+13	Passing through	Augsburg	Augsburg	Augsburg	1852-06-28	1852-06-28	🚂 Tog	48.3690341	10.8979522
+13	Passing through	Kempten	Kempten	Kempten	1852-06-28	1852-06-28	🚂 Tog	47.7267063	10.3168835
+13	Stay	Lindau	Lindau	Lindau	1852-06-28	1852-06-29	🚂 Tog	47.550753	9.6926624
+13	Passing through	Bodensee	Bodensee (lake)	Bodensee	1852-06-29	1852-06-29	🛳 Dampskib	47.6477691	9.3471796
+13	Passing through	Rohrschach	Rohrschach	Rorschach	1852-06-29	1852-06-29	🛳 Dampskib	47.4779686	9.4914025
+13	Stay	Chur	Chur	Chur	1852-06-30	1852-07-01	🐎 Postvogn	46.854747	9.5264904
+13	Passing through	Splügenpasset	Splügen Pass	Splügen Pass	1852-07-01	1852-07-01	🐎 Postvogn	46.5053857	9.3304071
+13	Overnight stay	Chiavenna	Chiavenna	Chiavenna	1852-07-01	1852-07-02	🛺 Vogn	46.3197862	9.3984945
+13	Passing through	Collico	Collico	Collico	1852-07-02	1852-07-02	🐎 Postvogn	46.1353437	9.370737
+13	Passing through	Como Søen	Lake Como	Lago di Como	1852-07-02	1852-07-02	🛳 Dampskib	45.9917589	9.264881
+13	Overnight stay	Como	Como	Como	1852-07-02	1852-07-03	🛳 Dampskib	45.838364	9.0331329
+13	Passing through	Camerlate	Camerlate	Camerlate	1852-07-03	1852-07-03	🐎 Postvogn	45.7903751	9.0859969
+13	Stay	Milano	Milan	Milano	1852-07-03	1852-07-05	🚂 Tog	45.4641943	9.1896346
+13	Passing through	Camerlate	Camerlate	Camerlate	1852-07-05	1852-07-05	🚂 Tog	45.7903751	9.0859969
+13	Passing through	Como	Como	Como	1852-07-05	1852-07-05	🐎 Postvogn	45.838364	9.0331329
+13	Passing through	Lugano	Lugano	Lugano	1852-07-05	1852-07-05	🐎 Postvogn	46.0050102	8.9520281
+13	Passing through	Bellinzona	Bellinzona	Bellinzona	1852-07-06	1852-07-06	🛺 Vogn	46.1920538	9.0205888
+13	Passing through	St. Gotthard-passet	S. Gottardo Pass	Passo del S. Gottardo	1852-07-06	1852-07-06	🛺 Vogn	46.55942	8.56099
+13	Overnight stay	Flüelen	Flüelen	Flüelen	1852-07-06	1852-07-07	🛺 Vogn	46.9027239	8.6253481
+13	Passing through	Vierwaldstättersee	Lake Lucerne	Vierwaldstättersee	1852-07-07	1852-07-07	⛵ Sejlskib	46.9854693	8.4986005
+13	Passing through	Brunnen	Brunnen	Brunnen	1852-07-07	1852-07-07	⛵ Sejlskib	46.9940439	8.6054085
+13	Stay	Luzern	Luzern	Luzern	1852-07-07	1852-07-08	⛵ Sejlskib	47.0505452	8.3054682
+13	Stay	Zürich	Zürich	Zürich	1852-07-08	1852-07-10	🐎 Postvogn	47.3744489	8.5410422
+13	Stay	Schaffhausen	Schaffhausen	Schaffhausen	1852-07-10	1852-07-11	🐎 Postvogn	47.6960491	8.634513
+13	Stay	Freiburg	Freiburg	Freiburg	1852-07-11	1852-07-12	🐎 Postvogn	47.9960901	7.8494005
+13	Passing through	Karlsruhe	Karlsruhe	Kalsruhe	1852-07-12	1852-07-12	🚂 Tog	49.0068705	8.4034195
+13	Stay	Heidelberg	Heidelberg	Heidelberg	1852-07-12	1852-07-13	🚂 Tog	49.4093582	8.694724
+13	Passing through	Darmstadt	Darmstadt	Darmstadt	1852-07-13	1852-07-13	🚂 Tog	49.872775	8.651177
+13	Stay	Frankfurt	Frankfurt	Frankfurt	1852-07-13	1852-07-15	🚂 Tog	50.1106444	8.6820917
+13	Passing through	Kastel	Kastel	Kastel	1852-07-15	1852-07-15	🚂 Tog	49.576366	6.9771487
+13	Passing through	Bingen	Bingen	Bingen	1852-07-15	1852-07-15	🛳 Dampskib	49.9667	7.9
+13	Stay	St. Goar	St. Goar	St. Goar	1852-07-15	1852-07-16	🛳 Dampskib	50.15	7.71667
+13	Overnight stay	Koblenz	Koblenz	Koblenz	1852-07-16	1852-07-17	🛳 Dampskib	50.3533278	7.5943951
+13	Passing through	Bonn	Bonn	Bonn	1852-07-17	1852-07-17	🛳 Dampskib	50.735851	7.10066
+13	Stay	Köln	Köln	Köln	1852-07-17	1852-07-18	🛳 Dampskib	50.938361	6.959974
+13	Overnight stay	Hamm	Hamm	Hamm	1852-07-18	1852-07-19	🚂 Tog	51.6804093	7.815197
+13	Passing through	Minden	Minden	Minden	1852-07-19	1852-07-19	🚂 Tog	52.2881045	8.9168852
+13	Overnight stay	Hannover	Hannover	Hannover	1852-07-19	1852-07-20	🚂 Tog	52.3744779	9.7385532
+13	Passing through	Harburg	Harburg	Harburg	1852-07-20	1852-07-20	🚂 Tog	53.3172234	9.9084975
+13	Stay	Hamborg	Hamburg	Hamburg	1852-07-20	1852-07-21	🛥️ Båd	53.550341	10.000654
+13	Stay	Kiel	Kiel	Kiel	1852-07-21	1852-07-22	🚂 Tog	54.3227085	10.135555
+13	Return	København	Copenhagen	København	1852-07-23		🛳 Dampskib	55.676098	12.568337
+14	Departure	København	Copenhagen	København		1854-05-08		55.676098	12.568337
+14	Passing through	Kiel	Kiel	Kiel	1854-05-09	1854-05-09	🛳 Dampskib	54.3227085	10.135555
+14	Stay	Hamborg	Hamburg	Hamburg	1854-05-09	1854-05-10	🚂 Tog	53.550341	10.000654
+14	Passing through	Wittenberg	Wittenberg	Wittenberg	1854-05-10	1854-05-10	🚂 Tog	51.8666527	12.646761
+14	Passing through	Magdeburg	Magdeburg	Magdeburg	1854-05-10	1854-05-10	🚂 Tog	52.1315889	11.6399609
+14	Stay	Leipzig	Leipzig	Leipzig	1854-05-10	1854-05-11	🚂 Tog	51.3406321	12.3747329
+14	Stay	Dresden	Dresden	Dresden	1854-05-11	1854-05-15	🚂 Tog	51.0493286	13.7381437
+14	Stay	Maxen	Maxen	Maxen	1854-05-15	1854-05-21	🛺 Privatvogn	50.9251208	13.8016064
+14	Stay	Dresden	Dresden	Dresden	1854-05-21	1854-05-23	🛺 Privatvogn	51.0493286	13.7381437
+14	Stay	Prag	Prague	Praha	1854-05-23	1854-05-24	🐎 Postvogn	50.0596288	14.4464593
+14	Passing through	Brünn	Brno	Brno	1854-05-24	1854-05-24	🚂 Tog	48.2076134	16.3732857
+14	Stay	Wien	Vienna	Wien	1854-05-24	1854-05-29	🚂 Tog	48.2083537	16.3725042
+14	Passing through	Simringen	Semmering	Semmering	1854-05-30	1854-05-30	🚂 Tog	47.6377253	15.8072348
+14	Passing through	Mürzzuschlag	Mürzzuschlag	Mürzzuschlag	1854-05-30	1854-05-30	🚂 Tog	47.6053538	15.6723805
+14	Passing through	Bruck	Bruck	Bruck	1854-05-30	1854-05-30	🚂 Tog	48.0255094	16.7790041
+14	Overnight stay	Ljubljana (Laibach)	Ljubljana	Ljubljana	1854-05-30	1854-05-31	🚂 Tog	46.0500268	14.5069289
+14	Passing through	Adlersberg	Adlersberg	Adlersberg	1854-05-31	1854-05-31	🛺 Vogn	50.5912322	10.7665851
+14	Stay	Triest	Triest	Triest	1854-05-31	1854-06-02	🛺 Vogn	45.6496485	13.7772781
+14	Stay	Venedig	Venice	Venézia	1854-06-02	1854-06-05	🛳 Dampskib	45.4371908	12.3345898
+14	Stay	Verona	Verona	Verona	1854-06-05	1854-06-06	🚂 Tog	45.4424977	10.9857377
+14	Passing through	Peskiera	Peskiera	Peskiera	1854-06-06	1854-06-06	🚂 Tog	45.4389454	10.6920171
+14	Passing through	Gardersøen	Lake Garda	Lago di Garda	1854-06-06	1854-06-06	🛳 Dampskib	45.6624313	10.6861569
+14	Passing through	Riva	Riva	Riva	1854-06-06	1854-06-06	🛳 Dampskib	45.8847708	10.8396942
+14	Overnight stay	Trient	Trento	Trento	1854-06-06	1854-06-07	🚌 Omnibus	46.1029536	11.1297425
+14	Stay	Bolzano (Bozen)	Bolzano	Bolzano	1854-06-07	1854-06-08	🛺 Vogn	46.4984781	11.3547399
+14	Passing through	Brenner-passet	Brenner Pass	Passo Brenno	1854-06-08	1854-06-08	🐎 Postvogn	47.0073993	11.5066996
+14	Stay	Innsbruck	Innsbruck	Innsbruck	1854-06-09	1854-06-11	🛺 Vogn	47.2654296	11.3927685
+14	Stay	München	Munich	München	1854-06-12	1854-06-19	🐎 Postvogn	48.1371079	11.5753822
+14	Passing through	Augsburg	Augsburg	Augsburg	1854-06-19	1854-06-19	🚂 Tog	48.3690341	10.8979522
+14	Passing through	Biessenhofen	Biessenhofen	Biessenhofen	1854-06-19	1854-06-19	🚂 Tog	47.828134	10.6412581
+14	Passing through	Füssen	Füssen	Füssen	1854-06-19	1854-06-19	🐎 Postvogn	47.5675998	10.6993217
+14	Passing through	Füssen	Füssen	Füssen	1854-06-19	1854-06-19	👑 Kongelig vogn	47.5675998	10.6993217
+14	Stay	Hohenschwangau	Hohenschwangau	Hohenschwangau	1854-06-19	1854-06-21	👑 Kongelig vogn	47.5551938	10.7394834
+14	Passing through	Biessenhofen	Biessenhofen	Biessenhofen	1854-06-21	1854-06-21	🐎 Postvogn	47.828134	10.6412581
+14	Overnight stay	Augsburg	Augsburg	Augsburg	1854-06-21	1854-06-22	🚂 Tog	48.3690341	10.8979522
+14	Stay	München	Munich	München	1854-06-22	1854-06-24	🚂 Tog	48.1371079	11.5753822
+14	Overnight stay	Nürnberg	Nürnberg	Nürnberg	1854-06-24	1854-06-25	🚂 Tog	49.453872	11.077298
+14	Passing through	Hof	Hof	Hof	1854-06-25	1854-06-25	🚂 Tog	50.3219015	11.9178807
+14	Stay	Leipzig	Leipzig	Leipzig	1854-06-25	1854-06-27	🚂 Tog	51.3406321	12.3747329
+14	Stay	Weimar	Weimar	Weimar	1854-06-27	1854-06-29	🚂 Tog	50.9769686	11.3275394
+14	Overnight stay	Eisenach	Eisenach	Eisenach	1854-06-29	1854-06-30	🚂 Tog	50.9747134	10.3193565
+14	Stay	Wilhelmsthal	Wilhelmsthal	Wilhelmsthal	1854-06-30	1854-07-02	🛺 Vogn	50.310642	11.3756566
+14	Stay	Eisenach	Eisenach	Eisenach	1854-07-02	1854-07-03	🚂 Tog	50.9747134	10.3193565
+14	Stay	Hannover	Hannover	Hannover	1854-07-03	1854-07-04	🚂 Tog	52.3744779	9.7385532
+14	Stay	Lübeck	Lübeck	Lübeck	1854-07-04	1854-07-05	🚂 Tog	53.866444	10.684738
+14	Return	København	Copenhagen	København	1854-07-06		🛳 Dampskib	55.676098	12.568337
+15	Departure	København	Copenhagen	København		1855-06-28		55.676098	12.568337
+15	Passing through	Kiel	Kiel	Kiel	1855-06-29	1855-06-29	🛳 Dampskib	54.3227085	10.135555
+15	Passing through	Altona	Altona	Altona	1855-06-29	1855-06-29	🚂 Tog	53.5864676	9.7776697
+15	Stay	Hamborg	Hamburg	Hamburg	1855-06-29	1855-06-30	🚂 Tog	53.550341	10.000654
+15	Stay	Berlin	Berlin	Berlin	1855-06-30	1855-07-02	🚂 Tog	52.510885	13.3989367
+15	Stay	Dresden	Dresden	Dresden	1855-07-02	1855-07-06	🚂 Tog	51.0493286	13.7381437
+15	Stay	Maxen	Maxen	Maxen	1855-07-06	1855-07-19	🛺 Privatvogn	50.9251208	13.8016064
+15	Stay	Dresden	Dresden	Dresden	1855-07-19	1855-07-22	🛺 Privatvogn	51.0493286	13.7381437
+15	Stay	Leipzig	Leipzig	Leipzig	1855-07-22	1855-07-23	🚂 Tog	51.3406321	12.3747329
+15	Overnight stay	Hof	Hof	Hof	1855-07-23	1855-07-24	🚂 Tog	50.3219015	11.9178807
+15	Stay	Nürnberg	Nürnberg	Nürnberg	1855-07-24	1855-07-26	🚂 Tog	49.453872	11.077298
+15	Stay	München	Munich	München	1855-07-26	1855-08-08	🛺 Vogn	48.1371079	11.5753822
+15	Stay	Ulm	Ulm	Ulm	1855-08-08	1855-08-09	🚂 Tog	48.3984968	9.9912458
+15	Stay	Stuttgart	Stuttgart	Stuttgart	1855-08-09	1855-08-11	🐎 Postvogn	48.7784485	9.1800132
+15	Stay	Wildbad	Wildbad	Wildbad	1855-08-11	1855-08-15	🐎 Postvogn	49.369268	10.1803869
+15	Passing through	Durlach	Durlach	Durlach	1855-08-15	1855-08-15	🐎 Postvogn	48.9994421	8.4702066
+15	Stay	Karlsruhe	Karlsruhe	Karlsruhe	1855-08-15	1855-08-16	🚂 Tog	49.0068705	8.4034195
+15	Passing through	Freiburg	Freiburg	Freiburg	1855-08-16	1855-08-16	🚂 Tog	47.9960901	7.8494005
+15	Stay	Schaffhausen	Schaffhausen	Schaffhausen	1855-08-17	1855-08-18	🐎 Postvogn	47.6960491	8.634513
+15	Stay	Zürich	Zürich	Zürich	1855-08-18	1855-08-19	🐎 Postvogn	47.3744489	8.5410422
+15	Passing through	Horgen	Horgen	Horgen	1855-08-19	1855-08-19	🛥️ Båd	47.260692	8.5976831
+15	Passing through	Zug	Zug	Zug	1855-08-19	1855-08-19	🐎 Postvogn	47.1486137	8.5539378
+15	Passing through	Küssnacht	Küssnach	Küssnacht	1855-08-19	1855-08-19	🛥️ Båd	47.08385	8.4386308
+15	Stay	Luzern	Lucerne	Luzern	1855-08-19	1855-08-20	🛥️ Båd	47.0505452	8.3054682
+15	Stay	Brunnen	Brunnen	Brunnen	1855-08-20	1855-08-21	🛥️ Båd	46.9940439	8.6054085
+15	Passing through	Flüelen	Flüelen	Flüelen	1855-08-21	1855-08-21	🛥️ Båd	46.9027239	8.6253481
+15	Stay	Weggis	Weggis	Weggis	1855-08-21	1855-08-22	🛥️ Båd	47.0322545	8.4346408
+15	Stay	Rigi-Kulm	Rigi-Kulm	Rigi-Kulm	1855-08-22	1855-08-23	🚶 Til fods	47.0567857	8.4861404
+15	Passing through	Küssnacht	Küssnacht	Küssnacht	1855-08-23	1855-08-23	🚶 Til fods	47.08385	8.4386308
+15	Passing through	Immensee	Immensee	Immensee	1855-08-23	1855-08-23	🚶 Til fods	47.0968171	8.4626759
+15	Passing through	Art	Art	Art	1855-08-23	1855-08-23	🛥️ Båd	46.6578174	6.487782
+15	Passing through	Zug	Zug	Zug	1855-08-23	1855-08-23	🛥️ Båd	47.1486137	8.5539378
+15	Passing through	Horgen	Horgen	Horgen	1855-08-23	1855-08-23	🚌 Omnibus	47.260692	8.5976831
+15	Stay	Zürich	Zürich	Zürich	1855-08-23	1855-08-25	🛥️ Båd	47.3744489	8.5410422
+15	Passing through	Winterthur	Winterthur	Winterthur	1855-08-25	1855-08-25	🚌 Omnibus	47.4991723	8.7291498
+15	Passing through	Romanshorn	Romanshorn	Romanshorn	1855-08-25	1855-08-25	🚂 Tog	47.6045553	9.531322
+15	Stay	Friedrichshafen	Friedrichshafen	Friedrichshafen	1855-08-25	1855-08-26	🛥️ Båd	47.6500279	9.4800858
+15	Passing through	Ulm	Ulm	Ulm	1855-08-26	1855-08-26	🚂 Tog	48.3984968	9.9912458
+15	Passing through	Stuttgart	Stuttgart	Stuttgart	1855-08-26	1855-08-26	🚂 Tog	48.7784485	9.1800132
+15	Stay	Heilbronn	Heilbronn	Heilbronn	1855-08-26	1855-08-28	🚂 Tog	49.142291	9.218655
+15	Stay	Heidelberg	Heidelberg	Heidelberg	1855-08-28	1855-08-30	🛳 Dampskib	49.4093582	8.694724
+15	Stay	Frankfurt	Frankfurt	Frankfurt	1855-08-30	1855-09-01	🛳 Dampskib	50.1106444	8.6820917
+15	Stay	Kassel	Kassel	Kassel	1855-09-01	1855-09-02	🚂 Tog	51.3154546	9.4924096
+15	Stay	Eisenach	Eisenach	Eisenach	1855-09-02	1855-09-03	🚂 Tog	50.9747134	10.3193565
+15	Stay	Weimar	Weimar	Weimar	1855-09-03	1855-09-12	🚂 Tog	50.9769686	11.3275394
+15	Passing through	Eisenach	Eisenach	Eisenach	1855-09-12	1855-09-12	🚂 Tog	50.9747134	10.3193565
+15	Stay	Wilhelmsthal	Wilhelmsthal	Wilhelmsthal	1855-09-12	1855-09-15	👑 Kongelig vogn	50.310642	11.3756566
+15	Stay	Eisenach	Eisenach	Eisenach	1855-09-15	1855-09-15	👑 Kongelig vogn	50.9747134	10.3193565
+15	Overnight stay	Kassel	Kassel	Kassel	1855-09-15	1855-09-16	🚂 Tog	51.3154546	9.4924096
+15	Overnight stay	Göttingen	Göttingen	Göttingen	1855-09-16	1855-09-17	🐎 Postvogn	51.5328328	9.9351811
+15	Stay	Hannover	Hannover	Hannover	1855-09-17	1855-09-18	🚂 Tog	52.3744779	9.7385532
+15	Stay	Harburg	Harburg	Harburg	1855-09-18	1855-09-19	🚂 Tog	53.3172234	9.9084975
+15	Passing through	Altona	Altona	Altona	1855-09-19	1855-09-19	🛳 Dampskib	53.5864676	9.7776697
+15	Overnight stay	Neumünster	Neumünster	Neumünster	1855-09-19	1855-09-20	🚂 Tog	54.0757442	9.9815377
+15	Stay	Flensborg	Flensburg	Flensburg	1855-09-20	1855-09-21	🚂 Tog	54.7833021	9.4333264
+15	Passing through	Svendborg	Svendborg	Svendborg	1855-09-21	1855-09-21	🛳 Dampskib	55.0636926	10.6085377
+15	Stay	Glorup Slot	Glorup Manor	Glorup Slot	1855-09-21	1855-09-26	🐎 Postvogn	55.206111	10.707778
+15	Passing through	Nyborg	Nyborg	Nyborg	1855-09-26	1855-09-26	🐎 Postvogn	55.3098281	10.7976604
+15	Passing through	Korsør	Korsør	Korsør	1855-09-26	1855-09-26	🛳 Dampskib	55.3266045	11.1425876
+15	Stay	Sorø	Sorø	Sorø	1855-09-26	1855-09-29	🐎 Postvogn	55.4365822	11.5629363
+15	Stay	Roskilde	Roskilde	Roskilde	1855-09-29	1855-09-30	🐎 Postvogn	55.6433478	12.0819247
+15	Return	København	Copenhagen	København	1855-09-30		🚂 Tog	55.676098	12.568337
+16	Departure	København	Copenhagen	København		1856-06-06		55.676098	12.568337
+16	Passing through	Korsør	Korsør	Korsør	1856-06-06	1856-06-06	🚂 Tog	55.3266045	11.1425876
+16	Passing through	Kiel	Kiel	Kiel	1856-06-07	1856-06-07	🛳 Dampskib	54.3227085	10.135555
+16	Passing through	Altona	Altona	Altona	1856-06-07	1856-06-07	🚂 Tog	53.5864676	9.7776697
+16	Stay	Hamborg	Hamburg	Hamburg	1856-06-07	1856-06-08	🛳 Dampskib	53.550341	10.000654
+16	Passing through	Hannover	Hannover	Hannover	1856-06-08	1856-06-08	🛳 Dampskib	52.3744779	9.7385532
+16	Overnight stay	Braunschweig	Braunschweig	Braunschweig	1856-06-08	1856-06-09	🚂 Tog	52.2646577	10.5236066
+16	Stay	Leipzig	Leipzig	Leipzig	1856-06-09	1856-06-10	🚂 Tog	51.3406321	12.3747329
+16	Stay	Dresden	Dresden	Dresden	1856-06-10	1856-06-13	🐎 Postvogn	51.0493286	13.7381437
+16	Stay	Maxen	Maxen	Maxen	1856-06-13	1856-06-21	🛺 Privatvogn	50.9251208	13.8016064
+16	Stay	Dresden	Dresden	Dresden	1856-06-21	1856-06-22	🛺 Privatvogn	51.0493286	13.7381437
+16	Stay	Weimar	Weimar	Weimar	1856-06-22	1856-06-27	🚂 Tog	50.9769686	11.3275394
+16	Stay	Leipzig	Leipzig	Leipzig	1856-06-27	1856-06-29	🚂 Tog	51.3406321	12.3747329
+16	Stay	Dresden	Dresden	Dresden	1856-06-29	1856-07-04	🚂 Tog	51.0493286	13.7381437
+16	Stay	Maxen	Maxen	Maxen	1856-07-04	1856-07-30	🛺 Privatvogn	50.9251208	13.8016064
+16	Stay	Dresden	Dresden	Dresden	1856-07-30	1856-08-04	🛺 Privatvogn	51.0493286	13.7381437
+16	Stay	Berlin	Berlin	Berlin	1856-08-04	1856-08-05	🚂 Tog	52.510885	13.3989367
+16	Overnight stay	Wittenberge	Wittenberge	Wittenberge	1856-08-05	1856-08-06	🚂 Tog	52.9983723	11.7507204
+16	Stay	Hamborg	Hamburg	Hamburg	1856-08-06	1856-08-07	🚂 Tog	53.550341	10.000654
+16	Overnight stay	Rendsborg	Rendsburg	Rendsburg	1856-08-07	1856-08-08	🚂 Tog	54.3000225	9.6516356
+16	Overnight stay	Flensborg	Flensburg	Flensburg	1856-08-08	1856-08-09	🚂 Tog	54.7833021	9.4333264
+16	Stay	Svendborg	Svendborg	Svendborg	1856-08-09	1856-08-09	🛳 Dampskib	55.0636926	10.6085377
+16	Stay	Glorup Slot	Glorup Manor	Glorup Slot	1856-08-09	1856-08-19	🐎 Postvogn	55.206111	10.707778
+16	Passing through	Nyborg	Nyborg	Nyborg	1856-08-19	1856-08-19	🐎 Postvogn	55.3098281	10.7976604
+16	Passing through	Korsør	Korsør	Korsør	1856-08-19	1856-08-19	🛥️ Båd	55.3266045	11.1425876
+16	Stay	Basnæs Herregård	Basnæs Manor	Basnæs Herregård	1856-08-19	1856-09-02	🛺 Privatvogn	55.210178	11.345206
+16	Stay	Sorø	Sorø	Sorø	1856-09-02	1856-09-05	🐎 Postvogn	55.4365822	11.5629363
+16	Return	København	Copenhagen	København	1856-09-05		🚂 Tog	55.676098	12.568337
+17	Departure	København	Copenhagen	København		1857-05-30		55.676098	12.568337
+17	Stay	Sorø	Sorø	Sorø	1857-05-30	1857-06-01	🚂 Tog	55.4365822	11.5629363
+17	Passing through	Slagelse	Slagelse	Slagelse	1857-06-01	1857-06-01	🚂 Tog	55.4061196	11.3525415
+17	Stay	Basnæs Herregård	Basnæs Manor	Basnæs Herregård	1857-06-01	1857-06-04	🛺 Privatvogn	55.210178	11.345206
+17	Passing through	Korsør	Korsør	Korsør	1857-06-04	1857-06-04	🛺 Privatvogn	55.3266045	11.1425876
+17	Passing through	Kiel	Kiel	Kiel	1857-06-05	1857-06-05	🛳 Dampskib	54.3227085	10.135555
+17	Passing through	Altona	Altona	Altona	1857-06-05	1857-06-05	🚂 Tog	53.5864676	9.7776697
+17	Passing through	Harburg	Harburg	Harburg	1857-06-05	1857-06-05	🛳 Dampskib	53.3172234	9.9084975
+17	Overnight stay	Uelzen	Uelzen	Uelzen	1857-06-05	1857-06-06	🚂 Tog	52.9840679	10.5385882
+17	Passing through	Hannover	Hannover	Hannover	1857-06-06	1857-06-06	🚂 Tog	52.3744779	9.7385532
+17	Overnight stay	Hamm	Hamm	Hamm	1857-06-06	1857-06-07	🚂 Tog	51.6804093	7.815197
+17	Stay	Köln	Köln	Köln	1857-06-07	1857-07-08	🚂 Tog	50.938361	6.959974
+17	Stay	Aachen	Aachen	Aachen	1857-06-08	1857-06-09	🚂 Tog	50.776351	6.083862
+17	Overnight stay	Bruxelles/Brüssel	Brussels	Bruxelles/Brüssel	1857-06-09	1857-06-10	🚂 Tog	50.8465573	4.351697
+17	Stay	Calais	Calais	Calais	1857-06-10	1857-06-11	🚂 Tog	50.9524769	1.8538446
+17	Passing through	Dover	Dover	Dover	1857-06-11	1857-06-11	🛳 Dampskib	51.1251275	1.3134228
+17	Passing through	London	London	London	1857-06-11	1857-06-11	🚂 Tog	51.5074456	-0.1277653
+17	Passing through	Higham	Higham	Higham	1857-06-11	1857-06-11	🚂 Tog	51.9818951	0.9638955
+17	Stay	Gad´s Hill Place	Gad´s Hill Place	Gad´s Hill Place	1857-06-11	1857-06-15	🚶 Til fods	51.411200	0.457900
+17	Stay	London: Tavistock House (m.m.)	London: Tavistock House (and more)	London: Tavistock House (and more)	1857-06-15	1857-06-17	🚂 Tog	51.525898	-0.129013
+17	Stay	Gad´s Hill Place	Gad´s Hill Place	Gad´s Hill Place	1857-06-17	1857-06-25	🛺 Vogn	51.411200	0.457900
+17	Stay	London: Tavistock House og St. John´s Wood	London: Tavistock House and St. John´s Wood	London: Tavistock House and St. John´s Wood	1857-06-25	1857-06-27	🛺 Vogn	51.5298565	-0.1932799
+17	Stay	Gad´s Hill Place	Gad´s Hill Place	Gad´s Hill Place	1857-06-27	1857-06-29	🛺 Vogn	51.411200	0.457900
+17	Stay	London: St. John´s Wood og Tavistock House	London: St. John´s Wood and Tavistock House	London: St. John´s Wood and Tavistock House	1857-06-29	1857-07-05	🛺 Vogn	51.5298565	-0.1932799
+17	Stay	Gad´s Hill Place	Gad´s Hill Place	Gad´s Hill Place	1857-07-05	1857-07-06	🛺 Vogn	51.411200	0.457900
+17	Stay	London: St. John´s Wood og Tavistock House	London: St. John´s Wood and Tavistock House	London: St. John´s Wood and Tavistock House	1857-07-06	1857-07-13	🛺 Vogn	51.5298565	-0.1932799
+17	Stay	Gad´s Hill Place	Gad´s Hill Place	Gad´s Hill Place	1857-07-13	1857-07-15	🛺 Vogn	51.411200	0.457900
+17	Passing through	Maidstone	Maidstone	Maidstone	1857-07-15	1857-07-15	🛺 Privatvogn	51.2748258	0.5231646
+17	Passing through	Folkestone	Folkestone	Folkestone	1857-07-15	1857-07-15	🐎 Postvogn	51.0791335	1.1794073
+17	Overnight stay	Boulogne	Boulogne	Boulogne	1857-07-15	1857-07-16	🛳 Dampskib	46.7947224	-1.3210389
+17	Stay	Amiens	Amiens	Amiens	1857-07-16	1857-07-17	🚂 Tog	49.8941708	2.2956951
+17	Stay	Paris	Paris	Paris	1857-07-17	1857-07-21	🚂 Tog	48.8534951	2.3483915
+17	Stay	Strasbourg	Strasbourg	Strasbourg	1857-07-21	1857-07-22	🚂 Tog	48.584614	7.7507127
+17	Passing through	Rhinen	Rhine	Rhein	1857-07-22	1857-07-22	🚌 Omnibus	50.4677626	7.351989
+17	Passing through	Baden	Baden	Baden	1857-07-22	1857-07-22	🚂 Tog	53.0023496	9.0820955
+17	Passing through	Mannheim	Mannheim	Mannheim	1857-07-22	1857-07-23	🚂 Tog	49.4892913	8.4673098
+17	Stay	Frankfurt	Frankfurt	Frankfurt	1857-07-23	1857-07-24	🚂 Tog	50.1106444	8.6820917
+17	Overnight stay	Guntershausen	Guntershausen	Guntershausen	1857-07-24	1857-04-25	🚂 Tog	47.467000	8.900000
+17	Stay	Leipzig	Leipzig	Leipzig	1857-07-25	1857-07-26	🚂 Tog	51.3406321	12.3747329
+17	Stay	Dresden	Dresden	Dresden	1857-07-26	1857-07-27	🚂 Tog	51.0493286	13.7381437
+17	Passing through	Görlitz	Görlitz	Görlitz	1857-07-27	1857-07-27	🚂 Tog	51.1563185	14.991018
+17	Stay	Gersdorf	Gersdorf	Gersdorf	1857-07-27	1857-07-30	🛺 Vogn	50.7500064	12.7166858
+17	Passing through	Kollhoff	Kollhoff	Kollhoff	1857-07-30	1857-07-30	🐎 Postvogn	52.5089511	13.3747265
+17	Passing through	Görlitz	Görlitz	Görlitz	1857-07-30	1857-07-30	🚂 Tog	51.1563185	14.991018
+17	Stay	Dresden	Dresden	Dresden	1857-07-30	1857-07-31	🚂 Tog	51.0493286	13.7381437
+17	Stay	Maxen	Maxen	Maxen	1857-07-31	1857-08-11	🛺 Privatvogn	50.9251208	13.8016064
+17	Stay	Dresden	Dresden	Dresden	1857-08-11	1857-08-12	🐎 Postvogn	51.0493286	13.7381437
+17	Stay	Maxen	Maxen	Maxen	1857-08-12	1857-08-24	🛺 Privatvogn	50.9251208	13.8016064
+17	Stay	Dresden	Dresden	Dresden	1857-08-24	1857-08-27	🐎 Postvogn	51.0493286	13.7381437
+17	Stay	Maxen	Maxen	Maxen	1857-08-27	1857-08-30	🛺 Privatvogn	50.9251208	13.8016064
+17	Stay	Dresden	Dresden	Dresden	1857-08-30	1857-08-31	🛺 Privatvogn	51.0493286	13.7381437
+17	Stay	Leipzig	Leipzig	Leipzig	1857-08-31	1857-09-01	🚂 Tog	51.3406321	12.3747329
+17	Stay	Weimar	Weimar	Weimar	1857-09-01	1857-09-06	🚂 Tog	50.9769686	11.3275394
+17	Overnight stay	Kassel	Kassel	Kassel	1857-09-06	1857-09-07	🚂 Tog	51.3154546	9.4924096
+17	Overnight stay	Göttingen	Göttingen	Göttingen	1857-09-07	1857-09-08	🚂 Tog	51.5328328	9.9351811
+17	Overnight stay	Hannover	Hannover	Hannover	1857-09-08	1857-09-09	🚂 Tog	52.3744779	9.7385532
+17	Passing through	Harburg	Harburg	Harburg	1857-09-09	1857-09-09	🚂 Tog	53.3172234	9.9084975
+17	Overnight stay	Hamborg	Hamburg	Hamburg	1857-09-09	1857-09-10	🛥️ Båd	53.550341	10.000654
+17	Passing through	Altona	Altona	Altona	1857-09-10	1857-09-10	🐎 Postvogn	53.5864676	9.7776697
+17	Stay	Kiel	Kiel	Kiel	1857-09-10	1857-09-11	🚂 Tog	54.3227085	10.135555
+17	Passing through	Korsør	Korsør	Korsør	1857-09-12	1857-09-12	🛳 Dampskib	55.3266045	11.1425876
+17	Return	København	Copenhagen	København	1857-09-12		🚂 Tog	55.676098	12.568337
+18	Departure	København	Copenhagen	København		1858-06-15		55.676098	12.568337
+18	Stay	Sorø	Sorø	Sorø	1858-06-15	1858-06-17	🚂 Tog	55.4365822	11.5629363
+18	Passing through	Korsør	Korsør	Korsør	1858-06-17	1858-06-17	🚂 Tog	55.3266045	11.1425876
+18	Stay	Flensborg	Flensburg	Flensburg	1858-06-17	1858-06-18	🛳 Dampskib	54.7833021	9.4333264
+18	Passing through	Altona	Altona	Altona	1858-06-18	1858-06-18	🚂 Tog	53.5864676	9.7776697
+18	Stay	Hamborg	Hamburg	Hamburg	1858-06-18	1858-06-20	🐎 Postvogn	53.550341	10.000654
+18	Passing through	Harburg	Harburg	Harburg	1858-06-20	1858-06-20	🛳 Dampskib	53.3172234	9.9084975
+18	Stay	Hannover	Hannover	Hannover	1858-06-20	1858-06-21	🚂 Tog	52.3744779	9.7385532
+18	Passing through	Kassel	Kassel	Kassel	1858-06-21	1858-06-21	🚂 Tog	51.3154546	9.4924096
+18	Stay	Guntershausen	Guntershausen	Guntershausen	1858-06-21	1858-06-22	🚂 Tog	47.4746854	8.9169858
+18	Stay	Frankfurt	Frankfurt	Frankfurt	1858-06-22	1858-06-24	🚂 Tog	50.1106444	8.6820917
+18	Stay	Heidelberg	Heidelberg	Heidelberg	1858-06-24	1858-06-25	🚂 Tog	49.4093582	8.694724
+18	Stay	Freiburg	Freiburg	Freiburg	1858-06-25	1858-06-26	🚂 Tog	47.9960901	7.8494005
+18	Passing through	Basel	Basel	Basel	1858-06-26	1858-06-26	🚂 Tog	47.5581077	7.5878261
+18	Passing through	Olten	Olten	Olten	1858-06-26	1858-06-26	🚂 Tog	47.3496571	7.903787
+18	Stay	Luzern	Lucerne	Luzern	1858-06-26	1858-06-27	🚂 Tog	47.0505452	8.3054682
+18	Stay	Brunnen	Brunnen	Brunnen	1858-06-27	1858-07-03	🛥️ Båd	46.9940439	8.6054085
+18	Passing through	Lachen	Lachen	Lachen	1858-07-03	1858-07-03	🐎 Postvogn	47.9455572	10.2388429
+18	Stay	Glarus	Glarus	Glarus	1858-07-03	1858-07-04	🐎 Postvogn	46.9796562	9.108812
+18	Passing through	Wesen	Wesen	Wesen	1858-07-04	1858-07-04	🐎 Postvogn	48.2145236	13.2439111
+18	Passing through	Sarganz	Sarganz	Sargans	1858-07-04	1858-07-04	🚌 Omnibus	47.0482641	9.4401995
+18	Passing through	Wallenstädter see	Wallenstädter see (lake)	Wallenstädter see	1858-07-04	1858-07-04	🛳 Dampskib	47.04483	10.44739
+18	Stay	Ragaz	Ragaz	Ragaz	1858-07-04	1858-07-06	🚂 Tog	47.3051591	9.874244
+18	Passing through	Wallenstädter see	Wallenstädter see	Wallenstädter see	1858-07-06	1858-07-06	🐎 Postvogn	47.04483	10.44739
+18	Stay	Weesen	Weesen	Weesen	1858-07-06	1858-07-07	🛳 Dampskib	47.1346737	9.0973561
+18	Passing through	Linth Kanal	Linth Channel	Linth Kanal	1858-07-07	1858-07-07	🚣 Robåd	46.08861	13.63972
+18	Passing through	Züricher See	Züricher See (lake)	Züricher See	1858-07-07	1858-07-07	🛳 Dampskib	47.23129	8.70336
+18	Stay	Zürich	Zürich	Zürich	1858-07-07	1858-07-08	🛳 Dampskib	47.3744489	8.5410422
+18	Stay	Schaffhausen	Schaffhausen	Schaffhausen	1858-07-08	1858-07-09	🚂 Tog	49.2525474	6.8043152
+18	Stay	Konstanz	Konstanz	Konstanz	1858-07-09	1858-07-10	🚂 Tog	47.659216	9.1750718
+18	Passing through	Lindau	Lindau	Lindau	1858-07-10	1858-07-10	🛳 Dampskib	47.550753	9.6926624
+18	Stay	Augsburg	Augsburg	Augsburg	1858-07-10	1858-07-11	🚂 Tog	48.3690341	10.8979522
+18	Stay	München	Munich	München	1858-07-11	1858-07-16	🚂 Tog	48.1371079	11.5753822
+18	Passing through	Augsburg	Augsburg	Augsburg	1858-07-16	1858-07-16	🛳 Dampskib	48.3690341	10.8979522
+18	Stay	Nürnberg	Nürnberg	Nürnberg	1858-07-16	1858-07-17	🚂 Tog	49.453872	11.077298
+18	Stay	Bamberg	Bamberg	Bamberg	1858-07-17	1858-07-18	🚂 Tog	49.8916044	10.8868478
+18	Stay	Plauen	Plauen	Plauen	1858-07-18	1858-07-19	🚂 Tog	50.4950632	12.1346523
+18	Stay	Leipzig	Leipzig	Leipzig	1858-07-19	1858-07-20	🚂 Tog	51.3406321	12.3747329
+18	Stay	Dresden	Dresden	Dresden	1858-07-20	1858-07-22	🚂 Tog	51.0493286	13.7381437
+18	Stay	Maxen	Maxen	Maxen	1858-07-22	1858-08-05	🛺 Privatvogn	50.9251208	13.8016064
+18	Stay	Dresden	Dresden	Dresden	1858-08-05	1858-08-19	🐎 Postvogn	51.0493286	13.7381437
+18	Stay	Leipzig	Leipzig	Leipzig	1858-08-19	1858-08-20	🚂 Tog	51.3406321	12.3747329
+18	Overnight stay	Braunschweig	Braunschweig	Braunschweig	1858-08-20	1858-08-21	🚂 Tog	52.2646577	10.5236066
+18	Overnight stay	Altona	Altona	Altona	1858-08-21	1858-08-22	🚂 Tog	53.5864676	9.7776697
+18	Stay	Flensborg	Flensburg	Flensburg	1858-08-22	1858-08-23	🚂 Tog	54.7833021	9.4333264
+18	Passing through	Svendborg	Svendborg	Svendborg	1858-08-23	1858-08-23	🛳 Dampskib	55.0636926	10.6085377
+18	Stay	Glorup Slot	Glorup Manor	Glorup Slot	1858-08-23	1858-08-28	🐎 Postvogn	55.206111	10.707778
+18	Stay	Sorø	Sorø	Sorø	1858-08-28	1858-08-29	🐎 Postvogn	55.4365822	11.5629363
+18	Return	København	Copenhagen	København	1858-08-29		🚂 Tog	55.676098	12.568337
+19	Departure	København	Copenhagen	København		1860-05-26		55.676098	12.568337
+19	Stay	Sorø	Sorø	Sorø	1860-05-26	1860-05-30	🚂 Tog	55.4365822	11.5629363
+19	Passing through	Korsør	Korsør	Korsør	1860-05-30	1860-05-30	🚂 Tog	55.3266045	11.1425876
+19	Stay	Flensborg	Flensburg	Flensburg	1860-05-30	1860-06-01	🛳 Dampskib	54.7833021	9.4333264
+19	Stay	Rendsborg	Rendsburg	Rendsburg	1860-06-01	1860-06-08	🚂 Tog	54.3000225	9.6516356
+19	Passing through	Altona	Altona	Altona	1860-06-08	1860-06-08	🚂 Tog	53.5864676	9.7776697
+19	Overnight stay	Harburg	Harburg	Harburg	1860-06-08	1860-06-09	🛳 Dampskib	53.3172234	9.9084975
+19	Passing through	Hannover	Hannover	Hannover	1860-06-09	1860-06-09	🚂 Tog	52.3744779	9.7385532
+19	Stay	Hildesheim	Hildesheim	Hildesheim	1860-06-09	1860-06-10	🚂 Tog	52.1521636	9.9513046
+19	Stay	Göttingen	Göttingen	Göttingen	1860-06-10	1860-06-11	🚂 Tog	51.5328328	9.9351811
+19	Passing through	Kassel	Kassel	Kassel	1860-06-11	1860-06-11	🚂 Tog	51.3154546	9.4924096
+19	Stay	Eisenach	Eisenach	Eisenach	1860-06-11	1860-06-12	🚂 Tog	50.9747134	10.3193565
+19	Stay	Meiningen	Meiningen	Meiningen	1860-06-12	1860-06-14	🚂 Tog	50.573425	10.4283711
+19	Stay	Bamberg	Bamberg	Bamberg	1860-06-14	1860-06-15	🚂 Tog	49.8916044	10.8868478
+19	Stay	Nürnberg	Nürnberg	Nürnberg	1860-06-15	1860-06-17	🚂 Tog	49.453872	11.077298
+19	Stay	Regensburg	Regensburg	Regensburg	1860-06-17	1860-06-19	🚂 Tog	49.0195333	12.0974869
+19	Stay	München	Munich	München	1860-06-19	1860-06-30	🚂 Tog	48.1371079	11.5753822
+19	Passing through	Starnberg	Starnberg	Starnberg	1860-06-30	1860-06-30	🚂 Tog	47.9986851	11.3410791
+19	Passing through	Starnberger See	Starnberger See	Starnberger See	1860-06-30	1860-06-30	🛳 Dampskib	47.9092703	11.3083626
+19	Overnight stay	Seeshaupt	Seeshaupt	Seeshaupt	1860-06-30	1860-07-01	🛳 Dampskib	47.8228233	11.3013554
+19	Stay	Oberammergau	Oberammergau	Oberammergau	1860-07-01	1860-07-02	🐎 Postvogn	47.5972538	11.0635631
+19	Stay	Murnau	Murnau	Murnau	1860-07-02	1860-07-03	🛺 Privatvogn	47.6778816	11.2011903
+19	Passing through	Seeshaupt	Seeshaupt	Seeshaupt	1860-07-03	1860-07-03	🐎 Postvogn	47.8228233	11.3013554
+19	Passing through	Starnberg	Starnberg	Starnberg	1860-07-03	1860-07-03	🛳 Dampskib	47.9986851	11.3410791
+19	Stay	München	Munich	München	1860-07-03	1860-07-11	🚂 Tog	48.1371079	11.5753822
+19	Passing through	Augsburg	Augsburg	Augsburg	1860-07-11	1860-07-11	🚂 Tog	48.3690341	10.8979522
+19	Overnight stay	Kempten	Kempten	Kempten	1860-07-11	1860-07-12	🚂 Tog	47.7267063	10.3168835
+19	Stay	Lindau	Lindau	Lindau	1860-07-12	1860-07-13	🚂 Tog	47.550753	9.6926624
+19	Passing through	Romanshorn	Romanshorn	Romanshorn	1860-07-13	1860-07-13	🛳 Dampskib	47.5654452	9.3776036
+19	Passing through	Zürich	Zürich	Zürich	1860-07-13	1860-07-13	🛺 Vogn	47.3744489	8.5410422
+19	Overnight stay	Richterswil	Richterswil	Richterswil	1860-07-13	1860-07-14	🛳 Dampskib	47.2091079	8.7017051
+19	Stay	Brunnen	Brunnen	Brunnen	1860-07-14	1860-07-28	🐎 Postvogn	46.9940439	8.6054085
+19	Stay	Luzern	Lucerne	Luzern	1860-07-28	1860-07-29	🛳 Dampskib	47.0505452	8.3054682
+19	Stay	Biel	Biel	Biel	1860-07-29	1860-07-30	🚌 Omnibus	47.1402077	7.2439029
+19	Passing through	Bielersee	Lake Biel	Bielersee	1860-07-30	1860-07-30	🚌 Omnibus	47.0861034	7.171634
+19	Passing through	Landeron	Landeron	Landeron	1860-07-30	1860-07-30	🛳 Dampskib	44.55737	0.06059
+19	Passing through	Neufschatel	Neufschatel	Neufchatel	1860-07-30	1860-07-30	🐎 Postvogn	50.6188491	1.6306156
+19	Stay	Le Locle	Le Locle	Le Locle	1860-07-30	1860-08-13	🚂 Tog	47.0555907	6.745454
+19	Stay	Yverdon	Yverdon	Yverdon	1860-08-13	1860-08-14	🐎 Postvogn	46.7785711	6.6409158
+19	Passing through	Lausanne	Lausanne	Lausanne	1860-08-14	1860-08-14	🚂 Tog	46.5218269	6.6327025
+19	Stay	Ouchy	Ouchy	Ouchy	1860-08-14	1860-08-17	🚌 Omnibus	46.5074198	6.6262395
+19	Stay	Vevey	Vevey	Vevey	1860-08-17	1860-08-18	🛳 Dampskib	46.4602978	6.8418655
+19	Stay	Montreux	Montreux	Montreux	1860-08-18	1860-08-25	🛳 Dampskib	46.4310831	6.9129921
+19	Passing through	Ouchy	Ouchy	Ouchy	1860-08-25	1860-08-25	🛳 Dampskib	46.5074198	6.6262395
+19	Stay	Lausanne	Lausanne	Lausanne	1860-08-25	1860-08-26	🚌 Omnibus	46.5218269	6.6327025
+19	Passing through	Ouchy	Ouchy	Ouchy	1860-08-26	1860-08-26	🚌 Omnibus	46.5074198	6.6262395
+19	Stay	Genéve	Geneva	Genéve	1860-08-26	1860-09-16	🚌 Omnibus	46.2017559	6.1466014
+19	Passing through	Neufschatel	Neufschatel	Neufchatel	1860-09-16	1860-09-16	🚂 Tog	50.6188491	1.6306156
+19	Passing through	Bielersee	Lake Biel	Bielersee	1860-09-16	1860-09-16	🛳 Dampskib	47.0861034	7.171634
+19	Passing through	Biel	Biel	Biel	1860-09-16	1860-09-16	🛳 Dampskib	47.1402077	7.2439029
+19	Stay	Basel	Basel	Basel	1860-09-16	1860-09-22	🚂 Tog	47.5581077	7.5878261
+19	Stay	Karlsruhe	Karlsruhe	Karlsruhe	1860-09-22	1890-09-24	🛺 Vogn	49.0068705	8.4034195
+19	Stay	Stuttgart	Stuttgart	Stuttgart	1860-09-24	1860-10-02	🚂 Tog	48.7784485	9.1800132
+19	Stay	Augsburg	Augsburg	Augsburg	1860-10-02	1860-10-03	🚂 Tog	48.3690341	10.8979522
+19	Stay	München	Munich	München	1860-10-03	1860-10-09	🚂 Tog	48.1371079	11.5753822
+19	Passing through	Augsburg	Augsburg	Augsburg	1860-10-09	1860-10-09	🚂 Tog	48.3690341	10.8979522
+19	Overnight stay	Nürnberg	Nürnberg	Nürnberg	1860-10-09	1860-10-10	🚂 Tog	49.453872	11.077298
+19	Stay	Plauen	Plauen	Plauen	1860-10-10	1860-10-11	🚂 Tog	50.4950632	12.1346523
+19	Stay	Leipzig	Leipzig	Leipzig	1860-10-11	1860-10-13	🚂 Tog	51.3406321	12.3747329
+19	Stay	Dresden	Dresden	Dresden	1860-10-13	1860-11-05	🚂 Tog	51.0493286	13.7381437
+19	Stay	Berlin	Berlin	Berlin	1860-11-05	1860-11-06	🚂 Tog	52.510885	13.3989367
+19	Stay	Hamborg	Hamburg	Hamburg	1860-11-06	1860-11-07	🚂 Tog	53.550341	10.000654
+19	Stay	Neumünster	Neumünster	Neumünster	1860-11-07	1860-11-08	🚂 Tog	54.0757442	9.9815377
+19	Passing through	Rendsborg	Rendsburg	Rendsburg	1860-11-08	1860-11-08	🚂 Tog	54.3000225	9.6516356
+19	Passing through	Flensborg	Flensburg	Flensburg	1860-11-08	1860-11-08	🚂 Tog	54.7833021	9.4333264
+19	Passing through	Aabenraa	Aabenraa	Aabenraa	1860-11-09	1860-11-09	🛺 Vogn	55.0446228	9.4209667
+19	Passing through	Haderslev	Haderslev	Haderslev	1860-11-09	1860-11-09	🛺 Vogn	55.2500715	9.4997871
+19	Passing through	Assens	Assens	Assens	1860-11-09	1860-11-09	🛳 Dampskib	55.265798	9.9002174
+19	Stay	Odense	Odense	Odense	1860-11-09	1860-11-10	🐎 Postvogn	55.3997225	10.3852104
+19	Passing through	Nyborg	Nyborg	Nyborg	1860-11-10	1860-11-10	🐎 Postvogn	55.3098281	10.7976604
+19	Passing through	Korsør	Korsør	Korsør	1860-11-10	1860-11-10	🛳 Dampskib	55.3266045	11.1425876
+19	Stay	Basnæs Slot	Basnæs Manor	Basnæs Slot	1860-11-10	1860-11-17	🛺 Privatvogn	55.210178	11.345206
+19	Stay	Holsteinborg Slot	Holsteinborg Manor	Holsteinborg Manor	1860-11-17	1860-11-20	🐎 Postvogn	55.216338	11.462758
+19	Stay	Sorø	Sorø	Sorø	1860-11-20	1860-11-23	🐎 Postvogn	55.4365822	11.5629363
+19	Return	København	Copenhagen	København	1860-11-23		🚂 Tog	55.676098	12.568337
+20	Passing through	København	Copenhagen	København		1861-04-04		55.676098	12.568337
+20	Passing through	Korsør	Korsør	Korsør	1861-04-05	1861-04-05	🚂 Tog	55.3266045	11.1425876
+20	Passing through	Svendborg	Svendborg	Svendborg	1861-04-05	1861-04-05	⛵ Sejlskib	55.0636926	10.6085377
+20	Overnight stay	Flensborg	Flensburg	Flensburg	1861-04-05	1861-04-06	⛵ Sejlskib	54.7833021	9.4333264
+20	Overnight stay	Haarburg	Haarburg	Haarburg	1861-04-06	1861-04-07	🚂 Tog	51.4370419	10.4579752
+20	Overnight stay	Kassel	Kassel	Kassel	1861-04-07	1861-04-08	🚂 Tog	51.3154546	9.4924096
+20	Passing through	Frankfurt	Frankfurt	Frankfurt	1861-04-08	1861-04-09	🚂 Tog	50.1106444	8.6820917
+20	Passing through	Freiburg	Freiburg	Freibourg	1861-04-09	1861-04-09	🚂 Tog	47.9960901	7.8494005
+20	Overnight stay	Basel	Basel	Basel	1861-04-09	1861-04-11	🚂 Tog	47.5581077	7.5878261
+20	Passing through	Olten	Olten	Olten	1861-04-11	1861-04-11	🚂 Tog	47.3496571	7.903787
+20	Passing through	Biel	Biel	Biel	1861-04-11	1861-04-11	🚂 Tog	47.1402077	7.2439029
+20	Overnight stay	Neuchatel	Neuchatel	Neuchatel	1861-04-11	1861-04-13	🚂 Tog	46.9895828	6.9292641
+20	Passing through	Lausanne	Lausanne	Lausanne	1861-04-13	1861-04-13	🚂 Tog	46.5218269	6.6327025
+20	Overnight stay	Genève	Genf	Genève	1861-04-13	1861-04-14	🚂 Tog	46.2017559	6.1466014
+20	Passing through	Bellegarde	Bellegarde	Bellegarde	1861-04-14	1861-04-14	🚂 Tog	43.4255556	0.6244444
+20	Overnight stay	Lyon	Lyon	Lyon	1861-04-14	1861-04-15	🚂 Tog	45.7578137	4.8320114
+20	Overnight stay	Avignon	Avignon	Avignon	1861-04-15	1861-04-16	🚂 Tog	43.9492493	4.8059012
+20	Overnight stay	Marseille	Marseille	Marseille	1861-04-16	1861-04-17	🚂 Tog	43.2961743	5.3699525
+20	Passing through	Toulon	Toulon	Toulon	1861-04-17	1861-04-17	🐎 Postvogn	43.1257311	5.9304919
+20	Passing through	Cannes	Cannes	Cannes	1861-04-18	1861-04-18	🐎 Postvogn	43.5515198	7.0134418
+20	Passing through	Antibes	Antibes	Antibes	1861-04-18	1861-04-18	🐎 Postvogn	43.5812868	7.1262071
+20	Stay	Nice	Nice	Nice	1861-04-18	1861-04-21	🐎 Postvogn	43.7009358	7.2683912
+20	Passing through	Montone	Montone	Montone	1861-04-21	1861-04-21	🐎 Postvogn	43.3623727	12.3264425
+20	Overnight stay	Oneglia	Oneglia	Oneglia	1861-04-21	1861-04-22	🐎 Postvogn	43.8890575	8.0404426
+20	Passing through	Savona	Savona	Savona	1861-04-22	1861-04-22	🐎 Postvogn	44.2334238	8.2525727
+20	Stay	Genua	Genua	Genua	1861-04-22	1861-04-25	🐎 Postvogn	45.4556524	9.1732427
+20	Passing through	Zwickau	Zwickau	Zwickau	1861-04-25	1861-04-25	🚂 Tog	50.7185043	12.4939267
+20	Passing through	Monte Christo	Monte Christo	Monte Christo	1861-04-26	1861-04-26	🛳 Dampskib	42.33333	10.31667
+20	Stay	Livorno	Livorno	Livorno	1861-04-26	1861-04-27	🛳 Dampskib	42.7902166	10.3402787
+20	Passing through	Civita vecchia	Civita vecchia	Civita vecchia	1861-04-28	1861-04-28	🛳 Dampskib	43.55413	11.80365
+20	Stay	Rom	Rome	Roma	1861-04-28	1861-05-29	🛳 Dampskib	41.8933203	12.4829321
+20	Passing through	Civita Vecchia	Civita Vecchia	Civita Vecchia	1861-04-29	1861-04-29	🛳 Dampskib	43.55413	11.80365
+20	Overnight stay	Pisa	Pisa	Pisa	1861-05-30	1861-05-31	🚂 Tog	43.4714722	10.6797912
+20	Stay	Firenze	Florence	Firenze	1861-05-31	1861-06-04	🚂 Tog	43.7697955	11.2556404
+20	Passing through	Prato	Prato	Prato	1861-06-04	1861-06-04	🚂 Tog	43.9357181	11.0941473
+20	Passing through	Pistoja	Pistoja	Pistoja	1861-06-04	1861-06-04	🚂 Tog	43.9336213	10.9174238
+20	Overnight stay	Lucca	Lucca	Lucca	1861-06-04	1861-06-05	🚂 Tog	44.0177639	10.45443
+20	Passing through	Pisa	Pisa	Pisa	1861-06-05	1861-06-05	🚂 Tog	43.4714722	10.6797912
+20	Overnight stay	Livorno	Livorno	Livorno	1861-06-05	1861-06-06	🚂 Tog	42.7902166	10.3402787
+20	Passing through	Genua	Genua	Genua	1861-06-07	1861-06-08	🛳 Dampskib	45.4556524	9.1732427
+20	Stay	Torino	Turin	Turin	1861-06-08	1861-08-10	🚂 Tog	45.0677551	7.6824892
+20	Stay	Milano	Milan	Milano	1861-06-10	1861-06-12	🚂 Tog	45.4641943	9.1896346
+20	Passing through	Isolabella	Isolabella	Isolabella	1861-06-12	1861-06-13	🛳 Dampskib	44.9067269	7.9101512
+20	Passing through	Palanza	Palanza	Palanzano	1861-06-13	1861-06-13	⛵ Sejlskib	44.4374371	10.1944619
+20	Passing through	Iselle	Iselle	Iselle	1861-06-13	1861-06-13	🛺 Vogn	46.2052791	8.192111
+20	Passing through	Gondo	Gondo	Gondo	1861-06-13	1861-06-13	🛺 Vogn	46.1958512	8.1399499
+20	Overnight stay	Domodolosa	Domodolosa	Domodolossa	1861-06-13	1861-06-14	🛺 Vogn	46.1152451	8.2920459
+20	Overnight stay	Brieg	Brieg	Brieg	1861-06-14	1861-06-15	🛺 Vogn	48.1019452	-3.999718
+20	Passing through	Sitten	Sitten	Sitten	1861-06-15	1861-06-15	🚂 Tog	46.2311749	7.3588795
+20	Passing through	Pissewasche	Pissewasche	Pissevache	1861-06-15	1861-06-15	🚂 Tog	46.1440151	7.0280474
+20	Stay	St. Maurice	St. Maurice	St. Maurice	1861-06-15	1861-06-17	🚂 Tog	46.2197694	7.0045193
+20	Stay	Bex	Bex	Bex	1861-06-17	1861-06-22	🚂 Tog	46.2513776	7.0123881
+20	Passing through	Aigle	Aigle	Aigle	1861-06-22	1861-06-22	🛺 Vogn	46.3179006	6.9688929
+20	Passing through	Villeneuve	Villeneuve	Villeneuve	1861-06-22	1861-06-22	🛺 Vogn	46.3965712	6.9248129
+20	Passing through	Vernex	Vernex	Vernex	1861-06-22	1861-06-22	🛺 Vogn	46.4383039	6.9065367
+20	Passing through	Montreux	Montreux	Montreux	1861-06-22	1861-06-28	🛺 Vogn	46.4310831	6.9129921
+20	Stay	Lausanne	Lausanne	Lausanne	1861-06-28	1861-06-30	🚂 Tog	47.0433932	1.1821018
+20	Passing through	Oron	Oron	Oron	1861-06-30	1861-06-30	🐎 Postvogn	46.5558352	6.8273628
+20	Passing through	Rye	Rye	Rye	1861-06-30	1861-06-30	🐎 Postvogn	46.8712641	5.4297754
+20	Passing through	Romont	Romont	Romont	1861-06-30	1861-06-30	🐎 Postvogn	46.694829	6.9183328
+20	Overnight stay	Fribourg	Fribourg	Fribourg	1861-06-30	1861-07-01	🐎 Postvogn	46.6789116	7.1027113
+20	Passing through	Berm	Berm	Bern	1861-07-01	1861-07-02	🛺 Vogn	46.9484742	7.4521749
+20	Passing through	Thun	Thun	Thun	1861-07-02	1861-07-02	🚂 Tog	46.7582827	7.628086
+20	Passing through	Neuhaus	Neuhaus	Neuhaus	1861-07-02	1861-07-02	🛳 Dampskib	47.2432438	8.9464933
+20	Stay	Interlaken	Interlaken	Interlaken	1861-07-02	1861-07-04	🚌 Omnibus	46.6855231	7.8585139
+20	Passing through	Brientzersee	Brientzer lake	Brientzersee	1861-07-04	1861-07-04	🛺 Vogn	46.723148	7.9643029
+20	Passing through	Giesbach	Giesbach	Giessbach	1861-07-04	1861-07-04	🛳 Dampskib	46.7315352	8.0178958
+20	Passing through	Brünig	Brünig	Brünig	1861-07-04	1861-07-04	🛳 Dampskib	46.7572506	8.1359044
+20	Passing through	Hölzbach	Hölzbach	Hölzbach	1861-07-04	1861-07-04	🛳 Dampskib	47.4396268	9.3689895
+20	Passing through	Lungern See	Lungern See	Lungern See	1861-07-04	1861-07-04	🛳 Dampskib	46.78578	8.15984
+20	Passing through	Sarnensee	Sarnensee	Sarnensee	1861-07-04	1861-07-04	🛳 Dampskib	46.89851	8.25068
+20	Passing through	Vierwaldstättersee	Vierwaldtstättersee	Vierwaldstättersee	1861-07-04	1861-07-04	🛳 Dampskib	46.9854693	8.4986005
+20	Passing through	Stanz	Stanz	Stans	1861-07-04	1861-07-04	🛳 Dampskib	46.9570611	8.3661026
+20	Overnight stay	Luzern	Luzern	Luzern	1861-07-04	1861-07-05	🛳 Dampskib	47.0505452	8.3054682
+20	Stay	Brunnen	Brunnen	Brunnen	1861-07-05	1861-07-14	🚣 Robåd	46.9940439	8.6054085
+20	Overnight stay	Einsiedeln	Einsiedeln	Einsiedeln	1861-07-15	1861-07-16	🛺 Vogn	47.1286095	8.7500299
+20	Passing through	Richterswüll	Richterswüll	Richterswil	1861-07-16	1861-07-16	🚌 Omnibus	47.2091079	8.7017051
+20	Overnight stay	Zürich	Zürich	Zürich	1861-07-16	1861-07-17	🛳 Dampskib	47.3744489	8.5410422
+20	Passing through	Wintherthur	Wintherthur	Winterthur	1861-07-17	1861-07-17	🚂 Tog	47.4991723	8.7291498
+20	Passing through	Romanshorn	Romanshorn	Romanshorn	1861-07-17	1861-07-17	🚂 Tog	47.5654452	9.3776036
+20	Passing through	Lindau	Lindau	Lindau	1861-07-17	1861-07-17	🚂 Tog	47.550753	9.6926624
+20	Overnight stay	Kempten	Kempten	Kempten	1861-07-17	1861-07-18	🚂 Tog	47.7267063	10.3168835
+20	Stay	München	Munich	München	1861-07-18	1861-07-22	🚂 Tog	48.1371079	11.5753822
+20	Overnight stay	Augsburg	Augsburg	Augsburg	1861-07-22	1861-07-23	🚂 Tog	48.3690341	10.8979522
+20	Overnight stay	Nürnberg	Nuremberg	Nürnberg	1861-07-23	1861-07-24	🛺 Vogn	49.453872	11.077298
+20	Overnight stay	Hof	Hof	Hof	1861-07-24	1861-07-25	🚂 Tog	50.3219015	11.9178807
+20	Passing through	Riesa	Riesa	Riesa	1861-07-25	1861-07-25	🚂 Tog	51.3038241	13.308828
+20	Overnight stay	Chemnitz	Chemnitz	Chemnitz	1861-07-25	1861-07-26	🚂 Tog	50.8323531	12.918914
+20	Passing through	Dresden	Dresden	Dresden	1861-07-26	1861-07-26	🚂 Tog	51.0493286	13.7381437
+20	Stay	Maxen	Maxen	Maxen	1861-07-26	1861-08-14	👑 Kongelig vogn	50.9251208	13.8016064
+20	Stay	Dresden	Dresden	Dresden	1861-08-14	1861-08-18	👑 Kongelig vogn	51.0493286	13.7381437
+20	Overnight stay	Leipzig	Leipzig	Leipzig	1861-08-18	1861-08-19	🚂 Tog	51.3406321	12.3747329
+20	Passing through	Magdeburg	Magdeburg	Magdeburg	1861-08-19	1861-08-19	🛺 Vogn	52.1315889	11.6399609
+20	Passing through	Braunschweig	Braunschweig	Braunschweig	1861-08-19	1861-08-20	🛺 Vogn	52.2646577	10.5236066
+20	Passing through	Lehrte	Lehrte	Lehrte	1861-08-20	1861-08-20	🛺 Vogn	52.3749334	9.9748557
+20	Passing through	Harburg	Harburg	Harburg	1861-08-20	1861-08-20	🛺 Vogn	53.3172234	9.9084975
+20	Overnight stay	Hamburg	Hamburg	Hamburg	1861-08-20	1861-08-21	🛺 Vogn	53.550341	10.000654
+20	Passing through	Rendsburg	Rendsburg	Rendsburg	1861-08-21	1861-08-21	🚂 Tog	54.3000225	9.6516356
+20	Passing through	Slesvig	Slesvig	Schleswig	1861-08-21	1861-08-21	🚂 Tog	54.51851	9.5653284
+20	Overnight stay	Flensborg	Flensburg	Flensburg	1861-08-21	1861-08-22	🪑️ Bærestol	54.7833021	9.4333264
+20	Passing through	Lillebelt	Little belt	Lillebælt	1861-08-22	1861-08-22	🛳 Dampskib	55.405191	9.737491
+20	Passing through	Svendborg	Svendborg	Svendborg	1861-08-22	1861-08-22	🛳 Dampskib	55.0636926	10.6085377
+20	Passing through	Korsør	Korsør	Korsør	1861-08-22	1861-08-22	🛳 Dampskib	55.3266045	11.1425876
+20	Stay	Basnæs	Basnæs	Basnæs	1861-08-22	1861-08-26	🛺 Vogn	55.210178	11.345206
+20	Passing through	Slagelse	Slagelse	Slagelse	1861-08-26	1861-08-26	🛺 Vogn	55.4061196	11.3525415
+20	Stay	Sorø	Sorø	Sorø	1861-08-26	1861-09-01	🚂 Tog	55.4365822	11.5629363
+20	Return	København	Copenhagen	København	1861-09-01		🚂 Tog	55.676098	12.568337
+21	Departure	København	Copenhagen	København		1862-07-23		55.676098	12.568337
+21	Overnight stay	Korsør	Korsør	Korsør	1862-07-23	1862-07-24	🚂 Tog	55.3266045	11.1425876
+21	Stay	Flensborg	Flensburg	Flensburg	1862-07-24	1862-07-26	🛳 Dampskib	54.7833021	9.4333264
+21	Overnight stay	Altona	Altona	Altona	1862-07-26	1862-07-27	🚂 Tog	53.5864676	9.7776697
+21	Overnight stay	Göttingen	Göttingen	Göttingen	1862-07-27	1862-07-28	🚂 Tog	51.5328328	9.9351811
+21	Passing through	Gundershausen	Gundershausen	Gundershausen	1862-07-28	1862-07-28	🚂 Tog	48.780115	7.5838065
+21	Overnight stay	Frankfurt	Francfurt	Frankfurt	1862-07-28	1862-07-29	🚂 Tog	50.1106444	8.6820917
+21	Passing through	Darmstadt	Darmstadt	Darmstadt	1862-07-29	1862-07-29	🚂 Tog	49.872775	8.651177
+21	Passing through	Heidelberg	Heidelberg	Heidelbeerg	1862-07-29	1862-07-29	🚂 Tog	51.5107252	9.9516764
+21	Overnight stay	Freibourg	Fribourg	Fribourg	1862-07-29	1862-07-30	🚂 Tog	46.6789116	7.1027113
+21	Stay	Brunnen	Brunnen	Brunnen	1862-07-30	1862-08-06	⛵ Sejlskib	46.9940439	8.6054085
+21	Stay	Interlaken	Interlaken	Interlaken	1862-08-06	1862-08-13	🛺 Vogn	46.6855231	7.8585139
+21	Stay	Bern	Bern	Bern	1862-08-13	1862-08-15	🚂 Tog	46.9484742	7.4521749
+21	Overnight stay	Fribourg	Fribourg	Fribourg	1862-08-15	1862-08-16	🛺 Vogn	46.6789116	7.1027113
+21	Stay	Montreux	Montreux	Montreux	1862-08-16	1862-08-30	🐎 Postvogn	46.4310831	6.9129921
+21	Stay	Lyon	Lyon	Lyon	1862-08-30	1862-09-01	🚂 Tog	45.7578137	4.8320114
+21	Passing through	Avignon	Avignon	Avignon	1862-09-01	1862-09-01	🚂 Tog	43.9492493	4.8059012
+21	Passing through	Tarascon	Tarascon	Tarascon	1862-09-01	1862-09-01	🚂 Tog	42.8458016	1.6067586
+21	Passing through	Rhone	Rhone	Rhone	1862-09-01	1862-09-01	🚂 Tog	45.6113382	5.6322327
+21	Stay	Nimes	Nimes	Nimes	1862-09-01	1862-09-03	🚂 Tog	43.8374249	4.3600687
+21	Overnight stay	Cette	Cette	Cette	1862-09-03	1862-09-04	🛺 Vogn	42.9385259	-0.5844336
+21	Passing through	Narbonne	Narbonne	Narbonne	1862-09-04	1862-09-04	🛺 Vogn	43.1837757	3.0041906
+21	Overnight stay	Perpignan	Perpignan	Perpignan	1862-09-04	1862-09-05	🛺 Vogn	42.6985304	2.8953121
+21	Stay	Barcelona	Barcelona	Barcelona	1862-09-07	1862-09-16	🛺 Vogn	41.3828939	2.1774322
+21	Stay	Valencia	Valencia	Valencia	1862-09-17	1862-09-20	🛺 Vogn	39.4697065	-0.3763353
+21	Stay	Alicante	Alicante	Alicante	1862-09-20	1862-09-23	🛺 Vogn	38.3436365	-0.4881708
+21	Overnight stay	Murcia	Murcia	Murcia	1862-09-23	1862-09-26	🛺 Vogn	37.9923795	-1.1305431
+21	Stay	Cartagena	Cartagena	Cartagena	1862-09-26	1862-09-29	🛺 Vogn	37.6152488	-0.9876857
+21	Passing through	Málaga	Málaga	Málaga	1862-09-30	1862-10-05	🛳 Dampskib	36.7213028	-4.4216366
+21	Passing through	Almeda	Almeda	Almeda	1862-10-05	1862-10-05	🛺 Vogn	41.3530362	2.0845124
+21	Stay	Granada	Granada	Granada	1862-10-06	1862-10-21	🛺 Vogn	37.1734995	-3.5995337
+21	Stay	Málaga	Málaga	Málaga	1862-10-22	1862-10-29	🛺 Vogn	36.7213028	-4.4216366
+21	Stay	Gibraltar	Gibraltar	Gibraltar	1862-10-30	1862-11-02	⛵ Sejlskib	36.1285933	-5.3474761
+21	Stay	Tanger	Tanger	Tanger	1862-11-02	1862-11-09	🐴 Æsel	35.7642313	-5.8429614
+21	Stay	Cadiz	Cadiz	Cadiz	1862-11-10	1862-11-13	🛳 Dampskib	36.5262463	-5.9008367
+21	Stay	Sevilla	Sevilla	Sevilla	1862-11-13	1862-11-22	🛺 Vogn	37.3886303	-5.9953403
+21	Stay	Cordoba	Cordoba	Cordoba	1862-11-22	1862-11-25	🚂 Tog	37.8845813	-4.7760138
+21	Stay	Madrid	Madrid	Madrid	1862-11-26	1862-12-02	🚂 Tog	40.4167047	-3.7035825
+21	Stay	Toledo	Toledo	Toledo	1862-12-02	1862-12-07	🚂 Tog	39.8560679	-4.0239568
+21	Passing through	Aranjues	Aranjues	Aranjuez	1862-12-07	1862-12-07	🚂 Tog	40.03221	-3.6039604
+21	Stay	Madrid	Madrid	Madrid	1862-12-07	1862-12-19	🚂 Tog	40.4167047	-3.7035825
+21	Passing through	Escurial	Escurial	Escurial	1862-12-19	1862-12-19	🐎 Postvogn	39.1682141	-5.8840442
+21	Passing through	St. Chidrian	St. Chidrian	Sanchidrián	1862-12-19	1862-12-19	🐎 Postvogn	40.8932876	-4.5831845
+21	Stay	Burgos	Burgos	Burgos	1862-12-20	1862-12-22	🚂 Tog	42.343926	-3.696977
+21	Passing through	San Sebastian	San Sebastian	San Sebastian	1862-12-23	1862-12-23	🐎 Postvogn	48.6251357	-2.1366995
+21	Passing through	Urún	Urún	Urún	1862-12-23	1862-12-23	🐎 Postvogn	44.568833	-0.244075
+21	Passing through	Bayonne	Bayonne	Bayonn	1862-12-23	1862-12-27	🐎 Postvogn	43.4945144	-1.4736657
+21	Stay	Biarritz	Biarritz	Biarritz	1862-12-27	1862-12-29	🐎 Postvogn	43.4832523	-1.5592776
+21	Overnight stay	Dax	Dax	Dax	1862-12-29	1862-12-30	🚂 Tog	43.7084065	-1.0518771
+21	Stay	Bordeaux	Bordeaux	Bordeaux	1862-12-30	1863-01-14	🚌 Omnibus	44.841225	-0.5800364
+21	Overnight stay	Angoulême	Angoulême	Angoulême	1863-01-14	1863-01-15	🚂 Tog	45.6484505	0.1561947
+21	Stay	Poitiers	Poitiers	Poitiers	1863-01-15	1863-01-17	🚂 Tog	46.5802596	0.340196
+21	Stay	Tours	Tours	Tours	1863-01-17	1863-01-19	🚂 Tog	47.3900474	0.6889268
+21	Overnight stay	Blois	Blois	Blois	1863-01-19	1863-01-20	🚂 Tog	47.5876861	1.3337639
+21	Overnight stay	Orléans	Orléans	Orléans	1863-01-20	1863-01-21	🚂 Tog	47.9027336	1.9086066
+21	Stay	Paris	Paris	Paris	1863-01-21	1863-03-20	🚂 Tog	48.8588897	2.320041
+21	Overnight stay	Aachen	Aachen	Aachen	1863-03-20	1863-03-21	🚂 Tog	50.776351	6.083862
+21	Stay	Düsseldorf	Düsseldorf	Düsseldorf	1863-03-21	1863-03-25	🛺 Vogn	51.2254018	6.7763137
+21	Overnight stay	Hannover	Hannover	Hannover	1863-03-25	1863-03-26	🚂 Tog	52.3744779	9.7385532
+21	Overnight stay	Hamburg	Hamburg	Hamburg	1863-03-26	1863-03-27	🛳 Dampskib	53.550341	10.000654
+21	Passing through	Aabenraa	Aabenraa	Aabenraa	1863-03-27	1863-03-27	🚂 Tog	55.0446228	9.4209667
+21	Passing through	Haderslev	Haderslev	Haderslev	1863-03-27	1863-03-27	🚂 Tog	55.2500715	9.4997871
+21	Overnight stay	Flensburg	Flensburg	Flensburg	1863-03-27	1863-03-28	🛺 Vogn	54.7833021	9.4333264
+21	Passing through	Assens	Assens	Assens	1863-03-28	1863-03-28	🛳 Dampskib	55.265798	9.9002174
+21	Overnight stay	Odense	Odense	Odense	1863-03-29	1863-03-30	🛺 Vogn	55.3997225	10.3852104
+21	Passing through	Nyborg	Nyborg	Nyborg	1863-03-30	1863-03-30	🐎 Postvogn	55.3098281	10.7976604
+21	Overnight stay	Korsør	Korsør	Korsør	1863-03-30	1863-03-31	🛳 Dampskib	55.3266045	11.1425876
+21	Return	København	Copenhagen	København	1863-03-31			55.676098	12.568337
+22	Departure	København	Copenhagen	København		1865-09-14		55.676098	12.568337
+22	Overnight stay	Malmö	Malmö	Malmö	1865-09-14	1865-09-15	⛵ Sejlskib	55.6052931	13.0001566
+22	Passing through	Afvestad	Alvesta	Alvesta	1865-09-15	1865-09-15	🚂 Tog	56.89908565444496	14.547661362549423
+22	Overnight stay	Jönköping	Jönköping	Jönköping	1865-09-15	1865-09-16	🚂 Tog	57.7825634	14.165719
+22	Overnight stay	Fallköping	Fallköping	Fallköping	1865-09-16	1865-09-17	🚂 Tog	58.973552	14.7900224
+22	Stay	Stockholm	Stockholm	Stockholm	1865-09-17	1865-09-24	🚂 Tog	59.3251172	18.0710935
+22	Stay	Uppsala	Uppsala	Uppsala	1865-09-24	1865-09-27	⛵ Sejlskib	59.8586126	17.6387436
+22	Stay	Stockholm	Stockholm	Stockholm	1865-09-27	1865-10-07	⛵ Sejlskib	59.3251172	18.0710935
+22	Overnight stay	Hallsberg	Hallsberg	Hallsberg	1865-10-07	1865-10-08	🚂 Tog	59.06493860802712	15.104551639421452
+22	Passing through	Falkjøping	Fallköping	Fallköping	1865-10-08	1865-10-08	🚂 Tog	58.973552	14.7900224
+22	Stay	Jönköping	Jönköping	Jönköping	1865-10-08	1865-10-10	🚂 Tog	57.7825634	14.165719
+22	Stay	Lund	Lund	Lund	1865-10-10	1865-10-12	🚂 Tog	55.7029296	13.1929449
+22	Overnight stay	Malmö	Malmö	Malmö	1865-10-12	1865-10-13	🚂 Tog	55.6052931	13.0001566
+22	Return	København	Copenhagen	København	1865-10-13		⛵ Sejlskib	55.676098	12.568337
+23	Departure	København	Copenhagen	København		1866-01-31		55.676098	12.568337
+23	Overnight stay	Korsør	Korsør	Korsør	1866-01-31	1866-02-01	🚂 Tog	55.3266045	11.1425876
+23	Passing through	Nyborg	Nyborg	Nyborg	1866-02-01	1866-02-01	⛵ Sejlskib	55.3098281	10.7976604
+23	Passing through	Middelfart	Middelfart	Middelfart	1866-02-01	1866-02-01	🚂 Tog	55.4469979	9.936986
+23	Overnight stay	Kolding	Kolding	Kolding	1866-02-01	1866-02-02	🛳 Dampskib	55.4894999	9.47905
+23	Stay	Hamburg	Hamburg	Hamburg	1866-02-02	1866-02-04	🚂 Tog	53.550341	10.000654
+23	Overnight stay	Celle	Celle	Celle	1866-02-04	1866-02-05	🚂 Tog	52.624056	10.081052
+23	Overnight stay	Hannover	Hannover	Hannover	1866-02-05	1866-02-06	🚂 Tog	52.3744779	9.7385532
+23	Overnight stay	Rheine	Rheine	Rheine	1866-02-06	1866-02-07	🚂 Tog	52.2797707	7.4373615
+23	Stay	Utrecht	Utrecht	Utrecht	1866-02-07	1866-02-10	🚂 Tog	52.0907006	5.1215634
+23	Stay	Amsterdam	Amsterdam	Amsterdam	1866-02-10	1866-03-14	🚂 Tog	52.3730796	4.8924534
+23	Stay	Leiden	Leiden	Leiden	1866-03-14	1866-03-18	🚂 Tog	52.1594747	4.4908843
+23	Stay	Haag	Hague	Haag	1866-03-18	1866-03-23	🚂 Tog	52.0799838	4.3113461
+23	Stay	Antwerpen	Antwerpen	Antwerpen	1866-03-23	1866-03-26	🚂 Tog	51.2211097	4.3997081
+23	Stay	Bruxelles	Brussels	Bruxelles	1866-03-26	1866-03-29	🚂 Tog	50.8465573	4.351697
+23	Stay	Paris	Paris	Paris	1866-03-29	1866-04-13	🚂 Tog	48.8588897	2.320041
+23	Overnight stay	Tours	Tours	Tours	1866-04-13	1866-04-14	🚂 Tog	47.3900474	0.6889268
+23	Stay	Bordeaux	Bordeaux	Bordeaux	1866-04-14	1866-04-24	🚂 Tog	44.841225	-0.5800364
+23	Stay	Bayonne	Bayonne	Bayonne	1866-04-24	1866-04-26	🚂 Tog	43.4945144	-1.4736657
+23	Passing through	San Sebastian	San Sebastian	San Sebastian	1866-04-26	1866-04-28	🚂 Tog	43.3224219	-1.9838889
+23	Stay	Burgos	Burgos	Burgos	1866-04-28	1866-04-29	🚂 Tog	42.343926	-3.696977
+23	Passing through	Valadolid	Valadolid	Valadolid	1866-04-29	1866-04-30	🚂 Tog	41.6521807	-4.728605
+23	Stay	Madrid	Madrid	Madrid	1866-04-30	1866-05-03	🚂 Tog	40.4167047	-3.7035825
+23	Passing through	Talavera de la Reina	Talavera de la Reina	Talavera de la Reina	1866-05-04	1866-05-04	🛺 Vogn	39.9603798	-4.8311717
+23	Passing through	Trujillo	Trujillo	Trujillo	1866-05-04	1866-05-04	🛺 Vogn	39.4605657	-5.8816626
+23	Passing through	Merida	Merida	Merida	1866-05-05	1866-05-05	🛺 Vogn	38.9174665	-6.3443977
+23	Stay	Lissabon	Lisbon	Lissabon	1866-05-06	1866-06-08	🚂 Tog	38.7077507	-9.1365919
+23	Stay	Setubal	Setubal	Setubal	1866-06-08	1866-07-09	🛺 Vogn	38.5241783	-8.8932341
+23	Stay	Lissabon	Lisbon	Lissabon	1866-07-09	1866-07-26	🛺 Privatvogn	38.7077507	-9.1365919
+23	Stay	Cintra	Cintra	Cintra	1866-07-26	1866-08-08	🛺 Privatvogn	38.7992243	-9.3853801
+23	Stay	Lissabon	Lisbon	Lissabon	1866-08-08	1866-08-14	🛺 Privatvogn	38.7077507	-9.1365919
+23	Return	Belem	Belem	Belem	1866-08-14	1866-08-18	🛳 Dampskib	43.0992556	1.3984664
+23	Passing through	Kap Finestirre	Kap Finestirre	Kap Finisterre	1866-08-15	1866-08-15	🛳 Dampskib	48.3856861	-4.3937827
+23	Stay	Bordeaux	Bordeaux	Bordeaux	1866-08-17	1866-08-29	⛵ Sejlskib	44.841225	-0.5800364
+23	Overnight stay	Blois	Blois	Blois	1866-08-29	1866-08-30	🛺 Vogn	47.5876861	1.3337639
+23	Overnight stay	Paris	Paris	Paris	1866-08-30	1866-08-31	🛺 Vogn	48.8588897	2.320041
+23	Passing through	St. Qventin	St. Quentin	St. Quentin	1866-08-31	1866-08-31	🚂 Tog	49.8465253	3.2876843
+23	Passing through	Köln	Cologne	Köln	1866-09-01	1866-09-02	🚂 Tog	50.938361	6.959974
+23	Overnight stay	Hannover	Hannover	Hannover	1866-09-02	1866-09-03	🚂 Tog	52.3744779	9.7385532
+23	Stay	Hamburg	Hamburg	Hamburg	1866-09-03	1866-09-05	🚂 Tog	53.550341	10.000654
+23	Overnight stay	Kolding	Kolding	Kolding	1866-09-05	1866-09-06	🚂 Tog	55.4894999	9.47905
+23	Overnight stay	Odense	Odense	Odense	1866-09-06	1866-09-07	🚂 Tog	55.3997225	10.3852104
+23	Overnight stay	Sorø	Sorø	Sorø	1866-09-07	1866-09-08	🚂 Tog	55.4365822	11.5629363
+23	Overnight stay	Roskilde	Roskilde	Roskilde	1866-09-08	1866-09-09	🚂 Tog	55.6433478	12.0819247
+23	Return	København	Copenhagen	København	1866-09-09		🚂 Tog	55.676098	12.568337
+24	Departure	København	Copenhagen	København		1867-04-11		55.676098	12.568337
+24	Overnight stay	Odense	Odense	Odense	1867-04-11	1867-04-12	🚂 Tog	55.3997225	10.3852104
+24	Overnight stay	Hamburg	Hamburg	Hamburg	1867-04-12	1867-04-13	🚂 Tog	53.550341	10.000654
+24	Overnight stay	Hannover	Hannover	Hannover	1867-04-13	1867-04-14	🚂 Tog	52.3744779	9.7385532
+24	Overnight stay	Köln	Cologne	Köln	1867-04-14	1867-04-15	🚂 Tog	50.938361	6.959974
+24	Overnight stay	Paris	Paris	Paris	1867-04-15	1867-04-16	🚂 Tog	48.8588897	2.320041
+24	Stay	Paris	Paris	Paris	1867-04-16	1867-05-09	🛺 Vogn	48.8588897	2.320041
+24	Overnight stay	Dijon	Dijon	Dijon	1867-05-09	1867-05-10	🚂 Tog	47.3215806	5.0414701
+24	Passing through	Neuchatel	Neuchatel	Neuchatel	1867-05-09	1867-05-14	🚂 Tog	46.9895828	6.9292641
+24	Stay	Le Clocle	Le Locle	Le Locle	1867-05-14	1867-05-27	🚂 Tog	47.0555907	6.745454
+24	Stay	Bern	Bern	Bern	1867-05-27	1867-05-30	🚂 Tog	46.9484742	7.4521749
+24	Overnight stay	Freibourg	Fribourg	Fribourg	1867-05-30	1867-05-31	🚂 Tog	46.6789116	7.1027113
+24	Stay	Frankfurt	Frankfurt	Frankfurt	1867-05-31	1867-06-01	🚂 Tog	50.1106444	8.6820917
+24	Overnight stay	Kassel	Kassel	Kassel	1867-06-01	1867-06-02	🚂 Tog	51.3154546	9.4924096
+24	Stay	Hamburg	Hamburg	Hamburg	1867-06-02	1867-06-05	🚂 Tog	53.550341	10.000654
+24	Passing through	Fredericia	Fredericia	Fredericia	1867-06-05	1867-06-05	🚂 Tog	55.565268	9.7562169
+24	Passing through	Odense	Odense	Odense	1867-06-05	1867-06-06	🚂 Tog	55.3997225	10.3852104
+24	Overnight stay	Korsør	Korsør	Korsør	1867-06-06	1867-06-07	🛳 Dampskib	55.3266045	11.1425876
+24	Return	København	Copenhagen	København	1867-06-07		🚂 Tog	55.676098	12.568337
+25	Departure	København	Copenhagen	København		1867-09-01		55.676098	12.568337
+25	Passing through	Korsør	Korsør	Korsør	1867-09-01	1867-09-02	🚂 Tog	55.3266045	11.1425876
+25	Passing through	Kiel	Kiel	Kiel	1867-09-02	1867-09-02	🛳 Dampskib	54.3227085	10.135555
+25	Overnight stay	Hamburg	Hamburg	Hamburg	1867-09-02	1867-09-03	🚂 Tog	53.550341	10.000654
+25	Overnight stay	Hannover	Hannover	Hannover	1867-09-03	1867-09-04	🚂 Tog	52.3744779	9.7385532
+25	Overnight stay	Frankfurt	Frankfurt	Frankfurt	1867-09-04	1867-09-05	🚂 Tog	50.1106444	8.6820917
+25	Overnight stay	Strasbourg	Strasbourg	Strasbourg	1867-09-05	1867-09-06	🚂 Tog	48.584614	7.7507127
+25	Stay	Paris	Paris	Paris	1867-09-07	1867-09-22	🚂 Tog	48.8588897	2.320041
+25	Overnight stay	Épernay	Épernay	Épernay	1867-09-22	1867-09-23	🚂 Tog	49.042561	3.9528655
+25	Overnight stay	Kehl	Kehl	Kehl	1867-09-23	1867-09-24	🚂 Tog	48.5728929	7.8109768
+25	Stay	Baden-Baden	Baden-Baden	Baden-Baden	1867-09-24	1867-09-26	🛺 Vogn	48.7610716	8.239959
+25	Overnight stay	Kassel	Kassel	Kassel	1867-09-26	1867-09-27	🚂 Tog	51.3154546	9.4924096
+25	Passing through	Hamburg	Hamburg	Hamburg	1867-09-27	1867-09-28	🚂 Tog	53.550341	10.000654
+25	Passing through	Fredericia	Fredericia	Fredericia	1867-09-29	1867-09-29	🚂 Tog	55.565268	9.7562169
+25	Overnight stay	Odense	Odense	Odense	1867-09-29	1867-09-30	🚂 Tog	55.3997225	10.3852104
+25	Return	København	Copenhagen	København	1867-09-30		🚂 Tog	55.676098	12.568337
+26	Departure	København	Copenhagen	København		1868-04-21		55.676098	12.568337
+26	Passing through	Korsør	Korsør	Korsør	1868-04-21	1868-04-21	🚂 Tog	55.3266045	11.1425876
+26	Passing through	Nyborg	Nyborg	Nyborg	1868-04-21	1868-04-21	🛳 Dampskib	55.3098281	10.7976604
+26	Stay	Odense	Odense	Odense	1868-04-21	1868-04-26	🚂 Tog	55.3997225	10.3852104
+26	Passing through	Fredericia	Fredericia	Fredericia	1868-04-26	1868-04-26	🛳 Dampskib	55.565268	9.7562169
+26	Stay	Hamburg	Hamburg	Hamburg	1868-04-26	1868-04-28	🚂 Tog	53.550341	10.000654
+26	Overnight stay	Minden	Minden	Minden	1868-04-28	1868-04-29	🚂 Tog	52.2881045	8.9168852
+26	Overnight stay	Arnhem	Arnhem	Arnhem	1868-04-29	1868-04-30	🚂 Tog	51.984257	5.9108573
+26	Stay	Amsterdam	Amsterdam	Amsterdam	1868-04-30	1868-05-07	🚂 Tog	52.3730796	4.8924534
+26	Overnight stay	Antwerpen	Antwerpen	Antwerpen	1868-05-07	1868-05-08	🚂 Tog	51.2211097	4.3997081
+26	Stay	Gent	Ghent	Gent	1868-05-08	1868-05-11	🚂 Tog	51.0538286	3.7250121
+26	Stay	Paris	Paris	Paris	1868-05-11	1868-05-19	🚂 Tog	48.8588897	2.320041
+26	Overnight stay	Dijon	Dijon	Dijon	1868-05-19	1868-05-20	🚂 Tog	47.3215806	5.0414701
+26	Stay	Neuchâtel	Neuchâtel	Neuchâtel	1868-05-20	1868-05-23	🚂 Tog	46.9895828	6.9292641
+26	Stay	Genève	Genf	Genève	1868-05-23	1868-06-01	🚂 Tog	46.2017559	6.1466014
+26	Stay	Ouchy	Ouchy	Ouchy	1868-06-01	1868-06-03	🛳 Dampskib	46.5074198	6.6262395
+26	Overnight stay	Bern	Bern	Bern	1868-06-03	1868-06-04	🛺 Vogn	51.1150608	7.1285485
+26	Overnight stay	Basel	Basel	Basel	1868-06-04	1868-06-05	🛺 Vogn	49.916438	10.813103
+26	Overnight stay	Baden-Baden	Baden-Baden	Baden-Baden	1868-06-05	1868-06-06	🚂 Tog	48.7610716	8.239959
+26	Overnight stay	Darmstad	Darmstad	Darmstadt	1868-06-06	1868-06-07	🚂 Tog	49.8851869	8.6736295
+26	Stay	Ems	Ems	Ems	1868-06-07	1868-06-13	🚂 Tog	52.4267838	7.3394696
+26	Overnight stay	Köln	Cologne	Köln	1868-06-13	1868-06-14	🛺 Vogn	50.938361	6.959974
+26	Overnight stay	Hannover	Hannover	Hannover	1868-06-14	1868-06-15	🚂 Tog	52.3744779	9.7385532
+26	Stay	Hamburg	Hamburg	Hamburg	1868-06-15	1868-06-17	🚂 Tog	53.550341	10.000654
+26	Stay	Altona	Altona	Altona	1868-06-17	1868-07-02	🛺 Privatvogn	53.5864676	9.7776697
+26	Stay	Odense	Odense	Odense	1868-07-02	1868-07-04	🚂 Tog	55.3997225	10.3852104
+26	Passing through	Korsør	Korsør	Korsør	1868-07-04	1868-07-04	🛳 Dampskib	55.3266045	11.1425876
+26	Passing through	Nyborg	Nyborg	Nyborg	1868-07-04	1868-07-04	🚂 Tog	55.3098281	10.7976604
+26	Return	København	Copenhagen	København	1868-07-04		🚂 Tog	55.676098	12.568337
+27	Departure	København	Copenhagen	København		1869-09-10		55.676098	12.568337
+27	Stay	Basnæs	Basnæs	Basnæs	1869-09-10	1869-09-18	🛺 Vogn	55.210178	11.345206
+27	Stay	Holsteinborg	Holsteinborg	Holsteinborg	1869-09-18	1869-09-22	🛺 Vogn	55.2154043	11.4644827
+27	Overnight stay	Korsør	Korsør	Korsør	1869-09-22	1869-09-23	🛺 Vogn	55.3266045	11.1425876
+27	Passing through	Nyborg	Nyborg	Nyborg	1869-09-23	1869-09-23	⛵ Sejlskib	55.3098281	10.7976604
+27	Stay	Glorup	Glorup	Glorup	1869-09-23	1869-09-26	🛺 Privatvogn	55.2062489	10.7083721
+27	Passing through	Strib	Strib	Strib	1869-09-26	1869-09-26	🚂 Tog	55.5369188	9.7763619
+27	Passing through	Fredericia	Fredericia	Fredericia	1869-09-26	1869-09-26	⛵ Sejlskib	55.565268	9.7562169
+27	Stay	Hamborg	Hamburg	Hamburg	1869-09-26	1869-09-28	🚂 Tog	53.550341	10.000654
+27	Passing through	Braunschweig	Braunschweig	Braunschweig	1869-09-28	1869-09-29	🚂 Tog	52.2646577	10.5236066
+27	Stay	Leipzig	Leipzig	Leipzig	1869-09-29	1869-10-02	🚂 Tog	51.3406321	12.3747329
+27	Overnight stay	Dresden	Dresden	Dresden	1869-10-02	1869-10-03	🚂 Tog	51.0493286	13.7381437
+27	Stay	Maxen	Maxen	Maxen	1869-10-03	1869-10-11	🛺 Privatvogn	50.9251208	13.8016064
+27	Stay	Dresden	Dresden	Dresden	1869-10-11	1869-10-13	🛺 Privatvogn	51.0493286	13.7381437
+27	Stay	Prag	Prague	Prag	1869-10-13	1869-10-15	🛺 Vogn	50.0874654	14.4212535
+27	Overnight stay	Bardoviz	Pardubitz	Pardubitz	1869-10-15	1869-10-16	🚂 Tog	50.0385812	15.7791356
+27	Stay	Brünn	Brünn	Brünn	1869-10-16	1869-10-17	🚂 Tog	49.1922443	16.6113382
+27	Stay	Wien	Vienna	Wien	1869-10-17	1869-11-04	🚂 Tog	48.2083537	16.3725042
+27	Overnight stay	Linz	Linz	Linz	1869-11-04	1869-11-05	🛺 Vogn	48.3059078	14.286198
+27	Stay	Salzburg	Salzburg	Salzburg	1869-11-05	1869-11-08	🛺 Vogn	47.7981346	13.0464806
+27	Stay	München	Munich	München	1869-11-08	1869-11-16	🚂 Tog	48.1371079	11.5753822
+27	Overnight stay	Kempten	Kempten	Kempten	1869-11-16	1869-11-17	🚂 Tog	47.7267063	10.3168835
+27	Stay	Zürich	Zürich	Zürich	1869-11-17	1869-11-19	🚂 Tog	47.3744489	8.5410422
+27	Stay	Bern	Bern	Bern	1869-11-19	1869-11-21	🚂 Tog	46.9484742	7.4521749
+27	Stay	Genève	Genf	Genève	1869-11-21	1869-11-23	🚂 Tog	46.2017559	6.1466014
+27	Stay	Lyon	Lyon	Lyon	1869-11-23	1869-11-25	🛺 Vogn	45.7578137	4.8320114
+27	Overnight stay	Avignon	Avignon	Avignon	1869-11-25	1869-11-26	🛺 Vogn	43.9492493	4.8059012
+27	Stay	Marseille	Marseille	Marseille	1869-11-26	1869-11-29	🚂 Tog	43.2961743	5.3699525
+27	Overnight stay	Toulon	Toulon	Toulon	1869-11-29	1869-11-30	🚂 Tog	43.1257311	5.9304919
+27	Stay	Nizza	Nice	Nice	1869-11-30	1870-01-31	🚂 Tog	43.7009358	7.2683912
+27	Stay	Cannes	Cannes	Cannes	1870-01-31	1870-02-02	🚂 Tog	43.5515198	7.0134418
+27	Passing through	Marseille	Marseille	Marseille	1870-02-02	1870-02-04	🚂 Tog	43.2961743	5.3699525
+27	Overnight stay	Arles	Arles	Arles	1870-02-04	1870-02-05	🚂 Tog	43.6776223	4.6309653
+27	Stay	Lyon	Lyon	Lyon	1870-02-05	1870-02-07	🚂 Tog	45.7578137	4.8320114
+27	Overnight stay	Dijon	Dijon	Dijon	1870-02-07	1870-02-08	🚂 Tog	47.3215806	5.0414701
+27	Stay	Paris	Paris	Paris	1870-02-08	1870-02-24	🚂 Tog	48.8588897	2.320041
+27	Stay	Brussel	Brussels	Bruxelles	1870-02-24	1870-02-27	🚂 Tog	50.8465573	4.351697
+27	Stay	Köln	Cologne	Köln	1870-02-27	1870-03-02	🚂 Tog	50.938361	6.959974
+27	Overnight stay	Hamm	Hamm	Hamm	1870-03-02	1870-03-03	🚂 Tog	51.6804093	7.815197
+27	Overnight stay	Hannover	Hannover	Hannover	1870-03-03	1870-03-04	🚂 Tog	52.3744779	9.7385532
+27	Overnight stay	Haarburg	Haarburg	Haarburg	1870-03-04	1870-03-05	🚂 Tog	51.4370419	10.4579752
+27	Stay	Hamburg	Hamburg	Hamburg	1870-03-05	1870-03-07	🛳 Dampskib	53.550341	10.000654
+27	Overnight stay	Fredericia	Fredericia	Fredericia	1870-03-07	1870-03-08	🚂 Tog	55.565268	9.7562169
+27	Passing through	Strib	Strib	Strib	1870-03-08	1870-03-08	🛳 Dampskib	55.5369188	9.7763619
+27	Stay	Odense	Odense	Odense	1870-03-08	1870-03-10	🚂 Tog	55.3997225	10.3852104
+27	Passing through	Nyborg	Nyborg	Nyborg	1870-03-10	1870-03-10	🚂 Tog	55.3098281	10.7976604
+27	Passing through	Slipshavn	Slipshavn	Slipshavn	1870-03-10	1870-03-10	🛺 Vogn	55.2865784	10.8256036
+27	Overnight stay	Korsør	Korsør	Korsør	1870-03-10	1870-03-11	⛵ Sejlskib	55.3266045	11.1425876
+27	Return	København	Copenhagen	Copenhagen	1870-03-11		🚂 Tog	55.676098	12.568337
+28	Departure	København	Copenhagen	København		1871-07-25		55.676098	12.568337
+28	Overnight stay	Helsingør	Elsinore	Helsingør	1871-07-25	1872-07-26	🚂 Tog	56.0348739	12.6130073
+28	Passing through	Helsingborg	Helsingborg	Helsingborg	1871-07-26	1871-07-26	⛵ Sejlskib	56.0442098	12.703706
+28	Passing through	Jönköping	Jönköping	Jönköping	1871-07-26	1871-07-28	🚂 Tog	57.7825634	14.165719
+28	Stay	Göteborg	Gothenburg	Göteborg	1871-07-28	1871-08-02	🚂 Tog	57.7072326	11.9670171
+28	Passing through	Fallkjøping	Fallköping	Fallköping	1871-08-02	1871-08-02	🛺 Vogn	58.973552	14.7900224
+28	Overnight stay	Karlstad	Karlstad	Karlstad	1871-08-02	1871-08-03	🛺 Vogn	59.3809146	13.5027631
+28	Overnight stay	Kongsvinger	Kongsvinger	Kongsvinger	1871-08-03	1871-08-04	🚂 Tog	60.1899109	12.2160231
+28	Stay	Christiania (Oslo)	Christiania (Oslo)	Christiania (Oslo)	1871-08-04	1871-08-25	🚂 Tog	59.9133301	10.7389701
+28	Overnight stay	Kongsvinger	Kongsvinger	Kongsvinger	1871-08-25	1871-08-26	🚂 Tog	60.1899109	12.2160231
+28	Passing through	Karlstad	Karlstad	Karlstad	1871-08-26	1871-08-27	🚂 Tog	59.3809146	13.5027631
+28	Passing through	Kristinehamn	Kristinehamn	Christinehamn	1871-08-27	1871-08-27	🚂 Tog	59.3113619	14.11176
+28	Passing through	Laxå	Laxå	Laxå	1871-08-27	1871-08-27	🚂 Tog	58.95	14.5
+28	Passing through	Falköping	Fallköping	Fallköping	1871-08-27	1871-08-27	🚂 Tog	58.973552	14.7900224
+28	Overnight stay	Jönköping	Jönköping	Jönköping	1871-08-27	1871-08-27	🚂 Tog	57.7825634	14.165719
+28	Overnight stay	Alfvestad (Alvesta)	Alfvestad (Alvesta)	Alfvestad (Alvesta)	1871-08-28	1871-08-29	🚂 Tog	56.9166599	14.4998825
+28	Overnight stay	Helsingborg	Helsingborg	Helsingborg	1871-08-29	1871-08-30	🚂 Tog	56.0442098	12.703706
+28	Overnight stay	Helsingør	Helsinore	Helsingør	1871-08-30	1871-08-31	🛳 Dampskib	56.0348739	12.6130073
+28	Return	København	København	København	1871-08-31		🚂 Tog	55.676098	12.568337
+29	Departure	København	Copenhagen	København		1872-04-06		55.676098	12.568337
+29	Passing through	Korsør	Korsør	Korsør	1872-04-12	1872-04-12	🛺 Vogn	55.3266045	11.1425876
+29	Passing through	Nyborg	Nyborg	Nyborg	1872-04-12	1872-04-12	🛳 Dampskib	55.3098281	10.7976604
+29	Overnight stay	Odense	Odense	Odense	1872-04-12	1872-04-13	🚂 Tog	55.3997225	10.3852104
+29	Stay	Hamburg	Hamburg	Hamburg	1872-04-13	1872-04-15	🚂 Tog	53.550341	10.000654
+29	Stay	Hannover	Hannover	Hannover	1872-04-15	1872-04-17	🚂 Tog	52.3744779	9.7385532
+29	Overnight stay	Magdeburg	Magdeburg	Magdeburg	1872-04-17	1872-04-18	🚂 Tog	52.1315889	11.6399609
+29	Stay	Leipzig	Leipzig	Leipzig	1872-04-18	1872-04-20	🚂 Tog	51.3406321	12.3747329
+29	Passing through	Dresden	Dresden	Dresden	1872-04-20	1872-04-25	🚂 Tog	51.0493286	13.7381437
+29	Stay	Prag	Prague	Prag	1872-04-25	1872-04-27	🚂 Tog	50.0874654	14.4212535
+29	Overnight stay	Brünn (Brno)	Brünn (Brno)	Brünn (Brno)	1872-04-27	1872-04-28	🚂 Tog	49.1922443	16.6113382
+29	Stay	Wien	Vienna	Wien	1872-04-28	1872-05-04	🚂 Tog	48.2083537	16.3725042
+29	Overnight stay	Linz	Linz	Linz	1872-05-04	1872-05-05	🚂 Tog	48.3059078	14.286198
+29	Stay	Salzburg	Salzburg	Salzburg	1872-05-05	1872-05-07	🚂 Tog	47.7981346	13.0464806
+29	Passing through	Kufstein	Kufstein	Kufstein	1872-05-07	1872-05-08	🚂 Tog	47.582996	12.1692134
+29	Passing through	Innsbruck	Innsbruck	Innsbruck	1872-05-08	1872-05-10	🚂 Tog	47.2654296	11.3927685
+29	Passing through	Brixen	Brixen	Brixen	1872-05-10	1872-05-10	🚂 Tog	46.716413	11.657792
+29	Overnight stay	Bozen	Bozen	Bozen	1872-05-10	1872-05-11	🚂 Tog	46.4984781	11.3547399
+29	Passing through	Riva	Riva	Riva	1872-05-11	1872-05-13	🛺 Vogn	45.8847708	10.8396942
+29	Passing through	Desenzano	Desenzano	Desenzano	1872-05-13	1872-05-14	⛵ Sejlskib	45.4701429	10.5292188
+29	Stay	Venedig	Venice	Venezia	1872-05-14	1872-05-17	⛵ Sejlskib	45.4371908	12.3345898
+29	Overnight stay	Verona	Verona	Verona	1872-05-17	1872-05-18	🚂 Tog	45.4424977	10.9857377
+29	Overnight stay	Bozen	Bozen	Bozen	1872-05-18	1872-05-19	🚂 Tog	46.4984781	11.3547399
+29	Stay	Innsbruck	Innsbruck	Innsbruck	1872-05-19	1872-05-21	🚂 Tog	47.2654296	11.3927685
+29	Stay	München	Munich	München	1872-05-21	1872-05-25	🚂 Tog	48.1371079	11.5753822
+29	Overnight stay	Augsburg	Augsburg	Augsburg	1872-05-25	1872-05-26	🚂 Tog	48.3690341	10.8979522
+29	Stay	Nürnberg	Nuremberg	Nürnberg	1872-05-26	1872-05-29	🚂 Tog	49.453872	11.077298
+29	Overnight stay	Hof	Hof	Hof	1872-05-29	1872-05-30	🚂 Tog	50.3219015	11.9178807
+29	Overnight stay	Leipzig	Leipzig	Leipzig	1872-05-30	1872-05-31	🚂 Tog	51.3406321	12.3747329
+29	Overnight stay	Halberstadt	Halberstadt	Halberstadt	1872-05-31	1872-06-01	🚂 Tog	51.8953514	11.0520563
+29	Overnight stay	Braunschweig	Braunschweig	Braunschweig	1872-06-01	1872-06-02	🚂 Tog	52.2646577	10.5236066
+29	Overnight stay	Haarburg	Haarburg	Haarburg	1872-06-02	1872-06-03	🚂 Tog	51.4370419	10.4579752
+29	Stay	Hamburg	Hamburg	Hamburg	1872-06-03	1872-06-05	⛵ Sejlskib	53.550341	10.000654
+29	Overnight stay	Fredericia	Fredericia	Fredericia	1872-06-05	1872-06-06	🛺 Vogn	55.565268	9.7562169
+29	Passing through	Strib	Strib	Strib	1872-06-06	1872-06-06	🛳 Dampskib	55.5369188	9.7763619
+29	Passing through	Odense	Odense	Odense	1872-06-06	1872-06-06	🚂 Tog	55.3997225	10.3852104
+29	Passing through	Korsør	Korsør	Korsør	1872-06-06	1872-06-06	⛵ Sejlskib	55.3266045	11.1425876
+29	Stay	Basnæs	Basnæs	Basnæs	1872-06-07	1872-06-13	🐎 Postvogn	55.210178	11.345206
+30	Passing through	Nyborg	Nyborg	Nyborg	1872-06-13	1872-06-13	🛺 Vogn	55.3098281	10.7976604
+30	Passing through	Korsør	Korsør	Korsør	1872-06-13	1872-06-13	🛳 Dampskib	55.3266045	11.1425876
+29	Return	København	Copenhagen	København	1872-06-13		🚂 Tog	55.676098	12.568337
+30	Departure	København	Copenhagen	København		1873-04-14		55.676098	12.568337
+30	Overnight stay	Korsør	Korsør	Korsør	1873-04-14	1873-04-15	🚂 Tog	55.3266045	11.1425876
+30	Passing through	Nyborg	Nyborg	Nyborg	1873-04-15	1873-04-15	🛳 Dampskib	55.3098281	10.7976604
+30	Passing through	Odense	Odense	Odense	1873-04-15	1873-04-15	🚂 Tog	55.3997225	10.3852104
+30	Passing through	Strib	Strib	Strib	1873-04-15	1873-04-15	🚂 Tog	55.5369188	9.7763619
+30	Overnight stay	Fredericia	Fredericia	Fredericia	1873-04-15	1873-04-16	🛳 Dampskib	55.565268	9.7562169
+30	Overnight stay	Slesvig	Sleswig	Schleswig	1873-04-16	1873-04-17	🚂 Tog	54.51851	9.5653284
+30	Stay	Hamburg	Hamburg	Hamburg	1873-04-17	1873-04-19	🚂 Tog	53.550341	10.000654
+30	Stay	Hannover	Hannover	Hannover	1873-04-19	1873-04-21	🚂 Tog	52.3744779	9.7385532
+30	Overnight stay	Kassel	Kassel	Kassel	1873-04-21	1873-04-22	🚂 Tog	51.3154546	9.4924096
+30	Overnight stay	Giessen	Giessen	Giessen	1873-04-22	1873-04-23	🚂 Tog	50.5862066	8.6742306
+30	Stay	Frankfurt	Francfurt	Frankfurt	1873-04-23	1873-04-25	🚂 Tog	50.1106444	8.6820917
+30	Stay	Heidelberg	Heidelberg	Heidelberg	1873-04-25	1873-04-27	🚂 Tog	49.4093582	8.694724
+30	Overnight stay	Offenburg	Offenburg	Offenburg	1873-04-27	1873-04-28	🚂 Tog	48.4716556	7.944378
+30	Overnight stay	Basel	Basel	Basel	1873-04-28	1873-04-29	🚂 Tog	47.5581077	7.5878261
+30	Stay	Bern	Bern	Bern	1873-04-29	1873-05-01	🚂 Tog	46.9484742	7.4521749
+30	Stay	Vevey	Vevey	Vevey	1873-05-01	1873-05-04	🚂 Tog	46.4602978	6.8418655
+30	Stay	Vernex	Vernex	Vernex	1873-05-04	1873-05-11	🚂 Tog	46.4383039	6.9065367
+30	Stay	Glion	Glion	Glion	1873-05-11	1873-06-01	🛺 Vogn	46.775575	9.2054956
+30	Stay	Genève	Geneva	Genf	1873-06-01	1873-06-06	🚂 Tog	46.2017559	6.1466014
+30	Overnight stay	Fribourg	Fribourg	Fribourg	1873-06-06	1873-06-07	🚂 Tog	46.6789116	7.1027113
+30	Stay	Bern	Bern	Bern	1873-06-07	1873-06-10	🚂 Tog	46.9484742	7.4521749
+30	Passing through	Thun	Thun	Thun	1873-06-10	1873-06-10	🚂 Tog	46.7582827	7.628086
+30	Passing through	Därligen	Därligen	Därligen	1873-06-10	1873-06-10	🛳 Dampskib	46.66164779663086	7.808034420013428
+30	Stay	Interlaken	Interlaken	Interlaken	1873-06-10	1873-06-13	🚂 Tog	46.6855231	7.8585139
+30	Stay	Giessbach	Giessbach	Giessbach	1873-06-13	1873-06-15	🛳 Dampskib	46.7315352	8.0178958
+30	Passing through	Brienz	Brienz	Brienz	1873-06-15	1873-06-15	🛳 Dampskib	46.7560001	8.0303006
+30	Passing through	Alpnach	Alpnach	Alpnach	1873-06-15	1873-06-15	🛺 Vogn	46.9411661	8.2736829
+30	Stay	Luzern	Luzern	Luzern	1873-06-15	1873-06-17	🛳 Dampskib	47.0505452	8.3054682
+30	Stay	Brunnen	Brunnen	Brunnen	1873-06-17	1873-06-27	🛳 Dampskib	46.9940439	8.6054085
+30	Overnight stay	Rapperswil	Rapperswil	Rapperswil	1873-06-27	1873-06-28	🛳 Dampskib	47.2266532	8.8164042
+30	Stay	Bad Ragaz	Bad Ragaz	Bad Ragaz	1873-06-28	1873-06-30	🛺 Vogn	47.0025282	9.5016438
+30	Stay	Chur	Chur	Chur	1873-06-30	1873-07-02	🛺 Vogn	46.854747	9.5264904
+30	Overnight stay	Andeer	Andeer	Andeer	1873-07-02	1873-07-03	🛺 Vogn	46.6022665	9.4269682
+30	Passing through	Splügen	Splügen	Splugen	1873-07-03	1873-07-03	🛺 Vogn	46.553071	9.3234097
+30	Stay	Chiavenna	Chiavenna	Chiavenna	1873-07-03	1873-07-05	🛺 Vogn	46.3197862	9.3984945
+30	Passing through	Silvaplana	Silvaplana	Silvaplana	1873-07-05	1873-07-05	🛺 Vogn	46.4599334	9.7959165
+30	Passing through	St. Moritz	St. Moritz	St. Moritz	1873-07-05	1873-07-05	🛺 Vogn	46.4978958	9.8392428
+30	Passing through	Maloja-passet	Maloja pass	Maloja	1873-07-05	1873-07-05	🛺 Vogn	46.3999357	9.6958071
+30	Stay	Samedan	Samedan	Samedan	1873-07-05	1873-07-05	🛺 Vogn	46.5332403	9.874586
+30	Passing through	Albula-passet	Albula pass	Albula-Pass	1873-07-07	1873-07-07	🛺 Vogn	46.5822515	9.8376821
+30	Passing through	Bergün	Bergün	Bergün	1873-07-07	1873-07-07	🛺 Vogn	46.6290381	9.7452826
+30	Overnight stay	Alveneu	Alvenau	Alvenau	1873-07-07	1873-07-08	🛺 Vogn	46.6902195	9.6290668
+30	Overnight stay	Chur	Chur	Chur	1873-07-08	1873-07-09	🛺 Vogn	46.854747	9.5264904
+30	Overnight stay	Rorschach	Rorschach	Rorschach	1873-07-09	1873-07-10	🛺 Vogn	47.4779686	9.4914025
+30	Overnight stay	Lindau	Lindau	Lindau	1873-07-10	1873-07-11	🛳 Dampskib	47.550753	9.6926624
+30	Overnight stay	Augsburg	Augsburg	Augsburg	1873-07-11	1873-07-12	🛺 Vogn	48.3690341	10.8979522
+30	Stay	München	Munich	München	1873-07-12	1873-07-16	🛺 Vogn	48.1371079	11.5753822
+30	Overnight stay	Nürnberg	Nuremberg	Nürnberg	1873-07-16	1873-07-17	🚂 Tog	49.453872	11.077298
+30	Overnight stay	Bamberg	Bamberg	Bamberg	1873-07-17	1873-07-18	🚂 Tog	49.8916044	10.8868478
+30	Overnight stay	Meiningen	Meiningen	Meiningen	1873-07-18	1873-07-18	🚂 Tog	50.573425	10.4283711
+30	Passing through	Eisenach	Eisenach	Eisenach	1873-07-19	1873-07-20	🚂 Tog	50.9747134	10.3193565
+30	Overnight stay	Kassel	Kassel	Kassel	1873-07-20	1873-07-21	🚂 Tog	51.3154546	9.4924096
+30	Overnight stay	Hannover	Hannover	Hannover	1873-07-21	1873-07-22	🚂 Tog	52.3744779	9.7385532
+30	Stay	Hamburg	Hamburg	Hamburg	1873-07-22	1873-07-25	🚂 Tog	53.550341	10.000654
+30	Overnight stay	Slesvig	Slesvig	Schleswig	1873-07-25	1873-07-26	🚂 Tog	54.51851	9.5653284
+30	Passing through	Fredericia	Fredericia	Fredericia	1873-07-26	1873-07-26	🚂 Tog	55.565268	9.7562169
+30	Overnight stay	Middelfart	Middelfart	Middelfart	1873-07-26	1873-07-27	🛳 Dampskib	55.4469979	9.936986
+30	Passing through	Nyborg	Nyborg	Nyborg	1873-07-27	1873-07-27	🚂 Tog	55.3098281	10.7976604
+30	Overnight stay	Korsør	Korsør	Korsør	1873-07-27	1873-07-28	🛳 Dampskib	55.3266045	11.1425876
+30	Return	København	Copenhagen	København	1873-07-28		🚂 Tog	55.676098	12.568337

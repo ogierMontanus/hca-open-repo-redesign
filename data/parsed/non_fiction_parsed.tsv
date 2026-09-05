@@ -1,0 +1,217 @@
+01_Posttype	02_by_Andersen	03_genre	04_main_title	05_pseudonym	06_creator	07_translator	08_source	09_Se_ogsaa	10_Krydshenvisning_til	11_uncertain_citation	12_Note	RegistryTitelID
+standardpost	False	NonFiction	Aanden i Naturen		H.C. Ørsted					False		Reg000131
+standardpost	False	NonFiction	Af Jonas Collins Papirer		Edgar Collin					False		Reg000159
+standardpost	False	NonFiction	Af mit Livs Aarbøger		Just Mathias Thiele					False		Reg000161
+standardpost	False	NonFiction	Allgemeines Theater-Lexikon, hrsg. von R. Blum, K. Herloszsohn und H. Markgraff							False		Reg000195
+standardpost	False	NonFiction	Almindelig Verdenshistorie i Udtog		H. A. Kofod					False		Reg000197
+standardpost	False	NonFiction	Alpenreisen		J. G. Kohl					False		Reg000198
+standardpost	False	NonFiction	Alperne		H. A. von Berlepsch	Jonas Collin d. Y.				False		Reg000199
+standardpost	False	NonFiction	Anonymer og Pseudonymer i den danske Litteratur indtil 1860		E. Collin					False		Reg000235
+standardpost	False	NonFiction	Ansichten der Natur		Alexander von Humboldt					False		Reg000236
+standardpost	False	NonFiction	Arabere og Kabyler		Carit Etlar					False		Reg000256
+standardpost	False	NonFiction	The Ascent of Mont Blanc		Albert Smith					False		Reg003200
+standardpost	False	NonFiction	Badestederne i Schweiz og Frankrig, der kunne træde istedet for de tydske		O. L. Bang					False		Reg000296
+standardpost	False	NonFiction	Barndoms- og Ungdoms-Minder		A. Munch					False		Reg000312
+standardpost	False	NonFiction	Begrebet Angest		S. Kierkegaard					False		Reg000323
+standardpost	False	NonFiction	Beretning om Corvetten Galathea's Reise omkring Jorden i Aarene 1845, 46 og 47		Steen Bille					False		Reg000332
+standardpost	False	NonFiction	Berner - Linde - Hall contra Mantzius		Kr. Mantzius					False		Reg000337
+standardpost	False	NonFiction	Berühmte Liebespaare	Elise von Hohenhausen	Elise Rudiger					False		Reg000344
+standardpost	False	NonFiction	Beskrifning öfver the i Öster-Götland befintlige städer, slott, soknekyrkor, soknar		C. F. Broocman					False		Reg000346
+standardpost	False	NonFiction	Ein Besuch bei dem Dichter H. C. Andersen		P. F. Siebold		Illustrirte Zeitung 14.12.1872			False		Reg001023
+standardpost	False	NonFiction	Et Besøg hos H. C. Andersen				Efter Chicago Times 27.4.1873; Dagbladet 9.6.1873			False		Reg001195
+standardpost	False	NonFiction	Bibelen							False		Reg000349
+standardpost	False	NonFiction	Bidrag til den danske Boghandels Historie		Camillus Nyrop					False		Reg000350
+standardpost	False	NonFiction	Bigarrures Iittéraires		J. Petit-Senn					False		Reg000352
+standardpost	False	NonFiction	Biographie Lord Byron's		Wilhelm Müller					False		Reg000362
+standardpost	False	NonFiction	Botaniska utflygter III		Elias Fries					False	1864	Reg000381
+standardpost	False	NonFiction	Branden i Chicago				S. D. Jacobsen, Dagbladet 28.12.1871, Nr. 311			False		Reg000384
+standardpost	False	NonFiction	Bref och dagboksanteckningar		Adolf Törneros					False		Reg000386
+standardpost	False	NonFiction	Breve fra J. P. Mynster							False		Reg000392
+standardpost	False	NonFiction	Breve fra og til Hans Christian Ørsted. Udgivne af Mathilde Ørsted							False		Reg000394
+standardpost	False	NonFiction	Breve fra Rusland		Robert Watt					False		Reg000393
+standardpost	False	NonFiction	Briefe eines Verstorbenen		Fyrst Hermann Pückler-Muskau					False		Reg000395
+standardpost	False	NonFiction	Briefe gegen den Malerialismus		Fr. Fabri					False		Reg000396
+standardpost	False	NonFiction	Carl Bloch		Frederik Bøgh		Fremtidens Nytaarsgave VII, 1873			False		Reg000452
+standardpost	False	NonFiction	Les Catholiques et les libertés		P. de Haulleville					False		Reg002114
+standardpost	False	NonFiction	Christiane Oehlenschlæger, født Heger		Nicolaj Bøgh		Historisk Archiv 1871 II			False		Reg000498
+standardpost	False	NonFiction	Christiern den anden i Sverige og Carl X Gustav i Danmark. Historiske Foredrag holdte i det skandinaviske Selskab		Fr. Hammerich					False		Reg000499
+standardpost	False	NonFiction	The City of the Sultan, and Domestic Manners of the Turks		Julia Pardoe					False		Reg003205
+standardpost	False	NonFiction	Clemens Brentanos Frühlingskranz		Bettina von Arnim					False		Reg000525
+standardpost	False	NonFiction	Codex argenteus		Wulfilas Bibeloversættelse					False	Ms., UB Uppsala	Reg000533
+standardpost	False	NonFiction	Constantinopel und seine Umgebung							False		Reg000540
+standardpost	False	NonFiction	Conversations-Lexikon. Allgemeine deutsche Real-Encyklopädie. 12. Ausg. 1874							False		Reg000541
+standardpost	False	NonFiction	Conversations·Lexikon der Gegenwart							False		Reg000542
+standardpost	False	NonFiction	Correspondance et mémoires d’un voyageur en Orient		Eugène Boré					False		Reg000546
+standardpost	False	NonFiction	Der Crédit		Stefan Széchenyi					False		Reg000774
+standardpost	False	NonFiction	Danmarks Frøer og Tudser, Iagttagelser og kritiske Bemærkninger		Jonas Collin d. Y.		Naturhist. Tidsskr. 3. Rk. VI, 1869			False		Reg000572
+standardpost	False	NonFiction	Den Danske Atlas		Erik Pontoppidan					False		Reg000674
+krydshenvisning	False	NonFiction	Danske Boghandels Historie						Bidrag til den danske Boghandels Historie	False		Reg000579
+standardpost	False	NonFiction	Danske, især kjøbenhavnske Stemninger og Tilstande ved og efter Overgangen til det 19. Aarhundrede. Udg. ved F. Schiern		E. C. Werlauff					False		Reg000586
+standardpost	False	NonFiction	Danske Komponister. Fire Skildringer [Weyse, Kuhlau, Hartmann og Gade]		Carl Thrane					False		Reg000583
+standardpost	False	NonFiction	Den danske Krønicke som Saxo Grammaticus screff		Anders Sørensen Vedels Oversættelse					False		Reg000691
+standardpost	False	NonFiction	De danske Øer. Illustreret Reisehaandbog, udg. af Foreningen Fremtiden		P. V. Grove					False		Reg000633
+standardpost	False	NonFiction	De officiis		M. T. Cicero					False		Reg000648
+standardpost	False	NonFiction	Denkwürdigkeiten aus Griechenland		Fr. Müller, udg. af P. O. Brøndsted					False		Reg000768
+standardpost	False	NonFiction	Die Donau vom Ursprunge bis zu den Mündungen		Adalbert Müller					False		Reg000876
+standardpost	False	NonFiction	Drei Reisen nach Italien		Karl von Rumohr					False		Reg000985
+standardpost	False	NonFiction	Die dänische Poesie der Gegenwart		Eduard Boas		Die Grenzboten, 1844			False		Reg000924
+standardpost	False	NonFiction	Efterretning om Nyborg Amt		Th. Lente-Adeler					False		Reg001018
+standardpost	False	NonFiction	Die eherne Schlange							False		Reg000925
+standardpost	False	NonFiction	Einige Pagte über Pferdezucht, in besonderer Beziehung auf Haupt- und Landgestüte		Hertug Christian August af Augustenborg					False		Reg001039
+standardpost	False	NonFiction	Elementargeister		H. Heine					False		Reg001046
+standardpost	False	NonFiction	Englische Geschichte, vornehmlich im 17. Jahrhundert		Leopold von Ranke					False		Reg001165
+standardpost	False	NonFiction	Er den Fortolkning af Profeten Daniels Spaadomme (Cap. 2 og 7) for hvis Rigtighed Undertegnede formener her atter at have fremsat en Mængde af mere eller mindre stærke Grunde, virkelig den rette, da ere samme Spaadomme af høieste Vigtighed, dels fordi de da ei alene ere nogle af de stærkeste Beviser for den aabenbarede Religions Sandhed, og dels fordi de meddele en Underretning om alle vore europæiske Staters endelige fredelige og verdslige Forening til en stedseværende Universalstat		Hans Bjerregaard					False		Reg001172
+standardpost	False	NonFiction	Er Hr. Lic. Henrik Scharling en alvorlig Mand?		Rudolf Schmidt					False		Reg001171
+standardpost	False	NonFiction	Erindringer		A. Oehlenschlæger					False		Reg001179
+standardpost	False	NonFiction	Erindringer af mit Liv I-V		K. L. Rahbek					False		Reg001180
+standardpost	False	NonFiction	Erindringer fra Bakkehuset		J. M. Thiele					False		Reg001181
+standardpost	False	NonFiction	Esaias Tegnérs lefnad		C. W. Böttiger					False		Reg001189
+standardpost	False	NonFiction	Essai sur l’histoire de la Litterature Néerlandaise		J. van’s Gravenweert					False		Reg001192
+standardpost	False	NonFiction	Familjeanekdoter och minnen från barndommen		Edvard Fredrik von Saltza					False		Reg001249
+standardpost	False	NonFiction	Femmes-poétes		Henri Blanvalet					False		Reg001276
+standardpost	False	NonFiction	Forsøg til en almindelig Naturhistorie		Esaias Fleischer					False		Reg001329
+standardpost	False	NonFiction	Fra Ægypternes Land		Robert Watt					False		Reg001357
+standardpost	False	NonFiction	Den franske Æsthetik i vore Dage		G. Brandes					False		Reg000705
+standardpost	False	NonFiction	Ein Freund und Mitarbeiter Wolfgang Amadeus Mozart’s. Denkwürdigkeiten des Lorenzo da Ponte von Ceneda							False		Reg001025
+krydshenvisning	False	NonFiction	Ein Freund Mozarts						Ein Freund und Mitarbeiter W. A. Mozart's	False		Reg001024
+standardpost	False	NonFiction	Fru Gyllembourg og hendes Værker i Forhold til vor Tid		Benedicte Arnesen Kall					False		Reg001395
+standardpost	False	NonFiction	Garibaldis Denkwürdigkeiten	Elpis Melena	Marie Esperance Schwartz					False		Reg001422
+standardpost	False	NonFiction	Gelehrtes München im Jahre 1834		Adolf von Schaden					False		Reg001436
+standardpost	False	NonFiction	Geschichte des dänischen Hofes		Eduard Maria Oettinger					False		Reg001446
+standardpost	False	NonFiction	Giordano Bruno		H. Brøchner					False		Reg001452
+standardpost	False	NonFiction	Grev E. F. von Saltzas Levned, Biographisk Lexicon XIII, 1847, S. 290-98							True		Reg003546
+standardpost	False	NonFiction	Goethe und Werther. Briefe Goethes (an Joh. Christian Kestner, Lotte und Hans Buff) meistens aus seiner Jugendzeit, mit erläuternden Dokumenten. Hrsg. v. Aug. Kestner							False	1854	Reg001470
+standardpost	False	NonFiction	Haandbog i Fædrelandets Historie		C. F. Allen					False		Reg001518
+standardpost	False	NonFiction	Den Hallske Politik. En Skizze		Harald Raasløff					False		Reg000677
+standardpost	False	NonFiction	Handbok för Resande i Sverige		Abraham Bohlin					False		Reg001527
+standardpost	False	NonFiction	Hans Christian Ørsted. Et Mindeskrift		J. G. Forchhammer					False		Reg001529
+standardpost	False	NonFiction	Havet, dets Plante- og Dyreverden		Georg Hartwig					False		Reg001540
+standardpost	False	NonFiction	Heimskringla		Snorre Sturluson					False		Reg001545
+standardpost	False	NonFiction	Heinrich Heine über Ludwig Börne		H. Heine					False		Reg001547
+standardpost	False	NonFiction	Hendschels Telegraph							False		Reg001557
+standardpost	False	NonFiction	Herrernes Noteringskalender 1873		A. Westrup					False		Reg001583
+standardpost	False	NonFiction	Hinsidan Sundet. Danska epistlar af Orvar Odd		O. P. Sturzen-Becker					False		Reg001593
+standardpost	False	NonFiction	Hinsides Atlanterhavet		Robert Watt					False		Reg001594
+standardpost	False	NonFiction	Histoire de Jane Gray		J. M. Dargaud					False		Reg001597
+standardpost	False	NonFiction	Histoire des Girondins		Alphonse de Lamartine					False		Reg001599
+standardpost	False	NonFiction	Histoire de la littérature en Danemark et en Suède		Xavier Marinier					False		Reg001598
+standardpost	False	NonFiction	Historiske Antegnelser til Ludvig Holbergs atten første Lystspil		E. C. Werlauff					False		Reg001605
+standardpost	False	NonFiction	Historiske Beskrivelser over den Mærkværdige og meget fyrgterlige store Ildebrand 1728		C. F. Reiser					False		Reg001606
+krydshenvisning	False	NonFiction	Holbergs Levnet						Trende Epistler til ***	False		Reg001619
+standardpost	False	NonFiction	Hundert und ein Tag auf meinem Pferde und ein Ausflug nach der Insel Maddalene	Eipis Melena	Marie Esperance Schwartz					False		Reg001650
+standardpost	False	NonFiction	Hvor skal jeg sætte min Sön i Skole?		Knud Gad					False		Reg001665
+standardpost	False	NonFiction	Igjennem Europa		Robert Watt					False		Reg001711
+krydshenvisning	False	NonFiction	Italien (Aug. Lewald)						Prakt. Reisehandbuch nach und durch Italien	False		Reg001759
+standardpost	False	NonFiction	ltalienische Reise		J. W. von Goethe					False		Reg003588
+standardpost	False	NonFiction	Jammers-Minde		Leonora Christina Ulfeldt					False		Reg001774
+standardpost	False	NonFiction	Jens Baggesens Biographie		August Baggesen					False		Reg001788
+standardpost	False	NonFiction	De jeugd van beroemde mannen	Agatha	Reinoudina de Goeje					False		Reg000642
+standardpost	False	NonFiction	Johannes-Evangeliet							False	fransk Oversættelse	Reg001817
+standardpost	False	NonFiction	Journey to Angora		William AinsPagth					False		Reg001828
+standardpost	False	NonFiction	Just Mathias Thiele		Nicolaj Bøgh		Ill. Tidende 22.11.1874			False		Reg001854
+krydshenvisning	False	NonFiction	Kabylerne						Arabere og Kabyler	False		Reg001864
+standardpost	False	NonFiction	Kaulbach i sit Hjem		Nicolaj Bøgh					False		Reg001883
+standardpost	False	NonFiction	Den kongelige danske Skuepladses Historie, fra dens Overdragelse til Staten i 1849 indtil 1874. Første Deel		Th. Overskou					False		Reg000729
+standardpost	False	NonFiction	Kongespeilet							False		Reg001936
+standardpost	False	NonFiction	Koranen							False		Reg001938
+standardpost	False	NonFiction	Labyrinthen		J. Baggesen					False		Reg002027
+standardpost	False	NonFiction	Das Leben Jesu		Karl August Hase					False		Reg000597
+standardpost	False	NonFiction	Der Lehrerberuf in seinen Antinomien		Carl Theodor Schumacher					False		Reg000792
+standardpost	False	NonFiction	Letters from the Shores of the Baltic		Elizabeth Rigby					False		Reg002140
+standardpost	False	NonFiction	Lettres açoréennes		Henri Drouet					False		Reg002141
+standardpost	False	NonFiction	Life of Columbus		Washington Irving					False		Reg002151
+standardpost	False	NonFiction	Liv i Norden		Fredrika Bremer					False		Reg002162
+standardpost	False	NonFiction	Levnetsbog		B. S. Ingemann					False		Reg002143
+standardpost	False	NonFiction	Lifvet i gamla verlden l, 1. Schweitz		Fredrika Bremer					False		Reg002152
+standardpost	False	NonFiction	Lohengrin & Tannhäuser de Richard Wagner		Fr. Liszt					False		Reg002172
+standardpost	False	NonFiction	Lord Byrons personlige Character		C. Molbech					False		Reg002176
+standardpost	False	NonFiction	Ludwig Holberg, sein Leben und seine Schriften		Robert Prutz					False		Reg002193
+standardpost	False	NonFiction	Lübische Geschichten und Sagen		Ernst Deecke					False		Reg002222
+standardpost	False	NonFiction	Lyrisk Poesie		J. L. Heiberg					False		Reg002209
+standardpost	False	NonFiction	En Maaned i Spanien		Chr. K. F. Molbech					False		Reg001100
+standardpost	False	NonFiction	Memoir of Col. Chas. S. Todd		G. W. Griffin					False		Reg002372
+standardpost	False	NonFiction	Le mie prigioni		Silvio Pellico					False		Reg002095
+standardpost	False	NonFiction	Minder fra min Barndom og min Ungdom		C. Hauch					False		Reg002398
+standardpost	False	NonFiction	Minder om min første Udenlandsreise		C. Hauch					False		Reg002399
+standardpost	False	NonFiction	Minnen från 1849 års danska Fälttåg under General Rye		Oscar von Knorring					False		Reg002409
+standardpost	False	NonFiction	Mit Theaterliv II		A. Bournonville					False	1865	Reg002418
+standardpost	False	NonFiction	Moeurs et coutumes de l'Algérie		E. Daumas					False		Reg002424
+standardpost	False	NonFiction	I monumenti dell' Egitto e della Nubia		Ippolito Rosellini					False		Reg001704
+standardpost	False	NonFiction	Morgenland und Abendland vom Verfasser der Cartons		K. von Hailbronner					False		Reg002431
+standardpost	False	NonFiction	Napoleon III. Erindringer fra Wilhelmshöhe og Chrislehurst		L. Frost					False		Reg002471
+standardpost	False	NonFiction	Neapel und die Neapolitaner		K. A. Mayer					False		Reg002483
+standardpost	False	NonFiction	Nogle Bemærkninger med Hensyn til Digteren H. C. Andersens Poesie		C. Hauch					False		Reg002519
+standardpost	False	NonFiction	Nogle Træk af Livet i Kjøbenhavn for en Menneskealder siden		J. Plenge					False		Reg002521
+standardpost	False	NonFiction	Het Noorden en het Oosten		J. van's Gravenweert					False		Reg001588
+standardpost	False	NonFiction	Nye Samlinger til den Danske Historie, udg. af P. F. Suhm l							False	heri Amores Christiani IVti med Bilag	Reg002564
+standardpost	False	NonFiction	Odense og nærmeste Omegn i Billeder og med historisk beskrivende Text		J. Lauritzen					False		Reg002589
+standardpost	False	NonFiction	Om Hesteavl og Væddeløb		Stephan Széchenyi	Edv. Collin				False		Reg002605
+standardpost	False	NonFiction	Om Holger-Danske-Sagnet		Pauline Pagm					False		Reg002606
+standardpost	False	NonFiction	One Year in Sweden		Horace Marryat					False		Reg002610
+standardpost	False	NonFiction	Oplysninger om Theaterforhold i 1849-58		Th. Overskou					False		Reg002616
+krydshenvisning	False	NonFiction	Optegnelser af danske, især kjøbenhavnske Tilstande (E. C. Werlauff)						Danske, især Kjøbenhavnske Tilstande	False		Reg002619
+standardpost	False	NonFiction	Orglerne i Le Locle (Jules F. W. Jürgensen). Ifølge Oplysninger af Fritz Jung, Le Locle, drejer det sig om en Pjece paa 32 Sider, oplæst 16.11.1859 ved Indvielsen af Orglet i den reformerte Kirke		Temple français					True	i Le Locle	Reg003550
+standardpost	False	NonFiction	Orientalische Briefe		Ida Hahn-Hahn					False		Reg002621
+standardpost	False	NonFiction	Ett par blad ifrån Rhenstranden, eller Marienberg ocb Kaiserwerth		Fredrika Bremer					False		Reg001223
+standardpost	False	NonFiction	Pariser-Fotografier. Ny Række		Robert Watt					False		Reg002654
+standardpost	False	NonFiction	Das Passions-Schauspiel im Dorfe Oberammergau in Oberbayern und seine Bedeutung für die neue Zeit		Ed. Devrient					False		Reg000606
+standardpost	False	NonFiction	Physiognomiske Studier		Sophus Schack					False		Reg002684
+standardpost	False	NonFiction	Picturesque America		W. C. Bryant					False		Reg002687
+standardpost	False	NonFiction	Poeten der Jetztzeit in Briefen an eine Frau		Johannes Scherr					False		Reg002702
+standardpost	False	NonFiction	Portugal. Erinnerungen aus dem Jahre 1842		Felix von Lichnowsky					False		Reg002721
+standardpost	False	NonFiction	Postscriptum til Skriftet »Udvalg af Breve fra Mænd og Qvinder«		P. Hjort					False		Reg002723
+standardpost	False	NonFiction	Prakt. Reisehandbuch nach und durch Italien		August Lewald					False		Reg002727
+standardpost	False	NonFiction	Reise der österreichischen Fregatte Novara um die Erde in den Jahren 1857, 1858, 1859 unter den Befehlen des Commodore B. von Wüllentorf-Urbair							False	1867	Reg002783
+standardpost	False	NonFiction	Reise durch Skandinavien (Skiz:ten aus dem Norden)		Th. Mügge					False		Reg002784
+standardpost	False	NonFiction	Reise giennem en Deel af Tydskland, Frankrige, England og Italien i Aarene 1819 og 1820		C. Molbech					False		Reg002786
+standardpost	False	NonFiction	Reise i Øst- og Vest-Finmarken samt til Beeren-Eiland og Spitsbergen, i Aarene 1827 og 1828		B. M. Keilhau					False		Reg002787
+standardpost	False	NonFiction	Reise in das Morgenland in den Jahren 1836 und 1837		Gotthilf Heinrich von Schubert					False		Reg002788
+krydshenvisning	False	NonFiction	Reise in der Orient						Reise in das Morgenland	False		Reg002789
+standardpost	False	NonFiction	Reise nach Italien und Sicilien		A. W. Kephalides					False		Reg002790
+standardpost	False	NonFiction	Die Reise um die Welt. Karlsruhe 1860-61							False		Reg000906
+standardpost	False	NonFiction	Resa i Italien 1780-82		Carl August Ehrensvärd					False		Reg002798
+standardpost	False	NonFiction	Romanen om Rosen		S. C. O. F. Broberg					False		Reg002839
+standardpost	False	NonFiction	Den romantiske Skole i Tydskland (Hovedstrømninger II)		G. Brandes					False		Reg000748
+krydshenvisning	False	NonFiction	Schweitz (Fredrika Bremer)						Lifvet i gamla verlden I	False		Reg002972
+standardpost	False	NonFiction	Die Schweiz nebst den angrenzenden Theilen		K. Baedeker					False		Reg000912
+standardpost	False	NonFiction	Sir Walter Scott as a Poet		G. M. Sproat					False		Reg003002
+standardpost	False	NonFiction	Skildringer fra Spanien		Jacob Kornerup					False		Reg003021
+standardpost	False	NonFiction	Spanierne i Danmark (Historiske Studier l)		Fr. Schiern					False		Reg003073
+standardpost	False	NonFiction	Spanske Tilstande i Fortid og Nutid		L. Lund					False		Reg003076
+standardpost	False	NonFiction	Statistisk-topographisk Beskrivelse af Kongeriget Danmark (J. P. Trap) 1. Udgave							False	1858-60	Reg003097
+standardpost	False	NonFiction	Statistisk-topographisk Beskrivelse af Kongeriget Danmark (J. P. Trap) 2. Udgave. 3. Deel							False	1872	Reg003098
+standardpost	False	NonFiction	Stjernehimlen		F. Kaiser	Mathilde Ørsted				False		Reg003106
+standardpost	False	NonFiction	Studies in Litetature		G. W. Griffin					False		Reg003126
+standardpost	False	NonFiction	Supplement-Tafeln zu Joh. Hübners genealogischen Tabellen		Dronning Marie Sophie Frederikke					False		Reg003133
+standardpost	False	NonFiction	Sur terre et sur mer		Henri Drouet					False		Reg003134
+standardpost	False	NonFiction	Talmud							False		Reg003181
+standardpost	False	NonFiction	Thorvaldsen, sa vie et son oeuvre		Eugéne Plon					False		Reg003239
+standardpost	False	NonFiction	Thorvaldsen, sa vie et son oeuvre		Eugéne Plon			Thorvaldsen, his life and works, transl. by Mrs. C. Hoey		False		Reg003240
+standardpost	False	NonFiction	Thorvaldsens Biographie		J. M. Thiele					False		Reg003241
+standardpost	False	NonFiction	Til Belysning af Holbergs og Heibergs Forbilleder		Edvard Brandes		Det 19. Aarhundrede, 2det Hefte 1874			False		Reg003250
+standardpost	False	NonFiction	Tilbageblik paa mit Liv og min Forfattervirksomhed fra 1811-37		B. S. Ingemann					False		Reg003268
+standardpost	False	NonFiction	To Capitler af det Skjönnes Naturlære		H. C. Ørsted					False		Reg003278
+standardpost	False	NonFiction	Le Tour de monde							False	1863	Reg002091
+krydshenvisning	False	NonFiction	Traps Danmark						Statistisk-topographisk Beskrivelse af Kongeriget Danmark	False		Reg003308
+standardpost	False	NonFiction	Travels in North America, with Geological Observations		Charles Lyell					False		Reg003309
+standardpost	False	NonFiction	Det tredie slesvigske Felttog		Fr. Hammerich					False		Reg000857
+standardpost	False	NonFiction	Trende Epistler til *** i Oversættelse fra 1745. Ved I. Levin		L. Holberg					False		Reg003318
+standardpost	False	NonFiction	Træk af Thorvaldsens Konstner- og Omgangsliv		C. F. Wilckens					False		Reg003330
+standardpost	False	NonFiction	Udvalg af Breve fra Mænd og Qvinder skrevne gjennem en lang Række År til P. Hjort og nu udgivne med biografiske og literærhistoriske Anmærkninger af Modtageren							False		Reg003364
+standardpost	False	NonFiction	Ved Henrik Hertz's Jordefærd i Frue Kirke d. 4. Marts 1870		N. G. Blædel					False		Reg003412
+standardpost	False	NonFiction	Ved Johan Ludvig Heibergs Jordefærd		H. Martensen					False		Reg003413
+standardpost	False	NonFiction	Verdens Historie		C. Cantù					False		Reg003441
+standardpost	False	NonFiction	Versuch eines Beweises, dass die Wettrennen nothwendig sind		Hertug Christian August af Augustenborg					False		Reg003449
+standardpost	False	NonFiction	Voyage aux régions équinoxiales du nouveau continent		Alexander von Humboldt					False		Reg003472
+standardpost	False	NonFiction	Voyage en Danemark		J. M. Dargaud					False		Reg003473
+standardpost	False	NonFiction	Voyage en Orient		A. de Lamartine					False		Reg003474
+standardpost	False	NonFiction	Wanderungen im Orient, während der Jahre 1843-44		Karl Koch					False		Reg003487
+standardpost	False	NonFiction	Weltgeschichte für Kinder und Kinderlehrer		K. F. Becker					False		Reg003492
+standardpost	False	NonFiction	Western Berbery, its wild tribes and savage animaJs		John H. Drummond Hay					False		Reg003497
+standardpost	False	NonFiction	Wilhelmshöhe og Chislehurst. En Dansks Erindringer om Napoleon III og hans Omgivelser	Toujours fidèle	L. Frost		Nær og Fjern 1874			False		Reg003506
+standardpost	False	NonFiction	Ein Winter in Spanien		F. W. Hackländer					False		Reg001032
+standardpost	False	NonFiction	Eine Woche in Nürnberg. Ein Wegweiser für Fremde		Karl Mainberger					False		Reg001036
+standardpost	False	NonFiction	Wundermappe der Donau. Nach Original-Zeichnungen, grossentheils von Thomas Ender, in Stahl gestochen							False		Reg003514
+standardpost	False	NonFiction	Zeitgenossen							False		Reg003522
+standardpost	False	NonFiction	Die 2. Entdeckungs-Reise des Capitain John Ross nach den Gegenden des Nordpols und sein Aufenthalt daselbst während der Jahre 1829-33. Aus den Englischen von G. W. Becker und J. Sporschil							False		Reg000868
+standardpost	False	NonFiction	Oehlenschläger, le poète national du Danemark		J. le Fèvre Deumier					False		Reg002593

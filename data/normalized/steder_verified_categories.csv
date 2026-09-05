@@ -1,0 +1,2401 @@
+entity_id,label,category,country
+Reg0000000,Abbotsford,Property,Skotland
+Reg0000010,Abydos,Point of interest (POI),Grækenland
+Reg0000020,Acquapendente,City,Italien
+Reg0000030,Adamsthal,Point of interest (POI),Tyskland
+Reg0000050,Adriaterhavet,Sea,Italien
+Reg0000060,Afrika,Continent,Afrika
+Reg0000070,Agersø,Island,Danmark
+Reg0000080,Agnano-Søen,Lake,Italien
+Reg0000090,Ahlhorn,City,Tyskland
+Reg0000100,Aigle,City,Schweiz
+Reg0000110,Ajaccio,City,Frankrig
+Reg0000130,Akropolis,Point of interest (POI),Grækenland
+Reg0000140,Ala,City,Italien
+Reg0000150,Albanerbjergene,Mountain,Italien
+Reg0000160,Albaner-Søen,Lake,Italien
+Reg0000170,Albano Laziale,City,Italien
+Reg0000180,Albula-Pas,Mountain,Schweiz
+Reg0000190,Alcázar de San Juan,City,Spanien
+Reg0000200,"Alcázar, Sevilla",Property,Spanien
+Reg0000210,Alexandria,City,Egypten
+Reg0000220,Alexisbad,City,Tyskland
+Reg0000230,Alfeld,City,Tyskland
+Reg0000240,Algeciras,City,Spanien
+Reg0000250,Algier,City,Algeriet
+Reg0000260,Alhambra,Property,Spanien
+Reg0000270,Alicante,City,Spanien
+Reg0000280,Almadén,City,Spanien
+Reg0000290,Almansa,City,Spanien
+Reg0000300,Almeria,City,Spanien
+Reg0000310,Alperne,Mountain,Europa
+Reg0000320,Alpnach,City,Schweiz
+Reg0000330,Alpsee (ved Hohenschwangau),Lake,Tyskland
+Reg0000340,Als,Island,Danmark
+Reg0000350,Alssund,Sea,Danmark
+Reg0000360,Alsteren,River,Tyskland
+Reg0000370,Altenburg,City,Tyskland
+Reg0000380,Altona,City,Tyskland
+Reg0000390,Altorf,City,Schweiz
+Reg0000400,Altstädten,City,Tyskland
+Reg0000410,"Alveneu, Bad",City,Schweiz
+Reg0000420,Alvesta,City,Sverige
+Reg0000430,Alz,River,Tyskland
+Reg0000440,Amager,Island,Danmark
+Reg0000450,Amalfi,Region,Italien
+Reg0000460,Amasra,City,Tyrkiet
+Reg0000470,Amboise,Property,Frankrig
+Reg0000480,Ambras,Property,Østrig
+Reg0000490,Amerika (De Forenede Stater),Country,USA
+Reg0000500,Amiens,City,Frankrig
+Reg0000510,Amrum,Island,Tyskland
+Reg0000520,Amsteg,City,Schweiz
+Reg0000530,Amsterdam,City,Holland
+Reg0000540,Amstetten,City,Østrig
+Reg0000550,Amur-Floden,River,Kina
+Reg0000560,Amönenhöhe (ved ltzehoe),Point of interest (POI),Tyskland
+Reg0000570,Anacapri,City,Italien
+Reg0000580,Ancona,City,Italien
+Reg0000590,Andeer,City,Schweiz
+Reg0000600,Andermatt,City,Schweiz
+Reg0000610,Andernach,City,Tyskland
+Reg0000620,Andersbo,Region,Sverige
+Reg0000630,"Andersens Højland (H.C. Andersens Bænk, Aasen, Silkeborg)",Region,Danmark
+Reg0000640,Andújar,City,Spanien
+Reg0000650,Angel,Region,Tyskland
+Reg0000660,Angora,City,Tyrkiet
+Reg0000670,Angoulême,City,Frankrig
+Reg0000680,Anhof,Property,Danmark
+Reg0000690,Anholt,Island,Danmark
+Reg0000700,Aniene,River,Italien
+Reg0000710,Antibes,City,Frankrig
+Reg0000720,Antvorskov,Property,Danmark
+Reg0000730,Antwerpen,City,Belgien
+Reg0000740,Apatin,City,Serbien
+Reg0000750,Apenninerne,Mountain,Italien
+Reg0000760,Appenweier,City,Tyskland
+Reg0000770,Appenzell (Kanton),Region,Schweiz
+Reg0000780,Aranjuez,City,Spanien
+Reg0000790,Arbesau,City,Tjekkiet
+Reg0000800,Arco,City,Italien
+Reg0000810,"Arco naturale, Capri",Point of interest (POI),Italien
+Reg0000820,Arezzo,City,Italien
+Reg0000830,Argos,City,Grækenland
+Reg0000840,Ariccia,City,Italien
+Reg0000860,Arkaden,Region,Grækenland
+Reg0000870,Arnhem,City,Holland
+Reg0000880,Arno,River,Italien
+Reg0000890,Arona,City,Italien
+Reg0000900,Arrábida,Region,Portugal
+Reg0000910,Arth,City,Schweiz
+Reg0000920,Arve,River,Frankrig
+Reg0000930,Aschersleben,City,Tyskland
+Reg0000940,Asien,Continent,Asien
+Reg0000950,Askerlandet (ved Christiania),Region,Norge
+Reg0000960,Asmildkloster,Property,Danmark
+Reg0000970,Asnæs,City,Danmark
+Reg0000980,Assens,City,Danmark
+Reg0000990,Assisi,City,Italien
+Reg0001000,Assmannshausen,City,Tyskland
+Reg0001010,Athen,City,Grækenland
+Reg0001020,Atlanterhavet,Sea,Verden
+Reg0001030,Atlasbjergene,Mountain,Afrika
+Reg0001040,Auf der Jugend (ved Hohensehwangau),Point of interest (POI),Tyskland
+Reg0001050,Augsburg,City,Tyskland
+Reg0001060,Augustenborg,Property,Danmark
+Reg0001070,Augustenborg Fjord,Sea,Danmark
+Reg0001080,Aurich,City,Tyskland
+Reg0001090,Aussig,City,Tjekkiet
+Reg0001100,Australien,Country,Australien
+Reg0001110,Aveiro,City,Portugal
+Reg0001120,Averner-Søen,Lake,Italien
+Reg0001130,Avesta,City,Sverige
+Reg0001140,Avignon,City,Frankrig
+Reg0001150,Axenstein,Point of interest (POI),Schweiz
+Reg0001160,Axenstrasse,Region,Schweiz
+Reg0001170,Babakaj,Point of interest (POI),Rumænien
+Reg0001180,Baccano (Boccano?),City,Italien
+Reg0001190,Bacharach,City,Tyskland
+Reg0001200,Bács (Páks),City,Ungarn
+Reg0001210,Badajoz,City,Spanien
+Reg0001220,Baden (Storhertugdømme),City,Østrig
+Reg0001230,Baden (ved Wien),City,Østrig
+Reg0001240,Baden-Baden,City,Tyskland
+Reg0001250,Badenweiler,City,Tyskland
+Reg0001260,Badgastein,City,Østrig
+Reg0001270,Baia,Point of interest (POI),Italien
+Reg0001280,Bailén,City,Spanien
+Reg0001290,Baja (Ungarn),City,Ungarn
+Reg0001300,Balbek,Point of interest (POI),Libanon
+Reg0001310,Balkan-Bjergene,Mountain,Europa
+Reg0001320,Balloch,Property,Skotland
+Reg0001330,Bamberg,City,Tyskland
+Reg0001340,Bandholm,City,Danmark
+Reg0001350,Bangsbo,Property,Danmark
+Reg0001360,Bannockburn,Region,Skotland
+Reg0001370,Barcelona,City,Spanien
+Reg0001380,Barreiro,City,Portugal
+Reg0001400,Basiasch (Bazias),City,Rumænien
+Reg0001410,Basingstoke,City,England
+Reg0001420,Basnæs,Property,Danmark
+Reg0001430,Bassum,City,Tyskland
+Reg0001440,Bastei,Mountain,Tyskland
+Reg0001450,Batavia,Region,Holland
+Reg0001460,Baumannshöhle,Point of interest (POI),Tyskland
+Reg0001470,Bavelse,Property,Danmark
+Reg0001480,Bavelse Sø,Lake,Danmark
+Reg0001490,Baveno,City,Italien
+Reg0001500,Bayern,Region,Tyskland
+Reg0001510,Bayonne,City,Frankrig
+Reg0001520,Bayreuth,City,Tyskland
+Reg0001530,Beaucaire,City,Frankrig
+Reg0001540,Bebra,City,Tyskland
+Reg0001550,Beckenried,City,Schweiz
+Reg0001560,Beelitz,City,Tyskland
+Reg0001570,Beeren-Eiland (Bjørneøen),Island,Norge
+Reg0001580,Beinum,City,Holland
+Reg0001590,"Beldringe Baarse S., Præstø A",City,Danmark
+Reg0001600,Belém,Region,Portugal
+Reg0001610,Belgien,Country,Belgien
+Reg0001620,Belgrad,City,Serbien
+Reg0001630,Bellaggio,City,Italien
+Reg0001640,Bellegarde,City,Frankrig
+Reg0001650,Bellevue (Klampenborg),Point of interest (POI),Danmark
+Reg0001660,Belle-Vue (Stockholm),Region,Sverige
+Reg0001670,"Bellevue, ved Beldringe",Property,Danmark
+Reg0001680,Bellinzona,City,Schweiz
+Reg0001690,Belvedere (ved Weimar),Property,Tyskland
+Reg0001700,Belvedere (ved Wien),Property,Østrig
+Reg0001720,Ben Lomond,Mountain,Skotland
+Reg0001730,Benátky,City,Tjekkiet
+Reg0001740,Benediktbeuern,City,Tyskland
+Reg0001750,Benevente,City,Spanien
+Reg0001760,Bense-Brug (ved Christiania),Point of interest (POI),Norge
+Reg0001770,Bentheim,City,Tyskland
+Reg0001780,Berg,City,Sverige
+Reg0001790,"Berg, Slot",Property,Luxembourg
+Reg0001800,Bergedorf,Region,Tyskland
+Reg0001810,Bergen,City,Norge
+Reg0001820,Bergün,City,Schweiz
+Reg0001830,Berlin,City,Tyskland
+Reg0001840,Bern,City,Schweiz
+Reg0001850,Bernburg,Property,Tyskland
+Reg0001860,Berneck,City,Tyskland
+Reg0001870,Bernina-Bjergene,Mountain,Schweiz
+Reg0001880,Bernstorff Slot,Property,Danmark
+Reg0001890,Berwick,City,England
+Reg0001900,Besançon,City,Frankrig
+Reg0001910,Bex,City,Schweiz
+Reg0001920,Béziers,City,Frankrig
+Reg0001930,Biarritz,City,Frankrig
+Reg0001940,Bidstrup,Property,Danmark
+Reg0001950,Biebrich,Region,Tyskland
+Reg0001960,Biecowitz,Region,Tjekkiet
+Reg0001970,Biel (Bienne),City,Schweiz
+Reg0001980,Bielersøen,Lake,Schweiz
+Reg0001990,Bielshöhle,Point of interest (POI),Tyskland
+Reg0002000,Biessenhofen,City,Tyskland
+Reg0002010,Bilbao,City,Spanien
+Reg0002020,Bille,River,Tyskland
+Reg0002030,Bindlocher,City,Tyskland
+Reg0002040,Bingen,City,Tyskland
+Reg0002050,Biscayiske Havbugt (Den spanske Sø),Sea,Europa
+Reg0002060,Bisserup,Property,Danmark
+Reg0002070,Bjärka-Säby,Property,Sverige
+Reg0002090,Blankenburg,City,Tyskland
+Reg0002100,Blankenese,Region,Tyskland
+Reg0002110,Blechhütte,Point of interest (POI),Tyskland
+Reg0002120,Blekhem,Property,Sverige
+Reg0002130,Blekinge,Region,Sverige
+Reg0002140,Blois,City,Frankrig
+Reg0002150,Blokhus,City,Danmark
+Reg0002160,Blomberg,Region,Sverige
+Reg0002170,"Blaa Grotte, den (Capri)",Point of interest (POI),Italien
+Reg0002180,Bode,River,Tyskland
+Reg0002200,Bodensøen,Lake,Tyskland
+Reg0002220,Bogenhausen,Region,Tyskland
+Reg0002230,Bogense,City,Danmark
+Reg0002240,Bogø,Island,Danmark
+Reg0002250,Bohmte,City,Tyskland
+Reg0002260,Boizenburg,City,Tyskland
+Reg0002270,Boller,Property,Danmark
+Reg0002280,Bologna,City,Italien
+Reg0002290,Bolsena,Lake,Italien
+Reg0002300,Bolsena-Søen,Lake,Italien
+Reg0002310,Bonn,City,Tyskland
+Reg0002320,Bonndorf,City,Tyskland
+Reg0002330,Boppard,City,Tyskland
+Reg0002340,Bordeaux,City,Frankrig
+Reg0002350,Boren,Lake,Sverige
+Reg0002360,Borghetto (Ligurien),City,Italien
+Reg0002370,Borghetto all-'Adige,City,Italien
+Reg0002380,Borna,City,Tyskland
+Reg0002390,Bornholm,Island,Danmark
+Reg0002400,Borova,City,Kroatien
+Reg0002410,Borreby,Property,Danmark
+Reg0002420,"Borromeiske Øer, de",Island,Italien
+Reg0002430,Borup,City,Danmark
+Reg0002440,Bosporus,Sea,Tyrkiet
+Reg0002450,Boston,City,USA
+Reg0002460,Bottensjön,Lake,Sverige
+Reg0002470,Bouchain,City,Frankrig
+Reg0002480,Boulogne,City,Frankrig
+Reg0002490,Bov,City,Danmark
+Reg0002500,Bovbjerg,Point of interest (POI),Danmark
+Reg0002510,Bozen (Bolzano),City,Italien
+Reg0002520,Brahetrolleborg,Property,Danmark
+Reg0002530,Brakel,City,Tyskland
+Reg0002540,Bramstedt,City,Tyskland
+Reg0002550,"Brancanes, Øde-Kloster ved Setubal",Property,Portugal
+Reg0002560,Brand,City,Tyskland
+Reg0002570,Brandeis,City,Tjekkiet
+Reg0002580,"Brandholt, Gaard i Skovby S., Skovby H",Property,Danmark
+Reg0002590,Branzoll,Property,Italien
+Reg0002600,Brasilien,Country,Brasilien
+Reg0002610,Braubach,City,Tyskland
+Reg0002620,Braunschweig,City,Tyskland
+Reg0002630,Breda,City,Holland
+Reg0002640,Brede,City,Danmark
+Reg0002650,Bregentved,Property,Danmark
+Reg0002660,Bregenz,City,Østrig
+Reg0002670,Bregninge Kirke,Church,Danmark
+Reg0002680,Breitenburg,Property,Tyskland
+Reg0002690,Bremen,City,Tyskland
+Reg0002700,"Brenets, Les",City,Schweiz
+Reg0002710,Brenner,Mountain,Østrig
+Reg0002720,Brenta,Mountain,Italien
+Reg0002730,Breslau,City,Polen
+Reg0002740,Brieg,City,Schweiz
+Reg0002750,Brielle,City,Holland
+Reg0002760,Brienz,City,Schweiz
+Reg0002770,Brienzer-Søen,Lake,Schweiz
+Reg0002780,Bristol,City,England
+Reg0002790,Brixen,City,Italien
+Reg0002800,Broadstairs,City,England
+Reg0002810,Broager,City,Danmark
+Reg0002820,Brocken (Bloksbjerg),Mountain,Tyskland
+Reg0002830,Broholm,Property,Danmark
+Reg0002840,Bromberg,City,Polen
+Reg0002850,Bromley,City,England
+Reg0002860,Bruck,City,Tyskland
+Reg0002870,Brunnbäck,City,Sverige
+Reg0002880,Brunnen,City,Schweiz
+Reg0002890,Brüggen,City,Tyskland
+Reg0002900,Brünig,Mountain,Schweiz
+Reg0002910,Brünn,City,Tyskland
+Reg0002920,Brüssel (Bruxelles),City,Belgien
+Reg0002930,Brza,City,Serbien
+Reg0002940,Brædstrup,City,Danmark
+Reg0002950,Brännkyrka,Region,Sverige
+Reg0002960,Budapest,City,Ungarn
+Reg0002970,Budwitz,City,Tjekkiet
+Reg0002980,Bukarest,City,Rumænien
+Reg0002990,Bukovina,City,Polen
+Reg0003000,Bulgarien,Country,Bulgarien
+Reg0003010,Bulle,City,Schweiz
+Reg0003020,Buochs,City,Schweiz
+Reg0003030,Buonconvento,City,Italien
+Reg0003040,Búrgos,City,Spanien
+Reg0003050,Butzbach,City,Tyskland
+Reg0003060,Büchen,City,Tyskland
+Reg0003070,Bückeburg,City,Tyskland
+Reg0003080,Büjük Dere,River,Tyrkiet
+Reg0003090,Bäckaskog,Property,Sverige
+Reg0003100,Bækkeskov,Property,Danmark
+Reg0003110,Bøget,Region,Danmark
+Reg0003120,Bøhmen,Region,Tyskland
+Reg0003130,Böhmisch-Brod,Region,Tjekkiet
+Reg0003140,Børglum,Property,Danmark
+Reg0003150,Børglumkloster,Property,Danmark
+Reg0003160,Börringe Kloster,Property,Sverige
+Reg0003170,Cadiz,City,Spanien
+Reg0003180,Caffaggiolo,Property,Italien
+Reg0003190,Cairo,City,Ægypten
+Reg0003200,Calabrien,Region,Italien
+Reg0003210,Calais,City,Frankrig
+Reg0003220,Calchedonia,Region,Tyrkiet
+Reg0003230,Calcutta,City,Indien
+Reg0003240,Californien,Region,USA
+Reg0003250,Callander,City,Skotland
+Reg0003260,Calw,City,Tyskland
+Reg0003270,Camaldoli,Property,Italien
+Reg0003280,Cambrai,City,Frankrig
+Reg0003290,Cambridge,City,England
+Reg0003300,Camerlata,City,Italien
+Reg0003310,Campagna di Roma,Region,Italien
+Reg0003320,Campiglione,City,Italien
+Reg0003330,Canada,Country,Canada
+Reg0003340,Canal de Bouc,River,Frankrig
+Reg0003350,Candia,City,Italien
+Reg0003360,Cannes,City,Frankrig
+Reg0003370,Cannstatt,Region,Tyskland
+Reg0003380,Canterbury,Church,England
+Reg0003390,Canton,City,Kina
+Reg0003400,Cap Colonne (Kap Kolones),Point of interest (POI),Grækenland
+Reg0003410,Cap Matapan,Point of interest (POI),Grækenland
+Reg0003420,Cap Verde,Country,Kap Verde
+Reg0003430,Capo de Finisterre,Mountain,Spanien
+Reg0003440,Capo di Miseno,Region,Italien
+Reg0003450,"Capo di Monte, Napoli",Property,Italien
+Reg0003460,Capodistria,City,Slovenien
+Reg0003470,Capri,Island,Italien
+Reg0003480,Capua,City,Italien
+Reg0003490,Carlsberg,Point of interest (POI),Danmark
+Reg0003500,"Carolina, La",City,Spanien
+Reg0003510,Carrara,City,Italien
+Reg0003520,Cartagena,City,Spanien
+Reg0003530,"Cartuja, La (ved Granada)",Property,Spanien
+Reg0003540,Caserta,City,Italien
+Reg0003550,Castel Gandolfo,City,Italien
+Reg0003560,"Castel, Pyrenæerne",City,Frankrig
+Reg0003570,Castellammare di Stabia,City,Italien
+Reg0003580,Castiglion Fiorentino,City,Italien
+Reg0003590,Castiglioncello,City,Italien
+Reg0003600,Catania,City,Italien
+Reg0003610,Cathrineberg,Property,Danmark
+Reg0003630,Caub,City,Tyskland
+Reg0003640,Cava de' Tirreni,City,Italien
+Reg0003650,Celle,City,Tyskland
+Reg0003660,Cenci,City,Italien
+Reg0003680,Cerigo,City,Grækenland
+Reg0003690,Cette (Sète),City,Frankrig
+Reg0003700,Ceuta,City,Spanien
+Reg0003710,Ceylon,Country,Sri Lanka
+Reg0003720,Chalandri (Khalandhri),City,Grækenland
+Reg0003730,Chalons-sur-Marne,City,Frankrig
+Reg0003740,Chambéry,City,Frankrig
+Reg0003750,Champagnole,City,Frankrig
+Reg0003760,Charlottenberg,City,Sverige
+Reg0003770,charlottenburg,Property,Tyskland
+Reg0003780,Charlottendal,Property,Danmark
+Reg0003790,Charlottenlund,City,Danmark
+Reg0003800,Charlottenlund Slot,Property,Danmark
+Reg0003810,Charybdis,Point of interest (POI),Italien
+Reg0003820,Chaux de Fonds,City,Schweiz
+Reg0003830,Chemnitz,City,Tyskland
+Reg0003840,Chëne-Thônex (ved Genève),Region,Schweiz
+Reg0003850,Chevening,Property,England
+Reg0003860,Chiavari,City,Italien
+Reg0003870,Chiavenna,City,Italien
+Reg0003880,Chicago,City,USA
+Reg0003890,Chiemsse,Lake,Tyskland
+Reg0003900,Christiania,City,Norge
+Reg0003910,Christiania-Fjord,Sea,Norge
+Reg0003920,Christiansdal,Property,Danmark
+Reg0003930,Christiansfeld,City,Danmark
+Reg0003940,Christianshavn,Region,Danmark
+Reg0003950,Christiansminde,Region,Danmark
+Reg0003960,Christianstad,City,Sverige
+Reg0003970,Christinehamn,City,Sverige
+Reg0003980,Christinelund,Property,Danmark
+Reg0003990,Christinelyst,Property,Danmark
+Reg0004000,Chur,City,Schweiz
+Reg0004040,Cilli,Region,Slovenien
+Reg0004050,Cintra,City,Portugal
+Reg0004060,Cisterna,Point of interest (POI),Italien
+Reg0004070,Città vecchia (Malta) (=Mdina),City,Malta
+Reg0004080,Civita Castellana,City,Italien
+Reg0004090,Civitavecchia,City,Italien
+Reg0004100,Cladova,City,Serbien
+Reg0004110,Clapton,Region,England
+Reg0004120,Clarens,City,Sydafrika
+Reg0004130,Clausholm,Property,Danmark
+Reg0004140,Cloppenburg,City,Tyskland
+Reg0004150,Clyde,River,Skotland
+Reg0004160,Coburg,City,Tyskland
+Reg0004170,Cochinchina,Region,Vietnam
+Reg0004180,Cocumella,Property,Italien
+Reg0004190,Cohham Hall,Property,England
+Reg0004200,Coimbra,City,Portugal
+Reg0004210,Colico,City,Italien
+Reg0004220,Como,City,Italien
+Reg0004230,Como-Søen,Lake,Italien
+Reg0004240,Compiègne,City,Frankrig
+Reg0004250,Conca Marini,City,Italien
+Reg0004260,Connecticut,Region,USA
+Reg0004270,Conradineslyst,Property,Danmark
+Reg0004290,Coppet,Property,Schweiz
+Reg0004300,Córdoba,City,Spanien
+Reg0004310,Cornelia,City,Frankrig
+Reg0004320,Corselitze,Property,Danmark
+Reg0004330,Corsica,Island,Frankrig
+Reg0004340,COte d'Or,Region,Frankrig
+Reg0004350,Crin,City,Schweiz
+Reg0004360,Crusol,Point of interest (POI),Frankrig
+Reg0004370,Cul de Roches (den underjordiske Mølle),Point of interest (POI),Schweiz
+Reg0004390,Culoz,City,Frankrig
+Reg0004410,Cuxhaven,City,Tyskland
+Reg0004420,Cypern,Country,Cypern
+Reg0004430,Czaslau,City,Tjekkiet
+Reg0004440,Czernawoda,City,Rumænien
+Reg0004450,Dachsen,City,Schweiz
+Reg0004460,Dacien,Region,Rumænien
+Reg0004470,Dagebøl,City,Tyskland
+Reg0004480,Dalarne,Region,Sverige
+Reg0004490,Dalby,City,Danmark
+Reg0004500,Dal-Elven,River,Sverige
+Reg0004510,Dalkarlsbacka,Region,Sverige
+Reg0004520,Dallund,Property,Danmark
+Reg0004530,Dalmatien,Region,Kroatien
+Reg0004540,Dálya,City,Kroatien
+Reg0004550,Damager,Property,Danmark
+Reg0004560,Damaskus,City,Syrien
+Reg0004570,Danmark,Country,Danmark
+Reg0004580,"Danmark, Sogn i Uppsala Len",Region,Sverige
+Reg0004590,Dannemora,City,Sverige
+Reg0004600,Dannemora-Søen (Grufsjön),Lake,Sverige
+Reg0004610,Dannevirke,Point of interest (POI),Danmark
+Reg0004620,Danzig,City,Polen
+Reg0004630,Daphni,Property,Grækenland
+Reg0004640,Dardanellerne,Mountain,Tyrkiet
+Reg0004650,Darmstadt,City,Tyskland
+Reg0004660,Darro,River,Spanien
+Reg0004670,Dax,City,Frankrig
+Reg0004680,De Fattiges Dyrehave ved Kalkbrænderiet,Region,Danmark
+Reg0004690,Delft,City,Holland
+Reg0004700,Delmenhorst,City,Tyskland
+Reg0004710,Delos,Island,Grækenland
+Reg0004730,Dent de Morcles,Mountain,Schweiz
+Reg0004740,Dent du Midi,Mountain,Schweiz
+Reg0004750,Desenzano,City,Italien
+Reg0004760,Dessau,City,Tyskland
+Reg0004780,Deutschbrod,City,Tjekkiet
+Reg0004790,Deventer,City,Holland
+Reg0004800,Diablerets,City,Schweiz
+Reg0004810,Dietfurt,City,Tyskland
+Reg0004820,Dijon,City,Frankrig
+Reg0004830,Djurgården (Stockholm),Region,Sverige
+Reg0004840,Dôle,City,Frankrig
+Reg0004850,Dolo,City,Italien
+Reg0004870,Domodossola,City,Italien
+Reg0004880,Domremy-la-Pucelle,City,Frankrig
+Reg0004890,Donau,River,Europa
+Reg0004900,Donaueschingen,City,Tyskland
+Reg0004910,Donau-Main Kanalen,River,Tyskland
+Reg0004920,Donau-Sletten,Region,Bulgarien
+Reg0004930,Donaustauf,City,Tyskland
+Reg0004940,Donauwörth,City,Tyskland
+Reg0004950,Dordrecht,City,Holland
+Reg0004960,Doubs,River,Frankrig
+Reg0004970,Doubs-Faldet,Point of interest (POI),Frankrig
+Reg0004980,Dover,City,England
+Reg0004990,Drachenfels,Property,Tyskland
+Reg0005000,Drammen,City,Norge
+Reg0005010,Drau (Drava),River,Ungarn
+Reg0005020,"Drei Gleichen, die",Region,Tyskland
+Reg0005030,Drenkova,City,Rumænien
+Reg0005040,Dresden,City,Tyskland
+Reg0005050,Dronninggaard,Property,Danmark
+Reg0005070,Drusus-Broen (Bingen),Point of interest (POI),Tyskland
+Reg0005080,Dublin,City,Irland
+Reg0005090,Dumbarton,Property,Skotland
+Reg0005100,Dunkerque,City,Frankrig
+Reg0005110,Durlach,City,Tyskland
+Reg0005120,Dux,City,Tjekkiet
+Reg0005130,Dybbøl,Point of interest (POI),Danmark
+Reg0005140,"Dyrehaven (ved København), Dyrehavsbakken",Region,Danmark
+Reg0005150,Düsseldorf,City,Tyskland
+Reg0005160,Döbling,Region,Østrig
+Reg0005170,Eaglewood,City,USA
+Reg0005180,Ebersberg,City,Tyskland
+Reg0005190,Eckerkrug,Point of interest (POI),Tyskland
+Reg0005200,Eckernførde,City,Tyskland
+Reg0005210,Eckersdorf,City,Tyskland
+Reg0005220,Edet,City,Sverige
+Reg0005230,Edinburgh,City,Skotland
+Reg0005240,Efesos,Point of interest (POI),Tyrkiet
+Reg0005250,Eger,River,Tjekkiet
+Reg0005260,Egeskov,Property,Danmark
+Reg0005270,Egna,City,Italien
+Reg0005280,Ehrenbreitstein,Property,Tyskland
+Reg0005290,Eiby Mølle,Point of interest (POI),Danmark
+Reg0005300,Eideren,River,Tyskland
+Reg0005310,Eidskog,Region,Norge
+Reg0005320,Eidsvold,Property,Norge
+Reg0005330,Eiger,Mountain,Schweiz
+Reg0005340,"Eilsen, Bad",City,Tyskland
+Reg0005350,Einbeck,City,Tyskland
+Reg0005360,Einsiedeln,City,Schweiz
+Reg0005370,Eisack,River,Italien
+Reg0005380,Eisenach,City,Tyskland
+Reg0005390,Eisleben,City,Tyskland
+Reg0005400,"Ekeberg, Christiania",Region,Norge
+Reg0005420,Ekolsund,Property,Sverige
+Reg0005430,Elba,Island,Italien
+Reg0005440,Elbdalen,Region,Tyskland
+Reg0005460,Elben,River,Tyskland
+Reg0005470,Elberfeld,City,Tyskland
+Reg0005480,Elbingerode,City,Tyskland
+Reg0005490,Elche,City,Spanien
+Reg0005500,Eleusis,Point of interest (POI),Grækenland
+Reg0005510,Elfeld (Eltville),City,Tyskland
+Reg0005520,Elfkarleby-Faldet,Point of interest (POI),Sverige
+Reg0005530,Elfkarleö Bruk,Point of interest (POI),Sverige
+Reg0005540,Ellekilde,Region,Danmark
+Reg0005550,Ellens Ø,Island,Skotland
+Reg0005560,Ellingen,City,Tyskland
+Reg0005570,Elmshorn,City,Tyskland
+Reg0005580,Elsass,Region,Frankrig
+Reg0005590,Elsfleth,City,Tyskland
+Reg0005600,Elsterwerda,City,Tyskland
+Reg0005610,Elvedgaard,Property,Danmark
+Reg0005620,Elverhøj,Point of interest (POI),Danmark
+Reg0005630,"Elyseiske Marker, de",Region,Italien
+Reg0005640,Elze,City,Tyskland
+Reg0005650,Emden,City,Tyskland
+Reg0005660,Ems,River,Tyskland
+Reg0005670,Enebackan,City,Sverige
+Reg0005680,Engelholm (Skaane),Property,Sverige
+Reg0005690,England,Country,England
+Reg0005700,Enköping,City,Sverige
+Reg0005710,Enns,River,Østrig
+Reg0005720,Enrum (Vedbæk),Property,Danmark
+Reg0005730,Entroncamento,City,Portugal
+Reg0005740,"Enz, die",River,Tyskland
+Reg0005750,Enzersdorf,City,Østrig
+Reg0005760,Épernay,City,Frankrig
+Reg0005770,Erdöd,City,Ungarn
+Reg0005780,Eremitagen,Property,Danmark
+Reg0005790,Erfurt,City,Tyskland
+Reg0005800,Erlangen,City,Tyskland
+Reg0005810,Erlauf,City,Østrig
+Reg0005820,Escheburg,City,Tyskland
+Reg0005830,"Escorial, El",City,Spanien
+Reg0005840,Eslöv,City,Sverige
+Reg0005850,Espe,Property,Danmark
+Reg0005860,Esrom Kanal,River,Danmark
+Reg0005870,Esrom Sø,Lake,Danmark
+Reg0005880,Esschen,Region,Belgien
+Reg0005890,Estland,Country,Estland
+Reg0005900,Étang de Thau,Lake,Frankrig
+Reg0005910,Etna,Mountain,Italien
+Reg0005920,Etsch (Adige),River,Italien
+Reg0005930,Etsch-Dalen,Region,Italien
+Reg0005940,Ettal,City,Tyskland
+Reg0005950,Etterbjerg,Point of interest (POI),Danmark
+Reg0005960,Ettersburg,Property,Tyskland
+Reg0005970,Euboia,Island,Grækenland
+Reg0005980,Europa,Continent,Europa
+Reg0005990,Eutin,Property,Tyskland
+Reg0006000,Evian,City,Frankrig
+Reg0006010,Evora,City,Portugal
+Reg0006020,Fabjerg,City,Danmark
+Reg0006030,Faenza,City,Italien
+Reg0006040,Fakse,City,Danmark
+Reg0006050,Fakse Bugt,Sea,Danmark
+Reg0006060,Falkenberg,City,Sverige
+Reg0006070,Falkensten,Property,Danmark
+Reg0006080,Falköping,City,Sverige
+Reg0006090,Falster,Island,Danmark
+Reg0006100,Falun,City,Sverige
+Reg0006110,Fanø,Island,Danmark
+Reg0006120,Fatra,Mountain,Slovakiet
+Reg0006130,Favrskov,Property,Danmark
+Reg0006140,Feddet (ved Basnæs Nor),Point of interest (POI),Danmark
+Reg0006150,Feddet (ved Præstø Fjord),Point of interest (POI),Danmark
+Reg0006160,Femern,Island,Tyskland
+Reg0006170,Ferrara,City,Italien
+Reg0006180,Fetislan,Point of interest (POI),Tyrkiet
+Reg0006190,Fichtelgebirge,Mountain,Tyskland
+Reg0006200,Fidenæ,Region,Italien
+Reg0006210,Figueras,City,Spanien
+Reg0006220,Filigare,City,Italien
+Reg0006230,Finckenfang,Mountain,Tyskland
+Reg0006240,Finland,Country,Finland
+Reg0006250,Firenze,City,Italien
+Reg0006260,Firth of Forth,Sea,Skotland
+Reg0006270,Fjaltring,City,Danmark
+Reg0006280,Flade,City,Danmark
+Reg0006290,Flensborg,City,Tyskland
+Reg0006310,Fleurier,City,Schweiz
+Reg0006320,"Flommen, Sorø",Region,Danmark
+Reg0006330,Florentin,City,Frankrig
+Reg0006340,Flüelen,Point of interest (POI),Schweiz
+Reg0006350,Foligno,City,Italien
+Reg0006360,Folkestone,City,England
+Reg0006370,Fondi,City,Italien
+Reg0006380,Forlì,City,Italien
+Reg0006390,Formia (Mola di Gaëta),City,Italien
+Reg0006400,Forshem,City,Sverige
+Reg0006410,Fort William,City,Skotland
+Reg0006420,Fortunen,Point of interest (POI),Danmark
+Reg0006430,Frabertsham,City,Tyskland
+Reg0006450,Frankfurt a.d.O,City,Tyskland
+Reg0006460,Frankfurt a.M,City,Tyskland
+Reg0006470,Frankrig,Country,Frankrig
+Reg0006480,Frascati,City,Italien
+Reg0006490,Fredensborg,Property,Danmark
+Reg0006500,Fredensborg Slot,Property,Danmark
+Reg0006510,Fredericia,City,Danmark
+Reg0006520,Frederiksberg,City,Danmark
+Reg0006530,Frederiksberg Slot,Property,Danmark
+Reg0006540,Frederiksborg (Hillerød),Property,Danmark
+Reg0006550,Frederiksborg Slot,Property,Danmark
+Reg0006560,Frederikshavn,City,Danmark
+Reg0006570,Frederiksholm,Region,Danmark
+Reg0006580,Frederikslund,Property,Danmark
+Reg0006590,Frederiksstad,City,Tyskland
+Reg0006600,Frederiksværk,City,Danmark
+Reg0006610,Freiburg im Breisgau,City,Tyskland
+Reg0006620,Freudenthal (ved Itzehoe),Region,Tyskland
+Reg0006630,Freynersdorf,City,Tyskland
+Reg0006640,Fribourg (Freiburg) (Schweiz),City,Schweiz
+Reg0006650,Friedberg,City,Tyskland
+Reg0006660,"Friedrichsberg, Slesvig",Region,Tyskland
+Reg0006670,Friedrichshafen,City,Tyskland
+Reg0006680,Friesack,City,Tyskland
+Reg0006690,Frijsenborg,Property,Danmark
+Reg0006700,Frijsendal,Property,Danmark
+Reg0006720,Fruens Bøge,Region,Danmark
+Reg0006730,Frørup,Property,Danmark
+Reg0006740,Fuglsang (ved Fredericia),Region,Danmark
+Reg0006750,Fuirendal,Property,Danmark
+Reg0006760,Fulda,City,Tyskland
+Reg0006770,Fulneck,City,England
+Reg0006780,Fusina,City,Italien
+Reg0006790,Fyllebro,Point of interest (POI),Sverige
+Reg0006800,Fyn,Island,Danmark
+Reg0006810,Fyrisån,River,Sverige
+Reg0006820,Fürth,City,Tyskland
+Reg0006830,Füssen,City,Tyskland
+Reg0006840,Færøerne,Country,Færøerne
+Reg0006850,Før,Island,Tyskland
+Reg0006860,Førslevgaard,Property,Danmark
+Reg0006870,Faaborg,City,Danmark
+Reg0006880,Gablitz,City,Østrig
+Reg0006900,Gaëta,City,Italien
+Reg0006910,Gais,City,Schweiz
+Reg0006920,Galata,Point of interest (POI),Tyrkiet
+Reg0006930,Galatz (Galati),City,Rumænien
+Reg0006940,Galipoli,City,Italien
+Reg0006950,"Galli, Li",Point of interest (POI),Italien
+Reg0006960,Gamla Uppsala,City,Sverige
+Reg0006970,Gammel Estrup,Property,Danmark
+Reg0006980,Gammel Køgegaard,Property,Danmark
+Reg0006990,Gammel Skagen,City,Danmark
+Reg0007000,Gamtofte,Church,Danmark
+Reg0007010,Ganges,River,Indien
+Reg0007020,Garda-Søen,Lake,Italien
+Reg0007030,Garigliano,River,Italien
+Reg0007040,Garonne,River,Europa
+Reg0007050,Gavnø,Property,Danmark
+Reg0007070,Gellerup,City,Danmark
+Reg0007080,Generalife,Property,Spanien
+Reg0007090,Genève (Genf),City,Schweiz
+Reg0007100,Genfersøen (Lac Léman),Lake,Schweiz
+Reg0007110,Genova,City,Italien
+Reg0007120,Gentofte,City,Danmark
+Reg0007130,Genzano di Roma,City,Italien
+Reg0007140,Gera,City,Tyskland
+Reg0007150,Gernrode,City,Tyskland
+Reg0007160,Gerona,City,Spanien
+Reg0007170,Gersau,City,Schweiz
+Reg0007180,Gersdorf,Property,Tyskland
+Reg0007190,Gesindel,City,Tyskland
+Reg0007200,Geysir,Point of interest (POI),Island
+Reg0007210,Gibraltar,Region,England
+Reg0007220,Gibraltar-Strædet,Sea,Europa
+Reg0007230,Giessbach,Point of interest (POI),Schweiz
+Reg0007240,Giessen,City,Tyskland
+Reg0007250,Gironde,River,Frankrig
+Reg0007260,Gisselfeld,Property,Danmark
+Reg0007270,Giurgevo (Giurgiu),City,Rumænien
+Reg0007280,Glarus,City,Schweiz
+Reg0007290,Glasgow,City,Skotland
+Reg0007300,Glashütte (Sachsen),City,Tyskland
+Reg0007310,Glion,City,Schweiz
+Reg0007320,Glogau,City,Polen
+Reg0007330,Gloggnitz,City,Østrig
+Reg0007340,Glommen,Sea,Norge
+Reg0007350,Glorup,Property,Danmark
+Reg0007360,Glücksborg,Property,Tyskland
+Reg0007370,Glückstadt,City,Tyskland
+Reg0007380,Glænø,Property,Danmark
+Reg0007390,Golfo di Napoli,Sea,Italien
+Reg0007400,Golling,Point of interest (POI),Østrig
+Reg0007410,Golubacz,Property,Serbien
+Reg0007420,Gondo,City,Schweiz
+Reg0007430,Goslar,City,Tyskland
+Reg0007440,Gotha,Property,Tyskland
+Reg0007450,Gottorp,Property,Tyskland
+Reg0007460,Grabow,City,Tyskland
+Reg0007470,Gram,Property,Danmark
+Reg0007480,Gran (Esztergom),City,Ungarn
+Reg0007490,Granada,City,Spanien
+Reg0007500,Grandson,Property,Schweiz
+Reg0007510,Graubünden,Region,Schweiz
+Reg0007520,Gravesend,City,England
+Reg0007530,Graz,City,Østrig
+Reg0007540,Greenwich,City,England
+Reg0007550,Grenaa,City,Danmark
+Reg0007560,"Greve, Høje Taastrup S",City,Danmark
+Reg0007570,Gribsvad Kro,Property,Danmark
+Reg0007580,Grindelwald,City,Schweiz
+Reg0007590,Groningen,City,Holland
+Reg0007600,Grossbeeren,City,Tyskland
+Reg0007610,Grossenhain,City,Tyskland
+Reg0007620,Grottaferrata,City,Italien
+Reg0007630,"Grundet, Store",Property,Danmark
+Reg0007640,Grækenland,Country,Grækenland
+Reg0007650,Grønland,Country,Grønland
+Reg0007660,Grådö,City,Sverige
+Reg0007670,Graasten,Property,Danmark
+Reg0007680,Guadalquivir,River,Spanien
+Reg0007690,Gudbjerg,City,Danmark
+Reg0007700,Gudenaaen,River,Danmark
+Reg0007710,Guinea,Country,Guinea
+Reg0007720,Gurre,Point of interest (POI),Danmark
+Reg0007730,Gørding,City,Danmark
+Reg0007740,Görlitz,City,Tyskland
+Reg0007750,Göta-Elven,River,Sverige
+Reg0007760,Göta-Kanalen,River,Sverige
+Reg0007770,Göteborg,City,Sverige
+Reg0007780,Göttingen,City,Tyskland
+Reg0007790,Gaabense,Region,Danmark
+Reg0007800,Haderslev,City,Danmark
+Reg0007810,Haga,Region,Sverige
+Reg0007820,Halberstadt,City,Tyskland
+Reg0007830,Hald,City,Danmark
+Reg0007840,Halfweg,City,Holland
+Reg0007850,Hallandsås,Region,Sverige
+Reg0007860,Halle,City,Tyskland
+Reg0007870,Halleberg,Mountain,Sverige
+Reg0007880,Hallein,City,Østrig
+Reg0007890,Halligerne,Island,Tyskland
+Reg0007910,Halmstad,City,Sverige
+Reg0007920,"Halskov Vænge, Falster",Region,Danmark
+Reg0007930,"Halskov, Sjælland",Region,Danmark
+Reg0007940,Hamburg,City,Tyskland
+Reg0007950,Hameln,City,Tyskland
+Reg0007960,Hamilton (Skotland),City,Skotland
+Reg0007970,Hamm,City,Tyskland
+Reg0007980,Hammel,City,Danmark
+Reg0007990,Hampton Court Palace,Property,England
+Reg0008000,Hannover,City,Tyskland
+Reg0008010,Haparanda,City,Sverige
+Reg0008020,Harburg,City,Tyskland
+Reg0008030,Hardenberg,Property,Danmark
+Reg0008040,Hartmannsdorf,City,Tyskland
+Reg0008050,Harzburg,Property,Tyskland
+Reg0008060,Harzen,Region,Tyskland
+Reg0008070,Harzgerode,City,Tyskland
+Reg0008080,Haslev,City,Danmark
+Reg0008090,Hastings,City,England
+Reg0008100,Havana,City,Cuba
+Reg0008120,"Havre, Le",City,Frankrig
+Reg0008130,Hedehusene,City,Danmark
+Reg0008140,Hedemora,City,Sverige
+Reg0008150,Hegnsholt,Property,Danmark
+Reg0008160,Heide,City,Tyskland
+Reg0008170,Heidelberg,City,Tyskland
+Reg0008180,Heiden,City,Schweiz
+Reg0008190,Heilbronn,City,Tyskland
+Reg0008210,Helgoland,Island,Tyskland
+Reg0008220,Hellbrunn,Property,Østrig
+Reg0008230,Hellebæk,City,Danmark
+Reg0008240,Hellekis,Property,Sverige
+Reg0008250,Hellerup,City,Danmark
+Reg0008260,Hellested,City,Danmark
+Reg0008270,Helsingborg,City,Sverige
+Reg0008280,Helsingfors,City,Finland
+Reg0008290,Helsingør,City,Danmark
+Reg0008300,Helved Bakke,Point of interest (POI),Danmark
+Reg0008310,"Helvetes-Faldene, Trollhätta",Point of interest (POI),Sverige
+Reg0008320,Hem,Church,Danmark
+Reg0008330,Herat,City,Afghanistan
+Reg0008340,Herculanum,Point of interest (POI),Italien
+Reg0008350,Herkules-Badene,Point of interest (POI),Rumænien
+Reg0008360,Herlufsholm,Property,Danmark
+Reg0008370,"Hermupolis, Syra",City,Grækenland
+Reg0008380,Herning,City,Danmark
+Reg0008390,Herningsholm,Property,Danmark
+Reg0008400,Herrljunga,City,Sverige
+Reg0008410,Herrnskretschen,City,Tjekkiet
+Reg0008420,Herzberg (Sachsen),City,Tyskland
+Reg0008430,Hesselager,City,Danmark
+Reg0008440,Hesselager Gaard,Property,Danmark
+Reg0008450,Hesselagerstenen,Point of interest (POI),Danmark
+Reg0008460,Hessen,Region,Tyskland
+Reg0008470,Hessingen (Essingen),City,Tyskland
+Reg0008480,Hessleholm,City,Sverige
+Reg0008500,Hestvad,Point of interest (POI),Sverige
+Reg0008510,"Het Loo, Apeldoorn",Property,Holland
+Reg0008520,Heutingsheim,City,Tyskland
+Reg0008530,Hietzing,Region,Østrig
+Reg0008550,Hildesheim,City,Tyskland
+Reg0008560,"Hiltpoltstein, ved Nürnberg",City,Tyskland
+Reg0008570,Himalaya,Mountain,Asien
+Reg0008580,Himmelbjerget,Point of interest (POI),Danmark
+Reg0008590,Himmelreich,City,Tyskland
+Reg0008600,Hindostan,Country,Indien
+Reg0008610,Hindsgavl,Property,Danmark
+Reg0008620,Hinnerup,City,Danmark
+Reg0008630,Hirsau,Property,Tyskland
+Reg0008640,Hjermind,City,Danmark
+Reg0008650,Hjerting,City,Danmark
+Reg0008660,Hjørring,City,Danmark
+Reg0008670,Hobro,City,Danmark
+Reg0008680,Hochheim,City,Tyskland
+Reg0008690,Hof,City,Tyskland
+Reg0008700,Hofmansgave,Property,Danmark
+Reg0008710,Hohenschwangau,Property,Tyskland
+Reg0008720,Hohnstein,Point of interest (POI),Tyskland
+Reg0008730,Hoisteinborg Nor,Point of interest (POI),Danmark
+Reg0008740,"Holbæk (og Holbæk Amt, Holbæk-Egnen)",City,Danmark
+Reg0008750,Holckenhavn,Property,Danmark
+Reg0008760,Hollabrunn (Ober-Hollabrunn),City,Østrig
+Reg0008770,Holland,Country,Holland
+Reg0008780,Hollufgaard,Property,Danmark
+Reg0008790,Holmegaards Glasværk,Point of interest (POI),Danmark
+Reg0008800,Holmsland,Region,Danmark
+Reg0008810,Holstebro,City,Danmark
+Reg0008820,Holsteinborg,Property,Danmark
+Reg0008830,Holsteinsminde,Property,Danmark
+Reg0008840,Holsten,Region,Tyskland
+Reg0008850,Holstenshus,Property,Danmark
+Reg0008860,Holte,City,Danmark
+Reg0008870,Holtegaard,Property,Danmark
+Reg0008880,Homburg,City,Tyskland
+Reg0008890,Hoptrup,City,Danmark
+Reg0008900,Horgen,City,Schweiz
+Reg0008910,Hornbæk,City,Danmark
+Reg0008920,Horne,City,Danmark
+Reg0008930,Horsens,City,Danmark
+Reg0008940,Hospenthal,City,Schweiz
+Reg0008950,"Hospiz, St. Gotthard",Point of interest (POI),Schweiz
+Reg0008960,Hova,City,Sverige
+Reg0008970,Hull,City,England
+Reg0008980,"Hundegrotten (Grotta del Cane, Agnano)",Point of interest (POI),Italien
+Reg0008990,"Hundstrup, Salling H., Svendborg A",City,Danmark
+Reg0009000,Hunneberg,Mountain,Sverige
+Reg0009010,Hunte,River,Tyskland
+Reg0009020,Husaby,City,Sverige
+Reg0009030,Husby,City,Danmark
+Reg0009040,Hvedholm,Property,Danmark
+Reg0009050,Hven,Island,Danmark
+Reg0009060,Hvidkilde,Property,Danmark
+Reg0009070,Hyby,Property,Sverige
+Reg0009080,Hyères,City,Frankrig
+Reg0009090,Hymettos,Mountain,Grækenland
+Reg0009100,Hütteldorf,Region,Østrig
+Reg0009110,Häckeberga,Property,Sverige
+Reg0009120,Hällebrunn,,Sverige
+Reg0009130,Härfvsta,City,Sverige
+Reg0009140,"Høgebjerg, Als",Point of interest (POI),Danmark
+Reg0009150,Højbjerg,Point of interest (POI),Danmark
+Reg0009160,"Höllenthal, das",Region,Schweiz
+Reg0009170,"Höllenweg, der",City,Tyskland
+Reg0009180,Hölzbach,Point of interest (POI),Schweiz
+Reg0009190,Hønefos,City,Norge
+Reg0009200,Hönsäter,Property,Sverige
+Reg0009210,Höör,City,Sverige
+Reg0009220,Haag,City,Holland
+Reg0009230,Håkansbo,City,Sverige
+Reg0009240,Haarlem,City,Holland
+Reg0009250,Haarlemer Meer,City,By
+Reg0009260,Iglau,City,Tjekkiet
+Reg0009270,Iholm,Island,Danmark
+Reg0009280,Ilissos,River,Grækenland
+Reg0009290,Ilmenau,City,Tyskland
+Reg0009300,Ilok,City,Kroatien
+Reg0009310,Ilse,River,Tyskland
+Reg0009320,Ilsenstein,Point of interest (POI),Tyskland
+Reg0009330,Ilsethal,Region,Tyskland
+Reg0009340,Immendorf,City,Tyskland
+Reg0009350,Immensee,City,Schweiz
+Reg0009360,Incisa Valdarno,City,Italien
+Reg0009370,Indiana,Region,USA
+Reg0009380,Indien,Country,Indien
+Reg0009390,Inn,River,Østrig
+Reg0009400,Inn-Dalen,Region,Østrig
+Reg0009410,Innsbruck,City,Østrig
+Reg0009420,Interlaken,City,Schweiz
+Reg0009430,Inverness,City,Skotland
+Reg0009440,Irland,Country,Irland
+Reg0009450,Irstad,City,Sverige
+Reg0009460,Irun,City,Spanien
+Reg0009470,Isala,City,Sverige
+Reg0009480,Isar,River,Tyskland
+Reg0009490,Isar-Dalen,Region,Tyskland
+Reg0009500,Ischia,Island,Italien
+Reg0009510,Ischl,City,Østrig
+Reg0009520,Isefjorden,Sea,Danmark
+Reg0009530,Island,Country,Island
+Reg0009540,Isola Bella,Island,Italien
+Reg0009550,Isthmen,Region,Grækenland
+Reg0009560,Italien,Country,Italien
+Reg0009570,Itzehoe,City,Tyskland
+Reg0009580,Izlas,City,Rumænien
+Reg0009590,Jacobsbruch,Region,Tyskland
+Reg0009600,Japan,Country,Japan
+Reg0009610,Jatzske,Region,Tyskland
+Reg0009620,Java,Island,Indonesien
+Reg0009630,Jena,City,Tyskland
+Reg0009640,Jenikau,City,Tjekkiet
+Reg0009650,Jeres de la Frontera,City,Spanien
+Reg0009660,Jerichow,Property,Tyskland
+Reg0009670,Jernit,Property,Danmark
+Reg0009680,Jernporten (Eisernes Thor),Region,Serbien
+Reg0009690,Jerup,City,Danmark
+Reg0009700,Jerusalem,City,Israel
+Reg0009710,Jever,City,Tyskland
+Reg0009720,"Johannisberg, Schloss",Property,Tyskland
+Reg0009730,Jomfruens Egede,Property,Danmark
+Reg0009740,Jooephsberg,Mountain,Østrig
+Reg0009770,Juellinge (Halsted Kloster) (Lollands Nørre Herred),Property,Danmark
+Reg0009780,Juellinge (Stevns Herred),Property,Danmark
+Reg0009790,Juelsberg,Property,Danmark
+Reg0009800,Jungfrau,Mountain,Schweiz
+Reg0009810,Jungshoved,Region,Danmark
+Reg0009820,"Junquera, La",Region,Spanien
+Reg0009830,Jurabjergene,Mountain,Schweiz
+Reg0009840,Jylland,Region,Danmark
+Reg0009850,Jüterbog,City,Tyskland
+Reg0009860,Jönköping,City,Sverige
+Reg0009870,Kahlenberg,Mountain,Østrig
+Reg0009890,Kallebodstrand,Region,Danmark
+Reg0009900,Kallehave,Point of interest (POI),Danmark
+Reg0009910,Kalmar,City,Sverige
+Reg0009920,Kalundborg,City,Danmark
+Reg0009930,Karasu,City,Tyrkiet
+Reg0009940,Karise,City,Danmark
+Reg0009950,Karlberg,Property,Sverige
+Reg0009960,Karlowicz (Karlovci),City,Serbien
+Reg0009970,Karlsbad,City,Tjekkiet
+Reg0009980,Karlsborg,Property,Sverige
+Reg0009990,Karlskrona,City,Sverige
+Reg0010000,Karlsruhe,City,Tyskland
+Reg0010010,Karlstad,City,Sverige
+Reg0010020,Karpaterne,Mountain,Europa
+Reg0010030,Karrebæk,Point of interest (POI),Danmark
+Reg0010040,Karrebæksminde,City,Danmark
+Reg0010050,Kassel,City,Tyskland
+Reg0010060,Kastel,City,Tyskland
+Reg0010070,Katrineholm,City,Sverige
+Reg0010080,Kattegat,Sea,Danmark
+Reg0010090,Katwijk,City,Holland
+Reg0010100,Kaukasus,Mountain,Georgien
+Reg0010110,Kazan,City,Rusland
+Reg0010120,Kea,Island,Grækenland
+Reg0010130,Kehl,City,Tyskland
+Reg0010140,Kellinghusen,City,Tyskland
+Reg0010150,Kempten,City,Tyskland
+Reg0010160,Khalkis,City,Grækenland
+Reg0010170,Khios,Island,Grækenland
+Reg0010180,Kiel,City,Tyskland
+Reg0010190,Kielerfjord,Sea,Tyskland
+Reg0010200,Kifissia,Region,Grækenland
+Reg0010210,Kifissos,River,Grækenland
+Reg0010220,"Kilburn, Bransbury House",Property,England
+Reg0010230,Kina,Country,Kina
+Reg0010240,Kinnekulle,Mountain,Sverige
+Reg0010270,Kirnitz,River,Tyskland
+Reg0010280,Kissingen,City,Tyskland
+Reg0010290,Klampenborg,City,Danmark
+Reg0010300,Klara-Elven,River,Sverige
+Reg0010310,Klaus,,Tyskland
+Reg0010320,Kleef,City,Tyskland
+Reg0010330,"Klopp, Burg",Property,Tyskland
+Reg0010340,Kloster-Mansfeld,Region,Tyskland
+Reg0010350,Klosterneuburg,City,Østrig
+Reg0010360,Knivholt,Property,Danmark
+Reg0010370,Knole House,Property,England
+Reg0010380,"Knudshoved, Fyn",Region,Danmark
+Reg0010390,Knuthenborg,Property,Danmark
+Reg0010400,Kobelnick,City,Polen
+Reg0010410,Koblenz,City,Tyskland
+Reg0010420,Kochelsee,Lake,Tyskland
+Reg0010430,Kohlfurt,City,Polen
+Reg0010440,Kolberg,City,Polen
+Reg0010450,Kolbäck,City,Sverige
+Reg0010460,Kolding,City,Danmark
+Reg0010470,Kolin,City,Tjekkiet
+Reg0010480,Kollmann,City,Italien
+Reg0010490,Kolonos,Region,Grækenland
+Reg0010500,Komorn (Komárno),City,Slovakiet
+Reg0010510,"Kongens Have, København",Point of interest (POI),Danmark
+Reg0010520,Kongeaaen,River,Danmark
+Reg0010530,Kongsdal,Property,Danmark
+Reg0010540,Kongsvinger,City,Norge
+Reg0010550,Konstantinopel,City,Tyrkiet
+Reg0010560,Konstanz,City,Tyskland
+Reg0010570,Korinth,City,Grækenland
+Reg0010580,Korneuburg,City,Østrig
+Reg0010590,Korsør,City,Danmark
+Reg0010600,Kowicz,Property,Polen
+Reg0010610,Krebshuset Kro,Property,Danmark
+Reg0010640,Kreta,Island,Grækenland
+Reg0010650,"Kreuznach, Bad",City,Tyskland
+Reg0010660,Krippen (ved Schandau),City,Tyskland
+Reg0010670,Kristinehamn,City,Sverige
+Reg0010680,Krogerup,Property,Danmark
+Reg0010690,Kronborg,Property,Danmark
+Reg0010700,Kubin,City,Serbien
+Reg0010710,Kuchl,City,Østrig
+Reg0010720,Kuhstall,Point of interest (POI),Tyskland
+Reg0010740,Kulla Gunnarstorp,Property,Sverige
+Reg0010750,Kulm,City,Tjekkiet
+Reg0010770,Kumla,City,Sverige
+Reg0010780,Kungelf,City,Sverige
+Reg0010790,Kurland,Region,Letland
+Reg0010800,Kuttenberg,City,Tjekkiet
+Reg0010810,Kværndrup,City,Danmark
+Reg0010820,Kyritz,City,Tyskland
+Reg0010830,Küssnacht am Rigi,City,Schweiz
+Reg0010840,Küstendil,City,Bulgarien
+Reg0010850,Küstendje (Costanta),City,Rumænien
+Reg0010860,Källtorp,Property,Sverige
+Reg0010870,Kärra,Region,Sverige
+Reg0010880,København,City,Danmark
+Reg0010890,Køge,City,Danmark
+Reg0010900,Köln,City,Tyskland
+Reg0010910,Kölva,Region,Sverige
+Reg0010920,Königerode,City,Tyskland
+Reg0010930,Königsberg,City,Rusland
+Reg0010940,Königsplatz,Point of interest (POI),Tyskland
+Reg0010950,Königstein,City,Tyskland
+Reg0010960,Köping,City,Sverige
+Reg0010970,"Kösen, Bad",City,Tyskland
+Reg0010980,Köthen,Property,Tyskland
+Reg0010990,Laca,City,Italien
+Reg0011000,Lachen,City,Schweiz
+Reg0011010,Ladegaardsøen (ved Christiania),Lake,Norge
+Reg0011020,Lagan,River,Sverige
+Reg0011030,Lago dei Tartari,Lake,Italien
+Reg0011040,Lago Maggiore,Lake,Italien
+Reg0011050,Lahn,River,Tyskland
+Reg0011060,Laholm,City,Sverige
+Reg0011070,Laibach,City,Tyskland
+Reg0011080,Lambach,City,Østrig
+Reg0011090,Lammhult,City,Sverige
+Reg0011100,Landeron,City,Schweiz
+Reg0011110,Landskrona,City,Sverige
+Reg0011120,Langeland,Island,Danmark
+Reg0011130,Langenfelde (Holsten),Region,Tyskland
+Reg0011140,Langesø,Lake,Danmark
+Reg0011160,Langaa (Fyn),City,Danmark
+Reg0011170,Lapland,Region,Finland
+Reg0011180,Larvik,City,Norge
+Reg0011190,Lauenburg,City,Tyskland
+Reg0011200,Lausanne,City,Schweiz
+Reg0011210,Lauterbrunnen,City,Schweiz
+Reg0011220,Lavis,City,Italien
+Reg0011230,Lavrbjerg,City,Danmark
+Reg0011240,Laxenburg,Property,Østrig
+Reg0011250,Laxå,City,Sverige
+Reg0011260,Lecco-Bugten (Como-Søen),Lake,Italien
+Reg0011270,Leckö,Property,Sverige
+Reg0011280,Leeds,City,England
+Reg0011290,Lehrte,City,Tyskland
+Reg0011300,Leiden,City,Holland
+Reg0011310,Leimbach,City,Tyskland
+Reg0011320,Leipzig,City,Tyskland
+Reg0011330,Leith,City,Skotland
+Reg0011340,Leitmeritz,City,Tjekkiet
+Reg0011350,Lek,City,Tyskland
+Reg0011360,Lekkende,Property,Danmark
+Reg0011370,Lemberg (Lwów),City,Ukraine
+Reg0011380,Lemvig,City,Danmark
+Reg0011390,Lenz,City,Schweiz
+Reg0011400,Leopoldsberg,Mountain,Østrig
+Reg0011410,Lerchenborg,Property,Danmark
+Reg0011420,Lethraborg,Property,Danmark
+Reg0011430,Levane,City,Italien
+Reg0011440,Libanon,Country,Libanon
+Reg0011450,Liben,Region,Tjekkiet
+Reg0011460,Lidköping,City,Sverige
+Reg0011470,"Liebenwerda, Bad",City,Tyskland
+Reg0011480,Liebethaler Grund,Mountain,Tyskland
+Reg0011490,Lifland,Region,Estland
+Reg0011500,Lilienstein,Mountain,Tyskland
+Reg0011510,Lilla Edet,City,Sverige
+Reg0011520,Lille,City,Frankrig
+Reg0011530,Lille Odinshøi,Point of interest (POI),Danmark
+Reg0011540,Lillebelt,Sea,Danmark
+Reg0011550,Lillestrøm,City,Norge
+Reg0011560,Lilliendal,Property,Danmark
+Reg0011570,Limfjorden,Sea,Danmark
+Reg0011580,Limsta,Point of interest (POI),Sverige
+Reg0011590,Lindau im Bodensee,City,Tyskland
+Reg0011600,Lingen,City,Tyskland
+Reg0011610,Linköping,City,Sverige
+Reg0011620,Linth-Kanalen,River,Schweiz
+Reg0011630,Linz,City,Østrig
+Reg0011640,"Lipariske Øer, de",Island,Italien
+Reg0011650,Lippe-Detmold,Region,Tyskland
+Reg0011660,Liro,River,Italien
+Reg0011670,Lissabon,City,Portugal
+Reg0011680,Liverpool,City,England
+Reg0011690,Livorno,City,Italien
+Reg0011700,Ljung,City,Sverige
+Reg0011710,lnversnaid,Region,Skotland
+Reg0011720,Lobositz,City,Tjekkiet
+Reg0011730,Loch Katrine,Lake,Skotland
+Reg0011740,Loch Laggan,Lake,Skotland
+Reg0011750,Loch Lomond,Lake,Skotland
+Reg0011760,"Locle, Le",City,Schweiz
+Reg0011770,Lohmen,City,Tyskland
+Reg0011780,Loiano,City,Italien
+Reg0011790,Loire,River,Frankrig
+Reg0011800,Loisach,River,Tyskland
+Reg0011810,Loja,City,Spanien
+Reg0011820,Lolland,Island,Danmark
+Reg0011830,Lom-Palanka,City,Bulgarien
+Reg0011840,London,City,England
+Reg0011850,Longchamp,City,Frankrig
+Reg0011860,Lorch,City,Tyskland
+Reg0011870,Loreto,City,Italien
+Reg0011880,Lottchensitz (ved Maxen),Point of interest (POI),Tyskland
+Reg0011890,Louisehøj (ved Silkeborg),Point of interest (POI),Danmark
+Reg0011900,Lowerzer-See,Lake,Schweiz
+Reg0011910,lselle,Point of interest (POI),Italien
+Reg0011920,lsted,Region,Tyskland
+Reg0011930,ltri,City,Italien
+Reg0011940,Lucca,City,Italien
+Reg0011950,Lucriner-Søen,Lake,Italien
+Reg0011960,Ludwigshafen,City,Tyskland
+Reg0011970,Ludwigslust,City,Tyskland
+Reg0011980,Luganer-Søen,Lake,Schweiz
+Reg0011990,Lugano,City,Schweiz
+Reg0012000,Lund,City,Sverige
+Reg0012010,Lundeborg,City,Danmark
+Reg0012020,Lundenburg,City,Tjekkiet
+Reg0012030,Lundsgaard,Property,Danmark
+Reg0012040,Lunéville,City,Frankrig
+Reg0012050,Lungern,Lake,Schweiz
+Reg0012060,Lungern-Søen,Lake,Schweiz
+Reg0012070,Lurlei,Mountain,Tyskland
+Reg0012080,Luzern,City,Schweiz
+Reg0012090,Lübeck,City,Tyskland
+Reg0012100,Lykkesholm,Property,Danmark
+Reg0012110,Lüneburg,City,Tyskland
+Reg0012120,Lüneburger Heide,Region,Tyskland
+Reg0012130,Lyngby,City,Danmark
+Reg0012140,Lyon,City,Frankrig
+Reg0012150,Lyoner-Bugten,Sea,Frankrig
+Reg0012160,Lyrastad,City,Sverige
+Reg0012170,Lystrup,Property,Danmark
+Reg0012180,Lütschinen,River,Schweiz
+Reg0012190,Lüttich (Liège),City,Belgien
+Reg0012200,Lützen,City,Tyskland
+Reg0012210,Lærkehøj (Ulvborg S.),Point of interest (POI),Danmark
+Reg0012230,Løgsø,Lake,Danmark
+Reg0012240,Løkken,City,Danmark
+Reg0012250,Löningen,City,Tyskland
+Reg0012260,Løvenborg,Property,Danmark
+Reg0012270,Löwen (Louvain),City,Belgien
+Reg0012280,Macerata,City,Italien
+Reg0012290,Macon,City,Frankrig
+Reg0012300,Madeira,Island,Portugal
+Reg0012310,Madrid,City,Spanien
+Reg0012320,Maegaard,Property,Danmark
+Reg0012330,Mafra,City,Portugal
+Reg0012340,Magdeburg,City,Tyskland
+Reg0012350,"Magra, La",River,Italien
+Reg0012360,Maidstone,City,England
+Reg0012370,Main,River,Tyskland
+Reg0012380,Mainz,City,Tyskland
+Reg0012390,Maiori,City,Italien
+Reg0012400,Maira,Region,Italien
+Reg0012410,Makedonien,Region,Grækenland
+Reg0012420,Málaga,City,Spanien
+Reg0012430,Malebern,City,Østrig
+Reg0012440,Malines,City,Belgien
+Reg0012450,Malmö,City,Sverige
+Reg0012460,Maloja-Kulm,Property,Schweiz
+Reg0012470,Malta,Country,Malta
+Reg0012480,Manchester,City,England
+Reg0012490,Mannheim,City,Tyskland
+Reg0012500,Mansfeld,City,Tyskland
+Reg0012510,Mantova,City,Italien
+Reg0012530,Marathon,Point of interest (POI),Grækenland
+Reg0012540,Marburg,City,Tyskland
+Reg0012550,Maria-Frieden,Church,Tyskland
+Reg0012560,Mariager,City,Danmark
+Reg0012570,Mariager Fjord,Sea,Danmark
+Reg0012580,Maria-Zell,City,Østrig
+Reg0012590,Maribo,City,Danmark
+Reg0012600,"Marienborg, Møn",Property,Danmark
+Reg0012610,Marienbrücke (ved Hohenschwangau),Point of interest (POI),Tyskland
+Reg0012620,Marienlyst,Property,Danmark
+Reg0012630,Mariestad,City,Sverige
+Reg0012640,Marina di Conca,City,Italien
+Reg0012650,Marino,City,Italien
+Reg0012660,Marmara-Havet,Sea,Tyrkiet
+Reg0012670,Marmara-Øen,Island,Tyrkiet
+Reg0012680,Marne,River,Frankrig
+Reg0012690,Marokko,Country,Marokko
+Reg0012700,Maroussi (Amarousion),City,Grækenland
+Reg0012710,Marseille,City,Frankrig
+Reg0012720,Marselisborg,Property,Danmark
+Reg0012730,Marsk Stigs Hule,Point of interest (POI),Danmark
+Reg0012740,Marslev,City,Danmark
+Reg0012750,Martinswand,Mountain,Østrig
+Reg0012760,Martorp,Point of interest (POI),Sverige
+Reg0012770,Massa,City,Italien
+Reg0012780,Matra,Mountain,Ungarn
+Reg0012790,Matta,Region,Portugal
+Reg0012800,Matterhorn,Mountain,Schweiz
+Reg0012810,"Maus, die (Deurenburg)",Property,Tyskland
+Reg0012820,Maxen,Property,Tyskland
+Reg0012830,Meaux,City,Frankrig
+Reg0012840,Mecklenburg,Region,Tyskland
+Reg0012850,Mecklenburg-Schwerin,Region,Tyskland
+Reg0012860,Megara,City,Grækenland
+Reg0012870,Mehádia,City,Rumænien
+Reg0012890,Meiningen,City,Tyskland
+Reg0012900,Meiringen,City,Schweiz
+Reg0012910,Meissen,City,Tyskland
+Reg0012920,Mekka,City,Saudi Arabien
+Reg0012930,Melbourne,City,Australien
+Reg0012940,Mem,City,Sverige
+Reg0012950,Menton (Mentone),City,Frankrig
+Reg0012960,Meran,City,Italien
+Reg0012970,Merida,City,Spanien
+Reg0012980,Merseburg,City,Tyskland
+Reg0012990,Messenien,Region,Grækenland
+Reg0013000,Messina,City,Italien
+Reg0013010,Meudon,City,Frankrig
+Reg0013020,Mexico,Country,Mexico
+Reg0013030,Middelfart,City,Danmark
+Reg0013040,Middelhavet,Sea,Europa
+Reg0013050,Milano,City,Italien
+Reg0013060,Minden,City,Tyskland
+Reg0013070,Minneapolis,City,USA
+Reg0013080,Minnesota,Region,USA
+Reg0013090,Minori,City,Italien
+Reg0013100,Miranda de Ebro,City,Spanien
+Reg0013110,Mississippi,River,USA
+Reg0013120,Mittenwald,Point of interest (POI),Tyskland
+Reg0013130,Mjøsen,Lake,Norge
+Reg0013140,Modena,City,Italien
+Reg0013150,Modum,Region,Norge
+Reg0013160,Moerdijk,City,Holland
+Reg0013170,Mogyorod,City,Ungarn
+Reg0013180,Mohács,City,Ungarn
+Reg0013190,Mola di Gaëta (Formia),City,Italien
+Reg0013200,Moldau,River,Tjekkiet
+Reg0013210,Moldava,Country,Moldova
+Reg0013220,Mols,Region,Danmark
+Reg0013230,Monaco,Country,Monaco
+Reg0013240,Mondego,River,Portugal
+Reg0013250,Monheim in Bayern,City,Tyskland
+Reg0013260,Monnetier,City,Schweiz
+Reg0013270,Mons,City,Belgien
+Reg0013280,Monserrat,Mountain,Spanien
+Reg0013290,Monserrate (Portugal),Mountain,Portugal
+Reg0013300,Mont Cenis,Mountain,Frankrig
+Reg0013310,Mont Pouillerel,Mountain,Frankrig
+Reg0013320,Montblanc,Mountain,Schweiz
+Reg0013330,Monte Cavo,Mountain,Italien
+Reg0013340,Monte Circeo (Circes Ø),Mountain,Italien
+Reg0013350,Monte Cristo,Island,Italien
+Reg0013360,"Monte della Misericordia, Ischia",Mountain,Italien
+Reg0013370,Monte Nuovo,Mountain,Italien
+Reg0013380,Monte Porzio,Mountain,Italien
+Reg0013390,Monte Rosa,Mountain,Schweiz
+Reg0013400,Monte Soratte (Soracte),Mountain,Italien
+Reg0013420,Montebello,City,Italien
+Reg0013430,Montecarelli,City,Italien
+Reg0013440,Montefiascone,City,Italien
+Reg0013450,Montélimart,City,Frankrig
+Reg0013460,Monteroni,City,Italien
+Reg0013470,Montpellier,City,Frankrig
+Reg0013480,Montreux,City,Schweiz
+Reg0013490,Monze,City,Italien
+Reg0013500,Mora,City,Sverige
+Reg0013510,Morea,Region,Grækenland
+Reg0013520,Mori,City,Italien
+Reg0013530,Moritzburg,Property,Tyskland
+Reg0013540,Mornas,Region,Frankrig
+Reg0013550,Mornaux,City,Schweiz
+Reg0013560,Mornex,City,Schweiz
+Reg0013570,Mors,Island,Danmark
+Reg0013580,Morteau,City,Frankrig
+Reg0013600,"Mosebackan, Stockholm",Point of interest (POI),Sverige
+Reg0013610,Moskva,City,Rusland
+Reg0013620,Motala,City,Sverige
+Reg0013630,Motala-Strømmen,River,Sverige
+Reg0013640,Mullerup,Property,Danmark
+Reg0013650,Munkebo Bakke,Point of interest (POI),Danmark
+Reg0013660,Munkeboda,Point of interest (POI),Sverige
+Reg0013670,Murano,Island,Italien
+Reg0013680,Murcia,City,Spanien
+Reg0013690,Murnau,Property,Tyskland
+Reg0013700,Musselburgh,City,Skotland
+Reg0013720,Mühlhausen,City,Frankrig
+Reg0013730,Mülheim a.d. Ruhr,City,Tyskland
+Reg0013740,Münchberg,City,Tyskland
+Reg0013750,München,City,Tyskland
+Reg0013760,Münden,City,Tyskland
+Reg0013770,Münster,City,Tyskland
+Reg0013780,Münsterdorf,City,Tyskland
+Reg0013790,Mürzzuschlag,City,Østrig
+Reg0013800,Mytilene,Island,Grækenland
+Reg0013810,Mägdesprung,City,Tyskland
+Reg0013820,Mähren,Region,Tjekkiet
+Reg0013830,Mälaren,Lake,Sverige
+Reg0013840,Møen,Island,Danmark
+Reg0013850,Møens Klint,Point of interest (POI),Danmark
+Reg0013860,Møllerup,Property,Danmark
+Reg0013870,Mölln,City,Tyskland
+Reg0013880,"Mönch, der",Mountain,Schweiz
+Reg0013890,Maas (Meuse),River,Frankrig
+Reg0013900,"Nahe, die",River,Tyskland
+Reg0013910,Nakskov,City,Danmark
+Reg0013920,Nancy,City,Frankrig
+Reg0013930,Napoli,City,Italien
+Reg0013940,Narbonne,City,Frankrig
+Reg0013950,Narni,City,Italien
+Reg0013960,Narva,City,Estland
+Reg0013970,Nassau,City,Tyskland
+Reg0013980,Nauen,City,Tyskland
+Reg0013990,Naumburg,City,Tyskland
+Reg0014000,Nauplia,City,Grækenland
+Reg0014010,Naxos,Island,Grækenland
+Reg0014020,Nea Phocea (Nea Fokaia),City,Grækenland
+Reg0014030,"Necessidades, Lissabon",Property,Portugal
+Reg0014040,Neckar,River,Tyskland
+Reg0014050,Nemi,City,Italien
+Reg0014060,Nemi-Søen,Lake,Italien
+Reg0014070,Nepi,City,Italien
+Reg0014080,Nera,River,Italien
+Reg0014090,Neubrandenburg,City,Tyskland
+Reg0014100,Neuchâtel (By),City,Schweiz
+Reg0014110,Neuchâtel (Kanton),City,Schweiz
+Reg0014120,Neuchâteller-Søen,Lake,Schweiz
+Reg0014130,Neuensalz,City,Tyskland
+Reg0014140,Neuhaus (Schweiz),Region,Schweiz
+Reg0014150,Neuilly-sur-Seine,City,Frankrig
+Reg0014160,Neumark,City,Østrig
+Reg0014170,Neumarkt (Egna),City,Italien
+Reg0014180,Neumünster,City,Tyskland
+Reg0014190,Neusatz (Novisad),City,Serbien
+Reg0014200,Neusiedler-Søen,Lake,Østrig
+Reg0014210,Neuveville,City,Schweiz
+Reg0014220,Neva,City,Sverige
+Reg0014230,New York,City,USA
+Reg0014240,Newcastle,City,England
+Reg0014250,Niagara,Point of interest (POI),Nordamerika
+Reg0014260,Nibe,City,Danmark
+Reg0014270,Nicobarerne,Island,Indien
+Reg0014280,Nicopoli,Point of interest (POI),Grækenland
+Reg0014290,Niedergrund,City,Tjekkiet
+Reg0014300,Nienburg,City,Tyskland
+Reg0014310,Niesen,Mountain,Schweiz
+Reg0014320,Nilen,River,Ægypten
+Reg0014330,Nil-Kanalen,River,Ægypten
+Reg0014340,Nimes,City,Frankrig
+Reg0014350,Ninive,Point of interest (POI),Irak
+Reg0014360,Nishni Novgorod,City,Rusland
+Reg0014370,Nisida,Island,Italien
+Reg0014380,Nissum Fjord,Sea,Danmark
+Reg0014390,Nizza (Nice),City,Frankrig
+Reg0014400,Nocera Superiore,City,Italien
+Reg0014410,Nordamerika,Continent,Nordamerika
+Reg0014420,Norden,Region,Europa
+Reg0014430,Norderhov,Church,Norge
+Reg0014440,Norditalien,Region,Italien
+Reg0014450,Nordkap,Region,Norge
+Reg0014460,Nordsleswig,Region,Danmark
+Reg0014470,Nordstemmen,City,Tyskland
+Reg0014480,Nord-Sverige,Region,Sverige
+Reg0014490,Nordsøen,Sea,Europa
+Reg0014500,Nordtyskland,Region,Tyskland
+Reg0014510,Norge,Country,Norge
+Reg0014520,Norring,City,Danmark
+Reg0014530,Norrköping,City,Sverige
+Reg0014540,Norrland,Region,Sverige
+Reg0014550,Northeim,City,Tyskland
+Reg0014560,Novara,City,Italien
+Reg0014570,Novella,City,Italien
+Reg0014580,Novi Ligure,City,Italien
+Reg0014590,Nuestra Señora de Miraflores,,Spanien
+Reg0014600,Nyborg,City,Danmark
+Reg0014610,Nyborg Fjord,Sea,Danmark
+Reg0014620,Nydam Mose,Point of interest (POI),Danmark
+Reg0014630,"Nygård, Trollhättan",Property,Sverige
+Reg0014640,Nykvarn,City,Sverige
+Reg0014650,Nykøbing F,City,Danmark
+Reg0014660,Nykøbing Sj,City,Danmark
+Reg0014670,Nyköping,City,Sverige
+Reg0014680,Nyon,City,Schweiz
+Reg0014690,Nürnberg,City,Tyskland
+Reg0014700,Nysø,Property,Tyskland
+Reg0014710,Nærum,City,Danmark
+Reg0014720,Næsodden (Christiania),Region,Norge
+Reg0014730,Næstved,City,Danmark
+Reg0014740,Nøddebo,City,Danmark
+Reg0014750,Nør,Property,Tyskland
+Reg0014760,Nørager,City,Danmark
+Reg0014770,Nørre Vosborg,Property,Danmark
+Reg0014780,Nørresundby,City,Danmark
+Reg0014790,Oberammergau,City,Tyskland
+Reg0014800,Ober-Mittewald,City,Tyskland
+Reg0014810,Ober-Weimar,City,Tyskland
+Reg0014820,"Ochsenkopf, das",Mountain,Tyskland
+Reg0014830,Odense,City,Danmark
+Reg0014840,Odense Aa,River,Danmark
+Reg0014850,Odessa,City,Ukraine
+Reg0014860,Odinshøj,Point of interest (POI),Danmark
+Reg0014870,Oed,City,Østrig
+Reg0014880,Oedenburg,Property,Frankrig
+Reg0014890,Oelschnitz,City,Tyskland
+Reg0014900,Ofen (Buda),City,Ungarn
+Reg0014910,Offenbach,City,Tyskland
+Reg0014920,Offenburg,City,Tyskland
+Reg0014930,Okertal,Region,Tyskland
+Reg0014940,Oland,Island,Tyskland
+Reg0014950,Olazagutia,City,Spanien
+Reg0014960,Oldenburg,City,Tyskland
+Reg0014970,Oldenzaal,City,Holland
+Reg0014980,Oldesloe,City,Tyskland
+Reg0014990,Olette,City,Frankrig
+Reg0015000,"Oliden, Trollhätta",Point of interest (POI),Sverige
+Reg0015010,Ol-Jonsdammen,Lake,Sverige
+Reg0015020,Olmütz,Property,Tjekkiet
+Reg0015030,Olten,City,Schweiz
+Reg0015040,"Olymp, Bjerg i Lilleasien S.f. Brussa",Mountain,Grækenland
+Reg0015050,Omø,Island,Danmark
+Reg0015060,Oneglia,City,Italien
+Reg0015070,Oos,City,Tyskland
+Reg0015080,O-Palanka,City,Serbien
+Reg0015090,Oporto,City,Portugal
+Reg0015100,Orange,City,Frankrig
+Reg0015110,Orava (Rahova),Property,Slovakiet
+Reg0015120,Ordrup,City,Danmark
+Reg0015130,Ordrup Kro,Property,Danmark
+Reg0015140,Orienten,Continent,Asien
+Reg0015150,Orihuela,City,Spanien
+Reg0015160,Oringe,Property,Danmark
+Reg0015170,Orléans,City,Frankrig
+Reg0015180,Oron,City,Schweiz
+Reg0015190,Orsova,City,Rumænien
+Reg0015200,Oschatz,City,Tyskland
+Reg0015210,Oschenleben,City,Tyskland
+Reg0015230,Osnabrück,City,Tyskland
+Reg0015240,Ostende,City,Belgien
+Reg0015250,Osterode (Harzen),City,Tyskland
+Reg0015260,Osterode (Østpreussen),City,Tyskland
+Reg0015270,Ostia,City,Italien
+Reg0015280,Ostindien,Region,Asien
+Reg0015290,Ostrova (Ostrov),Island,Serbien
+Reg0015310,Ottensen,City,Tyskland
+Reg0015320,Ouchy,Region,Schweiz
+Reg0015330,Ourupgaard,Property,Danmark
+Reg0015340,"Overgaard, Udbyneder S",Property,Danmark
+Reg0015350,Ovinehøj,Point of interest (POI),Danmark
+Reg0015360,Oxelösund,City,Sverige
+Reg0015370,Oxford,City,England
+Reg0015380,Paderborn,City,Tyskland
+Reg0015390,Padova,City,Italien
+Reg0015400,Paestum,Point of interest (POI),Italien
+Reg0015410,Pagani,City,Italien
+Reg0015420,Palermo,City,Italien
+Reg0015430,Pallanza,City,Italien
+Reg0015440,Palmela,City,Portugal
+Reg0015450,Palsgaard,Property,Danmark
+Reg0015460,Palstrup,Property,Danmark
+Reg0015470,Palæstina,Country,Palæstina
+Reg0015480,Pancsova (Pančevo),City,Serbien
+Reg0015490,"Panker, Lütjenburg",Property,Tyskland
+Reg0015500,Parano,Region,Italien
+Reg0015510,Pardubitz,City,Tjekkiet
+Reg0015520,Paris,City,Frankrig
+Reg0015530,Parma,City,Italien
+Reg0015540,Parnes-Bjergene,Mountain,Grækenland
+Reg0015550,Paros,Island,Grækenland
+Reg0015560,Partenkirchen,City,Tyskland
+Reg0015570,Pasewalk,City,Tyskland
+Reg0015580,Pass Lueg,Mountain,Østrig
+Reg0015590,Passignano,City,Italien
+Reg0015600,Passy,Region,Frankrig
+Reg0015610,Patras,City,Grækenland
+Reg0015620,Pau,City,Frankrig
+Reg0015630,Pavia,City,Italien
+Reg0015640,Peblingesøen,Lake,Danmark
+Reg0015650,Pedersborg,Point of interest (POI),Danmark
+Reg0015660,Pegnitz,City,Tyskland
+Reg0015680,Peking,City,Kina
+Reg0015690,Peloponnesos,Region,Grækenland
+Reg0015700,Pena,Property,Portugal
+Reg0015710,Pennsylvanien,Region,USA
+Reg0015720,Pentelikon,Mountain,Grækenland
+Reg0015730,Pentelis,City,Grækenland
+Reg0015740,Pera,City,Tyrkiet
+Reg0015750,Perleberg,City,Tyskland
+Reg0015760,Perpignan,City,Frankrig
+Reg0015770,Perschling,City,Østrig
+Reg0015780,Persien,Country,Iran
+Reg0015790,Peru,Country,Peru
+Reg0015800,Perugia,City,Italien
+Reg0015810,Pesaro,City,Italien
+Reg0015820,Peschiera,City,Italien
+Reg0015830,Pessin,City,Tyskland
+Reg0015840,Pest,City,Ungarn
+Reg0015850,Petersgaard,Property,Danmark
+Reg0015860,Petershøi,Property,Danmark
+Reg0015870,Peterswalde,City,Polen
+Reg0015880,Peterwardein (Petrovaradin),City,Serbien
+Reg0015890,Pfalz,Region,Tyskland
+Reg0015900,Pfäffers Bad,Point of interest (POI),Schweiz
+Reg0015910,"Pfäffers, Dorf",City,Schweiz
+Reg0015920,Philadelphia,City,USA
+Reg0015930,Piacenza,City,Italien
+Reg0015940,Piano di Sorrento,Region,Italien
+Reg0015960,Pielach,River,Østrig
+Reg0015970,Piémont,Region,Italien
+Reg0015980,Pietra Mala,City,Italien
+Reg0015990,Pietrasanta,City,Italien
+Reg0016000,Pilatus,Mountain,Schweiz
+Reg0016010,Pillnitz,Property,Tyskland
+Reg0016020,Pinneberg,City,Tyskland
+Reg0016030,"Piperviken, Christiania",Region,Norge
+Reg0016040,Pirano,City,Italien
+Reg0016050,Pirna,City,Tyskland
+Reg0016060,Piræus,City,Grækenland
+Reg0016070,Pisa,City,Italien
+Reg0016080,Pissevache,Point of interest (POI),Schweiz
+Reg0016090,Pistoia,City,Italien
+Reg0016100,Piz Bernina,Mountain,Schweiz
+Reg0016110,Planian (Planen),City,Tjekkiet
+Reg0016120,Plauen (Vogtland),City,Tyskland
+Reg0016130,Plauenscher Grund (ved Dresden),Region,Tyskland
+Reg0016140,Plavisovicza,Mountain,Kroatien
+Reg0016150,Pleinfeld,City,Tyskland
+Reg0016160,Pleisse,River,Tyskland
+Reg0016170,Plesse,Property,Tyskland
+Reg0016180,"Plessur, die",River,Schweiz
+Reg0016190,Plön,City,Tyskland
+Reg0016200,Po,River,Italien
+Reg0016210,Poderina,City,Italien
+Reg0016220,Poggibonsi,City,Italien
+Reg0016230,Poitiers,City,Frankrig
+Reg0016240,Polen,Country,Polen
+Reg0016250,Poligny,City,Frankrig
+Reg0016260,Pombal,City,Portugal
+Reg0016270,Pommern,Region,Tyskland
+Reg0016280,Pompei,Point of interest (POI),Italien
+Reg0016290,Ponte Centeno,City,Italien
+Reg0016300,Ponte Lucano,Point of interest (POI),Italien
+Reg0016310,Ponte Molle,Point of interest (POI),Italien
+Reg0016320,Pontecorvo,City,Italien
+Reg0016330,"Pontinske Sumpe, de",Region,Italien
+Reg0016340,Pontresina,City,Schweiz
+Reg0016350,Porta Westphalica,City,Tyskland
+Reg0016360,Portici,City,Italien
+Reg0016370,Portsmouth,City,England
+Reg0016380,Portugal,Country,Portugal
+Reg0016390,Posen,Region,Polen
+Reg0016400,Posillipo-Grotten,Point of interest (POI),Italien
+Reg0016410,Potsdam,City,Tyskland
+Reg0016420,Pozzuoli,City,Italien
+Reg0016430,Prades,City,Frankrig
+Reg0016440,Prag,City,Tjekkiet
+Reg0016450,Prato,City,Italien
+Reg0016460,Prebischtor,Mountain,Tjekkiet
+Reg0016470,Preetz,Property,Tyskland
+Reg0016480,Pressburg (Bratislava),City,Slovakiet
+Reg0016490,Preussen,Region,Tyskland
+Reg0016500,Procida,City,Italien
+Reg0016510,Promontorium (Promontor),Property,Ungarn
+Reg0016520,Provence,Region,Frankrig
+Reg0016530,Præstø,City,Danmark
+Reg0016540,Præstø Fjord,Sea,Danmark
+Reg0016550,Purkersdorf,City,Østrig
+Reg0016560,Pyramiderne,Point of interest (POI),Ægypten
+Reg0016570,Pyrenæerne,Mountain,Spanien
+Reg0016580,Pyrmont,City,Tyskland
+Reg0016590,Pöseldorf,Region,Tyskland
+Reg0016610,Quedlinburg,City,Tyskland
+Reg0016620,Queluz,Property,Portugal
+Reg0016630,Quiévrain,City,Belgien
+Reg0016640,Rabenau (ved Tharandt),City,Tyskland
+Reg0016650,"Rabenhorst, Maxen",,Tyskland
+Reg0016660,"Rabenstein, ved Maxen",Property,Tyskland
+Reg0016670,Radicofani,City,Italien
+Reg0016680,Radojevacz,City,Serbien
+Reg0016690,Ragatz,City,Schweiz
+Reg0016700,Ragusa,City,Italien
+Reg0016710,Raito,City,Italien
+Reg0016720,Raklev,City,Danmark
+Reg0016730,Ramlösa,City,Sverige
+Reg0016740,Ramme,City,Danmark
+Reg0016750,Ramme-Dige,Point of interest (POI),Danmark
+Reg0016760,Rammelsberg,Mountain,Tyskland
+Reg0016770,Ramsgate,City,England
+Reg0016780,Ramundeboda,Point of interest (POI),Sverige
+Reg0016790,Randers,City,Danmark
+Reg0016800,Rankhyttan,Property,Sverige
+Reg0016810,Rapallo,City,Italien
+Reg0016820,Rapperschwyl,City,Schweiz
+Reg0016830,Rastede,City,Tyskland
+Reg0016840,Rathen,City,Tyskland
+Reg0016850,Ratzeburger See,Lake,Tyskland
+Reg0016860,Raudnitz,City,Tjekkiet
+Reg0016870,Rava,River,Ungarn
+Reg0016880,Ravenna,City,Italien
+Reg0016890,Ravenscraig Castle,Property,Skotland
+Reg0016900,Ravensrock (ved Tanger),Property,Marokko
+Reg0016910,Ravenswood,Point of interest (POI),England
+Reg0016920,Ravnholt,Property,Danmark
+Reg0016930,Redefin,City,Tyskland
+Reg0016940,Refsnæs,Property,Danmark
+Reg0016950,Regensburg,City,Tyskland
+Reg0016970,Reichenbach,City,Tyskland
+Reg0016990,Remmels,City,Tyskland
+Reg0017000,Rendsborg,City,Tyskland
+Reg0017010,Rengen,Lake,Norge
+Reg0017020,Resina,City,Italien
+Reg0017030,Reuss,River,Schweiz
+Reg0017040,Rheder,Property,Tyskland
+Reg0017060,Rheine,City,Tyskland
+Reg0017070,Rheinfels,Property,Tyskland
+Reg0017080,Rhin-Bayern,City,Tyskland
+Reg0017090,Rhinen,River,Frankrig
+Reg0017100,"Rhinfaldet, Schaffhausen",Point of interest (POI),Schweiz
+Reg0017110,Rhin-Hessen,Region,Tyskland
+Reg0017120,Rhinlandene,Region,Tyskland
+Reg0017130,Rhodos,Island,Grækenland
+Reg0017140,Rhônedalen,Region,Frankrig
+Reg0017150,Rhônen,River,Frankrig
+Reg0017160,Ribe,City,Danmark
+Reg0017170,Riberhus,Point of interest (POI),Danmark
+Reg0017180,Riccorsi,City,Italien
+Reg0017190,Richmond,City,England
+Reg0017200,Richterswyl,City,Schweiz
+Reg0017210,Ried,City,Østrig
+Reg0017220,Riesa,City,Tyskland
+Reg0017230,Riesengebirge,Mountain,Tyskland
+Reg0017240,Rieti,City,Italien
+Reg0017250,Riga,City,Letland
+Reg0017260,Rigi,Mountain,Schweiz
+Reg0017270,Rigi-Kulm,Point of interest (POI),Schweiz
+Reg0017280,Rigi-Staffel,Point of interest (POI),Schweiz
+Reg0017300,Ringerike,Region,Norge
+Reg0017310,Ringkøbing,City,Danmark
+Reg0017320,Ringkøbing Fjord,Sea,Danmark
+Reg0017330,Ringsjön (Stora Rängen),Lake,Sverige
+Reg0017340,Ringsted,City,Danmark
+Reg0017350,Rinkenæs,City,Danmark
+Reg0017360,Rio de Janeiro,City,Brasilien
+Reg0017370,Riva,City,Italien
+Reg0017380,Rob Roy's Cave,Point of interest (POI),Skotland
+Reg0017390,Rochester,City,England
+Reg0017400,Rochus-Kapellet (ved Bingen),Church,Tyskland
+Reg0017410,Rolandseck,Region,Tyskland
+Reg0017420,Rolighed,Property,Danmark
+Reg0017430,Rom,City,Italien
+Reg0017440,Romanshorn,City,Schweiz
+Reg0017450,Romont,Property,Schweiz
+Reg0017460,Ronciglione,City,Italien
+Reg0017470,Ronco all' Adige,City,Italien
+Reg0017480,Roosendaal,City,Holland
+Reg0017490,Rorschach,City,Schweiz
+Reg0017500,Roseg-Gletscher,Mountain,Schweiz
+Reg0017510,Rosenborg Slot,Property,Danmark
+Reg0017520,Rosendal (ved Stockholm),Property,Sverige
+Reg0017530,Rosendal ved Aarhus (Navnet vist misforstaaet),Property,Danmark
+Reg0017540,Rosenheim,City,Tyskland
+Reg0017550,Rosenthal (Rosendal) (ved Fakse),Property,Danmark
+Reg0017560,Rosenvold,Property,Danmark
+Reg0017570,Roskilde,City,Danmark
+Reg0017580,Roskilde Kro,Property,Danmark
+Reg0017590,Rossdorf,City,Tyskland
+Reg0017600,Rosstrappe,Point of interest (POI),Tyskland
+Reg0017610,Rostock,City,Tyskland
+Reg0017620,Rotenburg in Hannover,City,Tyskland
+Reg0017630,Roth,City,Tyskland
+Reg0017640,Rottenburg an der Laber,City,Tyskland
+Reg0017650,Rotterdam,City,Holland
+Reg0017660,Rovereto,City,Italien
+Reg0017670,Rovigo,City,Italien
+Reg0017680,Roxen,Lake,Sverige
+Reg0017690,Rubjerg Kirke,Church,Danmark
+Reg0017700,Rubjerg Klitter,Point of interest (POI),Danmark
+Reg0017710,Rudeskov,Region,Danmark
+Reg0017720,Rue,City,Schweiz
+Reg0017730,Rumelien,Region,Grækenland
+Reg0017740,Rumpenheim,Property,Tyskland
+Reg0017750,Rumænien,Country,Rumænien
+Reg0017760,Rungsted,City,Danmark
+Reg0017770,Rusland,Country,Rusland
+Reg0017780,Rustschuk (Russe),City,Bulgarien
+Reg0017790,Rübeland,City,Tyskland
+Reg0017800,Rygen,Island,Tyskland
+Reg0017810,Rygaard,Property,Danmark
+Reg0017820,Rysensten,Property,Danmark
+Reg0017830,Rütli,Mountain,Schweiz
+Reg0017840,Röhrsdorf,City,Tyskland
+Reg0017850,Rønne,City,Danmark
+Reg0017860,Rønnebæksholm,Property,Danmark
+Reg0017870,Rønnede,City,Danmark
+Reg0017880,Rørby,City,Danmark
+Reg0017890,Røraas,Point of interest (POI),Norge
+Reg0017900,Raab,River,Ungarn
+Reg0017910,Råbäck (ved Kinnekulla),Property,Sverige
+Reg0017920,"Raadmandsskoven, Næstved",Region,Danmark
+Reg0017930,Sabinerbjergene,Mountain,Italien
+Reg0017940,Sachsen (Kongerige),Region,Tyskland
+Reg0017950,Sachsenhausen,Region,Tyskland
+Reg0017960,Sachsisk Schweiz,Mountain,Tyskland
+Reg0017970,Sado,River,Portugal
+Reg0017980,Sagunto,Property,Spanien
+Reg0017990,Saint Helena,Island,England
+Reg0018000,Saint John's Wood,Region,England
+Reg0018010,Saint Patrick's Wood,Region,England
+Reg0018030,Saint-Denis,City,Frankrig
+Reg0018040,Sainte-Croix (Schweiz),City,Schweiz
+Reg0018050,Saint-Louis,City,Frankrig
+Reg0018060,Saint-Martin,City,Frankrig
+Reg0018070,Saint-Maurice,City,Schweiz
+Reg0018090,Sakskøbing,City,Danmark
+Reg0018100,Sala,City,Sverige
+Reg0018110,Salamis-Bugten,Sea,Grækenland
+Reg0018120,Salerno,City,Italien
+Reg0018130,Salève,Mountain,Frankrig
+Reg0018140,Salò,City,Italien
+Reg0018150,Salorno (Salurn),City,Italien
+Reg0018160,Salsta Slot,Property,Sverige
+Reg0018170,Salvaterra,City,Portugal
+Reg0018180,Salzach,River,Østrig
+Reg0018190,Salzachthal,Region,Østrig
+Reg0018200,Salzburg,City,Østrig
+Reg0018210,Salzgitter,City,Tyskland
+Reg0018220,Samaden,City,Schweiz
+Reg0018230,Samsø,Island,Danmark
+Reg0018240,San Casciano in Val di Pesa,City,Italien
+Reg0018250,San Chidrian,City,Spanien
+Reg0018260,San Francisco,City,USA
+Reg0018270,San Giovanni a Teduccio,City,Italien
+Reg0018280,San Lorenzo Nuovo,City,Italien
+Reg0018290,San Luis,Mountain,Portugal
+Reg0018300,San Pedro de Pena,City,Portugal
+Reg0018310,San Quirico d'Orcia,City,Italien
+Reg0018320,San Sebastián,City,Spanien
+Reg0018330,Sandefjord,Sea,Norge
+Reg0018340,Sandsee Slot,Property,Tyskland
+Reg0018350,Sandviken,Property,Norge
+Reg0018360,Sankt Croix (Vestindien),Island,USA
+Reg0018370,Sankt Gallen,City,Schweiz
+Reg0018380,"Sankt Gerhardsbjerget (Szant Gellert hegy), Buda",Mountain,Ungarn
+Reg0018390,Sankt Goar,City,Tyskland
+Reg0018400,Sankt Gotthard,Mountain,Schweiz
+Reg0018410,"Sankt Johannes Kloster, Slesvig",Property,Tyskland
+Reg0018420,Sankt Jørgens Gaard (ved Svendborg),Property,Danmark
+Reg0018430,"Sankt Marthes Kilde, Karise",Point of interest (POI),Danmark
+Reg0018440,Sankt Moritz,City,Schweiz
+Reg0018450,Sankt Peter,City,Østrig
+Reg0018460,Sankt Petersborg,City,Rusland
+Reg0018470,Sankt Pôlten,City,Østrig
+Reg0018480,Sankt Thomas,Island,USA
+Reg0018490,Santa Agata,City,Italien
+Reg0018500,Santa Cruz de Mudela,City,Spanien
+Reg0018510,Santa Maria (ved Cintra),Church,Portugal
+Reg0018520,Santa Maria degli Angeli (ved Assisi),Region,Italien
+Reg0018530,Santa Maria Maggiore (ved Nocera Superiore),Church,Italien
+Reg0018540,Santander,City,Spanien
+Reg0018550,Santarem,City,Portugal
+Reg0018560,Saônen,River,Frankrig
+Reg0018570,Sardinien,Island,Italien
+Reg0018580,Sargans,Property,Schweiz
+Reg0018590,Sarine (Saane),River,Schweiz
+Reg0018600,sarnen,City,Schweiz
+Reg0018610,Sarner-Søen,Lake,Schweiz
+Reg0018620,Sarzana,City,Italien
+Reg0018630,Sava (Sau),Church,Serbien
+Reg0018640,Saverne,City,Frankrig
+Reg0018650,Savona,City,Italien
+Reg0018660,Savoyen,Region,Frankrig
+Reg0018670,Saxtorf,Property,Tyskland
+Reg0018680,Scaricalasino,City,Italien
+Reg0018700,Schaffhausen,City,Schweiz
+Reg0018710,Schandau,City,Tyskland
+Reg0018720,Schelde,River,Belgien
+Reg0018730,Schelletau,River,Tjekkiet
+Reg0018740,Scheveningen,Region,Holland
+Reg0018750,Schiedam,City,Holland
+Reg0018760,Schilda,City,Tyskland
+Reg0018770,Schlangenbad,City,Tyskland
+Reg0018780,Schlesien,Region,Tyskland
+Reg0018790,Schmerikon,City,Schweiz
+Reg0018800,Schneekoppe,Mountain,Tjekkiet
+Reg0018810,Schreckenstein,Property,Tjekkiet
+Reg0018820,Schreckhorn,Mountain,Schweiz
+Reg0018830,Schumla,City,Bulgarien
+Reg0018840,Schupanek,City,Rumænien
+Reg0018850,Schwabach,City,Tyskland
+Reg0018860,"Schwalbach, Bad",City,Tyskland
+Reg0018870,"Schwanennest, Maxen",,Tyskland
+Reg0018880,Schwanenstadt,City,Østrig
+Reg0018900,Schweiz,Country,Schweiz
+Reg0018910,Schwerin,City,Tyskland
+Reg0018920,Schwyz,City,Schweiz
+Reg0018930,Schönberg (Mecklenburg),City,Tyskland
+Reg0018940,Schönberg (Tyrol),City,Østrig
+Reg0018950,Schönbrunn,Property,Østrig
+Reg0018960,Schöppenstedt,City,Tyskland
+Reg0018970,Scylla,City,Italien
+Reg0018980,Sebastopol,City,Ukraine
+Reg0018990,Sedan,City,Frankrig
+Reg0019000,Seeshaupt,City,Tyskland
+Reg0019010,Seinen,River,Frankrig
+Reg0019020,Sele,River,Italien
+Reg0019030,Sem,Church,Danmark
+Reg0019040,Semendria (Smederevo),City,Serbien
+Reg0019050,Semlin (Zemun),Region,Serbien
+Reg0019060,Semmering,City,Østrig
+Reg0019070,Sendling,Region,Tyskland
+Reg0019080,Senlis,City,Frankrig
+Reg0019090,Sens,City,Frankrig
+Reg0019100,Serbien,Country,Serbien
+Reg0019110,Serreslev (ved Horsens),City,Danmark
+Reg0019120,Serridslev,City,Danmark
+Reg0019130,Sesto Calende,City,Italien
+Reg0019140,Sestos,Region,Tyrkiet
+Reg0019150,Sestri Levante,City,Italien
+Reg0019160,Settecomuni,Region,Italien
+Reg0019170,Setúbal,City,Portugal
+Reg0019180,Seven Oaks,City,England
+Reg0019190,Sevilla,City,Spanien
+Reg0019200,Sèvres,City,Frankrig
+Reg0019210,Sheffield,City,England
+Reg0019220,Sibirien,Region,Rusland
+Reg0019230,Sicilien,Island,Italien
+Reg0019240,Siebengebirge,Mountain,Tyskland
+Reg0019250,Sieghartskirchen,City,Østrig
+Reg0019260,Siena,City,Italien
+Reg0019270,Sierra Morena,Mountain,Spanien
+Reg0019280,Signhildsberg,Property,Sverige
+Reg0019290,Sigtuna,City,Sverige
+Reg0019300,Silberhorn,Mountain,Schweiz
+Reg0019310,Sild,Island,Tyskland
+Reg0019320,Silistria,City,Bulgarien
+Reg0019330,Silkeborg,City,Danmark
+Reg0019340,Silkeborg Langsø,Lake,Danmark
+Reg0019350,Silvaplana,City,Schweiz
+Reg0019360,Silvköparen,Lake,Sverige
+Reg0019370,Simnitza (Zimnicea),City,Rumænien
+Reg0019380,Simplon,Mountain,Schweiz
+Reg0019390,Sion (Sitten),City,Schweiz
+Reg0019400,Sipp,City,Rumænien
+Reg0019410,Siracusa,City,Italien
+Reg0019420,Sirmien (Syrmien),Region,Serbien
+Reg0019430,Sistow (Svistov),City,Bulgarien
+Reg0019440,Sjælland,Island,Danmark
+Reg0019450,Sjöânda,Region,Sverige
+Reg0019460,Skabersjö,Property,Sverige
+Reg0019470,Skagen,City,Danmark
+Reg0019480,Skamlingsbanken,Point of interest (POI),Danmark
+Reg0019490,Skanderborg,City,Danmark
+Reg0019500,Skandinavien,Region,Europa
+Reg0019510,Skara,City,Sverige
+Reg0019520,Skelskør,City,Danmark
+Reg0019530,Skibbinge,City,Danmark
+Reg0019540,Skive,City,Danmark
+Reg0019550,Skodsborg,Property,Danmark
+Reg0019560,Skokloster,Property,Sverige
+Reg0019570,Skotland,Country,Skotland
+Reg0019580,Skovshoved,City,Danmark
+Reg0019590,"Skrædder-Klinten, Trollhätta",Point of interest (POI),Sverige
+Reg0019600,Skutari,Point of interest (POI),Tyrkiet
+Reg0019610,Skaane,Region,Sverige
+Reg0019620,Slagelse,City,Danmark
+Reg0019630,Slagelse Lystskov,Region,Danmark
+Reg0019640,Slangerup,City,Danmark
+Reg0019650,Slesvig (By),City,Tyskland
+Reg0019660,Slesvig (Hertugdømme),Region,Tyskland
+Reg0019670,Slien,Sea,Tyskland
+Reg0019680,Slipshavn,Region,Danmark
+Reg0019690,Slots-Bjergby Galgebakke,Point of interest (POI),Danmark
+Reg0019700,Slude Gaard,Property,Danmark
+Reg0019720,Smaalandsfarvandet,Sea,Danmark
+Reg0019730,Snekkersten,City,Danmark
+Reg0019740,Snoghøj,Region,Danmark
+Reg0019750,"Soden, Bad",City,Tyskland
+Reg0019760,Soest,City,Tyskland
+Reg0019770,Sofiero,Property,Sverige
+Reg0019780,Solfatara,Point of interest (POI),Italien
+Reg0019790,Solna,City,Sverige
+Reg0019800,Solothurn,City,Schweiz
+Reg0019810,Somma Lombardo,City,Italien
+Reg0019830,Sonnenstein,Property,Tyskland
+Reg0019840,Sophienlund,Property,Danmark
+Reg0019850,Soracte,Mountain,Italien
+Reg0019860,Sorgenfri Slot,Property,Danmark
+Reg0019880,"Sortebrødre, Hovedgaard ved Næstved",Property,Danmark
+Reg0019900,Sorø,City,Danmark
+Reg0019910,Sorø Sø,Lake,Danmark
+Reg0019920,Spandau,City,Tyskland
+Reg0019930,Spanien,Country,Spanien
+Reg0019940,Speyer,City,Tyskland
+Reg0019950,Spezia-Bugten,Sea,Italien
+Reg0019960,Spielberg (ved Brünn),Property,Frankrig
+Reg0019970,Splügen,Mountain,Schweiz
+Reg0019980,Spoleto,City,Italien
+Reg0019990,Spree,River,Tyskland
+Reg0020000,Sprogø,Island,Danmark
+Reg0020010,Staby Folkehøjskole,Property,Danmark
+Reg0020020,Stade,City,Tyskland
+Reg0020030,Stadum,City,Tyskland
+Reg0020040,Staggia,City,Italien
+Reg0020050,Stampfemühle (ved Slesvig By),Point of interest (POI),Tyskland
+Reg0020060,Stannern,City,Tjekkiet
+Reg0020070,Stans,City,Schweiz
+Reg0020080,Stansstad,City,Schweiz
+Reg0020090,Starnberg,City,Tyskland
+Reg0020100,Starnberger See,Lake,Tyskland
+Reg0020110,Staubbach,Point of interest (POI),Schweiz
+Reg0020120,Stavanger,City,Norge
+Reg0020130,Stecken,City,Tjekkiet
+Reg0020140,Stege,City,Danmark
+Reg0020150,Stegeborg,Point of interest (POI),Sverige
+Reg0020160,Stein,City,Tyskland
+Reg0020170,Steinbad (ved Teplitz),Property,Tjekkiet
+Reg0020180,Steinhöring,City,Tyskland
+Reg0020190,Steinnach,City,Østrig
+Reg0020200,Steinsdorf,City,Tyskland
+Reg0020210,Sterzing,City,Italien
+Reg0020220,Stettin,City,Polen
+Reg0020230,Stiernholm Slot,Property,Danmark
+Reg0020240,Stirling,Property,Skotland
+Reg0020250,Stockerau,City,Østrig
+Reg0020260,Stockholm,City,Sverige
+Reg0020270,Stolzenfels,Property,Tyskland
+Reg0020280,Stora Eken,Point of interest (POI),Sverige
+Reg0020290,Store Hedinge,City,Danmark
+Reg0020300,Store Hestehave (ved Jungshoved),Point of interest (POI),Danmark
+Reg0020310,Store Vildmose,Region,Danmark
+Reg0020320,Storebelt,Sea,Danmark
+Reg0020330,"Storta, La",Region,Italien
+Reg0020340,Storaaen,River,Danmark
+Reg0020350,Stoss (ved Brunnen),City,Schweiz
+Reg0020360,Stralsund,City,Tyskland
+Reg0020370,Strandhuse (ved Svendborg),Point of interest (POI),Danmark
+Reg0020380,Strandmøllen,Property,Danmark
+Reg0020390,Strandvejen,Point of interest (POI),Danmark
+Reg0020400,Strassburg,City,Frankrig
+Reg0020410,Strengberg,City,Østrig
+Reg0020420,Strib,City,Danmark
+Reg0020430,Stromboli,Island,Italien
+Reg0020440,Strood,City,England
+Reg0020450,Struer,City,Danmark
+Reg0020460,Struppen (ved Pirna),City,Tyskland
+Reg0020470,Sturefors,Property,Sverige
+Reg0020480,Stuttgart,City,Tyskland
+Reg0020490,Stäket,Property,Sverige
+Reg0020500,Stör,River,Tyskland
+Reg0020520,Suez-Kanalen,River,Ægypten
+Reg0020530,Susenborg,Point of interest (POI),Sverige
+Reg0020540,Susaaen,River,Danmark
+Reg0020550,Svaneberg,Property,Sverige
+Reg0020560,Svaneke,City,Danmark
+Reg0020570,Sveaborg,Property,Finland
+Reg0020580,Svendborg,City,Danmark
+Reg0020590,Svendborg Sund,Sea,Danmark
+Reg0020600,Svensk Pommern,Region,Tyskland
+Reg0020610,Sverrig,Country,Sverige
+Reg0020620,Svindinge(Fyn),City,Danmark
+Reg0020630,Sydamerika,Continent,Sydamerika
+Reg0020640,Sydfrankrig,Region,Frankrig
+Reg0020650,Sydtyskland,Region,Tyskland
+Reg0020660,Syke,City,Tyskland
+Reg0020670,Syra,Point of interest (POI),Italien
+Reg0020680,Syrien,Country,Syrien
+Reg0020690,Széchenyi-Vejen,Point of interest (POI),Ungarn
+Reg0020700,Sztary-Szlankamen,City,Serbien
+Reg0020710,"Sæby, Løve H., Holbæk A",City,Danmark
+Reg0020720,Säfsjö,City,Sverige
+Reg0020730,Sävo Sund (Sävsund),Sea,Sverige
+Reg0020740,"Søbygaard, Søby S., Gjern H",Property,Danmark
+Reg0020750,Søbygaards Sø,Lake,Danmark
+Reg0020760,Söderkoping,City,Sverige
+Reg0020770,Södertelge,City,Sverige
+Reg0020780,Søllerod Sø,Lake,Danmark
+Reg0020790,Søllerød,City,Danmark
+Reg0020800,Sølyst,Property,Danmark
+Reg0020810,Sønderborg,City,Danmark
+Reg0020820,Søndermarken,Region,Danmark
+Reg0020830,Sörby,City,Sverige
+Reg0020840,Saal,City,Tyskland
+Reg0020850,Saale,River,Tyskland
+Reg0020860,Saane (Sarine),River,Schweiz
+Reg0020870,Saarbrücken,City,Tyskland
+Reg0020880,Tajo (Tejo),River,Spanien
+Reg0020890,Talavera de la Reyna,City,Spanien
+Reg0020900,Talfers,River,Italien
+Reg0020910,Tamina,River,Schweiz
+Reg0020920,Tanger,City,Marokko
+Reg0020930,Tangermünde,City,Tyskland
+Reg0020940,Tarascon,City,Frankrig
+Reg0020950,Tarasp,Point of interest (POI),Schweiz
+Reg0020960,Tarifa,City,Spanien
+Reg0020970,Tasching-See,Lake,Tyskland
+Reg0020980,Tatra,Mountain,Slovakiet
+Reg0020990,Tavernelle,City,Italien
+Reg0021010,Teglgaarden,Property,Danmark
+Reg0021020,Teheran,City,Iran
+Reg0021030,Tells Kapel,Church,Schweiz
+Reg0021040,Tellsplatte,Region,Schweiz
+Reg0021060,Temesvár,City,Rumænien
+Reg0021070,Tempe,Region,Grækenland
+Reg0021080,Teplitz,City,Tjekkiet
+Reg0021090,Terni,City,Italien
+Reg0021100,Terracina,City,Italien
+Reg0021110,Tessin (Ticino),Region,Schweiz
+Reg0021120,Tetschen,City,Tjekkiet
+Reg0021130,Tetuan,City,Marokko
+Reg0021140,Teufelsbrücke (i Sachsisk Schweiz),Point of interest (POI),Tyskland
+Reg0021150,Teufelsmauer,Mountain,Tyskland
+Reg0021160,Teufelsstein (i Reuss-Dalen),Point of interest (POI),Schweiz
+Reg0021170,Teulelsbrücke (i Reuss-Dalen),Point of interest (POI),Schweiz
+Reg0021180,Teutschen,Region,Tyskland
+Reg0021190,Teverone,Mountain,Italien
+Reg0021200,Texas,Region,USA
+Reg0021210,Tharandt,City,Tyskland
+Reg0021220,Theben (Dĕvin),Point of interest (POI),Slovakiet
+Reg0021230,Theben (Grækenland),City,Grækenland
+Reg0021250,Themsen,River,England
+Reg0021270,Theresienstadt,City,Tjekkiet
+Reg0021280,Thessalien,Region,Grækenland
+Reg0021290,Thiedenwiese,Property,Tyskland
+Reg0021300,Thisted,City,Danmark
+Reg0021310,Thun,City,Schweiz
+Reg0021320,Thuner-Søen,Lake,Schweiz
+Reg0021340,Thurø,Island,Danmark
+Reg0021360,Tiberen,River,Italien
+Reg0021370,Tiberøen,Island,Italien
+Reg0021380,Tiefurt,Property,Tyskland
+Reg0021390,Tifis,City,Georgien
+Reg0021400,"Tindebjerget, Silkeborg",Point of interest (POI),Danmark
+Reg0021410,Tinos,Island,Grækenland
+Reg0021420,Tissø,Lake,Danmark
+Reg0021430,Tiszovicza,Point of interest (POI),Rumænien
+Reg0021450,Tivoli (ved Rom),Region,Italien
+Reg0021460,Tjæreby,City,Danmark
+Reg0021470,Toledo,City,Spanien
+Reg0021480,Tolentino,City,Italien
+Reg0021490,Tomba di Nerone,Point of interest (POI),Italien
+Reg0021500,"Toppö, Trollhättan",Point of interest (POI),Sverige
+Reg0021510,Torino,City,Italien
+Reg0021520,Torpa,City,Sverige
+Reg0021530,Torquay,City,England
+Reg0021540,Torre Annunziata,City,Italien
+Reg0021560,Torre di tre Ponti,Point of interest (POI),Italien
+Reg0021570,Torrenieri,City,Italien
+Reg0021580,Torup,Property,Sverige
+Reg0021590,Tostedt,City,Tyskland
+Reg0021600,Toul,City,Frankrig
+Reg0021610,Toulon,City,Frankrig
+Reg0021620,Toulouse,City,Frankrig
+Reg0021630,"Tour de Pelz, La",City,Schweiz
+Reg0021640,Tours,City,Frankrig
+Reg0021650,Trafalgar,Point of interest (POI),Spanien
+Reg0021660,Trajans Mur,Point of interest (POI),Moldova
+Reg0021670,Trajans Tavle,Point of interest (POI),Italien
+Reg0021680,Trankebar,Region,Indien
+Reg0021690,Trapezunt,City,Tyrkiet
+Reg0021700,Trasimener-Søen,Lake,Italien
+Reg0021710,Traun,City,Tyskland
+Reg0021720,Trave,River,Tyskland
+Reg0021730,Travemünde,City,Tyskland
+Reg0021740,Trekroner,Island,Danmark
+Reg0021750,Treuenbrietzen,City,Tyskland
+Reg0021760,Trient (Trento),City,Italien
+Reg0021770,Trier,City,Tyskland
+Reg0021780,Triest,City,Italien
+Reg0021790,Trinity (ved Edinburgh),Region,Skotland
+Reg0021800,Tripolis,City,Libyen
+Reg0021810,Troia (Cetobriga),Point of interest (POI),Portugal
+Reg0021820,Trojasletten,Point of interest (POI),Tyrkiet
+Reg0021830,Trollhättan,City,Sverige
+Reg0021840,Trondhjem,City,Norge
+Reg0021850,Tropea,City,Italien
+Reg0021860,Trujillo,City,Spanien
+Reg0021870,Tunbridge,City,England
+Reg0021880,Tunis,City,Tunesien
+Reg0021890,Turbia (La Turbie),City,Frankrig
+Reg0021900,Turnau,City,Tjekkiet
+Reg0021910,Tusculum,Point of interest (POI),Italien
+Reg0021920,Tuturcan (Turtucaia),City,Bulgarien
+Reg0021930,Tweed,River,Skotland
+Reg0021940,Tübingen,City,Tyskland
+Reg0021950,Tyrifjord,Sea,Norge
+Reg0021960,Tyrkiet,Country,Tyrkiet
+Reg0021970,Tyrol,Region,Østrig
+Reg0021980,Tyskland,Country,Tyskland
+Reg0021990,"Tøien, Christiania",Point of interest (POI),Norge
+Reg0022000,Tønder,City,Danmark
+Reg0022010,Tåkern,Lake,Sverige
+Reg0022020,Taarbæk,City,Danmark
+Reg0022030,Taasinge (Thorseng),Island,Danmark
+Reg0022040,Taastrup,City,Danmark
+Reg0022050,Uddevalla,City,Sverige
+Reg0022060,Ulfåsa,Property,Sverige
+Reg0022070,Ulkebøl,Region,Danmark
+Reg0022080,Ulm,City,Tyskland
+Reg0022090,Ulriksdal,Property,Sverige
+Reg0022100,Ulse,Point of interest (POI),Danmark
+Reg0022110,Ulse Sø,Lake,Danmark
+Reg0022120,Ulvborg,City,Danmark
+Reg0022130,Ungarn,Country,Ungarn
+Reg0022140,Untersendling,Region,Tyskland
+Reg0022150,Uppsala,City,Sverige
+Reg0022160,Uri-Rothstock,Mountain,Schweiz
+Reg0022170,Urup,Property,Danmark
+Reg0022180,Utrecht,City,Holland
+Reg0022190,Uttewalder Grund,Mountain,Tyskland
+Reg0022200,Vadstena,Property,Sverige
+Reg0022210,Vaksala,Church,Sverige
+Reg0022220,Val de Travers,Region,Schweiz
+Reg0022230,Valakiet,Region,Rumænien
+Reg0022240,Valby,Region,Danmark
+Reg0022250,Valcimarra,Point of interest (POI),Italien
+Reg0022260,Valence,City,Frankrig
+Reg0022270,Valencia,City,Spanien
+Reg0022280,Valenciennes,City,Frankrig
+Reg0022290,Valladolid,City,Spanien
+Reg0022300,"Valletta, La",City,Malta
+Reg0022310,Vallø,Property,Danmark
+Reg0022320,Valparaiso,City,Chile
+Reg0022330,Vamdrup,City,Danmark
+Reg0022340,Van Diemens Land (=Tasmanien),Island,Australien
+Reg0022350,Varberg,City,Sverige
+Reg0022360,Varde,City,Danmark
+Reg0022370,Vardøhus,Point of interest (POI),Norge
+Reg0022380,Vasto,City,Italien
+Reg0022390,Vattholma Bruk,Point of interest (POI),Sverige
+Reg0022400,Vaucluse,Region,Frankrig
+Reg0022410,Vaud (Kanton),Region,Schweiz
+Reg0022420,Vedbygaard,Property,Danmark
+Reg0022430,Vedbæk,City,Danmark
+Reg0022440,Vedersø,City,Danmark
+Reg0022450,Vejle,City,Danmark
+Reg0022460,Velino,River,Italien
+Reg0022470,Velletri,City,Italien
+Reg0022490,Vemmetofte,Property,Danmark
+Reg0022500,Vendsyssel,Region,Danmark
+Reg0022510,Venek,City,Ungarn
+Reg0022520,Venern,Lake,Sverige
+Reg0022530,Venersborg,City,Sverige
+Reg0022540,Venetien,Region,Italien
+Reg0022550,Venezia,City,Italien
+Reg0022560,"Ventegodt, Avlsgaard ved Løgten, København",Property,Danmark
+Reg0022570,"Verlorne Loch, das",Point of interest (POI),Schweiz
+Reg0022580,Vermland,Region,Sverige
+Reg0022590,Vernet,City,Frankrig
+Reg0022600,Vernex,Region,Schweiz
+Reg0022610,Verona,City,Italien
+Reg0022620,Versailles,Property,Frankrig
+Reg0022630,Verviers,City,Belgien
+Reg0022640,Vest-Amerika,Region,USA
+Reg0022650,Vestergötland,Region,Sverige
+Reg0022660,Vesterhavet,Sea,Europa
+Reg0022670,Vestervig,City,Danmark
+Reg0022680,Vestervik,City,Sverige
+Reg0022690,Vesterås,City,Sverige
+Reg0022700,Vestindien (dansk),Region,USA
+Reg0022710,Vestjylland,Region,Danmark
+Reg0022720,Vesuv,Mountain,Italien
+Reg0022730,Veteranis Hule,Point of interest (POI),Bulgarien
+Reg0022740,Vettern,Lake,Sverige
+Reg0022750,Vevey,City,Schweiz
+Reg0022760,Vexiö,City,Sverige
+Reg0022770,Via Appia,Point of interest (POI),Italien
+Reg0022780,Via mala,Point of interest (POI),Schweiz
+Reg0022790,Via Tiburtina,Region,Italien
+Reg0022800,Viborg,City,Danmark
+Reg0022810,Viby Sj,City,Danmark
+Reg0022820,Vicenza,City,Italien
+Reg0022830,Vichy,Point of interest (POI),Frankrig
+Reg0022840,Vico Equense,City,Italien
+Reg0022850,Vidskølle,Property,Danmark
+Reg0022860,Vienenburg,City,Tyskland
+Reg0022870,Vienne,City,Frankrig
+Reg0022880,Vierlandene,Region,Tyskland
+Reg0022890,Vierwaldstätter-Søen,Lake,Schweiz
+Reg0022900,Vietri sul mare,City,Italien
+Reg0022910,Vig,City,Danmark
+Reg0022920,Viken,City,Sverige
+Reg0022930,Villa Adriana,Point of interest (POI),Italien
+Reg0022940,Villafranca,City,Italien
+Reg0022950,Villanuova,City,Italien
+Reg0022960,Villefranche (Pyrénées-Orientales),City,Frankrig
+Reg0022970,Villeneuve (ved Genfersøen),City,Frankrig
+Reg0022980,Vincennes,Region,Frankrig
+Reg0022990,Visborg Ruin,Point of interest (POI),Danmark
+Reg0023000,Visegrad,City,Ungarn
+Reg0023010,Vissenbjerg,City,Danmark
+Reg0023020,Viterbo,City,Italien
+Reg0023030,Viznau,City,Schweiz
+Reg0023040,Vogeserne,Mountain,Frankrig
+Reg0023050,Voghera,City,Italien
+Reg0023060,Vojens,City,Danmark
+Reg0023070,Voldbjerg,Property,Danmark
+Reg0023080,Volsker-Bjergene,Mountain,Italien
+Reg0023090,Vordingborg,City,Danmark
+Reg0023100,Vouga,River,Portugal
+Reg0023110,Vresen,Island,Danmark
+Reg0023120,Vreta Klosterkirke,Church,Sverige
+Reg0023130,Vretstorp,City,Sverige
+Reg0023140,Vuka,River,Kroatien
+Reg0023150,Vukovar,City,Kroatien
+Reg0023160,Vöcklabruck,City,Østrig
+Reg0023170,Wabern,City,Tyskland
+Reg0023180,"Wahrendorf, Holsten",City,Tyskland
+Reg0023190,Waizen (Vać),City,Ungarn
+Reg0023200,Walchersee,Lake,Tyskland
+Reg0023210,Waldheim,City,Tyskland
+Reg0023220,Wales,Country,Wales
+Reg0023230,Walhalla (ved Regensburg),Property,Tyskland
+Reg0023240,Wallenstadter-Søen (Wallen-See),Lake,Schweiz
+Reg0023250,Wallersee,Lake,Østrig
+Reg0023260,Wandsbeck,Region,Tyskland
+Reg0023270,Warden,City,Bulgarien
+Reg0023280,Warnow,River,Tyskland
+Reg0023300,Wartburg,Property,Tyskland
+Reg0023310,"Wartenstein, Ragatz",Property,Schweiz
+Reg0023320,Washington,City,USA
+Reg0023330,Wasserburg,City,Tyskland
+Reg0023340,Weimar,City,Tyskland
+Reg0023350,"Weissenburg, Bayern",City,Tyskland
+Reg0023360,Weissenfels,City,Tyskland
+Reg0023370,Weisseritz (die wilde),River,Tyskland
+Reg0023380,Weitenegg,Property,Østrig
+Reg0023390,Wels,City,Østrig
+Reg0023400,Weltrus,City,Tjekkiet
+Reg0023410,Werden,City,Tyskland
+Reg0023420,Werra,River,Tyskland
+Reg0023430,"Wesen, Schweiz",City,Schweiz
+Reg0023440,Wesenstein,Property,Tyskland
+Reg0023450,Weser,River,Tyskland
+Reg0023460,Westfalen,Region,Tyskland
+Reg0023470,Wetterhorn,Mountain,Schweiz
+Reg0023480,Widdin (Vidin),City,Bulgarien
+Reg0023490,Wien,City,Østrig
+Reg0023500,Wien (Floden),River,Østrig
+Reg0023510,Wiener Neustadt,City,Østrig
+Reg0023520,Wiesbaden,City,Tyskland
+Reg0023530,Wiesenstein,Property,Tyskland
+Reg0023540,Wight,Island,England
+Reg0023560,Wildbad,City,Tyskland
+Reg0023570,Wilhelmshöhe,Property,Tyskland
+Reg0023580,"Willenscharen, Holsten",City,Tyskland
+Reg0023590,Windsor,Property,England
+Reg0023600,Winsen,City,Tyskland
+Reg0023610,Winterberg (ved Wien),City,Østrig
+Reg0023630,"Winterberg, Kleiner",Mountain,Tyskland
+Reg0023640,Winterthur,City,Schweiz
+Reg0023650,Wismar,City,Tyskland
+Reg0023660,Wittenberg,City,Tyskland
+Reg0023670,Wittenberge,City,Tyskland
+Reg0023680,Woigwitz,City,Polen
+Reg0023690,Wolfenbüttel,City,Tyskland
+Reg0023700,Worms,City,Tyskland
+Reg0023710,Wusterhausen an der Dosse,City,Tyskland
+Reg0023720,Wustermark,City,Tyskland
+Reg0023730,Wyk,City,Tyskland
+Reg0023740,Würmsee (Starnberger See),Lake,Tyskland
+Reg0023750,Württemberg,Region,Tyskland
+Reg0023760,Würzburg,City,Tyskland
+Reg0023770,Wäggis,City,Schweiz
+Reg0023780,Währing,Region,Østrig
+Reg0023790,Waadt (Kanton),Region,Schweiz
+Reg0023800,Xenil,River,Spanien
+Reg0023810,Ybbs,City,Østrig
+Reg0023820,Ülzen,City,Tyskland
+Reg0023830,York,City,England
+Reg0023840,Ystad,City,Sverige
+Reg0023850,Yverdon,City,Schweiz
+Reg0023860,Zehlendorf,Region,Tyskland
+Reg0023870,Ziegenhain (ved Jena),Region,Tyskland
+Reg0023880,Znaim,City,Tjekkiet
+Reg0023890,Zug,City,Schweiz
+Reg0023900,Zugersee,Lake,Schweiz
+Reg0023910,Zuidersøen,Sea,Holland
+Reg0023920,Zwickau,City,Tyskland
+Reg0023930,Zürich,City,Schweiz
+Reg0023940,Züricher-Søen,Lake,Schweiz
+Reg0023950,Æbelø,Island,Danmark
+Reg0023960,"Æble, Frørup S",,Danmark
+Reg0023970,Ægina (Aigina),Island,Grækenland
+Reg0023980,Ægypten,Country,Ægypten
+Reg0023990,Ækvator,Region,
+Reg0024000,Älgsjön,Lake,Sverige
+Reg0024010,Ærø,Island,Danmark
+Reg0024020,Ättestupa,Point of interest (POI),Sverige
+Reg0024030,Øksendrup,City,Danmark
+Reg0024040,"Øland, Limfjorden",Region,Danmark
+Reg0024050,Örbyhus,Property,Sverige
+Reg0024060,Ørbæk,City,Danmark
+Reg0024070,Ørbæklunde,Property,Danmark
+Reg0024080,Örebro,City,Sverige
+Reg0024090,Øresund,Sea,Danmark
+Reg0024100,Ørslev,City,Danmark
+Reg0024110,Östa (Ôsby),City,Sverige
+Reg0024120,Österby,City,Sverige
+Reg0024130,Østersøen,Sea,Europa
+Reg0024140,Østrig,Country,Østrig
+Reg0024150,Øverød,Region,Danmark
+Reg0024160,Øvre Stolk,City,Tyskland
+Reg0024170,Aabenraa,City,Danmark
+Reg0024180,Aachen,City,Tyskland
+Reg0024190,Aagaard,Property,Danmark
+Reg0024200,Aakjær,Property,Danmark
+Reg0024210,Aalborg,City,Danmark
+Reg0024220,Aalbæk,City,Danmark
+Reg0024230,Aalesund,City,Norge
+Reg0024240,Aalsgaarde,City,Danmark
+Reg0024250,Aare,River,Schweiz
+Reg0024260,Aarhus,City,Danmark
+Reg0024270,Årsta,Property,Sverige
+Reg0024280,Aarup,City,Danmark
+Reg0024290,Aarøsund,Sea,Danmark
+Reg0024300,"Aasen, Silkeborg",Point of interest (POI),Danmark
+Reg0024310,Aastrup,Property,Danmark
+Reg0024340,"Aldola, se: Dolo.",City,Italien
+Reg0024350,"Anio, se: Aniene.",River,Italien
+Reg0024360,"Apenrade, se: Aabenraa.",City,Danmark
+Reg0024380,"Bardowiz, se: Pardubitz.",City,Tjekkiet
+Reg0024390,"Benádeck, se: Benátky.",City,Tjekkiet
+Reg0024440,"Cap St Ange, se: Cap Matapan.",Point of interest (POI),Grækenland
+Reg0024460,"Cephissus, se: Kifissos.",River,Grækenland
+Reg0024470,"Chalkis, se: Khalkis.",City,Grækenland
+Reg0024490,"Collin, se: Kolin.",City,Tjekkiet
+Reg0024500,"Ecken, se: Stora Eken.",Point of interest (POI),Sverige
+Reg0024510,"Felsenstein, se: Regenstein.",Point of interest (POI),Tyskland
+Reg0024520,"Florents, se: Firenze.",City,Italien
+Reg0024540,"Gastein, se: Badgastein.",City,Østrig
+Reg0024550,"Gravensteen, se: Graasten.",Property,Danmark
+Reg0024580,"Kosteletz ved Elben, se: Elbekosteletz.",City,Tjekkiet
+Reg0024600,"Lago di Perugia, se: Trasimener-Søen.",Lake,Italien
+Reg0024620,"Lave-Elv, se: Lagan.",River,Sverige
+Reg0024630,"Leopoldsschloss, se: Leopoldsberg.",Mountain,Østrig
+Reg0024660,"Lykkesborg, se: Glücksborg.",Property,Tyskland
+Reg0024670,"Mailand, se: Milano.",City,Italien
+Reg0024710,"Neapel, se: Napoli.",City,Italien
+Reg0024730,"Nevis, se: Lavis.",City,Italien
+Reg0024750,"Otberbjerg, se: Etterbjerg.",Point of interest (POI),Danmark
+Reg0024760,"Passow, se: Pasewalk.",City,Tyskland
+Reg0024780,"Pérouse, se: Perugia.",City,Italien
+Reg0024790,"Pilna, se: Pillnitz.",Property,Tyskland
+Reg0024800,"Pouillerel, se: Mont Pouillerel.",Mountain,Frankrig
+Reg0024810,"Rocca, La, se: Narni.",City,Italien
+Reg0024830,"Römmels, se: Remmels.",City,Tyskland
+Reg0024840,"Saint Ubes, se: Setúbal.",City,Portugal
+Reg0024860,"Simringen, se: Semmering.",City,Østrig
+Reg0024880,"Skærumbro-Aa, se: Storaaen.",River,Danmark
+Reg0024890,"Slankament, se: Sztary-Szlankamen.",City,Serbien
+Reg0024900,"Stabiæ, se: Staggia.",City,Italien
+Reg0024910,"Steget, se: Stäket.",Property,Sverige
+Reg0024920,"Storkum, se: Stadum.",City,Tyskland
+Reg0024940,"Syracusa, se: Siracusa.",City,Italien
+Reg0024960,"Säby, se: Bjärka-Säby.",Property,Sverige
+Reg0024980,"Trolleborg, se: Brahetrolleborg.",Property,Danmark
+Reg0024990,"Turin, se: Torino.",City,Italien
+Reg0025000,"Taarnholm, se: Holckenhavn.",Property,Danmark
+Reg0025010,"Vajæ:, se: Baia.",Point of interest (POI),Italien
+Reg0025020,"Venedig, se: Venezia.",City,Italien
+Reg0025040,"Yukovar, se: Vukovar.",City,Kroatien
+Reg0025050,"Zea, se: Kea.",Island,Grækenland
+Reg0025070,"Zicke, se: Syke.",City,Tyskland

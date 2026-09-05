@@ -1,0 +1,2 @@
+rid,breve_pid,letters,verified_via,notes
+Reg0042200,151,47,docs/data-model/correspondence-integration.md §3 (2026-08-24),"Fredrika Bremer — birth/death (1801-08-17 to 1865-12-31) match entities.csv exactly on both years; PersID 151 confirmed against the pid= in the user-supplied brevbasen URL; further corroborated by an exact diary-date match (diary page VI/291, 1865-09-24) against letter BrevID=23143, whose own MetaTekst field independently quotes the same diary visit"

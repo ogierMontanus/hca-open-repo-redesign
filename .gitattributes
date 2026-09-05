@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Prepared data crosses to the publication repo byte-for-byte. Python's csv
+# module writes CRLF record terminators and hca-open-repo stores them that
+# way, so keep git's eol conversion out of it — otherwise every re-run of the
+# pipeline shows as a whole-file rewrite on one side or the other.
+data/** -text

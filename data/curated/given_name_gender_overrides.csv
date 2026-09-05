@@ -1,0 +1,6 @@
+name,nationality_key,gender,weight,notes
+maria,spansk,M,0.0,"Specifikationens eksempel: ""Juan María"" er mandligt i spansk kontekst. Vægt 0 = navnet neutraliseres som indikator i denne kontekst frem for at pege på kvindeligt; er der en mandlig markør i posten, vinder den uimodsagt. Sæt ikke til M med positiv vægt: María som ENESTE fornavn er stadig oftest kvindeligt i spansk — det er kombinationen Juan+María der er mandlig, og den fanges af det første fornavn."
+maria,italiensk,M,0.0,"Samme mønster i italiensk (Gian Maria, Carlo Maria) — neutraliseres frem for at vendes."
+josé,spansk,M,1.4,"José María er mandligt; sikrer at det ledende fornavn bærer signalet."
+jean,fransk,M,1.4,"Jean-Marie er mandligt i fransk; Jean er entydigt mandligt og skal veje tungere end et efterfølgende Marie."
+anne,fransk,M,0.0,"Anne optræder som mandligt andet-fornavn i ældre fransk adel (Anne de Montmorency) — neutraliseres i fransk kontekst."

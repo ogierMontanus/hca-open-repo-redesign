@@ -1,0 +1,1155 @@
+entity_id,label,lang,method,confidence
+Reg001445,Gesammelte Werke (1847-72),de,detector_cue,0.594
+Reg000281,Aus Herz und Welt (1860),de,detector_cue,0.468
+Reg001238,Eventyr. Med 125 Ill. efter Originaltegninger af V. Pedersen (1850 Ͻ: 1849),da,detector,0.66
+Reg002543,Nye Eventyr og Historier. 1.-2. Række (1858-66),da,detector,0.781
+Reg002545,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 1. Samling (1858),da,detector,0.752
+Reg002546,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 1. Samling (1858) - 4 Opl. (1865),da,detector,0.778
+Reg002553,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 2. Samling (1858),da,detector,0.752
+Reg002556,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 3. Samling (1859),da,detector,0.752
+Reg002557,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 3. Samling (1859) - 2. Opl. (1861),da,detector,0.778
+Reg002558,Nye Eventyr og Historier. 1.-2. Række (1858-66) -4. Samling (1860),da,detector,0.752
+Reg002544,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 1. Række (1860),da,detector,0.781
+Reg002547,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 2. Række 1. Samling (1861),da,detector,0.752
+Reg002548,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 2. Række 1. Samling (1861) - 2. Opl. (1869),da,detector,0.778
+Reg002549,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 2. Række 2. Samling (1861),da,detector,0.752
+Reg002550,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 2. Række 2. Samling (1861) - 2. Opl. (1865),da,detector,0.778
+Reg002551,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 2. Række. 3. Samling (1865),da,detector,0.752
+Reg002552,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 2. Række. 4. Samling (1866),da,detector,0.752
+Reg002554,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 3. Række. 1. Samling (1872),da,detector,0.752
+Reg002555,Nye Eventyr og Historier. 1.-2. Række (1858-66) - 3. Række. 2. Samling (1872),da,detector,0.752
+Reg001235,Eventyr og Historier. Med Ill. efter Originaltegninger af V. Pedersen. I-II (1862-63),da,detector,0.701
+Reg001236,Eventyr og Historier. Med Ill. efter Originaltegninger af V. Pedersen. I-II (1862-63) - Nyt Opl. (1873),da,detector,0.751
+Reg002562,Nye Eventyr og Historier. Med Ill. efter Originaltegninger af Lorenz Frølich I (1870),da,detector,0.694
+Reg002560,Nye Eventyr og Historier. Med Ill. efter Originaltegninger af Lorenz Frølich - II (1871),da,detector,0.691
+Reg002561,Nye Eventyr og Historier. Med Ill. efter Originaltegninger af Lorenz Frølich - III (1874),da,detector,0.703
+Reg000327,Bemærkninger til Eventyr og Historier  - 1862:,da,detector,0.869
+Reg000328,Bemærkninger til Eventyr og Historier  - 1868:,da,detector,0.869
+Reg000329,Bemærkninger til Eventyr og Historier  - 1870:,da,detector,0.869
+Reg000330,Bemærkninger til Eventyr og Historier  - 1874:,da,detector,0.869
+Reg002695,Planer om en Godtkøbs-Udgave af samtlige Eventyr 1875,da,detector,0.883
+Reg000130,"Aamanden, 
+se: Klokkedybet",da,detector,0.866
+Reg003613,»Der er Forskjel«,da,detector,0.866
+Reg000856,"Det suser giennem det gamle Træ, 
+se: Hvad gamle Johanne fortalte",da,detector,0.723
+Reg001239,"Eventyrbogen, 
+se: Krøblingen",da,detector,0.666
+Reg000851,Det gamle Egetræes sidste Drøm,da,detector,0.986
+Reg000708,Den gamle Gadeløgte,da,detector,0.926
+Reg001415,"Gamle Margrethe, 
+se: Noget",da,detector,0.82
+Reg001424,Gartneren og Herskabet,da,detector,0.802
+Reg001656,"Hvad Fatter gjør, det er altid det Rigtige",da,detector,0.909
+Reg001658,Hvad Tidselen oplevede,da,detector,0.72
+Reg001887,Keiserens nye Klæder,da,detector,0.802
+Reg000735,Den lille Pige med Svovlstikkerne,da,detector,0.898
+Reg002202,"Lygtemændene ere i Byen, sagde Mosekonen",da,detector,0.984
+Reg002515,Nissen hos Spekhøkeren,da,detector,0.745
+Reg002690,"Pigen, som traadte paa Brødet",da,detector,0.652
+Reg000750,Den sidste Perle,da,detector,0.686
+Reg003050,Sneglen og Rosenhækken,da,detector,0.927
+Reg003294,"Toppen og Bolden, 
+se: Kjærestefolkene",da,detector,0.653
+Reg003458,Vinden fortæller om Valdemar Daae og hans Døttre,da,detector,0.979
+Reg003476,Vænø og Glænø,da,detector,0.974
+Reg000423,Bøgernes Bog. Et Eventyr om en Mand som gik ud at søge Gud og fandt ham i sin Bibel,da,detector,0.912
+Reg001389,Frihed og Constitution i en Hønsegaard,da,detector,0.912
+Reg001492,"Grundlag i Livet: Stamtræ, Penge og Geni (Idé til Eventyr)",da,detector,0.847
+Reg001657,Hvad Havet fortæller (jf. Den store Søslange),da,detector,0.985
+Reg000731,"Den lille Havfisk, 
+se: Hvad Havet fortæller.",da,detector,0.988
+Reg001145,En vandrende Veiviser,da,detector,0.778
+Reg003359,Udgave ikke nærmere angivet,da,detector,0.841
+Reg002712,"Polyglot Udgave 
+- Historien om en Moder i femten Sprog udgiven af Jean Pio og Vilh. Thomsen (1875)",da,detector,0.681
+Reg003141,"Svensk
+ - Sagor och berättelser. Öfversättning från danskan af Karl Bäckman. 1.-2. delen med träsnitt af Karl Larsson och Isidor Törnblom (1877)",sv,register,1.0
+Reg003340,"Tyske
+ - Märchen für Kinder. Vignetten von G. Osterwald (Braunschweig 1839)",de,register,1.0
+Reg003351,Tyske - Neue Märchen. Aus dem Dänischen von H. Zeise. II. [Ill. af Otto Speckter]. (Hamburg 1846),de,register,1.0
+Reg003348,Tyske - Gesammelte Märchen mit 112 Ill. nach Originalzeichnungen von V. Pedersen (1849),de,register,1.0
+Reg003349,Tyske - Gesammelte Märchen und Historien nebst Bilderbuch ohne Bilder (= Sämmtliche Werke I) (1853),de,register,1.0
+Reg003350,Tyske - Historien (= Gesammelte Werke XXXVIII) (1853),de,register,1.0
+Reg003347,Tyske - Gesammelte Historien. Mit 75 Ill. nach Originalzeichnungen von V. Pedersen (1857),de,register,1.0
+Reg003352,Tyske - Sämmtliche Märchen. Einzige vollst. vom Verf. besorgte Ausgabe. 8. Aufl. (1861),de,register,1.0
+Reg003345,"Tyske - 
+Die Dryade. (Leipzig 1868)",de,register,1.0
+Reg003344,"Tyske 
+- Von der Weltausstellung 1867. Die Dryade. Ein Märchen. Deutsch von August W. Peters. (Bremen 1869).",de,register,1.0
+Reg003343,"Tyske 
+- Sämtliche Märchen. Einzige vollst. vom Verf. besorgte Ausgabe. Mit 67 in den Text gedr. Holzschnitten u. 12 grossen Ill. nach Originalzeichnungen von L. Hutschenreuter u. V. Pedersen. 13. verm. u. verb. Aufl. (1870)",de,register,1.0
+Reg003341,"Tyske 
+- Drei neue Märchen und Geschichten. Hühnergrethens Familie. Was die Distel erlebte. Pagauf Einer verfallen kann. Deutsch von August W. Peters (1870)",de,register,1.0
+Reg003346,Tyske - Ausgewählte Märchen. Deutsch von Julius Reuscher. (Lpz. 1871),de,register,1.0
+Reg003342,"Tyske 
+- Neue Märchen und Geschichten. Deutsch von Wilhelm Reinhardt. (Bremen 1873)",de,register,1.0
+Reg001150,"Engelske 
+- A Poet's Day Dreams (1853)",en,register,1.0
+Reg001157,"Engelske 
+- The Sand-hills of Jutland (1860)",en,register,1.0
+Reg001155,"Engelske 
+- The Ice-Maiden. Tr. from the Danish by Mrs. Bushby. With drawings by Zwecker, engraved by Pearson (1863)",en,register,1.0
+Reg001156,"Engelske 
+- The Ice-Maiden. Tr. from the Danish by Mrs. Bushby. With drawings by Zwecker, engraved by Pearson (1863) - Ny Udgave 1875 (Ͻ: 1874)",en,register,1.0
+Reg001152,"Engelske 
+- Hans Christian Andersen's Stories for the Household. Tr. by H.W. Dulcken. With 220 illustrations by A. W. Bayes (1866)",en,register,1.0
+Reg001153,"Engelske 
+- Later Tales, published during 1867 and 1868. Tr. by Caroline Peachey, Augusta Plesner and Henry Ward. With ill.s by Otto Speckter (1869)",en,register,1.0
+Reg001151,"Engelske 
+- Andersen's Tales for Children. Tr. by A. Wehnert. With ill.s by E. H. Wehnert, W. Thomas, and others (1869)",en,register,1.0
+Reg001154,"Engelske 
+- The Dryad. [Tr. by A.M. and Augusta Plesner]. (Aunt Judy's Magazine 1869)",en,register,1.0
+Reg001158,"Engelske 
+- The Wood Nymph. Tr. from the Danish by A.M. and Augusta Plesner (1870)",en,register,1.0
+Reg001163,Engelske - Wonder Stories. Told for Children. (New York 1870),en,register,1.0
+Reg001159,"Engelske - Fairy Tales and Sketches. Tr. by Caroline Peachey, Augusta Plesner, H. Ward, and others. With 81 vignettes by O. Speckter, and other illustrations by A.W. Cooper, A.W. Bayes, etc., etc. (London 1870).",en,register,1.0
+Reg001162,Engelske - Stories and Tales (New York 1871).,en,register,1.0
+Reg001160,Engelske - Fairy Tales. Illustrated by twelve large designs in colour by E. V. B. [Ͻ: the Hon. Mrs. Boyle]. Newly tr. by H. L. D. Ward and Augusta Plesner (1872 Ͻ: 1871),en,register,1.0
+Reg001161,"Engelske - Hans Andersen's Good Wishes for Children, interpreted by A. A. B. and S. G. P. [Ͻ: Alice A. Bigelow og Sally G. Putnam]. (New York 1873)",en,register,1.0
+Reg001360,"Franske - Contes d' Andersen, traduits du danois par D. Soldi, avec une notice biographique par X. Marmier et 40 vignettes par Bertall (1856)",fr,register,1.0
+Reg001362,Franske - Deux contes [Le scarabée. Le papilIon]. (Tiré de la Bibliothèque Universelle . . . Imité du danois [par] Jules F.-U. Jurgensenl [1861].,fr,register,1.0
+Reg001363,Franske - Fantaisies danoises (Tr. par Jules F.-U. Jurgensen). (Genève 1861),fr,register,1.0
+Reg001366,Franske - Nouveaux contes. Traduits par Soldi. (1862),fr,register,1.0
+Reg001361,Franske - Contes danois. Traduits pour la première fois par Ernest Grégoire et Louis Moland. III. d'après les dessins de Yan' Dargent. (1873),fr,register,1.0
+Reg001365,Franske - Nouveaux contes. Traduits par Louis Demouceaux. (1874),fr,register,1.0
+Reg001364,Franske - Nouveaux contes. La vierge des glaciers. Ib et la petite Christine [etc. etc]. . . . Traduction de Grégoire et L. Moland. Illustrations de Yan' Dargent (1874),fr,register,1.0
+Reg001623,Hollandske - Nieuwe vertellingen. Uit het Deensch vertaald door J. L. D. Nepveu (1847),nl,register,1.0
+Reg001625,"Hollandske - Verzamelte vertellingen en sproken. Volledige uitgave, door den schrijver zelven bezorgd. Naar de zesde Hoogduitsche uitgave door C. de Jong. Tweede druk. (Utrecht 1859)",nl,register,1.0
+Reg001624,Hollandske - Sprookjes en verhalen. In dichtmaat naverteld door J. J. L. ten Kate (1868),nl,register,1.0
+Reg001622,Hollandske - De Dryade. Naar het Deensch door C. J. N. Nieuwenhuis (Utrecht 1869),nl,register,1.0
+Reg003385,Ungarsk - Meséi. Fordította Szendrey Júlia. [Eventyr. Oversat af Julia Szendrey] (1858),hu,register,1.0
+Reg002861,"Russisk - Polnoe sobranie skazok Andersena, s 117-ju gravirovannymi politipažami. Izdanie vtoroe Trubnikovoj i Stasovoj. (Petersburg 1867)",ru,register,1.0
+Reg002566,Nygræsk - Paramythia Danika [Oversat af D. Bikélas],el,register,1.0
+Reg000353,"Bigelow, Alice A.",en,detector_cue,0.564
+Reg000354,"Bikélas, Demitrios",fr,detector,0.715
+Reg001494,"Grégoire, Ernest",fr,detector,0.834
+Reg002510,"Nieuwenhuis, C. J. N.",nl,detector,0.982
+Reg002969,"Schröder, Wilhelm",sv,detector_cue,0.545
+Reg002288,"Malmström, J. A.",sv,detector,0.867
+Reg001433,Gedichte. Deutsch von H. Zeise (1846),de,detector,0.785
+Reg001896,Kjendte og glemte Digte (1867),da,detector,0.713
+Reg003590,"» Aldrig er Ungdomstiden forbi!«, 
+se: Foraarssang.",da,detector,0.655
+Reg000430,Børnenes Skaal. Ved Moritz og Dorothea Melchiors Sølvbryllup den 17. Juni 1871,da,detector,0.811
+Reg000024,*»Da Skotlands Skjalde deres Sange skrev -« (Til Miss Ross 18.8.1847),da,detector,0.731
+Reg003616,"»Der var en Fyrste i Grækenland -« (Digtet om Hesten: Mulatten, 5. Akt, 7. Scene)",da,detector,0.752
+Reg000837,Deres Kongelige Høiheder Kronprinds Frederik og Prindsesse Lovisa. Formælingsdagen den 28de Juli 1869.,da,detector,0.688
+Reg000031,*»Det Første har paa Tydsk lidt af Mimosa-« (Charade),da,detector,0.709
+Reg003539,[Dialog mellem det gamle og det nye Aar. Basnæs 31.12.1865],da,detector,0.847
+Reg003542,[Digt oplæst ved Michael Rosings Bryllup 1.8.1863],da,detector,0.855
+Reg000937,"Digt til Illustreret Tidende, 
+se: I Afrika.",da,detector,0.675
+Reg000990,Drengen og Hundehvalpen. Til en Tegning af Lorenz Frølich,da,detector,0.844
+Reg000036,*»Du Norges Træ med Frugt og Blomst og Knop -« (Dedikation til Bj. Bjørnson 16.5.1861),da,detector,0.805
+Reg001168,"Epilog, fremsagt af jomfru Amalie Price 19. Februar 1861",da,detector,0.676
+Reg000038,"*»Et Hjerte kjærligt, tro og rigt -« (Til Fru Friederike Serre 6.8.1857)",da,detector,0.7
+Reg003625,»Et Sørgebudskab gjennem Landet lød: /»Kong Frederik den Syvende er død!««.,da,detector,0.696
+Reg003626,"»Farvel, Prindsesse Dagmar! Du gaaer til Storhed og Glands -« (21.9.1866)",da,detector,0.706
+Reg003705,†Farvel til Kong Frederik den Syvende,da,detector,0.654
+Reg001341,Fotograferede Børnegrupper af Harald Paetz med tildigtede Rim af Prof. H. C. Andersen,da,detector,0.781
+Reg000005,*Frøken Frederikke Castenschiold (med en stor Skovbunds Bouquet) (Basnæs 20.5.1871),da,detector,0.926
+Reg003630,»Giv af dit Hjerte til Folk og til Slægt -« (l Spanien),da,detector,0.885
+Reg000049,"*»Gud, Du Stormagt, den eneste nu -«",da,detector,0.703
+Reg001500,"Guldbryllupssang den 10. December 1862. Til C. W. Wiehe og Antoinette Louise Wiehe, f. Rosing",da,detector,0.775
+Reg000052,*»Han skatter det Skjønne -« (Impromptu 26.12.1873),da,detector,0.855
+Reg000053,*»Her Grækenlands Vaaben og Danmarks Flag -« (Verdensudstillingen i Paris Maj 1867),da,detector,0.932
+Reg000054,*»Her hvor ikke Hjorden græsser -« (Corselitze 13.8.1850),da,detector,0.827
+Reg000056,*»Her under det blomstrende Hyldetræ -« (Nørre Vosborg 10.7.1859),da,detector,0.854
+Reg000060,*»Hvert Efteraar siger Løvet der faldt -«,da,detector,0.807
+Reg003638,»Hvil sødt -«,da,detector,0.714
+Reg000062,*»Hvor Alt i dette Land er skjønt!« (Albumvers i Lissabon 13.5.1866),da,detector,0.763
+Reg000066,*»Hvor er dit Hjem dog hyggeligt og godt -« (I C. V. Böttigers Album 1.7.1849),da,detector,0.896
+Reg000065,*»Hvor Stormen løfter høit sin stærke Stemme -« (Vandrerens Sang),da,detector,0.728
+Reg003640,»Hyrden græsser sine Faar -« (Festen paa KenilPagth),da,detector,0.847
+Reg000070,*»I Oldtiden var det den smukke Skik -« (Augustenborg 24.9.1844),da,detector,0.667
+Reg000072,"*»I Weimar, den tydske Digterstad -« (l Grev Ferd. von Harrachs Album 27.7.1860)",da,detector,0.681
+Reg000002,* »Imellem Elbens grønne Øer -« (Harburg 27.4.1833),da,detector,0.834
+Reg001742,Indskrift i Kronborg Slotskirke efter Restaureringen 1843 (»Det ødelagde Guds Huus reistes paa Kongens Bud -«).,da,detector,0.823
+Reg000008,*Indvielse 1867 (»I denne Bog vil blive lagt -«) (l Bodild Holsteins Album),da,detector,0.929
+Reg000076,"*»Ja, Digterdrøm og Elskovs Lykke -« (Ved Tassos Eg, San Onofrio 23.11.1833)",da,detector,0.761
+Reg000080,*»Jeg lægger Bogen paa Deres Bord -« (Dedikation til Fru Dorothea Melchior i et Eksemplar af Souvenir 1869),da,detector,0.808
+Reg000001,*»Jeg saae det gamle Frijsenborg -« (I Komtesse Agnes Krag-Juel-Vind-Frijs' Album 28.8.1868),da,detector,0.692
+Reg000081,*»Jeg sidder i et Vertshuus i fremmed Land -«,da,detector,0.696
+Reg002156,Lille Pouls Tale ved Moritz og Dorothea Melchiors Sølvbryllup 17. Juni 1871,da,detector,0.794
+Reg002157,Lille Svends Udtalelse om Vejrliget i Vinter,da,detector,0.968
+Reg002343,"Maskerade-Vers, uddeelte af en Spaaqvinde (Karneval hos M. G. Melchiors 16.2.1874)",nl,detector_cue,0.297
+Reg002358,"Med en Deel Sparebøsser, solgte paa en Bazar under Krigen 1864 til daglig Indsamling for de Udcommanderedes Koner og Børn",da,detector,0.962
+Reg000087,*»Med Skaaler er Bordet dænget -« (Rosenvænget 25.6.1867),da,detector,0.834
+Reg003659,»Min søde lille Marie paa Petershøi« (Brev 26.6.1869 til lille Marie Henriques),da,detector,0.742
+Reg000091,*»Mosrosen er nok værd at see -« (Cette 3.9.1862),da,detector,0.694
+Reg000010,*Musikdirecteur W. Rübner (»Din Vugge-Gjænge blev sat i Gang -«) (Holsteinborg 15.8.1867),da,detector,0.881
+Reg000092,*»Naar Sprogets Dør imellem sagde: »Stop!« -« (30.8.1847),da,detector,0.876
+Reg003589,tOberst Læssøe,da,detector,0.755
+Reg003662,"»Paa Eventyrtræet groe Blomst og Frugt -« (Verslinier, dateret 5. Februar 1872, paa Grevinde Wanda Danneskiold-Samsøes Skærmbræt paa Holsteinborg)",da,detector,0.983
+Reg000098,*»Paa Holsteinborg Juletræet staaer -« (26.12.1865),da,detector,0.908
+Reg003666,"»Program« (»Det er et Carnevale!«) [Prolog til Fastelavnsfesten hos Grosserer Melchior 16.2.1874, Fru Melchiors Fødsebdag]",da,detector,0.694
+Reg003553,[Prolog til en Dilettantforestilling paa Basnæs 5.1.1865],da,detector,0.687
+Reg003554,[Prolog til en Forestilling paa Hofteatret i det velgørende Selskab Fylla 9.3.1851],da,detector,0.94
+Reg000102,*»Saa søndagsfestlig hele Landet staaer -« (I Fru Cornelia Schlegels Stambog 16.6.1847),da,detector,0.751
+Reg002937,Sang for de danske Kunstnere. [Sunget ved Festen paa Kunstakademiet 31.3.1860]. (Ogsaa med Titel: Det Skjønne. Sang for de unge Kunstnere),da,detector,0.673
+Reg002940,Sang paa Sølvbryllupsfesten den 24. October 1858. [Augusta Petzholdt og Gottlieb Collin],da,detector,0.824
+Reg002942,Sang til Grevinde Marie Elisabeth Moltkes Fødselsdag 1. August 1842,da,detector,0.828
+Reg003560,[Sang til Grevinde Marie Elisabeth Moltkes Fødselsdag 1. August 1850],da,detector,0.828
+Reg002945,"Sang ved Afsløringen af Mindestøtten paa Holsteinborg, den 18de October 1870",da,detector,0.659
+Reg002946,"Sang ved Conferentsraad, Politichef Bræstrups Halvhundredaarige Jubilæum den 17. December 1860",da,detector,0.967
+Reg002947,"Sang ved Femogtyveaars-Festen for Borgerrepræsentant N. F. Bonnesen og Raadmand B. Petersen, den 24de Februar 1867",da,detector,0.975
+Reg002948,Sang ved Frøken Lucia Scavenius's og Hr. Carl Castenschiolds Bryllup paa Basnæs den 26de October 1867,da,detector,0.795
+Reg002952,"Sang ved Sølvbryllupsfesten den 10. Februar 1872 (Hofjuvelerer Anton Michelsen og Ida, f. Hansen]",da,detector,0.742
+Reg000104,*»See der et glødende Hjerte staae -« (31.8.1844),da,detector,0.686
+Reg003668,»See Myrten bliver Sølv saa underfuld -« (Augustenborg 18.9.1844),da,detector,0.759
+Reg003671,"»Skarpt som et Sværd laae Øresund -«, 
+se: De tre nordiske Rigers Skaal for Adam Oehlenschläger",da,detector,0.755
+Reg000841,"Det Skjønne, 
+se: Sang for de danske Kunstnere.",da,detector,0.702
+Reg003041,Slutnings-Sang. Den 16. Februar 1865 (Fru Dorothea Melchiors Fødselsdag) (»»Farvel!« i Billedrække -«),da,detector,0.74
+Reg000108,"*»Staar jeg kun skreven i dit Bryst, Veninde -« (I Stine Pedersens Stambog 11.4.1826)",da,detector,0.677
+Reg000109,*»Storke Steie høit i Reden -« (Sang til Maria Moltkes Fødselsdag 23.7.1842),da,detector,0.738
+Reg003564,"[Sølvbryllupsvers ved Peter og Antoinette Wullfs Sølvbryllup 28. December 1868, fremsagt af den lille Jørgen Koch]",da,detector,0.678
+Reg003194,"Tegnér og Oehlenschlæger, 
+se: De tre nordiske Rigers Skaal for Adam Oehlenschlæger.",da,detector,0.667
+Reg000014,*Trollhättan til Vandringsmanden (I Trollhätta-Bogen),sv,detector,0.731
+Reg003411,"Ved Hds. Kongelige Høiheds Høisalig Landgrevinde Louise Charlottes Bisættelse i Roeskilde Domkirke, den 7. April 1864",da,detector,0.91
+Reg003566,[Vers i Mathilde Ørsteds Billedbog til hendes Brodersøn Hans Christian],da,detector,0.898
+Reg003571,[Vers med et Porcelænsstel til E. A. og Karen Scharlings Sølvbryllup 23.11.1864],da,detector,0.873
+Reg003533,[*Vers med Fru Henriette Scavenius' Fødselsdagsgave til Otto Scavenius' Fødselsdag 19.5.1871],da,detector,0.68
+Reg003569,[Vers med Skamlerne paa Bregentved 1. August 1842 (Grevindens Fødselsdag)],da,detector,0.84
+Reg003575,[Vers til J. A. Hägg 27.9.1871],sv,detector_cue,0.422
+Reg003448,Versificeret Telegram 22.6.1871 »som fra Melchior at læse i Dag efter at hans Skaal var drukket«,da,detector,0.915
+Reg003580,[Verslinier til Skoleholder Staahl i Roskilde 7.8.1863],da,detector,0.747
+Reg000118,*»Vort Hjerte i Glæde banker -« (Glion 18.5.1873),da,detector,0.754
+Reg003527,Zigeunersang af Goethes »Götz von Berlichingen«. (Oversættelse),de,detector,0.743
+Reg000947,Dinorah (Le Pardon de Plöermel) (Michel Carré og J. Barbier) (Oversættelse),fr,detector_cue,0.593
+Reg001284,"Festen paa KenilPagth,Omarbejdelsen 1875",da,detector,0.868
+Reg001402,Fuglen i Pæretræet,da,detector,0.973
+Reg001900,"Kjærlighed og blind Alarm, 
+se: Da Spanierne var her",da,detector,0.701
+Reg001907,"Klein Karin, 
+se: Liden Kirsten",de,detector_cue,0.314
+Reg002391,Mikkels Kjærligheds Historier i Paris,da,detector,0.748
+Reg002771,Ravnen (1832) - Teksten omarbejdes 1846,da,detector,0.943
+Reg001140,En rigtig Soldat,da,detector,0.72
+Reg003022,Skilles og mødes (Spanierne i Odense - Fem og tyve Aar derefter),da,detector,0.734
+Reg003187,"Tante og Broderdatter, 
+se: En rigtig Soldat",da,detector,0.801
+Reg002107,Leonora Christine i Fængslet (Plan til Digtning),da,detector,0.674
+Reg000142,Abentheuer und Märchen einer Neujahrsnacht,de,detector,0.995
+Reg000357,Billedbog uden Billeder,da,detector,0.824
+Reg000358,Billedbog uden Billeder- 5. Udgave (1866),da,detector,0.915
+Reg001600,"Historien om Konen som ikke kunde døe. Et Folkesagn i Danmark. Historien om Fruen der vilde leve saa længe hendes Kirke stod, fortalt af HCA. (Sml. Danish Popular Legends 1870, HCA.s Eventyr. Ved Erik Dal, V 1967, S. 257-58)",da,detector,0.966
+Reg001837,"Jugendleben und Träume eines ltalienischcn Dichters, 
+se: Improvisatoren",de,detector,0.888
+Reg001332,"Fortrolige Breve. Første Gang i Sporvogn, Brev fra en ung Landsbypige til hendes Veninde",da,detector,0.946
+Reg000849,"Det første Besøg i Dagvognen, 
+se: Fortrolige Breve",da,detector,0.696
+Reg000282,Aveiro og Coimbra,pt,detector,0.804
+Reg000405,"Brudstykke af et Brev, dat. Valencia, den 18de September (Berlingske Tidende 26.9.1862)",da,detector,0.653
+Reg002661,Passions-Skuespillet i Oberammergau i 1860,da,detector,0.674
+Reg002686,"Pictures of Travel. In Sweden, among the Hartz Mountains, and in Switzerland, with at Visit at Charles Dickens's House. New York (1871)",en,detector,0.927
+Reg003354,"Uddrag af et Brev, omhandlende Rejsen til Portugal (Dagbladet 22.6.1866).",da,detector,0.669
+Reg001615,Hoe Hans Christiaan Andersen zijn leven vertelt,nl,detector,0.951
+Reg000602,Das Märchen meines Lebens ohne Dichtung (1847),de,detector,0.96
+Reg000603,Das Märchen meines Lebens ohne Dichtung (1847) - Engelsk Oversættelse : The True Story of My Life,de,detector,0.813
+Reg002417,Mit Livs Eventyr. Fortsættelse 1874-75,da,detector,0.945
+Reg003228,The Story of My Life (New York 1871),en,detector_cue,0.641
+Reg000565,Dagbogen - Dagbogen læses af andre?,da,detector,0.924
+Reg000176,Akrostichon-Gaade. To danske Digteres Navne,da,detector,0.819
+Reg000229,"Anmeldelse af H.C. Ørsteds Foredrag om Experimenterne med den electromagnetiske Telegraf, foranstaltet af »Selskabet for Naturlærens Udbredelse« (Kjøbenhavnsposten 20.4.1839 under Mærket a)",da,detector,0.999
+Reg000390,"Brev, dateret Kjøbenhavn, den 5te April 1875, til Redaktøren af »Søndags-Posten«",da,detector,0.737
+Reg001740,"Indbydelse til Indsamling til H.C. Ørsteds Monument 1861, 1870 og 1873",da,detector,0.856
+Reg001743,Indskrift paa Mindesten paa Basnæs for Godsejer Jacob Brønnum Scavenius (Tekst),da,detector,0.874
+Reg002745,Protest til Redacteur Ploug mod Clemens Petersens Anmeldelse i »Fædrelandet« af Carit Etlars Folkekomedie »Hr. Lauge med den tunge Haand«. (Fædrelandet 30.1.1661),da,detector,0.688
+Reg003267,Til mine Landsmænd (Berlingske Tidende 6.4.1875),da,detector,0.963
+Reg002636,Oversættelse af Andersens Skrifter (undtagen Eventyrene),da,detector,0.899
+Reg003199,The Academy.,en,detector_cue,0.585
+Reg003202,The Atlantic,en,detector_cue,0.282
+Reg000371,Blätter für literarische Unterhaltung,de,detector,1.0
+Reg000923,Die deutsche Jugend,de,detector,0.844
+Reg000865,"Didaskalia oder Blätter für Geist, Gemüth und Publizität",de,detector,1.0
+Reg003207,The Examiner,en,detector_cue,0.287
+Reg001270,Feierstunden. Ein Unterhaltungsblatt für Gebildete aller Stände 1860,de,detector,0.999
+Reg001314,Folkekalender for Danmark,da,detector,0.703
+Reg001323,"For Idé og Virkelighed (Udg.: Bj. Bjørnsen, Rasmus Nielsen og Rudolph Schmidt)",da,detector,0.878
+Reg003208,The Fortnightly Review,en,detector,0.929
+Reg000879,"Die Gegenwart. Wochenschrift für Literatur, Kunst und öffentl. Leben (1875)",de,detector,0.982
+Reg000880,Die Grenzboten,de,detector,0.784
+Reg003211,The Illustrated London News,en,detector_cue,0.607
+Reg001732,"Illustreret Tidende (norsk), 
+se: Illustreret Nyhedsblad",da,detector,0.903
+Reg001733,Illustrirte Zeitung.,de,detector_cue,0.355
+Reg001735,Illustrirter Kalender für die Schweiz (1852),de,detector_cue,0.615
+Reg000885,Die Jahreszeiten. Hamburger neue Mode-Zeitung (Red.: Ludwig Lenz),de,detector,0.986
+Reg003216,The Leisure Hour,en,detector,0.654
+Reg003217,The Literary Gazette (Udg.: William Jerdan),en,detector_cue,0.618
+Reg002174,Lommebog for Skuespilyndere 1805 (Udg.: Peter Foersom),da,detector,0.859
+Reg002218,"Læsefrugter, samlede paa Litteraturens Mark (Udg.: A. F. Elmquist)",da,detector,0.963
+Reg002284,Magazin für die Literatur des Auslandes,de,detector,0.744
+Reg003219,The National Quarterly Review,en,detector,0.827
+Reg002671,Penelope. Taschenbuch für das Jahr 1845 (Udg.: Theodor Hell),de,detector,0.767
+Reg002754,"Punch, or the London Charivari (Udg.: Mark Lemon)",en,detector_cue,0.199
+Reg003223,The Quarterly Review (Red.: J. G. Lockhart),en,detector,0.842
+Reg002800,Revue britannique,fr,detector,0.77
+Reg002801,Revue des deux Mondes,fr,detector,0.865
+Reg003224,The Riverside Magazine for Young People (Red.: Horace E. Scudder),en,detector_cue,0.531
+Reg003225,The Saturday Review,en,detector,0.934
+Reg002975,Scribner’s Monthly Magazine,en,detector,0.697
+Reg003365,Ueber Land und Meer (1875),de,detector_cue,0.278
+Reg003523,Zeitung für die elegante Welt,de,detector,0.797
+Reg001197,Et Bidrag til Monumentet for H.C. Andersen. Fortællinger og Digte for Børn. (1875) (August Westrups Forlag),da,detector,0.983
+Reg000589,Das Buch der Welt. Ein deutsches Familienbuch für alle Stände (1860),de,detector,0.981
+Reg000557,Cuentos y fábulas (J.E. Hartzenbusch),es,detector,0.754
+Reg000585,Danske Værker 11-12 (Prosaiske Skrifter 3-4. Dramaturgisk Kritik) (Jens Baggesen),da,detector,0.668
+Reg001340,Fortællinger og Vers for Store og Smaa (1866) (Chr. Richardt og G. Rode),da,detector,0.812
+Reg001444,Gesammelte Schriften (J. C. Biernatzski),de,detector,0.75
+Reg002214,Läsning för barn (Zacharias Topelius),sv,detector,0.998
+Reg002923,Samlade dikter I-V (Karl August Nicander),sv,detector_cue,0.649
+Reg003162,Sämtliche Werke in Einem Bande (Silvio Pellico),de,detector,0.951
+Reg003161,Sämtliche Werke (1-Binds Udg.) (Fr. von Schiller),de,detector,0.889
+Reg003459,"Vintergrønt. Nye Fortællinger og Digte, danske, norske og svenske. Udg. af Christian Richardt",da,detector,0.985
+Reg003470,Volksmärchen von Peter Leberecht II (L. Tieck).,de,detector,0.88
+Reg000183,Album poétique (Henri Blanvalet),fr,detector_cue,0.564
+Reg000206,Altschottische und altenglische Volksballaden (W. Von Dönniges),de,detector,0.93
+Reg000212,Amor als Landschaftsmaler (J. W. von Goethe),de,detector,0.768
+Reg000224,An die Freude (Fr. von Schiller),de,detector_cue,0.425
+Reg000226,Andreas und Marfa (F. M. Bodenstedt),de,detector_cue,0.271
+Reg001706,I'Ange et l'enfant (Jean Reboul),fr,detector_cue,0.343
+Reg000277,"Auf den Tod eines reichen Biedermannes, meines unvergesslichen Freundes (I. F. Castelli)",de,detector,0.987
+Reg000314,"Barnligheten (»Lilla Clara, förebrå ej mig -«) (Michael Choræus)",sv,detector,0.816
+Reg001587,Het Boek Job (J. J. L. ten Kate),nl,detector,0.655
+Reg003534,"[Bønskrift til Kejser Franz om at beholde Hatten paa, naar Folk hilser ham paa Gaden] (I. F. Castelli)",da,detector,0.701
+Reg000443,"Cantate ved Christopher Sødring og Julie Sødring, f. Rosenkildes Sølvbryllupsfest (Nicolaj Bøgh)",da,detector,0.692
+Reg000445,Cantate ved Indvielsen af Studenterforeningsbygningen (Chr. Richardt),da,detector,0.705
+Reg000470,Chants populaires du Nord (Xavier Marmier),fr,detector,0.755
+Reg000569,Dania. Eine Auswahl dänischer Gedichte im Versmasse der Originale übersetzt von Emanuel Bendix. Zweite Auflage. Berlin 1875.,de,detector,0.998
+Reg003607,"»De oudheid verhaalt ons van menschen, wier zielen -« (af: Nieuwe Winde-Kelken) (J. P. Hasebroek)",nl,detector,0.97
+Reg003610,"»Den Wåg här rusar fram, till ärestod du får -« (B. Lidner) (Tekst)",sv,detector,0.702
+Reg000838,Des Deutschen Vaterland (»Was ist dem Deutschen Vaterland?«) (Ernst Moritz Arndt),de,detector,0.732
+Reg000864,"Dichtungen (Alex. Petöfi). Nach dem Ungarischen, in eigenen wie fremden Uebersetzungcn gesammelt von K. M. Kertbeny",de,detector,0.995
+Reg000863,Dichtungen (1844) (J. G. Seidl),de,detector,0.917
+Reg000940,Digte af Jens Baggesen. I et Udvalg samlede og udgivne af August Baggesen,da,detector,0.894
+Reg000943,"Digteren Hr. Etatsraad H.C. Andersens eget Eventyr, ved Festen i Odense d. 6. December 1867 i 5 Sange af P. (Peter E. Petersen)",da,detector,0.787
+Reg001979,La Divina Commedia (Dante),it,detector_cue,0.342
+Reg000987,Drei Tage und drei Farben (Karl Simrock),de,detector,0.667
+Reg003621,»Ein Bächlein war es und wurde ein Strom -« (Benedikt Morel) (Tekst),de,detector_cue,0.537
+Reg001047,Eleonore. Ein Lebensbild (Eugène Peschier),de,detector_cue,0.619
+Reg003622,"»Enge wohnte man sonst, weit war es aber im Herzen -« (Schneer, Nürnberg) (Tekst)",de,detector,0.955
+Reg001187,Erzählende Dichtungen (Alexander Petöfi),de,detector,1.0
+Reg003624,»Es ist eine seltsame Sache -« (I. F. Castelli),de,detector,0.902
+Reg001232,Eva Homo (Oluf Lundt Bang) - 2. forøgede Udg.,da,detector,0.796
+Reg001243,Fabeln und Erzählungen (C. F. Gellert),de,detector,0.972
+Reg002120,Les Feuilles d'automne (V. Hugo),fr,detector,0.73
+Reg001405,Fänrik Ståls sägner (J. L. Runeberg),sv,detector,0.906
+Reg001429,Gedichte in niederösterreichischer Mundart (I. F. Castelli),de,detector,0.992
+Reg001430,Gedichte in pfälziseher Mundart. 3. Aufl. (Franz von Kobell),de,detector,0.786
+Reg001432,"Gedichte, ältere und neuere (1842) (Fr. von Pechlin)",de,detector,0.779
+Reg001473,Grabschrift auf meinen Hund (I. F. Castelli),de,detector,0.923
+Reg000714,"Den grimme Ælling. Eventyr af H. C. Andersen. Fortalt paa Vers af den 14-aarige Peder Jacobsen i Flemløse (Assens Avis 1872 Nr. 85-88, 3.5., 5.5., 6.5. og 8.5.)",da,detector,0.76
+Reg003633,»Göta kom i dans från Seves fjällar -« (Esaias Tegnér). (Tekst),sv,detector,0.842
+Reg001535,Hans og Trine (Af Scener i Rosenborg Slotshave) (Poul Møller),da,detector,0.676
+Reg001538,Hausschatz der Volkspoesie (Bernhard Wolff),de,detector,0.766
+Reg001544,Heidenröslein (J. W. von Goethe),de,detector,0.937
+Reg000727,Den hemmelighedsfulde Port (B. S. Ingemann),da,detector,0.942
+Reg001591,"Hiawatha (H. W. Longfellow)
+se: The Song of Hiawatha",en,detector,0.683
+Reg001675,Hälsning till Danmark (Carl Fredrik Ridderstad),sv,detector,0.773
+Reg001651,Hundrede Digte efter det Engelske (Caralis Ͻ: C. Preetzmann),da,detector,0.826
+Reg001698,I Sorg og i Glæde (Benedicte Arnesen Kall),da,detector,0.889
+Reg001739,In der Fürstengruft zu Weimar am 29. Jan. 1846 (Hermann Rollett),de,detector,0.665
+Reg000886,Die Jobsiade (Karl Arnold Kortum),de,detector_cue,0.317
+Reg001091,"En Julegave i Sang fra Gamle og Unge, samlet af Vilhelm Gregersen",da,detector,0.667
+Reg001893,Kirkeklokken i Farum (C. J. Boye),da,detector,0.7
+Reg001916,Klänge und Bilder aus Ungarn (J. N. Vogl),sv,detector_cue,0.456
+Reg000889,Die Kraniche des Ibykus (Fr. Von Schiller),de,detector_cue,0.332
+Reg003213,The Lady of the Lake (W. Scott),en,detector_cue,0.53
+Reg002050,Lay of the Last Minstrel (W. Scott),en,detector_cue,0.296
+Reg002100,Lebensfahrt (»Ein Lachen und Singen -«) (H. Heine),de,detector,0.927
+Reg000893,Die Legende von hl. Katharina (Luise von Bornstedt),de,detector_cue,0.307
+Reg001589,Het lelijke jonge eendtjen Andersen naverteld (J. J. L. ten Kate efter HCA),nl,detector,0.866
+Reg000599,Das Lied von der Glocke (Fr. von Schiller),de,detector_cue,0.426
+Reg002147,Lieder eines Malers mit Randzeichnungen seiner Freunde (Robert Reinick),de,detector,0.998
+Reg002149,"Lieder und Bilder. Deutsche Dichtungen mit Randzeichnungen deutscher Künstler (Düsseldorf, Buddeus' Forlag)",de,detector,1.0
+Reg002221,Løvfrøen. - Græshopperne drage forbi (Af Vintergrønt) (Vilhelm Bergsøe),da,detector,0.954
+Reg002298,"Marfé (F. M. Bodenstedt), 
+se: Andreas und Marfa.",de,detector_cue,0.405
+Reg002400,Mindesang over de Faldne (»Slumrer sødt i Slesvigs Jord -«). (H. P. Holst),da,detector,0.897
+Reg002462,"Nachklänge der alten Geschichte, verhallend bis in die Neuzeit (Fr. von Pechlin)",de,detector,0.989
+Reg003220,The North and the South (Elisabeth Barrett Browning),en,detector_cue,0.592
+Reg002542,Nye Digte af danske Digtere (Chr. Winther),da,detector,0.743
+Reg002609,On Viol and Flute (Edmund W. Gosse),en,detector_cue,0.167
+Reg003221,The Pied Piper of Hamelin (R. Browning),en,detector_cue,0.246
+Reg002637,"P. L. Møller, død den 10. Decbr. 1865 (Holger Drachmann)",da,detector,0.725
+Reg002699,Poems (1871) (Alice McClure Griffin),en,detector_cue,0.39
+Reg002725,Poésies complètes (A. T. de La Tour),fr,detector,0.998
+Reg002726,Poésies complètes (Alfred de Vigny),fr,detector,0.998
+Reg002703,Poetical Works (1851) (Henry W. Long-fellow),en,detector_cue,0.378
+Reg002705,Poetischer Hausschatz des deutschen Volkes (Skolebog) (Bernhard Wolff),de,detector,0.819
+Reg002730,Prentenboek zooder prenten. Vertellingen van de maan. Door J. J. L. ten Kate. Vierde druk. (1870),nl,detector,0.967
+Reg003665,»Presso al Tamigi un fior di Parndiso -« (P.-A. Fiorentino) (Tekst),it,detector_cue,0.54
+Reg003222,The Prisoner of Chillon (Byron),en,detector_cue,0.315
+Reg002743,"Prolog, fremsagt j Fredags [22.1.1875] i Kasino ved Forestillingen til Indtægt for H. C. Andersens Monument (H. Vilh. Martensen)",da,detector,0.924
+Reg002740,Prolog og Program (Ved Casinos 25 Aars Jubilæumsforestilling) (Erik Bøgh),da,detector,0.912
+Reg002741,Prolog til den 50. Opførelse af Svend Dyrings Huus (H. P. Holst),da,detector,0.801
+Reg002742,Prolog ved Det kgl. Teaters Aabningsforestilling 15.10.1874 (C. Ploug),da,detector,0.833
+Reg002840,Romanser ur svenska folklifvet jemte några andra diktér (J. G. Carlén),sv,detector,0.96
+Reg002983,Serenaden und Phantasien eines Friesischen Sängers (Harro Harring),de,detector,0.854
+Reg003670,"»Sind wir nicht geplagte Wesen?« (Heinrich von Ofterdingen, 6. Kapitel) (Novalis)",de,detector,0.931
+Reg003000,Sint-Albaan (Af Krekelzangen) (W. Bilderdijk),nl,detector,0.781
+Reg003011,Skabelsen (De Schepping) (J. J. L. ten Kate),nl,detector_cue,0.393
+Reg003227,The Song of Hiawatba (H. W. Longfellow),en,detector_cue,0.368
+Reg003142,Svenska folkvisor (E. G. Geijer og A. A. Afzelius)),sv,detector,0.861
+Reg003166,Søfartens Oprindelse og Virkning (Chr. B. Tullin),da,detector,0.787
+Reg003183,Tankebreve fra en Afdød (B. S. Ingemann),da,detector,0.948
+Reg003252,Til Grundtvigs Venner. Rimbrev fra F. L. Grundtvig,da,detector,0.658
+Reg003280,To Digte af En ung Angelbo (1. Sønderjydsk Sang. 2. Haabets Stjerne) (Koldingposten 30.1.1866),da,detector,0.975
+Reg003319,"Trinkspruch in einer literarischen Gesellschaft 1831 (»O, lasset urs in dieser düstern, bangen Zeit -«) (A. von Chamisso)",de,detector,0.997
+Reg000915,Die Ulme zu Hirsau (Ludwig Uhland),de,detector_cue,0.308
+Reg003389,"Urania über Gott, Unsterblichkeit und Freiheit (C. A. Tiedge)",de,detector,0.973
+Reg003565,"[Vandfaldet i Englischer Garten, München] (Moritz Saphir)",de,detector_cue,0.6
+Reg003408,"Vaterlandslied (»Stadt Hamburg, in der Elbe Auen -«) (Gemeinnütziger Almanach auf das Jahr 1831) (Tekst)",de,detector,0.998
+Reg003410,Ved H. C. Ørsteds Jordefærd (C. Hauch),da,detector,0.846
+Reg003679,»Vildt Göta störtade från fjällen -« (Esaias Tegnér) (Tekst),sv,detector,1.0
+Reg003591,» Vintern rasat ut bland våra fjällar -« (Herman Sätherberg),sv,detector,0.762
+Reg003486,Wanderungen durch den Markt des Lebens. Zweites Buch: Wanderung durch den Markt der Ehre (C. A. Tiedge),de,detector,0.985
+Reg003525,Zigeuner-Mährchen (J. W. von Goethe),de,detector,0.991
+Reg003688,Ældre og nyere Digte (Rudolph Schmidt),da,detector,0.81
+Reg003689,Ældre og nyere Digte (Vilhelm Ͻ: Wilhelm Moldenhawer),da,detector,0.81
+Reg000179,Alboin der Longobardenkönig (F. de la Motte Fouqué),la,detector,0.848
+Reg000921,Die alte Schachtel (Gustav von und zu Putlitz),de,detector_cue,0.545
+Reg000829,"Der arme Teufel, oder Des Pastetenbäckers Robert Leben, Thaten und Höllenfahrt (August Meyer)",de,detector,0.96
+Reg000263,Armod og Høimodighed (August von Kotzebue),da,detector,0.796
+Reg000830,Der aufrichtigste Freund (E. Scribe og Mélesville),de,detector,0.914
+Reg001713,"Il Bandocani (19.1.1834, Teatro Fiano, Rom)",it,detector_cue,0.442
+Reg000771,"Der Bauer als Millionär, 
+se: Das Mädchen aus der Feenwelt",de,detector,0.947
+Reg000922,Die beiden Billeu (Florian ved Anton Wall),de,detector_cue,0.332
+Reg000611,Das bemooste Haupt (R. Benedix),de,detector_cue,0.463
+Reg000773,Der Besuch im Irrenhaus (Theodor Hell),de,detector,0.864
+Reg000348,Besøget i Kjøbenhavn (H. Hertz),da,detector,0.939
+Reg002052,"Le Billet de faveur (Laurencin, Cormon og Michel Delaporte)",fr,detector,0.684
+Reg000370,Blyspelen. Uit het Hoogduitsch vertaalt. Amsterdam 1747 (L. Holberg),nl,detector,0.976
+Reg000632,De borgerlige Stevnemøder (F. B. Hoffman),da,detector,0.779
+Reg002054,Le Bouchon de carafe (Dupin og Eugène Grangé),fr,detector_cue,0.183
+Reg000874,Die Braut von Messina (Fr. von Schiller),de,detector_cue,0.206
+Reg000413,Brylluppet paa Ulfsbjerg (Frans Hedberg)- Se ogsaa: Brölloppet på Ulfåsa,sv,detector,0.886
+Reg000415,Brölloppet på Ulfåsa (Frans Hedberg)- Se ogsaa: Brylluppet paa Ulfsbjerg,sv,detector,0.886
+Reg000432,Bürger und Junker (Martin Schleich),de,detector_cue,0.499
+Reg000433,Bürgerlich und romantisch (Ed. von Bauernfeld),de,detector,0.748
+Reg000439,"Canne et parapluie, 
+se: Les Égarements d’une canne et d’un parapluie",fr,detector,0.834
+Reg002113,Les Caravanes de Mayeux (Ph. Fr. P. Dumanoir og Brisebarre),fr,detector_cue,0.562
+Reg000455,"Carl den Tolvte paa Hjemreisen (J. R. Planché, bearbejdet af Karl Töpfer)",da,detector,0.664
+Reg000463,"Cendrillon, ou la Pantoufle merveilleuse (Clairville, Albert Monnier og E. Blum)",fr,detector,0.915
+Reg000561,"C’est ma fille (18.7.1857, Variétés, Paris).",fr,detector,0.883
+Reg000560,César ou Le chien de château (E. Scribe og Varner),fr,detector_cue,0.531
+Reg002059,Le Chanson de l'aveugle (Junien),fr,detector,0.799
+Reg002096,"Le petit Chaperon rouge (Marionet-Komedie, 22.4.1867, Paris)",fr,detector_cue,0.337
+Reg001974,La Chasse du roi (Émile Fontaine),fr,detector_cue,0.294
+Reg002061,Le Chevreuil (Léon H ... og Jaime),fr,detector_cue,0.574
+Reg000534,Cola di Rienzi (Rud. Kirner),it,detector_cue,0.604
+Reg001069,En Colonels Giftermaal (La raison propose ou Un mariage diplomatique) (Paul Duport),fr,detector,0.767
+Reg002136,Les conférences chez Beaubicon (Clairville og E. Blum),fr,detector,0.922
+Reg000551,"Crinoline den Store (efter Hippolyte Cogniards »La Reine Crinoline«, frit bearbejdet af Erik Bøgh)- Se ogsaa: Dronning Crinoline",da,detector,0.969
+Reg001041,"El crisol de la lealtad (Ángel de Saavedra, Hertug af Rivas)",es,detector_cue,0.437
+Reg001071,En Cuurmethode (H. Hertz),nl,detector_cue,0.644
+Reg001976,La Dame aux camélias (Alexandre Dumas fils),fr,detector_cue,0.415
+Reg001978,La Dame et la demoiselle (Empis og Mazères),fr,detector_cue,0.394
+Reg002115,Les Demoiselles de St. Cyr (Alexandre Dumas père),fr,detector_cue,0.43
+Reg001042,"El desengaño en un sueño (Ángel de Saavedra, Hertug af Rivas)",es,detector,0.877
+Reg001033,Ein deutscher Krieger (Eduard von Bauernfeld),de,detector,0.847
+Reg002117,Les Deux ânes (Mélesville og P. F. A. Carmouche),fr,detector,0.746
+Reg000936,Dieu vous bénisse (A. Ancelot og Paul Duport),fr,detector,0.815
+Reg000975,"Don Álvaro ó la fuerza del Sino (Ángel de Saavedra, Hertug af Rivas)",es,detector,0.719
+Reg000980,Dorf und Stadt (Charlotte Birch-Pfeiffer),de,detector_cue,0.563
+Reg000986,"Drei Tage aus dem Leben eines Spielers (Victor Ducange, bearb. af Louis Angely)",de,detector,0.856
+Reg001005,Drøm og Virkelighed (anonymt),da,detector,0.875
+Reg001007,"Due case in una casa (L. B. Picard, Wafflard og Fulgence)",it,detector_cue,0.292
+Reg000776,Der Eckensteher Nante im Verhör (Friedr. Beckmann),de,detector,0.752
+Reg001968,L'École des bourgeois (d'Allainval),fr,detector,0.729
+Reg002138,Les Égarements d'une canne et d'un parapluie (Duvert og Lauzanne),fr,detector,0.835
+Reg001038,Einer von ünsere Leut' (O. F. Berg),de,detector_cue,0.601
+Reg001050,Elisabetta regina d'Inghilterra (Paolo Giacometti),it,detector,0.862
+Reg001059,Embedsiver eller Herr og Fru Møller (J. F. A. Bayard),da,detector,0.708
+Reg001146,Endlich bat er es doch gutgemaht (Albin von Meddlhammer),de,detector,0.829
+Reg002119,Les Enfants d'Edouard (C. Delavigne),fr,detector,0.782
+Reg001173,Er ist nieht eifersüchtig (Alexander Elz),de,detector,0.983
+Reg001225,Eulenspiegel oder Schabenack über Schabernack (J. N. Nestroy),de,detector,0.794
+Reg001229,"Europæerne i Amerika (Marionetkomedie, 3.2.1841, Teatro Fiano, Rom)",da,detector,0.993
+Reg001201,"Et Eventyr i Dyrehaven, eller: Cassanders opdagede Trædskhed (H. Hertz)",da,detector,0.92
+Reg001076,En Familie paa Moden (efter V. Sardou af Erik Bøgh),nl,detector_cue,0.283
+Reg001252,"Far male per far male (31.5.1846, Teatro Fiorentini, Napoli)",it,detector_cue,0.174
+Reg002067,Le Fils de Giboyer (E. Augier),fr,detector_cue,0.381
+Reg002014,"La finta strega (efter W. Scott: »Guy Mannering«, 12.6.1846, Teatro Fiorentini, Napoli)",it,detector_cue,0.239
+Reg001313,"Foliquet, coiffeur des dames (Paul Duport og Laurencin)",fr,detector,0.729
+Reg002069,Le François à Londres (Boissy),fr,detector,0.903
+Reg001379,Freien nach Vorschrift (Karl Töpfer),de,detector,0.86
+Reg001384,Freuden und Leiden eines Kranken (Franz von Kurländer),de,detector,0.788
+Reg003209,The Frozen Deep (Wilkie Collins),en,detector_cue,0.411
+Reg000706,Den første Kjærlighed (E. Scribe),da,detector,0.673
+Reg002121,"Les Gardes du roi de Siam (Cormon, Grangé og Delacour)",fr,detector_cue,0.255
+Reg001425,Gaston van Frankrijk (Arnould og Fournier),nl,detector,0.827
+Reg000878,Die Gefangenen der Czarin (J. F. A. Bayard),de,detector,0.694
+Reg000926,Die gefährliche Tante (Albini Ͻ: Albin von Meddlhammer),de,detector,0.97
+Reg000590,Das Gefängnis (Roderich Benedix),de,detector,0.654
+Reg001443,Georges et Thérese (Louis Auvray),fr,detector_cue,0.216
+Reg000591,Das Gespenst auf der Bastei (Karl Meisl),de,detector_cue,0.627
+Reg001448,Gienfærdet paa Herlufsholm (A. Oehlenschlæger),da,detector,0.854
+Reg001034,Ein glücklicher Familienvater (Karl August Görner),de,detector,0.959
+Reg000612,Das goldene Lamm (J. Sonnleithner),de,detector_cue,0.294
+Reg000613,Das goldene Vliess (Fr. Grillpazer),de,detector_cue,0.497
+Reg000882,Die Günstlinge (Charlotte Birch-Pfeiffer),de,detector,0.999
+Reg001513,Götz von Berlichingen (J. W. von Goethe),de,detector,0.671
+Reg000785,"Der Hausmeister in tausenden Aengsten (24.8.1857, Hofteatret, Dresden)",de,detector,0.907
+Reg001553,"Helene oder die Körbe (27.11.1840, München)",de,detector_cue,0.356
+Reg001595,"Hinter dem häuslichen Herd (25.10. 1860, Hofteatret, Dresden)",de,detector,0.769
+Reg001636,"Hr. Møller, Hr. og Fru Møller, 
+se: Embedsiver",da,detector,0.692
+Reg001645,"Huismiddel tegen schoonmoeders (Rezept gegen Schwiegermütter) (efter det Spanske af Kong Ludwig I af Bayern, oversat af J. Both J. Jzn.)",de,detector_cue,0.542
+Reg002122,"Les Hures graves (Ph. Fr. P. Dumanoir, Paul Siraudin og Louis Clairville)",fr,detector_cue,0.264
+Reg001026,"Ein Hut (Le Chapeau d'un horloger) (Delphine Girardin, bearb. af Moritz Grandjean)",fr,detector_cue,0.557
+Reg001676,Häuslichen Wirren (J. Lederer),de,detector,0.948
+Reg003586,lch bleibe ledig (Karl Blum),de,detector,0.888
+Reg003587,lndqvarteringen (H. Hertz),sv,detector,0.684
+Reg001772,Jagten paa Søeborg (Mønster?),da,detector,0.741
+Reg002072,Le Jeu de l’amour et du hasard (Marivaux),fr,detector_cue,0.577
+Reg001809,Johann von Oesterreich (Julius Mosen),de,detector,0.755
+Reg001829,"Jovial, stadstjenare och poet (Théaulon og Choquart)",sv,detector_cue,0.352
+Reg000887,Die Jungfrau von Orleans (Fr. von Schiller),de,detector_cue,0.55
+Reg001863,Kabale und Liebe (Fr. von Schiller),de,detector_cue,0.232
+Reg001875,"Karel Skreta, malír (V. A. Swoboda)",es,detector_cue,0.446
+Reg000595,"Das Kasernen-Zimmer (1.12.1840, München)",de,detector_cue,0.534
+Reg001891,Kierlighed uden Strømper (J. H. Wessel),da,detector,0.824
+Reg000888,Die Kinder des Regiments (Friedrich Blum),de,detector_cue,0.344
+Reg001898,Kjærlighed og Politik (Viggo Hindberg),da,detector,0.677
+Reg001904,Kjøbmanden i Venedig (W. Shakespeare),da,detector,0.952
+Reg000596,Das Käthchen von Heilbronn (Heinrich von Kleist),de,detector_cue,0.597
+Reg000891,"Die Königin von sechzehn Jahre (Bayard, overs. af Theodor Hell)- Se ogsaa: Dronningen paa 16 Aar (Sp. 60)",de,detector,0.679
+Reg000892,Die Königstochter ein Bettlerweib (Ernst Raupach),de,detector,0.894
+Reg002033,"Landet fundet og forsvundet (A. Oehlenschlæger), 
+se: De to Armringe",da,detector,0.974
+Reg002101,Leichtsinn aus Liebe (Ed. von Bauernfeld),de,detector,0.904
+Reg002103,Lenore oder die Vermählung am Grabe (Karl von Holtei),de,detector,0.844
+Reg000562,D'letzte Fensterln (Johann Gabriel Seidl),de,detector,0.942
+Reg000598,Das Liebesprotokoll (E. von Bauernfeld),de,detector,0.707
+Reg001138,"En lille Heks (Ad. Recke og P. Aalborg, bearbejdet efter en tysk Dramatisering (»Die Grille«) af George Sands Roman »La petite Fadette«)- Se ogsaa: Die Grille.",da,detector,0.971
+Reg000733,Den lille Hyrdedreng (A. Oehlenschlæger),da,detector,0.718
+Reg002160,Lindane oder Die Fee und der Haarbeutelschneider (A. Bäuerle),de,detector,0.727
+Reg001044,El loco de la Guardilla (Narciso Serra),es,detector_cue,0.372
+Reg000895,Die Luftschlösser (A. F. Weidner),de,detector,0.977
+Reg001027,Ein Lustspiel (R. Benedix),de,detector,0.84
+Reg002200,Lycksalighetens ö (P. D. A. Atterbom),sv,detector,0.984
+Reg000793,Der Lügner und sein Sohn (K. Meisl),de,detector,0.803
+Reg000854,Det lykkelige Skibbrud (L. Holberg),da,detector,0.743
+Reg000646,De lystige Koner i Windsor (W. Shakespeare)- Se ogsaa: The Merry Wives of Windsor,en,detector_cue,0.364
+Reg002230,"Madame d'Egmont, ou Sont-elles deux? (J. Ancelot og Decomberousse)",fr,detector,0.825
+Reg002231,"Mademoiselle Déjazet au Sérail, ou Le Palais-Royal en 1872 (J. F. A. Bayard og Gabriel de Lurieu)",fr,detector,0.7
+Reg002297,"Marco Sciarra, apperettatore de Io quartiere de puorto ossia l'ommo che nun se fa li fatte suoie cu la Ianterna va truvanno guaie (Orazio Schiano)",it,detector,0.979
+Reg002300,"Margherita di Waldemar, regina delle tre corone del Nord (G. C. Cosenza)",it,detector_cue,0.557
+Reg002077,Le Mariage au tambour (Ad. de Leuven og Brunswick)- Se ogsaa: Et Giftermaal ved Trommen,nl,detector_cue,0.451
+Reg002078,Le Mariage de Figaro (Beaumarchais),fr,detector_cue,0.508
+Reg000794,"Der Maschinenbauer, 
+se: Capital og Arbeide",de,detector,0.717
+Reg002368,Mejonkvrouw de La Seiglière (Jules Sandeau)- Se ogsaa: Slottet i Poitou,nl,detector,0.921
+Reg003218,The Merry Wives of Windsor (W. Shakespeare)- Se ogsaa: De lystige Koner i Windsor.,en,detector_cue,0.364
+Reg002127,Les Métamorphoses de Bougival (Adolphe Favre og Ad. Stel),fr,detector_cue,0.583
+Reg002393,Mille et une nuits (Th. og H. Cogniard),fr,detector_cue,0.462
+Reg002395,Min Onkels Slaabrok (De Huisjapon van mij' Oom) (Vrij naar het Hoogduitsch door J. Both J. Jzn),nl,detector_cue,0.466
+Reg002411,Mirandolina (La locandiera) (Goldoni),it,detector_cue,0.526
+Reg002419,Mit der Feder (Sigmund Schlesinger),de,detector_cue,0.188
+Reg002125,Les Mousquetaires du carneval (Eugène Grangé og Lambert Thibouet),fr,detector_cue,0.327
+Reg002445,Mutter und Sohn (Charlotte Birch-Pfeiffer),de,detector_cue,0.376
+Reg000797,Der Müller und sein Kind (Ernst Raupach),de,detector_cue,0.47
+Reg000600,Das Mädchen aus der Feenwelt oder der Bauer als Millionär (Ferd. Raimund),de,detector,0.953
+Reg002451,Mönch und Soldat (Friedrich Kaiser),de,detector_cue,0.283
+Reg002457,"Naar Djævelen banker paa! (Benjamin Feddersen, Intrigen efter Dupeutys, Dumersans og Gabriels »Victorine ou la nuit porte conseil«)",da,detector,0.836
+Reg002461,Nach Sonnenuntergang (Louis Angely),de,detector,0.936
+Reg002463,Nacht und Morgen (Charlotte Birch-Pfeiffer),de,detector_cue,0.434
+Reg002466,"Nante, 
+se: Der Eckensteher Nante im Verhör",de,detector,0.757
+Reg002496,Nehmt ein Exempel dran! (Karl Töpfer)- Se ogsaa: Seer Jer i Speil,de,detector_cue,0.597
+Reg000902,"Die Nibelungen (E. Geibel), 
+se: Brunhild",de,detector_cue,0.649
+Reg000903,Die Nibelungen (Fr. Hebbel),de,detector,0.762
+Reg001995,La Nouvelle Psyché (Félicien Mallefille),fr,detector,0.721
+Reg001996,La Nuit de Mardi-gras (Emile Fontaine),fr,detector_cue,0.205
+Reg002537,Nur eine Seele (Wilhelm Wolfsohn),de,detector_cue,0.526
+Reg000745,"Den oldenborgske Stamme i Danmark. En Cyclus af Skuespil (Christjern, Kongefader. - Kong Hans) (Benedicte Arnesen Kall)",da,detector,0.782
+Reg001966,L'Orphelin de la Chine (Henri Dupin),fr,detector_cue,0.282
+Reg002129,Les Orphelines du faubourg (E. Thirion og Hippolyte Bedeau),fr,detector_cue,0.543
+Reg000904,Die Osternacht (Wilhelm Wolfsohn),de,detector_cue,0.487
+Reg002660,Passions-Skuespillet i Oberammergau (J. A. Daisenberger),da,detector,0.674
+Reg002081,"Le Pavé des journaux (6.2.1863, Délassements-Comiques, Paris)",fr,detector,0.824
+Reg003372,Un Péché de jeunesse (J. Samson og Jules de Wailly),fr,detector,0.931
+Reg001045,El perro del castello (César ou Le chien du château) (E. Scribe og A. F. Varner),fr,detector_cue,0.366
+Reg002131,Les Petits mystères de Paris (D. Chs. Dupeuty og Eug. Cormon),fr,detector,0.834
+Reg002098,Le pied de mouton (Martainville og Ribié)- Se ogsaa: Mefistofeles (Ballet),fr,detector_cue,0.175
+Reg002132,"Les Pilules du Diable (F. Laloue, Bourgeois og Laurent)",fr,detector,0.834
+Reg000747,Den politiske Kandestøber (L. Holberg),da,detector,0.933
+Reg001028,Ein Posse als Medizin (Friedr. Kaiser),de,detector_cue,0.57
+Reg002734,"Prindsessen i den sovende Skov, 
+se: To Tidsaldre",da,detector,0.776
+Reg002738,Prinz Friedrich von Homburg (Heinrich von Kleist),de,detector,0.722
+Reg002002,La Prise de Pékin (Ad. Dennery),fr,detector,0.831
+Reg002761,Qvækeren og Dandserinden (E. Scribe og Paul Duport),da,detector,0.767
+Reg000907,Die Reise zur Hochzeit (J. W. Lembert),de,detector,0.926
+Reg002088,Le Retour ou La suite du Michel et Christine (E. Scribe og J. H. Dupin),fr,detector_cue,0.499
+Reg002818,Robert und Bertram (Gustav Räder),de,detector_cue,0.19
+Reg002841,Romantiske Dramer. En Kjøbmands Datter og en Kongesøn. Drømmeren (J. M. Thiele),da,detector,0.969
+Reg002850,Rose und Röschen (Charlotte Birch-Pfeiffer),de,detector_cue,0.583
+Reg002928,Samlede Skuespil ved K. L. Rahbek l-IV (P. A. Heiberg),da,detector,0.95
+Reg002169,"Lo schiavo di S. Domingo [efter V. Hugos Roman Bug Jargal] (31.5.1846, Teatro Fiorentini, Napoli)",it,detector_cue,0.218
+Reg000608,Das Schloss Limburg (Benott-Joseph Marsollier),de,detector_cue,0.552
+Reg000802,Der Schneider und sein Sohn (Thomas Morton).,de,detector_cue,0.551
+Reg000910,Die Schule der Verliebten (Karl Blum efter J. Sheridan Knowles: »The Love-Chase«),de,detector,0.925
+Reg000911,Die Schule des Lebens (Ernst Raupach),de,detector,0.729
+Reg000913,Die Schärpe und die Blume (Calderón de la Barca),de,detector_cue,0.457
+Reg002977,Seer Jer i Speil (Karl Töpfer)- Se ogsaa: Nehmt ein Exempel dran!,de,detector_cue,0.597
+Reg002978,"Sein Hut, 
+se: Ein Hut.",de,detector_cue,0.36
+Reg000931,Die seltsame Ehen (Albin von Meddlhammer),de,detector,0.81
+Reg002990,Sie ist verheiratet (Friedrich Kaiser),de,detector,0.763
+Reg001113,En Sjæl efter Døden (J. L. Heiberg),da,detector,0.845
+Reg000752,"Den skjønneste Qvinde, 
+se: Den deiligste Qvinde",da,detector,0.94
+Reg003037,Slavinden (Cora ou l'esclavage) (Jules Barbier ved Erik Bøgh),fr,detector_cue,0.2
+Reg003040,Slouet i Poitou (Mademoiselle de la Seiglière) (Jules Sandeau)- Se ogsaa: Mejonkvrouw de La Seiglière,nl,detector,0.901
+Reg000808,Der Soldat ganz allein (I. F. Castelli),de,detector,0.696
+Reg003068,"Sourde-oreille (6.5.1843, Théâtre Comte, Paris)",fr,detector,0.701
+Reg003093,Staberls Reise durch die Luft (A. Bäuerle),de,detector,0.784
+Reg003104,Stevnemødet i Ermelunden (Efter Dumanoirs »Les femmes terribles« af Erik Bøgh),da,detector,0.778
+Reg003112,Stormen (W. Shakespeare)- Se ogsaa: The Tempest,en,detector_cue,0.224
+Reg002006,"La Suite du Michel et Christine, 
+se: Le Retour",fr,detector_cue,0.498
+Reg003147,Swenska Sprätthöken (Karl Gyllenborg),sv,detector,0.956
+Reg003173,Søstrene paa Kinnekullen (C. Hauch),da,detector,0.777
+Reg001031,Ein Tag Carl Stuart des Zweiten (J. B. Zahlhas),de,detector_cue,0.505
+Reg003188,"Tanto vales cuanto tienes (Ángel de Saavedra, Hertug af Rivas)",es,detector,0.813
+Reg000609,Das Taschenbuch (A. von Kotzebue),de,detector,0.784
+Reg003382,Une Tasse du thé (Charles Nuitter og Joseph Derley),fr,detector_cue,0.464
+Reg003229,The Tempest (W. Shakespeare)- Se ogsaa: Stormen,en,detector_cue,0.224
+Reg003244,Théâtre complet (Alfred de Vigny),fr,detector,0.726
+Reg000653,"De to Armringe (= Landet fundet og forsvundet, 1. Akt) (A. Oehlenschlæger)",da,detector,0.813
+Reg003287,To Tidsaldre eller Prindsessen i den sovende Skov (Octave Feuillet),da,detector,0.798
+Reg003304,Touboulic-le-Cruel (A. Decomberousse),fr,detector_cue,0.321
+Reg002090,Le Tour de Nesle (A. Dumas père),fr,detector_cue,0.162
+Reg001128,En Tour til Armeen (H. P. Holst),nl,detector_cue,0.396
+Reg003305,Touristen i Nordsjælland (Studenterforestilling 4.4.1868 i Casino),da,detector,0.894
+Reg000610,Das Trauerspiel in Tirol (K. Immermann),de,detector,0.884
+Reg003585,"l tre negozianti da ligne (4.3.1841, Teatro Carlino, Napoli)",it,detector,0.684
+Reg000660,"De tre Policineller (Le tre pulcinelle) (7.1.1841, Teatro della Pace, Rom)",it,detector_cue,0.353
+Reg002137,Les trois Catherines (Paul Duport),fr,detector_cue,0.465
+Reg003393,Val och qval (P. Siraudin og Th. de Langeac),sv,detector_cue,0.169
+Reg003440,Verbrechen aus Ehrsucht (A. W. Iffland),de,detector,0.994
+Reg003443,Vermländingarne (Frederik August Dahlgren),sv,detector,0.811
+Reg000836,Der verwünschene Prinz (A. Bäuerle),de,detector,0.959
+Reg000933,Die verwünschte Prinzessin (Gustav Räder),de,detector,0.98
+Reg003452,Viel Lärmen um nichts (Much Ado about Nothing) (W. Shakespeare),de,detector,0.681
+Reg003467,Voilà la chose (Ernest Blum og Alex. Flan),fr,detector,0.845
+Reg001037,Eine vornehme Ehe (Octave Feuillet),de,detector,0.977
+Reg003475,"Voyage entre ciel et terre (Felix-Auguste Duvert, Augustin, Théodore Lauzanne de Vauroussel og Paul Duport)",fr,detector_cue,0.467
+Reg000630,De Vrouwe van Waardenburg (Jacob van Lennep),nl,detector,0.976
+Reg000631,De Vrouwenhoeden (efter det Franske af J. Both J. Jzn.),nl,detector,0.989
+Reg002092,Le Wagon des dames (Clairville og O. Gastineau),fr,detector_cue,0.198
+Reg000918,Die Waise aus Lowood (Charlotte Birch-Pfeiffer),de,detector_cue,0.265
+Reg000934,Die weisse Pekésche (Karl Töpfer),de,detector,0.806
+Reg003494,Wer iszt mit? (W. Friedrich efter Desaugiers),de,detector_cue,0.353
+Reg003496,Werner oder Herz und Welt (Karl Gutzkow),de,detector_cue,0.566
+Reg000823,Der Widerspenstigen Zähmung (Taming of the Shrew) (W. Shakespeare),de,detector,0.84
+Reg000919,Die Wiener in Berlin (Karl von Holtei),de,detector_cue,0.474
+Reg000920,Die Wiener in Paris (Karl von Holtei),de,detector_cue,0.302
+Reg003703,Über allen Zauber Liebe (Calderón de la Barca),de,detector,0.784
+Reg003530,Zopf und Schwert (Karl Gutzkow),de,detector,0.697
+Reg000826,Der Zunftmeister von Nürnberg (Oskar Redwitz),de,detector,0.899
+Reg000935,Die zwei Ärzte (Alexander Baumann),de,detector,0.946
+Reg003702,Østergade og Vestergade (Th. Overskou),da,detector,0.663
+Reg000870,Die Adoptivtochter (Karoline von Göhren Ͻ: Karoline von Zöllner),de,detector,0.794
+Reg000333,"Berlin wie es ist und - trinkt, 1. Hefte: Eckensteher (Ad. Glassbrenner)",de,detector,0.813
+Reg000336,"Berliner Eckensteher, 
+se: Berlin wie es ist und - trinkt.",de,detector,0.89
+Reg000355,Bilder aus dem Leben (Julie Burow),de,detector_cue,0.541
+Reg003204,The Brownies and other tales (Juliana Horatia Ewing),en,detector_cue,0.417
+Reg000414,"Brændehuggeren og hans Kone,
+ se: Den nysgjerrige Kone",da,detector,0.848
+Reg000588,Das Buch Le Grand (H. Heine),de,detector_cue,0.229
+Reg000124,A Christmas Carol (Charles Dickens),en,detector_cue,0.358
+Reg000538,Conanchet eller Grænsebeboerne (J. F. Cooper),da,detector,0.886
+Reg003206,The Cricket on the Hearth (Charles Dickens)- Se ogsaa: Das Heimchen am Herde,de,detector_cue,0.265
+Reg001714,Il Decamerone (Boccaccio),it,detector_cue,0.23
+Reg000622,De Geers Ungdomsliv (Guldmageren) (C. Hauch),da,detector,0.691
+Reg000667,Demokritos oder hinterlassene Papiere eines lachenden Philosophen (Carl Jul. Weber),de,detector,0.989
+Reg002064,Le Diable boiteux (Le Sage),fr,detector,0.941
+Reg001017,Efterladte Eventyr og Fortællinger (B.S. Ingemann),da,detector,0.998
+Reg001022,Eid und Gewissen und die Felsenbraut (L. Kruse),de,detector,0.708
+Reg001149,Engeln Guldgod m.fl. sagor och berättelser af Lilla Nannas Pappa (Oscar von Knorring),sv,detector,0.978
+Reg001167,Enslingen på Johannisskäret (Emilie Flygare-Carlén),sv,detector,1.0
+Reg001188,Erzählungen und Bilder aus dem Volksleben der Schweiz (Jeremias Gotthelf),de,detector,0.988
+Reg000634,De faldende Blade (af: Romantiske Skildringer) (Thomas Lange),da,detector,0.692
+Reg001291,Fire nye Fortællinger (B. S. Ingemann),da,detector,0.96
+Reg000638,De fjerne Høje (Johanne Schjørring),da,detector,0.909
+Reg001335,Fortælling om Haldor (C. Hauch),da,detector,0.795
+Reg001336,Fortællinger af l. (Cornelia von Levetzow),da,detector,0.922
+Reg001337,Fortællinger og Skitser af Klok (J. Krohn),da,detector,0.959
+Reg001338,Fortællinger og Skitser. Paa Dansk ved Vilhelm Møller. I. (I. Turgenjev),da,detector,0.973
+Reg001339,Fortællinger og Skizzer (Johanne Schjørring),da,detector,0.867
+Reg001351,Fra et Hjørne af Kirkegaarden (Carl Bruun),da,detector,0.734
+Reg001347,Fra Piazza del Popolo (Vilhelm Bergsøe),it,detector,0.8
+Reg001414,Gamle Jomfru Trægaards Erindringer (Henriette Brandis),da,detector,0.871
+Reg001441,Georg und die Störche. Ein Märchen der Ipsarioten,de,detector_cue,0.534
+Reg003210,The Gingerbread Maiden (Laura Friswell),en,detector_cue,0.418
+Reg001528,Hannchen und die Küchlein (Gottlob Eberhard),de,detector,0.888
+Reg001534,Hans Stürzebecher und sein Sohn (K. G. Cramer),de,detector_cue,0.626
+Reg001539,Hausschatz deutscher Prosa (Skolebog) (Bernhard Wolff),de,detector,0.686
+Reg001580,Herr und Diener (L. Kruse),de,detector_cue,0.347
+Reg001666,Hvorledes fanger man en Solstraale. En Julegave efter det Engelske (Matilda Anne Mackarness),da,detector,0.708
+Reg001677,Hölty. Roman (Friedrich Voigts),sv,detector_cue,0.589
+Reg001908,"Klein Zaches, genannt Zinnober (E. Th. A. Hoffmann)",de,detector,0.79
+Reg001918,Knud Nielsen (af: »Livsbilleder af I«) (Cornelia von Levetzow),da,detector,0.858
+Reg000789,Der Komet oder Nicolaus Marggraf (Jean Paul),de,detector_cue,0.251
+Reg003215,The Last of the Barons (Edward Bulwer),en,detector_cue,0.254
+Reg000894,Die Leiden des jungen Werthers (J. W. von Goethe),de,detector_cue,0.596
+Reg002167,Livsbilleder af I (Cornelia v. Levetzow),da,detector,0.84
+Reg000643,De lotgevallen van Klaasje Zevenster (Jakob van Lennep),nl,detector,0.975
+Reg002336,Marmaduke Herbert or The Fatal Error (Lady Marguerite Blessington),en,detector_cue,0.27
+Reg002373,Memoiren eines bleiernen Soldaten für Knaben von 8-10 Jahren (Amalie Winter),de,detector,0.928
+Reg002467,"Naomi und Christian, oder: Der arme Geiger (Gustav Nieritz)",de,detector_cue,0.206
+Reg002477,Nat og Morgen (Night and Morning) (Edward Bulwer),en,detector_cue,0.28
+Reg000605,Das Novellenbuch (Eduard von Bülow),de,detector_cue,0.458
+Reg000744,Den nysgjerrige Kone (Madame Leprince de Beaumont),da,detector,0.941
+Reg002633,Otte nyere Forelæsninger (Erik Bøgh),da,detector,0.976
+Reg001220,Et overflødigt Menneskes Dagbog (I. Turgenjev),da,detector,0.867
+Reg002959,Sarons Rose (af »Tre Fortællinger«) (Sigurd Müller).,da,detector,0.881
+Reg000607,Das Schatzkästlein des Gevattersmanns (B. Auerbach),de,detector,0.872
+Reg000914,Die Serapionsbrüder (E. Th. A. Hoffmann),de,detector,0.992
+Reg000650,De sidste Herrer af Gervansborg (B. S. Ingemann),da,detector,0.734
+Reg003010,Sjöjungfruns sagor (W. Bäckman),sv,detector,0.997
+Reg003100,Stedmoder og Steddatter (Athalia Schwartz),da,detector,0.714
+Reg003124,Studie en uitspanning (J. J. D. Nepveu),nl,detector,0.698
+Reg003137,Svalerne og Blodiglerne (De muschjes en de bloedzuigers) (Johannes Kneppelhout),nl,detector_cue,0.474
+Reg000761,Den tavse Mand (af: Fortællinger og Skizzer) (Johanne Schjørring),da,detector,0.919
+Reg003281,To Fortællinger af I (Cornelia von Levetzow),da,detector,0.917
+Reg002135,Les Trois mousquetaires (A. Dumas père),fr,detector,0.886
+Reg003353,"Tømmerpladsen, 
+se: Erindringer fra min Onkels Huus.",da,detector,0.863
+Reg000932,Die unsichtbare Loge (Jean Paul),de,detector,0.724
+Reg003414,Ved Nytaarstid i Nøddebo Præstegaard (H. Scharling),da,detector,0.767
+Reg003230,The Vicar of Wakefield (Oliver Goldsmith),en,detector_cue,0.428
+Reg003455,Village Tales from the Black Forests (Berthold Auerbach)- Se ogsaa: Schwarzwälder Dorfgeschichten,de,detector,0.958
+Reg003471,Voyage autour de ma chambre (Xavier de Maistre),fr,detector,0.829
+Reg003478,Waldeinsamkeit (Carl Alexander af Sachsen-Weimar-Eisenach),de,detector,0.956
+Reg003484,Wallensteins erste Liebe (Karl Herloszsohn),de,detector,0.697
+Reg003515,Wundersame Liebesgeschichte der schönen Magelone und des Grafen Peter aus der Provence (L. Tieck),de,detector,0.88
+Reg000161,Af mit Livs Aarbøger (Just Mathias Thiele),da,detector,0.791
+Reg000195,"Allgemeines Theater-Lexikon, hrsg. von R. Blum, K. Herloszsohn und H. Markgraff",de,detector,0.887
+Reg000197,Almindelig Verdenshistorie i Udtog (H. A. Kofod),da,detector,0.829
+Reg000235,Anonymer og Pseudonymer i den danske Litteratur indtil 1860 (E. Collin),da,detector,0.694
+Reg000236,Ansichten der Natur (Alexander von Humboldt),de,detector,0.723
+Reg003200,The Ascent of Mont Blanc (Albert Smith),en,detector_cue,0.209
+Reg000296,"Badestederne i Schweiz og Frankrig, der kunne træde istedet for de tydske (O. L. Bang)",da,detector,0.91
+Reg000346,"Beskrifning öfver the i Öster-Götland befintlige städer, slott, soknekyrkor, soknar . . . (C. F. Broocman)",sv,detector,0.907
+Reg001023,Ein Besuch bei dem Dichter H. C. Andersen (Illustrirte Zeitung 14.12.1872) (P. F. Siebold),de,detector,0.92
+Reg000350,Bidrag til den danske Boghandels Historie (Camillus Nyrop),da,detector,0.72
+Reg000352,Bigarrures Iittéraires (J. Petit-Senn),fr,detector,0.999
+Reg000386,Bref och dagboksanteckningar (Adolf Törneros),sv,detector,0.954
+Reg000394,Breve fra og til Hans Christian Ørsted. Udgivne af Mathilde Ørsted,da,detector,0.659
+Reg000395,Briefe eines Verstorbenen (Fyrst Hermann Pückler-Muskau),de,detector,0.879
+Reg000396,Briefe gegen den Malerialismus (Fr. Fabri),de,detector,0.687
+Reg002114,Les Catholiques et les libertés (P. de Haulleville),fr,detector,0.899
+Reg000498,"Christiane Oehlenschlæger, født Heger (Historisk Archiv 1871 II) (Nicolaj Bøgh)",da,detector,0.795
+Reg000499,Christiern den anden i Sverige og Carl X Gustav i Danmark. Historiske Foredrag holdte i det skandinaviske Selskab (Fr. Hammerich),da,detector,0.853
+Reg003205,"The City of the Sultan, and Domestic Manners of the Turks (Julia Pardoe)",en,detector_cue,0.636
+Reg000540,Constantinopel und seine Umgebung,de,detector_cue,0.564
+Reg000541,Conversations-Lexikon. Allgemeine deutsche Real-Encyklopädie. 12. Ausg. 1874,de,detector,0.949
+Reg000546,Correspondance et mémoires d’un voyageur en Orient (Eugène Boré),fr,detector,0.946
+Reg000572,"Danmarks Frøer og Tudser, Iagttagelser og kritiske Bemærkninger (Naturhist. Tidsskr. 3. Rk. VI, 1869) (Jonas Collin d. Y.)",da,detector,0.993
+Reg000579,"Danske Boghandels Historie, 
+se: Bidrag til den danske Boghandels Historie",da,detector,0.723
+Reg000586,"Danske, især kjøbenhavnske Stemninger og Tilstande ved og efter Overgangen til det 19. Aarhundrede. Udg. ved F. Schiern (E. C. Werlauff)",da,detector,0.94
+Reg000633,"De danske Øer. Illustreret Reisehaandbog, udg. af Foreningen Fremtiden (P. V. Grove)",da,detector,0.797
+Reg000768,"Denkwürdigkeiten aus Griechenland (Fr. Müller, udg. af P. O. Brøndsted)",de,detector,0.999
+Reg000876,Die Donau vom Ursprunge bis zu den Mündungen (Adalbert Müller),de,detector,0.95
+Reg000985,Drei Reisen nach Italien (Karl von Rumohr),de,detector,0.65
+Reg000924,"Die dänische Poesie der Gegenwart (Die Grenzboten, 1844) (Eduard Boas)",de,detector,0.987
+Reg000925,Die eherne Schlange,de,detector_cue,0.599
+Reg001039,"Einige Pagte über Pferdezucht, in besonderer Beziehung auf Haupt- und Landgestüte (Hertug Christian August af Augustenborg)",de,detector,0.999
+Reg001165,"Englische Geschichte, vornehmlich im 17. Jahrhundert (Leopold von Ranke)",de,detector,0.998
+Reg001172,"Er den Fortolkning af Profeten Daniels Spaadomme (Cap. 2 og 7) for hvis Rigtighed Undertegnede formener her atter at have fremsat en Mængde af mere eller mindre stærke Grunde, virkelig den rette, da ere samme Spaadomme af høieste Vigtighed, dels fordi de da ei alene ere nogle af de stærkeste Beviser for den aabenbarede Religions Sandhed, og dels fordi de meddele en Underretning om alle vore europæiske Staters endelige fredelige og verdslige Forening til en stedseværende Universalstat (Hans Bjerregaard)",da,detector,1.0
+Reg001189,Esaias Tegnérs lefnad (C. W. Böttiger),sv,detector,0.741
+Reg001192,Essai sur l’histoire de la Litterature Néerlandaise (J. van’s Gravenweert),fr,detector,0.935
+Reg001249,Familjeanekdoter och minnen från barndommen (Edvard Fredrik von Saltza),sv,detector,0.674
+Reg001276,Femmes-poétes (Henri Blanvalet),fr,detector,0.926
+Reg001329,Forsøg til en almindelig Naturhistorie (Esaias Fleischer),da,detector,0.908
+Reg001025,Ein Freund und Mitarbeiter Wolfgang Amadeus Mozart’s. Denkwürdigkeiten des Lorenzo da Ponte von Ceneda,de,detector,0.996
+Reg001024,"Ein Freund Mozarts, 
+se: Ein Freund und Mitarbeiter W. A. Mozart's",de,detector,0.919
+Reg001395,Fru Gyllembourg og hendes Værker i Forhold til vor Tid (Benedicte Arnesen Kall),da,detector,0.799
+Reg001436,Gelehrtes München im Jahre 1834 (Adolf von Schaden),de,detector,0.939
+Reg001446,Geschichte des dänischen Hofes (Eduard Maria Oettinger),de,detector,0.987
+Reg003546,"[Grev E. F. von Saltzas Levned, Biographisk Lexicon XIII, 1847, S. 290-98].",la,detector,0.672
+Reg001470,"Goethe und Werther. Briefe Goethes (an Joh. Christian Kestner, Lotte und Hans Buff) meistens aus seiner Jugendzeit, mit erläuternden Dokumenten. Hrsg. v. Aug. Kestner (1854)",de,detector,1.0
+Reg001518,Haandbog i Fædrelandets Historie (C. F. Allen),da,detector,0.697
+Reg001527,Handbok för Resande i Sverige (Abraham Bohlin),sv,detector,0.772
+Reg001547,Heinrich Heine über Ludwig Börne (H. Heine),de,detector,0.776
+Reg001597,Histoire de Jane Gray (J. M. Dargaud),fr,detector_cue,0.496
+Reg001599,Histoire des Girondins (Alphonse de Lamartine),fr,detector,0.848
+Reg001598,Histoire de la littérature en Danemark et en Suède (Xavier Marinier),fr,detector,0.975
+Reg001606,Historiske Beskrivelser over den Mærkværdige og meget fyrgterlige store Ildebrand 1728 (C. F. Reiser),da,detector,0.962
+Reg001650,Hundert und ein Tag auf meinem Pferde und ein Ausflug nach der Insel Maddalene (Eipis Melena Ͻ: Marie Esperance Schwartz),de,detector,0.948
+Reg001759,"Italien (Aug. Lewald), 
+se: Prakt. Reisehandbuch nach und durch Italien",de,detector,0.918
+Reg003588,ltalienische Reise (J. W. von Goethe),de,detector,0.874
+Reg000642,De jeugd van beroemde mannen (Agatha Ͻ: Reinoudina de Goeje),nl,detector,0.979
+Reg001828,Journey to Angora (William AinsPagth),en,detector_cue,0.401
+Reg000729,"Den kongelige danske Skuepladses Historie, fra dens Overdragelse til Staten i 1849 indtil 1874. Første Deel (Th. Overskou)",da,detector,0.954
+Reg000597,Das Leben Jesu (Karl August Hase),de,detector_cue,0.395
+Reg000792,Der Lehrerberuf in seinen Antinomien (Carl Theodor Schumacher),de,detector,0.841
+Reg002140,Letters from the Shores of the Baltic (Elizabeth Rigby),en,detector_cue,0.52
+Reg002141,Lettres açoréennes (Henri Drouet),fr,detector,0.937
+Reg002151,Life of Columbus (Washington Irving),en,detector_cue,0.347
+Reg002193,"Ludwig Holberg, sein Leben und seine Schriften (Robert Prutz)",de,detector,0.799
+Reg002222,Lübische Geschichten und Sagen (Ernst Deecke),de,detector,0.882
+Reg002372,Memoir of Col. Chas. S. Todd (G. W. Griffin),en,detector_cue,0.297
+Reg002095,Le mie prigioni (Silvio Pellico),it,detector_cue,0.577
+Reg002409,Minnen från 1849 års danska Fälttåg under General Rye (Oscar von Knorring),sv,detector,1.0
+Reg002418,Mit Theaterliv II (1865). (A. Bournonville),de,detector_cue,0.278
+Reg002424,Moeurs et coutumes de l'Algérie (E. Daumas),fr,detector,0.96
+Reg001704,I monumenti dell' Egitto e della Nubia (Ippolito Rosellini),it,detector,0.711
+Reg002431,Morgenland und Abendland vom Verfasser der Cartons [Ͻ: K. von Hailbronner]),de,detector,0.892
+Reg002519,Nogle Bemærkninger med Hensyn til Digteren H. C. Andersens Poesie (C. Hauch),da,detector,0.936
+Reg002521,Nogle Træk af Livet i Kjøbenhavn for en Menneskealder siden (J. Plenge),da,detector,0.935
+Reg001588,Het Noorden en het Oosten (J. van's Gravenweert),nl,detector,0.724
+Reg002589,Odense og nærmeste Omegn i Billeder og med historisk beskrivende Text (J. Lauritzen),da,detector,0.865
+Reg002605,"Om Hesteavl og Væddeløb (Stephan Széchenyi, oversat af Edv. Collin)",da,detector,0.913
+Reg002610,One Year in Sweden (Horace Marryat),en,detector_cue,0.264
+Reg002619,"Optegnelser af danske, især kjøbenhavnske Tilstande (E. C. Werlauff), 
+Se: Danske, især Kjøbenhavnske Tilstande",da,detector,0.898
+Reg003550,"[Orglerne i Le Locle] (Jules F. W. Jürgensen). Ifølge Oplysninger af Fritz Jung, Le Locle, drejer det sig om en Pjece paa 32 Sider, oplæst 16.11.1859 ved Indvielsen af Orglet i den reformerte Kirke (Temple français) i Le Locle.",da,detector,1.0
+Reg001223,"Ett par blad ifrån Rhenstranden, eller Marienberg ocb Kaiserwerth (Fredrika Bremer)",sv,detector_cue,0.59
+Reg000606,Das Passions-Schauspiel im Dorfe Oberammergau in Oberbayern und seine Bedeutung für die neue Zeit (Ed. Devrient),de,detector,0.997
+Reg002702,Poeten der Jetztzeit in Briefen an eine Frau (Johannes Scherr),de,detector,0.98
+Reg002721,Portugal. Erinnerungen aus dem Jahre 1842 (Felix von Lichnowsky),de,detector,0.857
+Reg002723,Postscriptum til Skriftet »Udvalg af Breve fra Mænd og Qvinder« (P. Hjort),da,detector,0.68
+Reg002727,Prakt. Reisehandbuch nach und durch Italien (August Lewald),de,detector,0.929
+Reg002783,"Reise der österreichischen Fregatte Novara um die Erde in den Jahren 1857, 1858, 1859 unter den Befehlen des Commodore B. von Wüllentorf-Urbair (1867)",de,detector,0.992
+Reg002784,Reise durch Skandinavien (Skiz:ten aus dem Norden) (Th. Mügge),de,detector,0.772
+Reg002788,Reise in das Morgenland in den Jahren 1836 und 1837 (Gotthilf Heinrich von Schubert),de,detector,0.857
+Reg002789,"Reise in der Orient, 
+se: Reise in das Morgenland",de,detector_cue,0.607
+Reg000906,Die Reise um die Welt. Karlsruhe 1860-61,de,detector,0.829
+Reg000748,Den romantiske Skole i Tydskland (Hovedstrømninger II). (G. Brandes),da,detector,0.736
+Reg002972,"Schweitz (Fredrika Bremer), 
+se: Lifvet i gamla verlden I",sv,detector,0.724
+Reg000912,Die Schweiz nebst den angrenzenden Theilen (K. Baedeker),de,detector,0.952
+Reg003073,Spanierne i Danmark (Historiske Studier l) (Fr. Schiern),da,detector,0.663
+Reg003076,Spanske Tilstande i Fortid og Nutid (L. Lund),da,detector,0.713
+Reg003097,Statistisk-topographisk Beskrivelse af Kongeriget Danmark (J. P. Trap) 1. Udgave (1858-60),da,detector,0.741
+Reg003098,Statistisk-topographisk Beskrivelse af Kongeriget Danmark (J. P. Trap) 2. Udgave. 3. Deel (1872),da,detector,0.747
+Reg003126,Studies in Litetature (G. W. Griffin),en,detector_cue,0.168
+Reg003133,Supplement-Tafeln zu Joh. Hübners genealogischen Tabellen (Dronning Marie Sophie Frederikke),de,detector_cue,0.641
+Reg003134,Sur terre et sur mer (Henri Drouet),fr,detector_cue,0.22
+Reg003240,"Thorvaldsen, sa vie et son oeuvre (Eugéne Plon)- Engelsk Oversættelse : Thorvaldsen, his life and works, transl. by Mrs. C. Hoey",da,detector,0.686
+Reg003250,"Til Belysning af Holbergs og Heibergs Forbilleder (Det 19. Aarhundrede, 2det Hefte 1874) (Edvard Brandes)",da,detector,0.752
+Reg003268,Tilbageblik paa mit Liv og min Forfattervirksomhed fra 1811-37 (B. S. Ingemann),da,detector,0.911
+Reg002091,Le Tour de monde (1863),fr,detector_cue,0.312
+Reg003309,"Travels in North America, with Geological Observations (Charles Lyell)",en,detector,0.851
+Reg000857,Det tredie slesvigske Felttog (Fr. Hammerich),da,detector,0.845
+Reg003318,Trende Epistler til *** i Oversættelse fra 1745. Ved I. Levin (L. Holberg),da,detector,0.837
+Reg003330,Træk af Thorvaldsens Konstner- og Omgangsliv (C. F. Wilckens),da,detector,0.703
+Reg003364,Udvalg af Breve fra Mænd og Qvinder skrevne gjennem en lang Række År til P. Hjort og nu udgivne med biografiske og literærhistoriske Anmærkninger af Modtageren,da,detector,1.0
+Reg003412,Ved Henrik Hertz's Jordefærd i Frue Kirke d. 4. Marts 1870 (N. G. Blædel),da,detector,0.803
+Reg003449,"Versuch eines Beweises, dass die Wettrennen nothwendig sind (Hertug Christian August af Augustenborg)",de,detector,0.981
+Reg003472,Voyage aux régions équinoxiales du nouveau continent (Alexander von Humboldt),fr,detector,0.92
+Reg003473,Voyage en Danemark (J. M. Dargaud),fr,detector_cue,0.215
+Reg003474,Voyage en Orient (A. de Lamartine),fr,detector_cue,0.358
+Reg003487,"Wanderungen im Orient, während der Jahre 1843-44 (Karl Koch)",de,detector,0.946
+Reg003492,Weltgeschichte für Kinder und Kinderlehrer (K. F. Becker),de,detector,0.986
+Reg003506,Wilhelmshöhe og Chislehurst. En Dansks Erindringer om Napoleon III og hans Omgivelser (Nær og Fjern 1874) (Toujours fidèle Ͻ: L. Frost),da,detector,0.837
+Reg001032,Ein Winter in Spanien (F. W. Hackländer),de,detector_cue,0.355
+Reg001036,Eine Woche in Nürnberg. Ein Wegweiser für Fremde (Karl Mainberger),de,detector,0.94
+Reg003514,"Wundermappe der Donau. Nach Original-Zeichnungen, grossentheils von Thomas Ender, in Stahl gestochen",de,detector,0.993
+Reg000868,Die 2. Entdeckungs-Reise des Capitain John Ross nach den Gegenden des Nordpols und sein Aufenthalt daselbst während der Jahre 1829-33. Aus den Englischen von G. W. Becker und J. Sporschil,de,detector,1.0
+Reg000222,Amsterdam. Chr. E. van Eeghens Samling,nl,detector_cue,0.636
+Reg001293,Firenze. Aceademia delle helle arti - Galleria Pitti,it,detector,0.673
+Reg001294,Firenze. Aceademia delle helle arti - Galleria degli Uffizi.,it,detector,0.848
+Reg002279,Madrid. Exposición nacional de bellas artes 1862,es,detector,0.967
+Reg002280,Madrid. Exposición nacional de bellas artes 1862- Prado-Museet,es,detector,0.919
+Reg002452,München. Glyptoteket,de,detector,0.974
+Reg002454,München. Glyptoteket- Köngl. Bildergallerie (Alte Pinakothek),de,detector,1.0
+Reg002455,München. Glyptoteket- Neue Pinakothek,de,detector_cue,0.563
+Reg002832,Rom. Capitol-Museet- Palazzo Rospigliosi,it,detector,0.662
+Reg002833,Rom. Capitol-Museet- Palazzo Sciarra-Colonna,it,detector,0.657
+Reg000139,"Abel dræbt af Kain (Leonello Spada, M. borbonico, Napoli)",da,detector,0.66
+Reg001962,"L' Adorazione al Bambino (Francesco Francia, Bologna)",it,detector,0.951
+Reg002869,"S. Agnese opvækker Licinius (Tintoretto, Madonna dell'Orto, Venezia)",da,detector,0.933
+Reg000249,"Apollo in aria, suonando la cetra (Annibale Carracci, M. borbonico, Napoli)",it,detector_cue,0.434
+Reg001971,"La Belle jardinière (Rafael (Kopi), Fesch, Rom)",fr,detector_cue,0.269
+Reg000347,"Bespisningen i Ørkenen (Murillo, Caridad, Sevilla)",da,detector,0.663
+Reg000359,Billede fra Grønland. De Indfødte dandse Fangedandsen. (Carl Rasmussen),da,detector,0.859
+Reg000688,"Den blinde Belisar, der bærer sin saarede Ledsager (F.-P. Gérard, Leuchtenberg, München)",da,detector,0.712
+Reg000368,"Blomsterstykke med en Tulipan og en Valmue (Jan van Huysum, Fesch, Rom)",da,detector,0.739
+Reg000422,Bøflerne og Fiskeren (Léopold Robert),da,detector,0.807
+Reg000489,Christian II i Sønderborg Fængsel (Carl Bloch),da,detector,0.872
+Reg000490,"Christian IV (Karel van Mander III, Berlin), 
+se: Christian, udvalgt Prins af Danmark",da,detector,0.742
+Reg000497,"Christian, udvalgt Prins af Danmark (Karel van Mander III, Berlin)",da,detector,0.739
+Reg000514,"Christus siddende paa Regnbuen, omgivet af Engle (Correggio, Vatikanet, Rom)",da,detector,0.748
+Reg000522,"Christus, som bryder Brødet (F. L. Storch)",da,detector,0.677
+Reg000517,"Christus tornekronet, bespottes i Ypperstepræstens Forgaard (Teniers d. Y., Fesch, Rom)",da,detector,0.87
+Reg002012,"La defensa de Zaragoza (M. Navarro Cuñizares, Exposición nacional 1862, Madrid)",es,detector,0.74
+Reg002066,Le Départ des pêcheurs de l'Adriatique (Léopold Robert),fr,detector,0.972
+Reg000956,"Dogen Marino Grimani modtager Gaver af de persiske Gesandter (G. Caliari, Doge-Paladset, Venezia)",da,detector,0.802
+Reg001009,"Dyrestykke (Bondepige med fire Køer) (Paulus Potter, Vatikanet, Rom)",da,detector,0.774
+Reg001169,Episode af Træfningen ved Sankelmark (Niels Simonsen),da,detector,0.809
+Reg001248,"Familiestykke. Enken efter den spanske Gesandt i Venezia anbefaler sin Søn til Felipe II (P. Veronese, Leuchtenberg, München)",da,detector,0.671
+Reg001257,"Fattig Kone med to Børn, der modtager Almisse af en ung Mand (Schidone, Leuchtenberg, München)",da,detector,0.884
+Reg001289,"Finis gloriae mundi (Valdés Leal, Caridad, Sevilla)",la,detector,0.689
+Reg000637,De fire Menneskealdre (D. C. Blunck),da,detector,0.673
+Reg001304,"Flugten til Ægypten (Annibale Carracci, Doria-P., Rom)",da,detector,0.801
+Reg001307,"Flugten til Ægypten (L. Carracci, Manfrin, Venezia)",da,detector,0.801
+Reg001306,"Flugten til Ægypten (C. Maratti, Leuchtenberg, München)",da,detector,0.801
+Reg001305,"Flugten til Ægypten (C. Maratti, Belvedere, Wien)",da,detector,0.801
+Reg001308,Flugten til Ægypten (Moritz Retzsch),da,detector,0.801
+Reg001309,"Flugten til Ægypten (Tizians Skole?, Fesch, Rom)",da,detector,0.801
+Reg001984,"La Fornarina (Giulio Romano, Borghese, Rom)",it,detector_cue,0.289
+Reg001987,"La Fornarina (Rafael, Uffizi, Firenze)",it,detector_cue,0.289
+Reg001986,"La Fornarina (Rafael, Barberini, Rom)",it,detector_cue,0.289
+Reg000703,"Den fortabte Søn (Bonifacio Veronese, Borghese, Rom)",da,detector,0.701
+Reg000704,"Den fortabte Søns Hjemkomst (Guercino, Doria-P., Rom)",da,detector,0.758
+Reg001353,Fra et romersk Osteri (Carl Bloch)- Skizzen til Billedet foræret H. C. Andersen,da,detector,0.752
+Reg002887,"S. Francesco-Freske paa la Porziuncola (Fr. Overbeck, S. Maria degli Angeli ved Assisi)",it,detector_cue,0.386
+Reg001383,Fresker j Glyptotheket i München (P. Cornelius),de,detector_cue,0.361
+Reg001081,"En Genius (Annibale Carracci), 
+se: Apollo in aria",la,detector,0.758
+Reg001550,"Helene Fourment (Das Pelzchen) (Rubens, Belvedere, Wien)",de,detector,0.655
+Reg000715,"Den hellige Aands Sendelse (Die Ausgiessung des heiligen Geistes). (A. van Dyck, Berlin)",de,detector,0.946
+Reg001559,"Henri III af Frankrig møder Dogen Alvise Mocenigo ved Lidoen (A. Vicentino, Doge-Paladset, Venezia)",da,detector,0.843
+Reg002043,"Las hijas del Cid (Exposición nacional 1862, Madrid)",es,detector_cue,0.478
+Reg001089,"En Hyrde, der blæser paa Fløjte (Murillo, Manfrin, Venezia)",da,detector,0.979
+Reg001799,"Jesusbarnet, der sover omgivet af Passionssymboler: Nagler, Tornekrone, Svøber (Guido Reni, M. borbonico, Napoli)",da,detector,0.849
+Reg001815,"Johannes den Døbers Halshuggelse (Vallentin de Boullogne, Sciarra, Rom)",da,detector,0.845
+Reg001826,"Joseph, som i Søvne formanes af Engelen til at flygte (Raph. Mengs, Belvedere, Wien)",da,detector,0.698
+Reg001957,"Kunstnere en Alten i Fincks Kaffehus i München (Wilhelm Bendz, Kunstudstillingen 1833, Hamburg)",da,detector,0.722
+Reg001881,Katekisationen i en norsk Landsbykirke (A. Tidemand),da,detector,0.722
+Reg001958,"Kvæg paa Engen (P. Potter, Madama, Torino)",da,detector,0.866
+Reg002032,"Lampeskærm, dekoreret med Tegninger af Den lille Havfrue, Den uartige Dreng og Ole Lukøie (Elisabeth Jerichau-Baumann)",da,detector,0.955
+Reg002046,"Latona paa Flugten med sine Børn (Rubens, Alte P., München)",da,detector,0.682
+Reg001099,"En Ligfærd paa Sognefjorden i Norge (H. F. Gude, Göteborg)",da,detector,0.796
+Reg002155,"Lille Pige, som med Riset i Haanden lærer Hunden og Dukken at læse (Wilhelm von Kaulbach)",da,detector,0.765
+Reg002240,"Madonna del Cardellino (Rafael, Uffizi, Firenze)",it,detector_cue,0.599
+Reg002245,"Madonna del divino amore (Rafael, M. borbonico, Napoli)",it,detector_cue,0.551
+Reg002241,"Madonna del Granduca (Rafael, Pitti, Firenze)",it,detector_cue,0.435
+Reg002242,"Madonna del Rosario (Domenichino, Bologna)",it,detector_cue,0.503
+Reg002243,"Madonna del Sacco (Andrea del Sarto, Santissima Annunziata, Firenze)",it,detector_cue,0.572
+Reg002248,"Madonna della Tenda (Rafael, Madama, Torino)",it,detector_cue,0.616
+Reg002244,"Madonna del Vento (Rafael, Uffizi, Firenze)",it,detector_cue,0.546
+Reg002246,"Madonna della Pietà (Guido Reni), 
+se: Pietà",it,detector,0.783
+Reg002247,"Madonna della Seggiola (Rafael, Pitti, Firenze)",it,detector,0.915
+Reg002249,"Madonna di Foligno (Rafael, Vatikanet, Rom)",it,detector_cue,0.514
+Reg002250,"Madonna di Monteluce (Giulio Romano og Francesco Penni, Vatikanet, Rom)",it,detector_cue,0.475
+Reg002251,"Madonna di S. Sebastiano (Correggio, Dresden)",it,detector_cue,0.393
+Reg002256,Madonna med Barnet (D. C. Blunck),sv,detector_cue,0.256
+Reg002255,"Madonna med Barnet (Carlo Dolci, Borghese, Rom)",sv,detector_cue,0.256
+Reg002257,"Madonna med Barnet (Fr. Francia, Doria-P., Rom)",sv,detector_cue,0.256
+Reg002254,Madonna med Barnet (A. Küchler),sv,detector_cue,0.256
+Reg002262,"Madonna med Barnet (Michelangelo, Domkirken i Burgos)",sv,detector_cue,0.256
+Reg002259,"Madonna med Barnet (Giulio Romano, Uffizi, Firenze)",sv,detector_cue,0.256
+Reg002258,"Madonna med Barnet (Giulio Romano, Colonna, Rom)",sv,detector_cue,0.256
+Reg002264,"Madonna med Barnet (Murillo, Spada, Rom)",sv,detector_cue,0.256
+Reg002263,"Madonna med Barnet (Murillo, Dresden)",sv,detector_cue,0.256
+Reg002265,"Madonna med Barnet (Rafael, M. borbonico, Napoli)",sv,detector_cue,0.256
+Reg002272,"Madonna med Fisken (Rafael, Prado, Madrid)",sv,detector_cue,0.365
+Reg002292,"Mand med en Lygte (Adriaen van Ostade, Uffizi, Firenze)",da,detector,0.729
+Reg003089,"St. Michael og Djævelen (P. P. Caruana, Guvernør-Paladset, La Valletta)",da,detector,0.754
+Reg002901,"S. Michelina di Pesaro (Baroccio, Vatikanet, Rom)",it,detector_cue,0.237
+Reg002436,Moses' Himmelfart (Moses baaret død gennem Luften af Engle) (Joaquín Espalter y Rull),da,detector,0.74
+Reg001102,"En Muselmand (Rembrandt, Durazzo, Genova)",nl,detector_cue,0.284
+Reg002447,"Mysterierne (Bebudelsen - Kongernes Tilbedelse - Omskærelsen i Templet) (Rafael, Vatikanet, Rom)",da,detector,0.92
+Reg000898,Die Mährchenerzählerin (Ed. von Steinle),de,detector,1.0
+Reg002487,"Nedtagelsen af Korset (F. Baroccio, Domkirken, Perugia)",da,detector,0.658
+Reg002491,"Nedtagelsen af Korset (Perugino, Pitti, Firenze)",da,detector,0.658
+Reg002492,"Nedtagelsen af Korset (Rafael, Borghese, Rom)",da,detector,0.658
+Reg002493,"Nedtagelsen af Korset (Rafael, Manfrin, Venezia)",da,detector,0.658
+Reg002485,"Nedtagelsen af Korset (A. Tiarini, Bologna)",da,detector,0.658
+Reg002494,"Nedtagelsen af Korset (Tizian, Manfrin, Venezia)",da,detector,0.658
+Reg002488,"Nedtagelsen af Korset (G. Vasari, Doria-P., Rom)",da,detector,0.658
+Reg002490,"Nedtagelsen af Korset (P. Veronese, Doria-P., Rom)",da,detector,0.658
+Reg002486,"Nedtagelsen af Korset (Daniele da Volterra, Trinità dei Monti, Rom)",da,detector,0.658
+Reg002673,"Perdón Dos mio (M. Rodriguez de Guzman, Exposición nacional 1862, Madrid)",es,detector,0.854
+Reg002904,"S. Peter føres af Englen ud af Fængslet (Luca della Robbia, Uffizi, Firenze)",da,detector,0.763
+Reg002719,"Portræt af en Franciscaner (Rubens, Doria-P., Rom)",da,detector,0.659
+Reg002720,"Portræt af hans Fader (Albrecht Dürer, Uffizi, Firenze)",da,detector,0.876
+Reg002737,Prinserne Constantin og Georg af Grækenland (Elisabeth Jerichau-Baumann),da,detector,0.809
+Reg002768,Rafaels anden Jordefærd (Horace Verner),da,detector,0.764
+Reg002795,"Rembrandts Moder (Neeltgen Willemsdochter van Zuytbrouck) (Rembrandt, Belvedere, Wien)",nl,detector,0.895
+Reg002857,"Rubens' Skriftefader (Rubens), 
+se: Portræt af en Franciskaner",da,detector,0.83
+Reg002914,"S. Sebastian (Correggio, Dresden), 
+se: Madonna di S. Sebastiano",it,detector_cue,0.615
+Reg002987,"Sibylla Samia (Barbieri), 
+se: Sibylla Samia (Guercino).",la,detector,0.717
+Reg001114,"En Sjæl søger Tilflugt for Djævelen under sin Skytsengels Skjold og Vinger (Domenichino, M. borbonico, Napoli)",da,detector,0.987
+Reg003012,"Skabelsen og Syndefaldet, Dommedag og Helvede (Hieronymus Bosch, Berlin)",da,detector,0.894
+Reg003067,"Sophonisbe, hvem Massinissa rækker Giftbægeret (Cavaliere Calabrese, Rospigliosi, Rom)",da,detector,0.867
+Reg003086,Spurve ved en Lænkehunds Trug (Siegwald Dahl),da,detector,0.868
+Reg003172,"Søstorm ved Triest (J. H. Sander, Kunstforeningen, München)",da,detector,0.735
+Reg003174,"Søstykke (Anton Melbye), foræret af HCA til Moritz og Dorothea Melchiors Sølvbryllup 17.6.1871",da,detector,0.741
+Reg003175,"Søstykke, i Baggrunden Etna (Fr. Thöming)",da,detector,0.709
+Reg003191,"Tasso læser sit Digt for Leonora af Este (César Mussini, Accademia, Firenze)",da,detector,0.815
+Reg000652,De terugkomst van een Hollandischen vlootvoogd na een zegerijken zeetogt (H. van Hove),nl,detector,0.999
+Reg000763,Den trygge Kærlighed (D. C. Blunck),da,detector,0.884
+Reg000765,"Den ubesmittede Undfangelse (La lmmaculada Concepción) (Murillo, Academia, Sevilla)",es,detector_cue,0.283
+Reg003360,Udsigt fra Højene ved Olevano til den romerske Campagne (Fr. Petzholdt),da,detector,0.75
+Reg003361,"Udsigt mod Peterskirken, Rom (J. C. Reinhart, Kunstforeningen, München)",da,detector,0.772
+Reg003367,"Ugolino i Fængsel, hans Sønner og Nevøer (Sir Joshua Reynolds, Knole House)",da,detector,0.753
+Reg003390,"Urban VIII.s Modtagelse i Gesù-Kirken i Rom (Andrea Sacchi, Sciarra, Rom)",da,detector,0.709
+Reg001130,En Valplads Morgenen efter et Slag (J. V. Sonne),da,detector,0.667
+Reg003465,"Visión de San Francisco (Murillo, Academia, Sevilla)",es,detector,0.797
+Reg003507,Willem I Prins van Oranje door Balthazar Gerards verraderlijk getroffen (J.A. Kruseman),nl,detector,0.975
+Reg003690,"Æneas Silvius Piccolominis Historie (Rafael (Ͻ: Pinturicchio), Libreria Piccolomini, Domkirken, Siena)",la,detector,0.824
+Reg000185,"Alessandro Farnese, bekranset af Sejrens Gudinde (Ukendt Mester, 16. Aarh., Caserta)",da,detector,0.709
+Reg000203,Altertavlen i Slesvig Domkirke (Hans Brüggeman),da,detector,0.659
+Reg000218,"Amor, som hvæsser Pile (J. P. Molin)",da,detector,0.895
+Reg000248,"Apollo di Belvedere (Vatikanet, Rom)",it,detector_cue,0.41
+Reg000247,"Apollo Musagetes (München), 
+se: Apollo Citharoedus",la,detector,0.758
+Reg001770,"Jacob van Artevelde (Devigne-Quyo, Gent)",nl,detector_cue,0.331
+Reg000694,"Den døende Fægter (Den saarede Gladiator, Den saarede Galler). (M. borbonico, Napoli)",da,detector,0.935
+Reg000693,"Den døende Fægter (Capitol, Rom)",da,detector,0.991
+Reg001319,"Fontana della Barcaccia (Pietro Bernini, Rom)",it,detector,0.724
+Reg001317,"Fontana dei Fiumi (Lorenzo Bernini, Rom)",it,detector_cue,0.482
+Reg001462,"Gladiatorerne (Nævefægterne, Creugas og Damoxenes) (A. Canova, Vatikanet, Rom)",da,detector,0.884
+Reg001488,"Grevinde Christiane Frederikke Moltkes Sarkofag (Johs. Wiedewelt, Karise Kirke)",da,detector,0.907
+Reg000592,"Das Gänsemännchen (Pancraz Labenwolf, Nürnberg)",de,detector_cue,0.618
+Reg001669,"Hyrde med et saaret Lam (A. D. Chaudet, Leuchtenberg, München)",sv,detector_cue,0.338
+Reg001813,"Johannes Døberen, en Skriftklog og en Farisæer (F. Rustici, Baptisteriet, Firenze)",da,detector,0.907
+Reg002028,"Lady Frederica Stanhope's Epitafium (Sir Francis Chantrey, St. Botolph's Kirke, Chevening)",la,detector,0.657
+Reg002260,Madonna med Barnet (J. N. Byström),sv,detector_cue,0.256
+Reg002261,"Madonna med Barnet (Michelangelo, Cappelle Medicee, Firenze)",sv,detector_cue,0.256
+Reg002489,Nedtagelsen af Korset (K. G. Qvarnström),da,detector,0.658
+Reg002575,"Nøgen lille Pige med en Fugl (Luigi Pampaloni, Pitti, Firenze)",da,detector,0.845
+Reg002799,"Retfærdigheden (Thorvaldsen), 
+se: Nemesis",da,detector,0.987
+Reg003066,Sophie af Sachsen-Weimar-Eisenach (Emil Wolff),de,detector,0.697
+Reg003693,"Ærkehertuginde Maria Christina af Østrig’s Gravmæle (Canova, Augustinerkirken, Wien)",da,detector,0.773
+Reg003373,Un ballo in maschera (G. Verdi),it,detector_cue,0.277
+Reg001970,La Belle Hélène (J. Offenbach)- Se ogsaa: Den skjønne Helene,da,detector,0.666
+Reg000345,Berühre nicht die Königinn (X. Boisselot),de,detector,1.0
+Reg002055,Le Bouffe et le tailleur (P. Gaveaux),fr,detector,0.859
+Reg002057,Le Capitaine Henriot (F. A. Gevaert),fr,detector_cue,0.402
+Reg001683,I Capuletti e i Montecchi (V. Bellini),it,detector,0.685
+Reg001988,La Generentola (G. Rossini),it,detector_cue,0.481
+Reg000474,Chiara di Rosemberg (Luigi Ricci),it,detector_cue,0.199
+Reg000500,Christina di Svezia (Jacobo Foroni),it,detector_cue,0.384
+Reg000549,Così fan tutte (W. A. Mozart),it,detector,0.726
+Reg000553,Crispino e la comare (Luigi og Federico Ricci),it,detector_cue,0.227
+Reg001981,La Déesse et le berger (J. Duprato),fr,detector_cue,0.224
+Reg002116,Les Deux gentilshommes (J. Cadaux),fr,detector,0.782
+Reg001043,El dominó azul (Emilio Arrieta),es,detector_cue,0.311
+Reg000976,"Donna Caritea, regina di Spagna (S. Mercadante)",it,detector_cue,0.54
+Reg002013,La donna del lago (G. Rossini),it,detector_cue,0.366
+Reg001980,La Double échelle (A. Thomas),fr,detector_cue,0.456
+Reg001137,"En las arcas del Foro (15.11.1862, Sevilla)",es,detector_cue,0.317
+Reg002094,"Le ferriere di Maremma, 
+se: Pulcinella condannato",it,detector,0.958
+Reg000701,Den flyvende Hollænder (R. Wagner),da,detector,0.993
+Reg002015,"La foresta d’Irminsul (Bellini), 
+se: Norma",it,detector_cue,0.291
+Reg002068,"Le Forfait nocturne (18.1.1863, Tours)",fr,detector_cue,0.641
+Reg002016,La forza del destino (G. Verdi),it,detector_cue,0.433
+Reg001398,Frère et mari (A. L. Clapisson),fr,detector_cue,0.546
+Reg002017,La gazza ladra (G. Rossini)- Se ogsaa: Skaden,it,detector_cue,0.214
+Reg001752,Iphigenia i Aulis (C. W. Gluck),la,detector,0.667
+Reg001909,Klerkevænget (F. Hérold)- Se ogsaa: Le Pré aux clercs,da,detector,0.774
+Reg001960,König und Pächter (Joh. Chr. Lobe),de,detector,0.979
+Reg000928,Die letzten Tage Pompejis (F. A. Pabst),de,detector,0.783
+Reg002073,Le Mannequin de Bergame (F. J. Fétis),it,detector_cue,0.229
+Reg002075,Le Mari de circonstances (C. H. Plantade),fr,detector_cue,0.575
+Reg002076,"Le Mari et l'amant, 
+se: Le Mari de circonstances",fr,detector_cue,0.613
+Reg001720,Il matrimonio segreto (D. Cimarosa),it,detector,0.65
+Reg002124,Les Mousquetaires de la Reine (F. Halévy),fr,detector_cue,0.644
+Reg000601,Das Mädchen von Elizondo (Pépito) (J. Offenbach),de,detector_cue,0.306
+Reg000604,Das Nachtlager in Granada (Konradin Kreutzer),de,detector_cue,0.459
+Reg002128,Les Noces de Jeannette (V. Massé),fr,detector_cue,0.328
+Reg000798,Der Nordstern (C. Meyerbeer)- Se ogsaa: Nordstjernen,da,detector,0.66
+Reg002579,"O, che imbroglio! (N. Tauro)",it,detector_cue,0.642
+Reg002622,"Orlando furioso (G. Donizetti), 
+se: Il furioso all’isola di S. Domingo",it,detector_cue,0.524
+Reg001997,La Part du Diable (D. F. E. Auber),fr,detector_cue,0.301
+Reg002086,Le Pré aux clercs (F. Hérold)- Se ogsaa: Klerkevænget,da,detector,0.774
+Reg002085,Le Premier jour de bonheur (D. F. E. Auber),fr,detector,0.777
+Reg002087,Le Puits d'amour (M. W. Balfe),fr,detector_cue,0.474
+Reg002752,Pulcinella condannato alle ferriere di Maremma (D. Pagliani-Gagliardi),it,detector,0.972
+Reg002133,Les Rendez-vous bourgeois (Francois Hoffmann),fr,detector,0.754
+Reg002821,Roland à Roncevaux (A. Mermet),fr,detector,0.655
+Reg002024,La sentinella notturna (S. Agnello),it,detector,0.774
+Reg003013,Skaden (G. Rossini)- Se ogsaa: La gazza ladra,it,detector_cue,0.214
+Reg000751,Den skjønne Helene (J. Offenbach)- Se ogsaa: La Belle Hélène,da,detector,0.666
+Reg001030,Ein Sommernachtstraum (F. Mendelssohn-Bartholdy),de,detector,0.768
+Reg002025,La sonnambula (V. Bellini)- Se ogsaa: Søvngjængersken,da,detector,0.666
+Reg003117,"Stradella, 
+se: Alessandro Stradella",it,detector,0.859
+Reg003177,Søvngjængersken (V. Bellini)- Se ogsaa: La sonnambula,da,detector,0.666
+Reg002007,"La Tentation, Opéra-Ballet (F. Halévy og C. Gide)",fr,detector,0.775
+Reg000766,Den unge hidsige Kone (F. A. Boieldieu),da,detector,0.796
+Reg001725,Il ventaglio (P. Raimondi),it,detector_cue,0.627
+Reg002010,La Vie parisienne (J. Offenbach),fr,detector_cue,0.625
+Reg000172,Agnetes Vuggevise (Agnete og Havfruerne) (N. W. Gade),da,detector,0.72
+Reg000223,An den Sonnenschein (R. Schumann),de,detector,0.857
+Reg003596,»At kjøre Vatten og kjøre Veed« (norsk Folkevise),da,detector,0.652
+Reg000360,"Billeder til Den lille Havfrue, Eventyr af H. C. Andersen, componerede for Piano og Digteren med Høiagtelse tilegnede (op. 3) (Axel Grandjean)",da,detector,0.924
+Reg000428,Børnenes Juul (op. 36) (N. W. Gade),da,detector,0.783
+Reg000444,Cantate ved Frederik den Syvendes Bisættelse (op. 64b) (J. P. E. Hartmann),da,detector,0.815
+Reg000446,Cantate ved Indvielsen af Studenterforeningsbygningen (op. 64a) (J. P. E. Hartmann),da,detector,0.689
+Reg003601,»Danmark deiligst Vang og Vænge -« (Poul Rasmussen),da,detector,0.658
+Reg003604,»Dannevang ved grønne Bred -« (C. E. F. Weyse),da,detector,0.652
+Reg001058,"Elverskud, Ballade efter danske Folkesagn (op. 30) (N. W. Gade)",da,detector,0.782
+Reg003623,"»Erindrer De, det var i Kongens Have -« (T'en souviens-tu? disait un capitaine) (Doche)",fr,detector,0.698
+Reg003628,"»Freudvoll und leidvoll -« (Hvilken Komposition Fru Nissen-Saloman har sunget til Goethes Digt, kan ikke afgøres)",de,detector,0.672
+Reg003631,»God save the Queen« (H. Carey?),en,detector_cue,0.294
+Reg003641,»Hyrden græsser sine Faar -« (af: Festen paa KenilPagth) (C. E. F. Weyse),da,detector,0.856
+Reg001685,I Høilandene (Im Hochland) (op. 7) (N. W. Gade),da,detector,0.693
+Reg003644,»Ich muss nun einmal singen -« (Wilhelm Taubert),de,detector,0.788
+Reg003646,"»Jag vet ej, hvarför jag sjunger -« (Wilhelm Taubert)",sv,detector,0.939
+Reg000884,Die Jahreszeiten (Jos. Haydn),de,detector,0.973
+Reg001857,Jylland (»Jylland mellem tvende Have -«) (P. Heise),da,detector,0.808
+Reg001873,Kantate ved Hr. Moritz Melchiors og Fru Dorothea Melchiors Sølvbryllup den 17de Juni 1871 (J. A. Hägg),da,detector,0.651
+Reg003649,»Kennst Du das Land -« (J. F. Reichardt),de,detector_cue,0.317
+Reg001945,Krigen derovre (»Det var ved Paasketide -«) (N. P. Hillebrandt),da,detector,0.678
+Reg003652,"»La donna è mobile« (af: Rigoletto, G. Verdi)",it,detector_cue,0.307
+Reg003214,The Last Rose of Summer (irsk Folkevise),en,detector_cue,0.316
+Reg002148,Lieder ohne Pagte (F. Mendelssohn-Bartholdy),de,detector_cue,0.641
+Reg002449,Märzveilchen (op. 40 nr. 1) (Robert Schumann),de,detector,0.905
+Reg000901,Die Neckrose (N. W. Gade),de,detector_cue,0.284
+Reg002598,Olav Trygvason (»Brede Seil over Nordsjø gaar -«) (R. Nordraak),da,detector,0.894
+Reg002679,Phantasie über »Robert der Teufel« (Franz Liszt),de,detector_cue,0.47
+Reg003667,»Schleswig-Holstein meerumschlungen« (Carl Gottlieb Bellmann),de,detector,0.933
+Reg002985,"Sex Karakteerstykker, komponerede som Studier for Klaver, med indledende Smaavers af H. C. Andersen (op. 50) (J. P. E. Hartmann)",da,detector,0.738
+Reg003062,Sommerfuglen (= Nr. 2 af Sex Karakteerstykker op. 50) (J. P. E. Hartmann),da,detector,0.723
+Reg003123,Studenternes Sang ved Thorvaldsens Bisættelse (J. P. E. Hartmann),da,detector,0.651
+Reg003170,Sørgemarsch ved Thorvaldsens Bisættelse (J. P. E. Hartmann),da,detector,0.674
+Reg003312,Tre Klaverstykker (Mazurka - Largo - Mazurka) (G. Matthison-Hansen),da,detector,0.661
+Reg001723,Il trillo di diavolo (G. Tartini),it,detector,0.75
+Reg002099,Le vieux soldat (François Riga),fr,detector_cue,0.603
+Reg003680,»Vintern rasat ut bland våra fjällar -« (Otto Lindblad),sv,detector,0.762
+Reg003526,"Zigeunermärchen, af Goethes Götz von Berlichingen, f. Mezzosopran, Kor og Orkester (J. P. E. Hartmann)",de,detector,0.728
+Reg000326,Bellman eller Polskdansen paa Grönalund (A. Bournonville),sv,detector,0.708
+Reg000550,"Cracovienne (polsk Dans) (21.3.1846, Teatro grande, Trieste. - 13.6.1849. Kgl. Teater, Stockholm)",fr,detector_cue,0.229
+Reg001715,"Il Diavolo in Milano (9.6.1861, Teatro Vittorio Emanuele, Torino)",it,detector,0.906
+Reg002093,Le due regine (L. Morosini),it,detector_cue,0.244
+Reg001200,Et Eventyr i Billeder (A. Bournonville),da,detector,0.701
+Reg001718,Il flauto magico (Gaetano Gioia),it,detector_cue,0.397
+Reg001456,"Giuditta regina di Francia (21.9.1833, La Scala, Milano)",it,detector_cue,0.6
+Reg000624,"De Hinde in het Bosch, of Het Koningrijk der Toovergodin, Balletpantomime efter La Biche au Bois (A. P. Voitus van Hamme)",nl,detector,0.778
+Reg001618,Holberg. Tableau ved Det kgl. Teaters Aabningsforestilling 15.10.1874 (A. Bournonville),da,detector,0.795
+Reg001990,La Jolie fille de Gand (J. H. de Saint-Georges og Albert),fr,detector_cue,0.235
+Reg002166,Livjægerne paa Amager (A. Bournonville),da,detector,0.964
+Reg000839,Des Malers Traumbild (Jules Perrot),de,detector_cue,0.405
+Reg002074,Le Marché des innocents (M. Petipa og L. Petipa),fr,detector,0.775
+Reg000929,"Die nebelgehüllten Mädchen (24.11.1840, München)",de,detector,1.0
+Reg002512,Nina eller den Vanvittige af Kjærlighed (L. J. Milon),da,detector,0.752
+Reg001967,"L'orfana di Velberg (9.10.1833, Firenze)",it,detector_cue,0.2
+Reg002130,"Les Pas des déesses (29.7.1847, Her Majesty's Theatre, London)",fr,detector,0.707
+Reg000930,"Die schöne Arsene oder die neue Amazone (25.5.1834, München)",de,detector,0.735
+Reg002005,"La Sourde, 
+se: La Source",fr,detector_cue,0.269
+Reg002594,Oehlenschläger. Tableau ved Det kgl. Teaters Aabningsforestilling 15.10.1874 (A. Bournonville),da,detector,0.737

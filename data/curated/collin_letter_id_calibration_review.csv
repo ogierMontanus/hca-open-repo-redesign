@@ -1,0 +1,14 @@
+volume,letter_no,direction,person,pdf_page_start,printed_page_start,printed_page_end,dateline_iso,brevid,match_note,candidate_count
+1,110,Til,Henriette Collin,292,279,5,1839-08-27,,"ambiguous (2 candidates share this date, no unique person match)",2
+1,138,Til,E.Collin,360,349,350,1843-12-25,,"ambiguous (6 candidates share this date, no unique person match)",6
+2,141,Fra,"E. Collin, Jonna Drewsen og J. Collin sen",20,6,11,1844-07-05,,"ambiguous (3 candidates share this date, no unique person match)",3
+2,204,Fra,E.Collin,168,154,159,1847-08-14,,"ambiguous (3 candidates share this date, no unique person match)",3
+2,348,Fra,E. og Henriette Collin,408,393,397,1860-12-28,,"ambiguous (5 candidates share this date, no unique person match)",5
+3,366,Fra,E. Collin,38,28,34,1861-06-28,,"ambiguous (2 candidates share this date, no unique person match)",2
+3,564,Til,Henriette Collin,365,355,360,1866-12-25,,"ambiguous (2 candidates share this date, no unique person match)",2
+4,628,Fra,Henriette Collin,101,89,94,1869-09-21,,"ambiguous (4 candidates share this date, no unique person match)",4
+4,772,Fra,E. Collin,288,278,278,1874-02-08,,"ambiguous (2 candidates share this date, no unique person match)",2
+4,810,Til,Henriette Collin,338,323,340,1862-07-04,,"ambiguous (5 candidates share this date, no unique person match)",5
+4,585,Fra,E.Collin,37,27,30,1867-07-12,,"ambiguous (3 candidates share this date, no unique person match)",3
+4,588,Fra,Henriette Collin,41,30,32,1867-07-29,,"ambiguous (5 candidates share this date, no unique person match)",5
+4,589,Til,Henriette Og E. Collin,42,32,35,1867-07-29,,"ambiguous (5 candidates share this date, no unique person match)",5

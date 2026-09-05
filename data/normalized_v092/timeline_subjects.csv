@@ -1,0 +1,214 @@
+subject_id,subject_da,subject_en,group_da,group_en,source_id
+S0001,Adresser (København),Addresses (Copenhagen),,,1
+S0002,Arbejderforeningen,Workers' union,,,2
+S0003,Belysning,Lighting,,,3
+S0004,Biografiske fremstillinger,Biographic presentations,,,4
+S0005,Bordelbesøg,"Brothels, visits at",,,5
+S0006,Buster og statuer,Busts and statues,,,6
+S0007,Artikler,Articles,Danske værker,Danish Works,7
+S0008,"Collager, papirklip m.m.","Collages, paper cuttings etc.",Danske værker,Danish Works,8
+S0009,"Digte, enkelte","Poems, separate",Danske værker,Danish Works,9
+S0010,"Digte, samlinger","Poems, collections",Danske værker,Danish Works,10
+S0011,"Digte, sat i musik","Poems, expressed in music",Danske værker,Danish Works,11
+S0012,"Eventyr, enkeltudgaver","Fairy-tales, separate publications",Danske værker,Danish Works,12
+S0013,"Eventyr, samlinger","Fairy-tales, collections",Danske værker,Danish Works,13
+S0014,Eventyr (omtale),Fairy-tales (comments),Danske værker,Danish Works,14
+S0015,Memoirer,Memoirs,Danske værker,Danish Works,15
+S0016,Operaer,Operas,Danske værker,Danish Works,16
+S0017,Rejseskildringer,Travelogues,Danske værker,Danish Works,17
+S0018,Romaner,Novels,Danske værker,Danish Works,18
+S0019,Skuespil m.m.,"Plays, acting etc.",Danske værker,Danish Works,19
+S0020,Studenterrevy,Student revue,Danske værker,Danish Works,20
+S0021,Syngestykker,"Singspiels, ballad operas",Danske værker,Danish Works,21
+S0022,Vaudeviller,Vaudevilles,Danske værker,Danish Works,22
+S0023,Døden,Death,,,23
+S0024,Familieforhold,Family relationships,,,24
+S0025,Filantropi,Philanthropy,,,25
+S0026,Forelskelser,"Love affairs, being in love",,,26
+S0027,Forlæggere,Publishers,,,27
+S0028,Fotografi,Photography,,,28
+S0029,Fædreland,Fatherland,,,29
+S0030,Asmildkloster,Asmildkloster,Herregårde i Danmark,Danish manors,30
+S0031,Basnæs,Basnæs,Herregårde i Danmark,Danish manors,31
+S0032,Borreby,Borreby,Herregårde i Danmark,Danish manors,32
+S0033,Bramstrup,Bramstrup,Herregårde i Danmark,Danish manors,33
+S0034,Bregentved,Bregentved,Herregårde i Danmark,Danish manors,34
+S0035,Breitenburg,Breitenburg,Herregårde i Danmark,Danish manors,35
+S0036,Broholm,Broholm,Herregårde i Danmark,Danish manors,36
+S0037,Børglum Kloster,Børglum convent,Herregårde i Danmark,Danish manors,37
+S0038,Christiansdal,Christiansdal,Herregårde i Danmark,Danish manors,38
+S0039,Conradineslyst,Conradineslyst,Herregårde i Danmark,Danish manors,39
+S0040,Corselitze,Corselitze,Herregårde i Danmark,Danish manors,40
+S0041,Egeskov,Egeskov,Herregårde i Danmark,Danish manors,41
+S0042,Elvedgaard,Elvedgaard,Herregårde i Danmark,Danish manors,42
+S0043,Espe,Espe,Herregårde i Danmark,Danish manors,43
+S0044,Flenstofte,Flenstofte,Herregårde i Danmark,Danish manors,44
+S0045,Friisenborg,Friisenborg,Herregårde i Danmark,Danish manors,45
+S0046,Førslevgaard,Førslevgaard,Herregårde i Danmark,Danish manors,46
+S0047,Gisselfeldt,Gisselfeldt,Herregårde i Danmark,Danish manors,47
+S0048,Glorup,Glorup,Herregårde i Danmark,Danish manors,48
+S0049,Gunderslevholm,Gunderslevholm,Herregårde i Danmark,Danish manors,49
+S0050,Hald,Hald,Herregårde i Danmark,Danish manors,50
+S0051,Hesselagergård,Hesselagergård,Herregårde i Danmark,Danish manors,51
+S0052,Hindsgavl,Hindsgavl,Herregårde i Danmark,Danish manors,52
+S0053,Hofmansgave,Hofmansgave,Herregårde i Danmark,Danish manors,53
+S0054,Holckenhavn,Holckenhavn,Herregårde i Danmark,Danish manors,54
+S0055,Holstenhus,Holstenhus,Herregårde i Danmark,Danish manors,55
+S0056,Holsteinborg,Holsteinborg,Herregårde i Danmark,Danish manors,56
+S0057,Hvidkilde,Hvidkilde,Herregårde i Danmark,Danish manors,57
+S0058,Høvdingsgaard,Høvdingsgaard,Herregårde i Danmark,Danish manors,58
+S0059,Jungshoved,Jungshoved,Herregårde i Danmark,Danish manors,59
+S0060,Jomfruens Egede,Jomfruens Egede,Herregårde i Danmark,Danish manors,60
+S0061,Langesø,Langesø,Herregårde i Danmark,Danish manors,61
+S0062,Lerchenborg,Lerchenborg,Herregårde i Danmark,Danish manors,62
+S0063,Lindersvold,Lindersvold,Herregårde i Danmark,Danish manors,63
+S0064,Lundsgaard,Lundsgaard,Herregårde i Danmark,Danish manors,64
+S0065,Lykkeholm,Lykkeholm,Herregårde i Danmark,Danish manors,65
+S0066,Maegaard,Maegaard,Herregårde i Danmark,Danish manors,66
+S0067,Mullerup,Mullerup,Herregårde i Danmark,Danish manors,67
+S0068,Nakkebølle,Nakkebølle,Herregårde i Danmark,Danish manors,68
+S0069,Nysø,Nysø,Herregårde i Danmark,Danish manors,69
+S0070,Nørager,Nørager,Herregårde i Danmark,Danish manors,70
+S0071,Nørre Vosborg,Nørre Vosborg,Herregårde i Danmark,Danish manors,71
+S0072,Palstrup,Palstrup,Herregårde i Danmark,Danish manors,72
+S0073,Petersgaard,Petersgaard,Herregårde i Danmark,Danish manors,73
+S0074,Ravnholt,Ravnholt,Herregårde i Danmark,Danish manors,74
+S0075,Rygård,Rygård,Herregårde i Danmark,Danish manors,75
+S0076,Sanderumgaard,Sanderumgaard,Herregårde i Danmark,Danish manors,76
+S0077,Store Hestehave,Store Hestehave,Herregårde i Danmark,Danish manors,77
+S0078,Tirsbæk,Tirsbæk,Herregårde i Danmark,Danish manors,78
+S0079,Tjele,Tjele,Herregårde i Danmark,Danish manors,79
+S0080,Turebyholm,Turebyholm,Herregårde i Danmark,Danish manors,80
+S0081,Valdemars Slot,Valdemar Castle,Herregårde i Danmark,Danish manors,81
+S0082,Vilhelmsborg,Vilhelmsborg,Herregårde i Danmark,Danish manors,82
+S0083,Ørbæklunde,Ørbæklunde,Herregårde i Danmark,Danish manors,83
+S0084,Aagaard,Aagaard,Herregårde i Danmark,Danish manors,84
+S0085,Bjärke-säby,Bjärke-säby,Herregårde i udlandet,Foreign manors,85
+S0086,Börringe,Börringe,Herregårde i udlandet,Foreign manors,86
+S0087,Gersdorff,Gersdorff,Herregårde i udlandet,Foreign manors,87
+S0088,Heckeberga,Heckeberga,Herregårde i udlandet,Foreign manors,88
+S0089,Hyby,Hyby,Herregårde i udlandet,Foreign manors,89
+S0090,Maxen,Maxen,Herregårde i udlandet,Foreign manors,90
+S0091,Skabersjö,Skabersjö,Herregårde i udlandet,Foreign manors,91
+S0092,Torup,Torup,Herregårde i udlandet,Foreign manors,92
+S0093,Illustratorer,Illustrators,,,93
+S0094,"Industri, teknik, opfindelser","Industry, technique, inventions",,,94
+S0095,Jul,Christmas,,,95
+S0096,Kritik og vurderinger m.m. (af særlig betydning for biografi og forfatterskab),Criticism and evaluations (of special importance for the biography and the authorship),,,96
+S0097,Læsning (afspejlet i diskussioner og biografi),Reading (reflected in discussions and the biography),,,97
+S0098,"Moderen, forhold til","Mother, relation to",,,98
+S0099,Musik og ballet med udgangspunkt i HCA,Music and ballet based on HCA,,,99
+S0100,Oplagsstørrelser,Numbers printed,,,100
+S0101,"Oplæsninger, offentlige",Public readings,,,101
+S0102,Overnaturlige fænomener,Supernatural phenomenons,,,102
+S0103,Oversættere,Translators,,,103
+S0104,Amerika,America,Oversættelser,Translations,104
+S0105,England,England,Oversættelser,Translations,105
+S0106,Frankrig,France,Oversættelser,Translations,106
+S0107,Grækenland,Greece,Oversættelser,Translations,107
+S0108,Holland,Netherlands,Oversættelser,Translations,108
+S0109,Italien,Italy,Oversættelser,Translations,109
+S0110,Polen,Poland,Oversættelser,Translations,110
+S0111,Portugal,Portugal,Oversættelser,Translations,111
+S0112,Rusland,Russia,Oversættelser,Translations,112
+S0113,Schweiz,Switzerland,Oversættelser,Translations,113
+S0114,Spanien og Sydamerika,Spain and South America,Oversættelser,Translations,114
+S0115,Sverige,Sweden,Oversættelser,Translations,115
+S0116,Tyskland,Germany,Oversættelser,Translations,116
+S0117,Bøhmisk,Bohemian,"Oversættelser til sprog, der (på HCAs tid) ikke dækker selvstændige nationer",Translations into languages which were in Andersen&#39;s time not spoken in independent nations,117
+S0118,Finsk,Finnish,"Oversættelser til sprog, der (på HCAs tid) ikke dækker selvstændige nationer",Translations into languages which were in Andersen&#39;s time not spoken in independent nations,118
+S0119,Grønlandsk,Greenlandic,"Oversættelser til sprog, der (på HCAs tid) ikke dækker selvstændige nationer",Translations into languages which were in Andersen&#39;s time not spoken in independent nations,119
+S0120,Islandsk,Icelandic,"Oversættelser til sprog, der (på HCAs tid) ikke dækker selvstændige nationer",Translations into languages which were in Andersen&#39;s time not spoken in independent nations,120
+S0121,Plattysk,Low German,"Oversættelser til sprog, der (på HCAs tid) ikke dækker selvstændige nationer",Translations into languages which were in Andersen&#39;s time not spoken in independent nations,121
+S0122,Sanskrit,Sanskrit,"Oversættelser til sprog, der (på HCAs tid) ikke dækker selvstændige nationer",Translations into languages which were in Andersen&#39;s time not spoken in independent nations,122
+S0123,Tjekkisk,Czech,"Oversættelser til sprog, der (på HCAs tid) ikke dækker selvstændige nationer",Translations into languages which were in Andersen&#39;s time not spoken in independent nations,123
+S0124,Ungarsk,Hungarian,"Oversættelser til sprog, der (på HCAs tid) ikke dækker selvstændige nationer",Translations into languages which were in Andersen&#39;s time not spoken in independent nations,124
+S0125,Poetik,Poetics,,,125
+S0126,Politik,Politics,,,126
+S0127,Portrætter,Portrays,,,127
+S0128,Psykologiske karakteristika,Psychological characteristics,,,128
+S0129,Rejseledsagere,Travel companions,,,129
+S0130,Belgien,Belgium,"Rejser, udland",Journeys abroad,130
+S0131,Bulgarien,Bulgaria,"Rejser, udland",Journeys abroad,131
+S0132,England,England,"Rejser, udland",Journeys abroad,132
+S0133,Frankrig,France,"Rejser, udland",Journeys abroad,133
+S0134,Grækenland,Greece,"Rejser, udland",Journeys abroad,134
+S0135,Holland,Netherlands,"Rejser, udland",Journeys abroad,135
+S0136,Italien,Italy,"Rejser, udland",Journeys abroad,136
+S0137,Malta,Malta,"Rejser, udland",Journeys abroad,137
+S0138,Marokko,Morocco,"Rejser, udland",Journeys abroad,138
+S0139,Monaco,Monaco,"Rejser, udland",Journeys abroad,139
+S0140,Norge,Norway,"Rejser, udland",Journeys abroad,140
+S0141,Portugal,Portugal,"Rejser, udland",Journeys abroad,141
+S0142,Rumænien,Rumania,"Rejser, udland",Journeys abroad,142
+S0143,Schweiz,Switzerland,"Rejser, udland",Journeys abroad,143
+S0144,Skotland,Scotland,"Rejser, udland",Journeys abroad,144
+S0145,Slovakiet,Slovakia,"Rejser, udland",Journeys abroad,145
+S0146,Spanien,Spain,"Rejser, udland",Journeys abroad,146
+S0147,Sverige,Sweden,"Rejser, udland",Journeys abroad,147
+S0148,Tjekkiet,Bohemia and Moravia,"Rejser, udland",Journeys abroad,148
+S0149,Tyrkiet,Turkey,"Rejser, udland",Journeys abroad,149
+S0150,Tyskland,Germany,"Rejser, udland",Journeys abroad,150
+S0151,Ungarn,Hungaria,"Rejser, udland",Journeys abroad,151
+S0152,Østrig,Austria,"Rejser, udland",Journeys abroad,152
+S0153,Fyn,Funen,"Rejser, indland",Journeys in Denmark,153
+S0154,Jylland,Jutland,"Rejser, indland",Journeys in Denmark,154
+S0155,Sjælland (og Lolland-Falster),Sealand (and Lolland-Falster),"Rejser, indland",Journeys in Denmark,155
+S0156,Religiøse spørgsmål,Religious issues,,,156
+S0157,Rygning,Smoking,,,157
+S0158,Seksualitet,Sexuality,,,158
+S0159,Skolegang,School attendance,,,159
+S0160,Amalienborg,Amalienborg,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),160
+S0161,Augustenborg,Augustenborg,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),161
+S0162,Belvedere,Belvedere,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),162
+S0163,Bernstorff,Bernstorff,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),163
+S0164,Buckingham Palace,Buckingham Palace,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),164
+S0165,Burg,Burg,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),165
+S0166,Christiansborg,Christiansborg,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),166
+S0167,Drottningholm,Drottningholm,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),167
+S0168,Ettersburg,Ettersburg,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),168
+S0169,Fredensborg,Fredensborg,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),169
+S0170,Frederiksborg,Frederiksborg,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),170
+S0171,Gråsten,Gråsten,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),171
+S0172,Hohenschwangau,Hohenschwangau,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),172
+S0173,Homburg,Homburg,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),173
+S0174,Koldinghus,Koldinghus,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),174
+S0175,Odense Slot,Odense Castle,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),175
+S0176,Sorgenfri,Sorgenfri,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),176
+S0177,Starnberg,Starnberg,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),177
+S0178,Ulriksdal,Ulriksdal,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),178
+S0179,Vallø,Vallø,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),179
+S0180,Vemmetofte,Vemmetofte,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),180
+S0181,Wilhelmsthal,Wilhelmsthal,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),181
+S0182,Wittelsbach,Wittelsbach,Slotte (kongers og fyrsters o.l.),Castles (kings and princes),182
+S0183,Soldatertjeneste,Military service,,,183
+S0185,Sprog (det danske),Language (Danish),,,185
+S0186,Svømning,Swimming,,,186
+S0187,Sygdom,"Illness, disease",,,187
+S0188,Testamente,Testament will,,,188
+S0189,"Hest, muldyr","Horse, mule",Transportmidler,Transport,189
+S0190,Hestetrukkent køretøj,Horsedriven carriage,Transportmidler,Transport,190
+S0191,Jernbane,Railroad,Transportmidler,Transport,191
+S0192,Skib,Ship,Transportmidler,Transport,192
+S0193,Vandring,"Walking, wandering",Transportmidler,Transport,193
+S0194,Tyrefægtning,Bullfight,,,194
+S0195,Tænder,Teeth,,,195
+S0196,Udbredelse af værker/kendskab til,Distribution of works/acquaintance with HCA,,,196
+S0197,Universitetsstudier,University studies,,,197
+S0198,Venskaber,Friendships,,,198
+S0199,Videnskab,Science,,,199
+S0200,"Vin, øl m.m.","Wine, beer etc.",,,200
+S0201,Arv,Inheritance,Økonomi,Economy,201
+S0202,Formue,Fortune,Økonomi,Economy,202
+S0203,Honorarer,Honorarium,Økonomi,Economy,203
+S0205,Leveomkostninger,Cost of living,Økonomi,Economy,205
+S0206,Lotterigevinst,Lottery prize,Økonomi,Economy,206
+S0207,Lån og gaver til Edvard Collin o.a,Loans and presents for Edvard Collin and others,Økonomi,Economy,207
+S0208,Rejseudgifter,Travelling expenses,Økonomi,Economy,208
+S0209,Skat,Taxes,Økonomi,Economy,209
+S0210,Understøttelser,Financial support,Økonomi,Economy,210
+S0211,Årsindtægt,Annual income,Økonomi,Economy,211
+S0212,Æresbevisninger privat,"Honours, private",,,212
+S0213,"Æresbevisninger, officielle","Honours, official",,,213
+S0184,"Sprog (andre, opfattelse af)","Languages (other l., views of)",,,184
+S0204,"Logi, betaling for",Hostel payment,Økonomi,Economy,204

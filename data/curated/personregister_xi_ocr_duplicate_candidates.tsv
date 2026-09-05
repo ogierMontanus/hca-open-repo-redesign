@@ -1,0 +1,37 @@
+id_a	surname_a	given_a	id_b	surname_b	given_b	shared_refs	ocr_family	note
+PerXI00109	Buil	Ole	PerXI02226	Bull	Ole	II:253;II:377;III:139;III:140;III:146;IV:14;IV:15;IV:4;IV:470;VII:10;VII:11;VII:12;VII:13;VII:14;VII:17;VII:18;VII:7;VII:8	C→G/li family: Buil/Bull	Ole Bull, norsk violinvirtuos
+PerXI00118	Burdett-Goutts	Angela	PerXI02245	Burdett-Coutts	Angela	III:265;IV:242;IV:243;IV:246;IV:247;IV:251;X:315	C↔G: Goutts/Coutts	Angela Burdett-Coutts, engelsk filantrop
+PerXI00117	Buli	Søren Christian Ørsted	PerXI02228	Bull	Søren Christian Ørsted	IX:121;IX:122;IX:124;IX:125;IX:128;IX:134	li→ll: Buli/Bull	Søren Chr. Ø. Bull -- del af Bull-familien
+PerXI00145	Clausen-Schiitz	Christian Ludwig	PerXI02565	Clausen-Schütz	Christian Ludwig	III:147;III:149;III:150;III:240;III:242;III:245	ü→ii: Schiitz/Schütz	Christian Ludwig Clausen-Schütz
+PerXI00200	Droscher		PerXI03071	Dröscher	Menig, 9. Infanteri-Regiment, 8. Kompagni, Nr. 405	VI:74;VI:75;VI:76;VI:77;VI:78;VI:79	manglende ü: Droscher/Dröscher	segmenteringsfejl ovenpå: se rapport
+PerXI00368	Holsten-Lehn-Gharisius	Frederik (Fritz), Baron	PerXI04752	Holsten-Lehn-Charisius	Frederik (Fritz), Baron	III:406;IV:18;IX:12;IX:23;IX:24;VII:396	C↔G: Gharisius/Charisius	Frederik Holsten-Lehn-Charisius
+PerXI00015	Amesen Kali	Benedicte	PerXI01188	Arnesen Kali	Benedicte	VIII:447;VIII:449;X:390;X:433;X:434	rn→m + ll→li: Amesen/Arnesen Kali/Kall	Benedicte Arnesen Kall
+PerXI00360	Hohwii	Andreas	PerXI04645	Hohwü	Andreas	VII:34;VII:35;VII:44;VIII:61	ü→ii: Hohwii/Hohwü	Andreas Hohwü
+PerXI00425	Kali	Peter Julius	PerXI05207	Kall	Peter Julius	IV:344;IV:353;IV:355;IV:356	ll→li: Kali/Kall	Peter Julius Kall
+PerXI00625	Piessy	Jeanne	PerXI07358	Plessy	Jeanne	II:348;II:349;II:362	tabt l: Piessy/Plessy	Jeanne Plessy, fransk skuespillerinde
+PerXI00081	Braminer		PerXI01971	Brammer		IV:26;IV:27	rn-lign.: Braminer/Brammer	identisk beskrivelse
+PerXI00115	Buli	Johanne (Hanne)	PerXI02225	Bull	Johanne (Hanne)	IX:125;IX:134	ll→li: Buli/Bull	del af Bull-familien
+PerXI00116	Buli	Sofie	PerXI02227	Bull	Sofie	IX:125;IX:134	ll→li: Buli/Bull	del af Bull-familien
+PerXI00232	Femanda		PerXI03375	Fernanda		VIII:69;VIII:70	rn→m: Femanda/Fernanda	identisk beskrivelse
+PerXI00268	Gederfeld de Simonsen	Carl	PerXI02465	Cederfeld de Simonsen	Carl	II:258;II:259	C↔G: Gederfeld/Cederfeld	Carl Cederfeld de Simonsen
+PerXI00268	Gederfeld de Simonsen	Carl	PerXI02466	Cederfeld de Simonsen	Charlotte, f. Koefoed	II:258;II:259	C↔G: Gederfeld/Cederfeld	muligvis to forskellige familiemedlemmer -- tjek
+PerXI00282	Golloredo-Mansfeld	Hieronymus, Greve	PerXI02629	Colloredo-Mansfeld	Hieronymus, Greve	I:496;I:497	C↔G: Golloredo/Colloredo	Hieronymus Colloredo-Mansfeld
+PerXI00285	Govi	Doris, f. Risler	PerXI03879	Govl	Doris, f. Risler	V:388;VI:256	l/i: Govi/Govl	Doris Govi/Govl, f. Risler
+PerXI00286	Govi	Povline	PerXI03880	Govl	Povline	V:388;VI:256	l/i: Govi/Govl	Povline Govi/Govl
+PerXI00494	Lützau	Augusta	PerXI06059	Liitzau	Augusta	IX:76;IX:77	ü→ii: Lützau/Liitzau	Augusta -- del af Lützau-familien
+PerXI00495	Lützau	Frederik Georg	PerXI06060	Liitzau	Frederik Georg	IX:76;IX:77	ü→ii: Lützau/Liitzau	Frederik Georg -- del af Lützau-familien
+PerXI00496	Lützau	Hugo	PerXI06061	Liitzau	Hugo	IX:76;IX:77	ü→ii: Lützau/Liitzau	Hugo -- del af Lützau-familien
+PerXI00497	Lützau	Juliane, f. Borberg	PerXI06062	Liitzau	Juliane, f. Borberg	IX:76;IX:77	ü→ii: Lützau/Liitzau	Juliane -- del af Lützau-familien
+PerXI00711	Sayn-Wittgens tein-Berleburg	Pulcheria, Prinsesse af –, f. Prinsesse Cantacazenos	PerXI08185	Sayn-Wittgenstein-Berleburg	Pulcheria, Prinsesse af -, f. Prinsesse Cantacazenos	IV:230;IV:231	midtord-mellemrum: Wittgens tein	Pulcheria Sayn-Wittgenstein-Berleburg
+PerXI00807	Toli	Johan Christoffer von	PerXI09274	Toll	Johan Christoffer von	II:10;II:9	ll→li: Toli/Toll	Johan Christoffer von Toll
+PerXI00058	Bétzaris	Marko	PerXI01920	Botzaris	Marko	II:168	accent/ciffer: Bétzaris/B6tzaris→Botzaris	Marko Botzaris, græsk frihedskæmper
+PerXI00151	Codes	Publius Horatius	PerXI02576	Cocles	Publius Horatius	I:219	cl→d: Codes/Cocles	Publius Horatius Cocles
+PerXI00414	Josika	Mikols, Baron	PerXI05109	Jósika	Mikols, Baron	II:241	tabt accent: Josika/Jósika	Miklós Jósika -- NB: 05109 allerede rettet fra J6sika
+PerXI00249	Freiing		PerXI03535	Freling	Apoteker, Hildesheim	I:141	r/l: Freiing/Freling	Apoteker i Hildesheim
+PerXI00262	Gastillien	Pedro I, den Grusomme, Konge af –	PerXI02442	Castillien	Pedro I, den Grusomme, Konge af —	V:300	C↔G: Gastillien/Castillien	Pedro I af Castillien
+PerXI00265	Gaus	Salomon de	PerXI02453	Caus	Salomon de	IV:150	C↔G: Gaus/Caus	Salomon de Caus
+PerXI00279	Glevermann		PerXI02573	Clevermann		VIII:332	C↔G: Glevermann/Clevermann	
+PerXI00381	Hübsch von Grossthai	Alphonse, Baron	PerXI04891	Hübsch von Grossthal	Alphonse, Baron	II:199	l/i: Grossthai/Grossthal	Alphonse Hübsch von Grossthal
+PerXI00456	Kuliman		PerXI05541	Kullman		III:302	ll→li: Kuliman/Kullman	
+PerXI00511	Machado de Gastro	Joaquim	PerXI06135	Machado de Castro	Joaquim	VII:117	C↔G: Gastro/Castro	Joaquim Machado de Castro
+PerXI00679	Röscher	Paul (f. ca. 1832)	PerXI08036	Roscher	Fanny, f. Prutz	II:418	manglende ø/ö: Röscher/Roscher	Paul Roscher

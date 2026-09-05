@@ -1,0 +1,92 @@
+key,label_da,category,forms,notes
+dansk,Dansk,national,dansk;danske,
+tysk,Tysk,national,tysk;tyske,"Pre-1871 the corpus mostly names the specific German state (preussisk, sachsisk…) instead — see german_state rows."
+fransk,Fransk,national,fransk;franske,
+svensk,Svensk,national,svensk;svenske,
+engelsk,Engelsk,national,engelsk;engelske,British Isles — see also britisk.
+britisk,Britisk,national,britisk;britiske,Less common synonym of engelsk in the corpus; usually interchangeable.
+skotsk,Skotsk,national,skotsk;skotske,
+irsk,Irsk,national,irsk;irske,
+italiensk,Italiensk,national,italiensk;italienske,"Pre-1861 (unification) the corpus often prefers a regional/historical form instead — neapolitansk, romersk, genovesisk/genuesisk, sardinsk."
+spansk,Spansk,national,spansk;spanske,
+katalansk,Katalansk,regional_foreign,katalansk;katalanske,Regional identity within Spain, not a nation-state demonym.
+portugisisk,Portugisisk,national,portugisisk;portugisiske,
+hollandsk,Hollandsk,national,hollandsk;hollandske,Dutch — see also nederlandsk (synonym, attested in the corpus).
+nederlandsk,Nederlandsk,national,nederlandsk;nederlandske,Synonym of hollandsk; both spellings occur in the corpus.
+belgisk,Belgisk,national,belgisk;belgiske,
+flamsk,Flamsk,regional_foreign,flamsk;flamske,Flemish — ethnolinguistic minority within Belgium.
+schweizisk,Schweizisk,national,schweizisk;schweiziske,
+østrigsk,Østrigsk,national,østrigsk;østrigske;østerrigsk;østerrigske,
+ungarsk,Ungarsk,national,ungarsk;ungarske,
+polsk,Polsk,national,polsk;polske,
+russisk,Russisk,national,russisk;russiske,
+finsk,Finsk,national,finsk;finske,
+finlandssvensk,Finlandssvensk,minority,finlandssvensk;finlandssvenske,Swedish-speaking minority of Finland — a distinct identity from both svensk and finsk.
+norsk,Norsk,national,norsk;norske,
+islandsk,Islandsk,national,islandsk;islandske,
+græsk,Græsk,national,græsk;græske,Modern Greek; see attisk/atheniensisk for the Classical-era forms the corpus uses for antiquity entries.
+nygræsk,Nygræsk,national,nygræsk;nygræske,Explicit "Modern Greek" contrast form (rare in the corpus).
+tyrkisk,Tyrkisk,national,tyrkisk;tyrkiske,Ottoman-era usage; the corpus predates the Turkish Republic (1923).
+serbisk,Serbisk,national,serbisk;serbiske,
+rumænsk,Rumænsk,national,rumænsk;rumænske,Not attested in the corpus sample checked; included for completeness (see valakisk for the historical-region form that IS attested).
+bulgarsk,Bulgarsk,national,bulgarsk;bulgarske,Not attested in the corpus sample checked; included for completeness.
+kroatisk,Kroatisk,national,kroatisk;kroatiske,Not attested in the corpus sample checked; included for completeness.
+argentinsk,Argentinsk,national,argentinsk;argentinske,
+amerikansk,Amerikansk,national,amerikansk;amerikanske,USA usage throughout the corpus period.
+kinesisk,Kinesisk,national,kinesisk;kinesiske,
+japansk,Japansk,national,japansk;japanske,
+indisk,Indisk,national,indisk;indiske,
+ægyptisk,Ægyptisk,national,ægyptisk;ægyptiske,Both modern-Egypt and Ancient-Egypt usage occur; not split into a separate historical form since the corpus doesn't distinguish orthographically.
+persisk,Persisk,national,persisk;persiske,
+armenisk,Armenisk,national,armenisk;armeniske,
+algiersk,Algiersk,national,algiersk;algierske,
+maltesisk,Maltesisk,national,maltesisk;maltesiske,
+frisisk,Frisisk,ethnolinguistic,frisisk;frisiske,North Sea Germanic ethnic/linguistic group spanning the Danish-German-Dutch coast.
+preussisk,Preussisk,german_state,preussisk;preussiske;prøjsisk;prøjsiske;preusisk;preusiske,"Pre-1871 German state; the by-far most frequent german_state form in the corpus (74 hits). ""Preusisk"" (single s) is a spelling variant attested once in the corpus."
+sachsisk,Sachsisk,german_state,sachsisk;sachsiske;saksisk;saksiske,Saxony. Corpus consistently spells it "sachsisk" (German-influenced spelling), not the modern Danish "saksisk".
+bayersk,Bayersk,german_state,bayersk;bayerske;bayrisk;bayriske,Bavaria — both spellings attested.
+hannoveransk,Hannoveransk,german_state,hannoveransk;hannoveranske,Hanover.
+oldenburgsk,Oldenburgsk,german_state,oldenburgsk;oldenburgske;oldenborgsk;oldenborgske,Oldenburg — both spellings attested; relevant to the Danish royal house's Oldenburg origin.
+mecklenburgsk,Mecklenburgsk,german_state,mecklenburgsk;mecklenburgske,
+westfalsk,Westfalsk,german_state,westfalsk;westfalske,Westphalia.
+württembergsk,Württembergsk,german_state,württembergsk;württembergske,"Corpus attests only a mangled fragment (""rttembergsk"" — a tokenizer artifact from the ü, see docs); canonical spelling supplied here."
+hessisk,Hessisk,german_state,hessisk;hessiske,Not attested in the corpus sample checked; included for completeness.
+thüringsk,Thüringsk,german_state,thüringsk;thüringske,Thuringia.
+badisk,Badisk,german_state,badisk;badiske,Baden. Not attested in the corpus sample checked; included for completeness.
+frankisk,Frankisk,historical_polity,frankisk;frankiske,Frankish (early medieval).
+slesvigsk,Slesvigsk,border_region,slesvigsk;slesvigske,
+nordslesvigsk,Nordslesvigsk,border_region,nordslesvigsk;nordslesvigske,North Schleswig — Danish-majority part of the duchy.
+sønderjydsk,Sønderjydsk,border_region,sønderjydsk;sønderjyske,Synonym of nordslesvigsk in modern usage.
+sydslesvigsk,Sydslesvigsk,border_region,sydslesvigsk;sydslesvigske,South Schleswig — German-majority part of the duchy.
+slesvigholstensk,Slesvig-holstensk,border_region,slesvigholstensk;slesvig-holstensk;slesvig-holstenske,The contested Schleswig-Holstein duchies — central to the wars of 1848–51 and 1864.
+holstenlauenborgsk,Holsten-lauenborgsk,border_region,holsten-lauenborgsk;holsten-lauenborgske;slesvig-holsten-lauenborgsk;slesvig-holsten-lauenborgske;slesvig-holsten-lauenburgske,The full three-duchy formula (Schleswig-Holstein-Lauenburg), as used for the pre-1864 joint chancellery/ministry.
+holstensk,Holstensk,border_region,holstensk;holstenske,Holstein on its own (outside the "slesvig-holstensk" compound).
+jysk,Jysk,regional_danish,jysk;jydsk;jyske;jydske;nørrejydsk;nørrejydske,"Jutland. ""Jydsk"" is the historical spelling, ""jysk"" the modern one — both occur."
+sjællandsk,Sjællandsk,regional_danish,sjællandsk;sjællandske,Zealand.
+fynsk,Fynsk,regional_danish,fynsk;fynske,Funen.
+københavnsk,Københavnsk,regional_danish,københavnsk;københavnske;kjøbenhavnsk;kjøbenhavnske,"Copenhagen. ""Kjøbenhavnsk"" is the pre-1948 spelling."
+dansk_vestindisk,Dansk-vestindisk,colonial,dansk-vestindisk;dansk-vestindiske;vestindisk;vestindiske,The Danish West Indies (now the US Virgin Islands) — a colonial-era territorial demonym.
+grønlandsk,Grønlandsk,colonial,grønlandsk;grønlandske,
+romersk,Romersk,historical_polity,romersk;romerske,"Ancient Rome (""romersk Kejser"", ""romersk Statsmand""). See tysk_romersk for the unrelated ""Holy Roman"" compound."
+tysk_romersk,Tysk-romersk,historical_polity,tysk-romersk;tysk-romerske,"Fixed historical-title compound — ""det tysk-romerske Rige"" (the Holy Roman Empire). Do not read as ""German AND Roman""; it names one polity, not two ethnicities. See docs for handling."
+østromersk,Østromersk,historical_polity,østromersk;østromerske,Byzantine / Eastern Roman Empire.
+angelsaksisk,Angelsaksisk,historical_polity,angelsaksisk;angelsaksiske,Anglo-Saxon.
+østgotisk,Østgotisk,historical_polity,østgotisk;østgotiske,Ostrogothic.
+kartageniensisk,Kartageniensisk,historical_polity,kartageniensisk;kartageniensiske,Carthaginian.
+attisk,Attisk,historical_polity,attisk;attiske,"Classical-era Athens/Attica (""attisk Statsmand"") — the corpus's preferred form for Athenian antiquity, alongside atheniensisk."
+atheniensisk,Atheniensisk,historical_polity,atheniensisk;atheniensiske,Synonym of attisk in the corpus.
+makedonisk,Makedonisk,historical_polity,makedonisk;makedoniske,Ancient Macedonian (e.g. Alexander the Great) in the one corpus occurrence checked; the same form would also read as modern Macedonian.
+valakisk,Valakisk,historical_polity,valakisk;valakiske,Wallachian (historical Romanian region).
+maurisk,Maurisk,historical_polity,maurisk;mauriske,Moorish.
+kurlandsk,Kurlandsk,historical_polity,kurlandsk;kurlandske,Courland (historical Baltic duchy).
+neapolitansk,Neapolitansk,historical_polity,neapolitansk;neapolitanske,Kingdom of Naples — pre-unification Italian region.
+genovesisk,Genovesisk,historical_polity,genovesisk;genovesiske;genuesisk;genuesiske,Genoa — pre-unification Italian region; both spellings attested.
+veneziansk,Veneziansk,historical_polity,veneziansk;venezianske,Venice — pre-unification Italian region.
+bøhmisk,Bøhmisk,historical_polity,bøhmisk;bøhmiske,"Bohemia (historical Czech lands under Habsburg rule) — see also czekisk, the modern-nationality form."
+czekisk,Czekisk,national,czekisk;czekiske;tjekkisk;tjekkiske,"""Czekisk"" is the corpus's own (older, German-influenced) spelling; ""tjekkisk"" is the modern Danish form, not attested here but supplied for forward compatibility."
+provencalsk,Provençalsk,regional_foreign,provencalsk;provençalsk;provencalske,Provençal (regional France).
+tyrolsk,Tyrolsk,regional_foreign,tyrolsk;tyrolske,Tyrol (Austrian/Italian alpine region).
+plattysk,Plattysk,ethnolinguistic,plattysk;plattyske,"Low German (Plattdeutsch) dialect-speaker — a linguistic/ethnic identity distinct from ""tysk"" generally."
+jødisk,Jødisk,religious_ethnic,jødisk;jødiske,"Jewish — an ethnic/religious descriptor, not tied to one nation-state. Distinct from ""mosaisk"" (excluded — see docs, primarily a religious-law term)."
+nordisk,Nordisk,supranational,nordisk;nordiske;oldnordisk;oldnordiske,Nordic/Scandinavian broadly, including the Old Norse historical form.
+skandinavisk,Skandinavisk,supranational,skandinavisk;skandinaviske,

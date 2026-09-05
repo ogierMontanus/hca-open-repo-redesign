@@ -1,0 +1,59 @@
+xlsx_country,nation_place_label,notes
+Tyskland,Tyskland,
+Danmark,Danmark,
+Italien,Italien,
+Sverige,Sverrig,"Nationality system spells it ""Sverrig"" (pre-1900s Danish, see data/curated/nation_place_labels_da.csv) — xlsx uses the modern ""Sverige""."
+Schweiz,Schweiz,
+Frankrig,Frankrig,
+Østrig,Østrig,
+Spanien,Spanien,
+Grækenland,Grækenland,
+England,England,
+Skotland,England,"Rolls up into the britisk umbrella's bucket (England — the register has no separate ""Storbritannien"" place entry, see nation_umbrellas_da.csv) for nation.html. Stays its own distinct value in the places.html/kort.html Country facet — that's the point of this crosswalk."
+Irland,England,Same britisk-umbrella roll-up as Skotland above.
+Norge,Norge,
+Portugal,Portugal,
+Holland,Holland,
+Rumænien,Rumænien,
+Ungarn,Ungarn,
+USA,Amerika (De Forenede Stater),
+Tyrkiet,Tyrkiet,
+Serbien,Serbien,
+Polen,Polen,
+Belgien,Belgien,
+Bulgarien,Bulgarien,
+Rusland,Rusland,
+Ægypten,Ægypten,
+Egypten,Ægypten,Spelling variant of Ægypten within the xlsx itself (both forms occur) — same mapping.
+Indien,Indien,
+Finland,Finland,
+Kina,Kina,
+Malta,Malta,
+Island,Island,
+Japan,Japan,
+Algeriet,Algier,"algiersk's nation_place_labels_da.csv entry is ""Algier"" (the city/regency, the register's actual place entry) — xlsx's country-level ""Algeriet"" maps to it."
+Iran,Persien,"persisk's place label is ""Persien"" — the xlsx's own naming convention uses modern country names throughout (Tyskland, Italien for pre-unification/pre-1871 polities), so its ""Iran"" is read the same way, not as a claim the 1820s-1870s corpus used the name ""Iran"" itself."
+Tjekkiet,,"No Czech place entry exists in the register (czekisk's place_label_da is blank in nation_umbrellas_da.csv) — no nation.html mashup possible for this country yet."
+Kroatien,,No corresponding nationality key exists in ethnic_adjectives_da.csv.
+Slovakiet,,No corresponding nationality key exists.
+Marokko,,"nordafrikansk (the closest umbrella) has no place_label_da — no Morocco place entry in the register."
+Estland,,No corresponding nationality key exists.
+Ukraine,,No corresponding nationality key exists.
+Australien,,No corresponding nationality key exists.
+Letland,,No corresponding nationality key exists.
+Syrien,,No corresponding nationality key exists.
+Libanon,,No corresponding nationality key exists.
+Georgien,,No corresponding nationality key exists.
+Moldova,,No corresponding nationality key exists.
+Slovenien,,No corresponding nationality key exists.
+Brasilien,,No corresponding nationality key exists.
+Canada,,No corresponding nationality key exists.
+Israel,,No corresponding nationality key exists.
+Tunesien,,No corresponding nationality key exists.
+Cypern,,No corresponding nationality key exists.
+Afghanistan,,No corresponding nationality key exists.
+Europa,,Continent, not a country — no nationality mapping applies.
+Asien,,Continent, not a country.
+Afrika,,Continent, not a country.
+Nordamerika,,Continent, not a country.
+Sydamerika,,Continent, not a country.

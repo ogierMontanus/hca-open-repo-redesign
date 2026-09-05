@@ -1,0 +1,6 @@
+match_surname	match_refs	field	original	emended	source	source_detail	date	confidence	notes
+Oesterling	II:406	surname	Oesterling	Osterley	HCAC		2026-09-03	probable	Registret flager selv tvivlen: »(Navnet maaske misforstaaet)«. Identificeret som den tyske maler Carl Osterley (1805-1891), Hannover. Rettelsen besvarer præcis det, de trykte redaktører markerede som usikkert.
+Oesterling	II:406	given_names		Carl	HCAC		2026-09-03	probable	Fornavn mangler helt i registret; følger af identifikationen ovenfor.
+Oesterling	II:406	birth_year		1805	HCAC		2026-09-03	probable	Levetid følger af identifikationen; registret har ingen årstal for posten.
+Oesterling	II:406	death_year		1891	HCAC		2026-09-03	probable	Se ovenfor.
+Hascbroek	VII:36;VII:37;VII:39;VII:45;VII:47;VII:51	surname	Hascbroek	Hasebroek	HCAC		2026-09-03	certain	OCR-fejl (e->c) i det trykte register; navnet er tre uafhængige steder i bind 12s eget værkregister (Reg003607, Reg002509, Reg003511) stavet »Hasebroek«, i overensstemmelse med den dokumenterede hollandske digter og præst i Amsterdam Jan Pieter Hasebroek (1812–1896) som allerede angivet i postens egne leveår og beskrivelse.

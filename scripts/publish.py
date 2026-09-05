@@ -17,6 +17,12 @@ docs/interface.md) is the deliberate act that widens the contract.
 `_source.json` is written alongside the data: it records the raw sources this
 package was derived from (filename + SHA-256), so the publication repo can
 state its provenance without holding the raw workbooks itself.
+
+Files are published byte-for-byte. Python's csv module writes CRLF record
+terminators and the publication repo stores them that way, so no
+normalisation happens at the boundary — .gitattributes here keeps data/ out
+of git's eol conversion for the same reason. `--check` compares with line
+endings folded, so a checkout that did convert them still reports honestly.
 """
 
 import argparse

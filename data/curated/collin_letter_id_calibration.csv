@@ -1,0 +1,21 @@
+volume,letter_no,direction,person,pdf_page_start,printed_page_start,printed_page_end,dateline_iso,brevid,match_note,candidate_count
+1,2,Til,E. Collin,13,,11,1829-07-18,333,unique_date,1
+1,35,Til,E. Collin,109,98,105,1832-07-06,454,unique_date,1
+1,82,Til,E. Collin,231,220,222,1834-11-20,870,unique_date,1
+1,7,Til,E. Collin,22,11,12,1830-02-08,346,unique_date,1
+1,8,Fra,E. Collin,25,12,17,1830-02-08,346,unique_date,1
+2,247,Til,E.Collin,236,222,222,1851-11-19,6318,unique_date,1
+2,301,Fra,E. Collin,314,299,301,1858-07-24,9017,unique_date,1
+2,145,Til,E. Collin,25,11,12,1844-08-23,3348,unique_date,1
+2,144,Til,E.Collin,26,12,14,1845-06-05,3656,unique_date,1
+2,146,Fra,Henriette Collin,31,14,14,1845-06-05,3656,unique_date,1
+3,411,Til,Henriette Collin,99,88,88,1862-12-05,10831,unique_date,1
+3,448,Til,Henriette Collin,159,149,154,1864-06-04,11443,unique_date,1
+3,494,Til,E.Collin,224,214,217,1865-09-18,11991,unique_date,1
+3,371,Til,Henriette Collin,46,5,38,1861-07-05,10238,unique_date,1
+3,372,Til,E.Collin,48,38,40,1861-07-05,10238,unique_date,1
+4,569,Fra,E. og Henriette Collin,12,2,3,1867-01-08,12594,unique_date,1
+4,696,Til,Henriette Collin,204,194,197,1872-02-03,14675,unique_date,1
+4,570,Til,Henriette Collin,14,3,8,1867-01-08,12594,unique_date,1
+4,579,Fra,Henriette Collin,30,20,27,1867-06-27,12789,unique_date,1
+4,591,Fra,Henriette og E. Collin,45,35,40,1867-09-06,12885,unique_date,1

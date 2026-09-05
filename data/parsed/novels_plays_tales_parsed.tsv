@@ -1,0 +1,1335 @@
+01_Posttype	02_by_Andersen	03_genre	04_main_title	05_original_title	06_creator	07_part_of	08_Se_ogsaa	09_Krydshenvisning_til	10_cited_directly	11_Note	12_adapted_from_creator	RegistryTitelID
+standardpost	False	NovelsPlaysTales	Aaen og Havet		Thomas Lange				True			Reg000129
+standardpost	False	NovelsPlaysTales	Abdallah eller Firkløveret		E. Laboulaye				True			Reg000135
+standardpost	False	NovelsPlaysTales	Die Abderiten		C. M. Wieland				True			Reg000869
+standardpost	False	NovelsPlaysTales	Die Adoptivtochter		Karoline von Zöllner				True	Pseudonym: Karoline von Göhren		Reg000870
+standardpost	False	NovelsPlaysTales	Alice		Edward Bulwer				True			Reg000191
+standardpost	False	NovelsPlaysTales	Anna-Capri		L. Kruse				True			Reg000232
+standardpost	False	NovelsPlaysTales	Araberen i Constantinopel		B. S. Ingemann				True			Reg000257
+standardpost	False	NovelsPlaysTales	Arne		Bj. Bjørnson				True			Reg000264
+krydshenvisning	False	NovelsPlaysTales	Aschenbrödel					Asschepoester	True			Reg000267
+standardpost	False	NovelsPlaysTales	Asschepoester		J. P. Heye				True			Reg000269
+standardpost	False	NovelsPlaysTales	Avromche Nattergal		M. Goldschmidt				True			Reg000284
+krydshenvisning	False	NovelsPlaysTales	Banditten					Pietro Mancino, der Bandit	True			Reg000305
+standardpost	False	NovelsPlaysTales	Barfüssele		B. Auerbach				True			Reg000311
+standardpost	False	NovelsPlaysTales	Berlin wie es ist und - trinkt, 1. Hefte: Eckensteher		Ad. Glassbrenner				True			Reg000333
+krydshenvisning	False	NovelsPlaysTales	Berliner Eckensteher					Berlin wie es ist und - trinkt	True			Reg000336
+standardpost	False	NovelsPlaysTales	Bertha Coppier		J. I. D. Nepveu				True			Reg000341
+standardpost	False	NovelsPlaysTales	Bilder aus dem Leben		Julie Burow				True			Reg000355
+standardpost	False	NovelsPlaysTales	Bleak House		Charles Dickens				True			Reg000365
+standardpost	False	NovelsPlaysTales	Den blege Ridder		A. Oehlenschlæger				True			Reg000687
+standardpost	False	NovelsPlaysTales	Bondeliv		Anton Nielsen				True			Reg000375
+standardpost	False	NovelsPlaysTales	Breve fra Helvede, udgivne af M. Rowel		Valdemar Thisted				True			Reg000391
+standardpost	False	NovelsPlaysTales	The Bride of Larmmermoor		W. Scott				True			Reg003203
+standardpost	False	NovelsPlaysTales	Broget Selskab		Carit Etlar				True			Reg000397
+standardpost	False	NovelsPlaysTales	The Brownies and other tales		Juliana Horatia Ewing				True			Reg003204
+standardpost	False	NovelsPlaysTales	Bruden fra Rørvig		Vilh. Bergsøe				True			Reg000403
+standardpost	False	NovelsPlaysTales	Brude-Slaatten		Bj. Bjørnson				True			Reg000399
+krydshenvisning	False	NovelsPlaysTales	Brændehuggeren og hans Kone					Den nysgjerrige Kone	True			Reg000414
+standardpost	False	NovelsPlaysTales	Das Buch Le Grand		H. Heine				True			Reg000588
+standardpost	False	NovelsPlaysTales	Bug-Jargal		V. Hugo				True			Reg000417
+standardpost	False	NovelsPlaysTales	Børnehistorier		J. Krohn				True			Reg000427
+krydshenvisning	False	NovelsPlaysTales	Cendrillon					Asschepoester	True			Reg000462
+standardpost	False	NovelsPlaysTales	Christian Wohlgemuth		Karoline von Zöllner				True	Pseudonym: Karoline von Göhren		Reg000494
+standardpost	False	NovelsPlaysTales	A Christmas Carol		Charles Dickens				True			Reg000124
+standardpost	False	NovelsPlaysTales	Conanchet eller Grænsebeboerne		J. F. Cooper				True			Reg000538
+standardpost	False	NovelsPlaysTales	Corinne		Germaine de Staël-Holstein				True			Reg000543
+standardpost	False	NovelsPlaysTales	The Cricket on the Hearth		Charles Dickens		Das Heimchen am Herde		True			Reg003206
+standardpost	False	NovelsPlaysTales	Danske Folkesagn		J. M. Thiele				True			Reg000581
+standardpost	False	NovelsPlaysTales	Danske Fortællinger		Louise Hegermann-Lindencrone				True			Reg000582
+standardpost	False	NovelsPlaysTales	Il Decamerone		Boccaccio				True			Reg001714
+standardpost	False	NovelsPlaysTales	De Geers Ungdomsliv		C. Hauch	Guldmageren			True			Reg000622
+inferred_container	False	NovelsPlaysTales	Guldmageren		C. Hauch				False			
+standardpost	False	NovelsPlaysTales	Demokritos oder hinterlassene Papiere eines lachenden Philosophen		Carl Jul. Weber				True			Reg000667
+standardpost	False	NovelsPlaysTales	Le Diable boiteux		Le Sage				True			Reg002064
+standardpost	False	NovelsPlaysTales	Diamantkorset		Ove Thomsen				True			Reg000858
+standardpost	False	NovelsPlaysTales	Dombey & Son		Charles Dickens				True			Reg000960
+standardpost	False	NovelsPlaysTales	Don Quijote		Cervantes				True			Reg000974
+standardpost	False	NovelsPlaysTales	Donna Louise		Fanny Reybaud				True	Pseudonym: H. Arnaud		Reg000978
+standardpost	False	NovelsPlaysTales	Efterladte Eventyr og Fortællinger		B.S. Ingemann				True			Reg001017
+standardpost	False	NovelsPlaysTales	Eid und Gewissen und die Felsenbraut		L. Kruse				True			Reg001022
+standardpost	False	NovelsPlaysTales	Engeln Guldgod m.fl. sagor och berättelser af Lilla Nannas Pappa		Oscar von Knorring				True			Reg001149
+standardpost	False	NovelsPlaysTales	Enslingen på Johannisskäret		Emilie Flygare-Carlén				True			Reg001167
+standardpost	False	NovelsPlaysTales	Les Épaves		Fanny Reybaud				True	Pseudonym: H. Amaud		Reg002139
+standardpost	False	NovelsPlaysTales	Erindringer fra min Onkels Huus		M. Goldschmidt				True			Reg001182
+standardpost	False	NovelsPlaysTales	Ernst Maltravers		E. Bulwer				True			Reg001185
+standardpost	False	NovelsPlaysTales	Erzählungen und Bilder aus dem Volksleben der Schweiz		Jeremias Gotthelf				True			Reg001188
+krydshenvisning	False	NovelsPlaysTales	Eventyr (Oscar von Knorring)					Englen Guldgod	True			Reg001233
+standardpost	False	NovelsPlaysTales	Falddøren. Efter Engelsk		St. St. Blicher				True			Reg001246
+standardpost	False	NovelsPlaysTales	De faldende Blade		Thomas Lange	Romantiske Skildringer			True			Reg000634
+inferred_container	False	NovelsPlaysTales	Romantiske Skildringer		Thomas Lange				False			
+standardpost	False	NovelsPlaysTales	Eene Familie-Legende		Anna Bosboom-Toussaint				True			Reg001015
+standardpost	False	NovelsPlaysTales	Fast Tro		H. P. Holst				True			Reg001256
+standardpost	False	NovelsPlaysTales	Fire nye Fortællinger		B. S. Ingemann				True			Reg001291
+standardpost	False	NovelsPlaysTales	Fiskeren og hans Kone		Brødrene Grimm’s Eventyr				True			Reg001297
+standardpost	False	NovelsPlaysTales	De fjerne Høje		Johanne Schjørring				True			Reg000638
+standardpost	False	NovelsPlaysTales	Fortids Skygge		Anna Sønderup				True			Reg001331
+standardpost	False	NovelsPlaysTales	Fortælling om Haldor		C. Hauch				True			Reg001335
+standardpost	False	NovelsPlaysTales	Fortællinger af l		Cornelia von Levetzow				True			Reg001336
+standardpost	False	NovelsPlaysTales	Fortællinger og Skitser af Klok		J. Krohn				True			Reg001337
+standardpost	False	NovelsPlaysTales	Fortællinger og Skitser. Paa Dansk ved Vilhelm Møller. I		I. Turgenjev				True			Reg001338
+standardpost	False	NovelsPlaysTales	Fortællinger og Skizzer		Johanne Schjørring				True			Reg001339
+standardpost	False	NovelsPlaysTales	Fra den gamle Fabrik		Vilh. Bergsøe				True			Reg001348
+standardpost	False	NovelsPlaysTales	Fra et Hjørne af Kirkegaarden		Carl Bruun				True			Reg001351
+standardpost	False	NovelsPlaysTales	Fra Piazza del Popolo		Vilhelm Bergsøe				True			Reg001347
+standardpost	False	NovelsPlaysTales	Den Fremsynte		Jonas Lie				True			Reg000675
+standardpost	False	NovelsPlaysTales	En Gaade		Carl Bernhard				True			Reg001079
+standardpost	False	NovelsPlaysTales	Den gamle Borg		Henriette Brandis				True			Reg000707
+standardpost	False	NovelsPlaysTales	Den gamle Gravmand	Old Mortality	W. Scott				True			Reg000709
+standardpost	False	NovelsPlaysTales	Gamle Jomfru Trægaards Erindringer		Henriette Brandis				True			Reg001414
+standardpost	False	NovelsPlaysTales	En Geistligs Nytaarsnat						True	Anonym		Reg001080
+standardpost	False	NovelsPlaysTales	Genrebilleder		Carl Andersen				True			Reg001440
+standardpost	False	NovelsPlaysTales	Georg und die Störche. Ein Märchen der Ipsarioten						True			Reg001441
+standardpost	False	NovelsPlaysTales	The Gingerbread Maiden		Laura Friswell				True			Reg003210
+standardpost	False	NovelsPlaysTales	Gisella		John Palgrave Simpson				True			Reg001453
+standardpost	False	NovelsPlaysTales	En glad Gut		B. Bjørnson				True			Reg001134
+standardpost	False	NovelsPlaysTales	Grannarne		Fredrika Bremer				True			Reg001475
+standardpost	False	NovelsPlaysTales	Greven af Monte-Christo		A. Dumas peré				True			Reg001487
+standardpost	False	NovelsPlaysTales	Gud ved, hvortil det er godt! Af N. N. Anonymus udi egen Indbildning		Oluf Lundt Bang				True			Reg001497
+standardpost	False	NovelsPlaysTales	Guldhønen		B. S. Ingemann				True			Reg001501
+standardpost	False	NovelsPlaysTales	Guldmageren		C. Hauch				True			Reg001503
+standardpost	False	NovelsPlaysTales	Guy Mannering		W. Scott				True			Reg001512
+standardpost	False	NovelsPlaysTales	Die Hallig		J. Biernatzki				True			Reg000883
+standardpost	False	NovelsPlaysTales	Hannchen und die Küchlein		Gottlob Eberhard				True			Reg001528
+standardpost	False	NovelsPlaysTales	Hans Stürzebecher und sein Sohn		K. G. Cramer				True			Reg001534
+standardpost	False	NovelsPlaysTales	Hausschatz deutscher Prosa		Bernhard Wolff				True	Skolebog		Reg001539
+standardpost	False	NovelsPlaysTales	Herremænd		Carit Etlar				True			Reg001582
+standardpost	False	NovelsPlaysTales	Das Heimchen am Herde		Ch. Dickens		The Cricket on the Hearth		True			Reg000594
+standardpost	False	NovelsPlaysTales	Heinrich von Ofterdingen		Novalis				True			Reg001548
+standardpost	False	NovelsPlaysTales	Heloise		Therese A. L. von Jacob, g. Robinson				True	Pseudonym: Talvj		Reg001555
+standardpost	False	NovelsPlaysTales	Herr und Diener		L. Kruse				True			Reg001580
+standardpost	False	NovelsPlaysTales	En Historie fra de fattige Steder		L. Budde				True			Reg001086
+standardpost	False	NovelsPlaysTales	En Historie om Vinden		L. Budde				True			Reg001087
+standardpost	False	NovelsPlaysTales	Hjalmar og Solblink		J. C. Gerson				True			Reg001608
+standardpost	False	NovelsPlaysTales	Hjemlige Fortællinger		Ulla Maria				True			Reg001609
+standardpost	False	NovelsPlaysTales	Hjemmefra		H. Tolderlund				True			Reg001610
+standardpost	False	NovelsPlaysTales	Holger Danske						True	Folkebogen		Reg001621
+standardpost	False	NovelsPlaysTales	Hroars Saga		A. Oehlenschlæger				True			Reg001642
+standardpost	False	NovelsPlaysTales	Humphry Clinkers Reise		Tobias Smollett				True			Reg001648
+standardpost	False	NovelsPlaysTales	Hvad er Livet?		Elisabeth Martens				True			Reg001659
+standardpost	False	NovelsPlaysTales	Hvorledes fanger man en Solstraale. En Julegave efter det Engelske		Matilda Anne Mackarness				True			Reg001666
+standardpost	False	NovelsPlaysTales	Hölty. Roman		Friedrich Voigts				True			Reg001677
+standardpost	False	NovelsPlaysTales	I Naadsensaaret		Chr. Winther				True			Reg001688
+standardpost	False	NovelsPlaysTales	Im Walde		Julie Burow				True			Reg001736
+standardpost	False	NovelsPlaysTales	Ivar Lykkes Historie		Fr. Paludan-Milller				True			Reg001762
+standardpost	False	NovelsPlaysTales	Jane Eyre		Charlotte Brontë				True			Reg001775
+standardpost	False	NovelsPlaysTales	Johan Gordon		P. E. Lind				True			Reg001805
+standardpost	False	NovelsPlaysTales	Joseph Rushbrook		Frederick Marryat				True			Reg001823
+standardpost	False	NovelsPlaysTales	Julekongen		Iver; Julia Rosenkrantz				True			Reg001839
+standardpost	False	NovelsPlaysTales	Jøderne paa Hald		St. St. Blicher				True			Reg001861
+standardpost	False	NovelsPlaysTales	Kastaniebaandet. Novelle af Paul Winther		Clara Andersen				True			Reg001878
+standardpost	False	NovelsPlaysTales	En Katekisation		P. Chr. Asbjørnsen				True			Reg001093
+standardpost	False	NovelsPlaysTales	Kejserinden af Spinetta		Paul Heyse				True			Reg001888
+standardpost	False	NovelsPlaysTales	KenilPagth		W. Scott				True			Reg001889
+krydshenvisning	False	NovelsPlaysTales	Kirkens Datter (O.C. Lund)					Zitta, Domkirkens Datter	True			Reg001894
+standardpost	False	NovelsPlaysTales	Klein Zaches, genannt Zinnober		E. Th. A. Hoffmann				True			Reg001908
+standardpost	False	NovelsPlaysTales	Knud Nielsen		Cornelia von Levetzow	Livsbilleder af I			True			Reg001918
+inferred_container	False	NovelsPlaysTales	Livsbilleder af I		Cornelia von Levetzow				False			
+standardpost	False	NovelsPlaysTales	Der Komet oder Nicolaus Marggraf		Jean Paul				True			Reg000789
+standardpost	False	NovelsPlaysTales	Kong Hjort		Thomasine Gyllembourg				True			Reg001923
+standardpost	False	NovelsPlaysTales	Kong Lear paa Heden	Steppens Kong Lear	I. Turgenjev				True			Reg001925
+standardpost	False	NovelsPlaysTales	Krøniker fra Kong Erik af Pommerns Tid		Carl Bernhard				True			Reg001952
+standardpost	False	NovelsPlaysTales	Landsbybørnene		B. S. Ingemann				True			Reg002035
+standardpost	False	NovelsPlaysTales	Landsbydoctoren		St. St. Blicher				True			Reg002036
+standardpost	False	NovelsPlaysTales	Lars og Mette		A. Rosenkilde				True			Reg002042
+standardpost	False	NovelsPlaysTales	The Last of the Barons		Edward Bulwer				True			Reg003215
+standardpost	False	NovelsPlaysTales	Die Leiden des jungen Werthers		J. W. von Goethe				True			Reg000894
+standardpost	False	NovelsPlaysTales	Lieutenant Jergunovs Eventyr		I. Turgenjev				True			Reg002150
+standardpost	False	NovelsPlaysTales	Littie Dorrit		Charles Dickens				True			Reg002161
+standardpost	False	NovelsPlaysTales	Livets Conflicter		Carit Etlar				True			Reg002163
+standardpost	False	NovelsPlaysTales	Livsbilleder af I		Cornelia v. Levetzow				True			Reg002167
+standardpost	False	NovelsPlaysTales	Lodsen og hans Hustru		Jonas Lie				True			Reg002170
+standardpost	False	NovelsPlaysTales	De lotgevallen van Klaasje Zevenster		Jakob van Lennep				True			Reg000643
+standardpost	False	NovelsPlaysTales	Lys og Skygge		Henriette Brandis				True			Reg002211
+standardpost	False	NovelsPlaysTales	Majoratet		E. Th. A. Hoffmann				True			Reg002286
+standardpost	False	NovelsPlaysTales	Manden, som ler		V. Hugo				True			Reg002294
+standardpost	False	NovelsPlaysTales	Marmaduke Herbert or The Fatal Error		Lady Marguerite Blessington				True			Reg002336
+standardpost	False	NovelsPlaysTales	Master Humphreys Wanduhr	Master Humphrey's Clock	Charles Dickens				True			Reg002344
+standardpost	False	NovelsPlaysTales	Matrosens Bryllup		Fr. Chamier	Ben Brace			True			Reg002347
+inferred_container	False	NovelsPlaysTales	Ben Brace		Fr. Chamier				False			
+standardpost	False	NovelsPlaysTales	Meister Floh		E. Th. A. Hoffmann				True			Reg002367
+standardpost	False	NovelsPlaysTales	Memoiren eines bleiernen Soldaten für Knaben von 8-10 Jahren		Amalie Winter				True			Reg002373
+standardpost	False	NovelsPlaysTales	Midlothians Hjerte		W. Scott				True			Reg002389
+standardpost	False	NovelsPlaysTales	Min første Drøm i Rom		Vilhelm Bergsøe				True			Reg002397
+standardpost	False	NovelsPlaysTales	Miss Shum's Husband		W. M. Thackeray				True			Reg002413
+standardpost	False	NovelsPlaysTales	Naomi und Christian, oder: Der arme Geiger		Gustav Nieritz				True			Reg002467
+standardpost	False	NovelsPlaysTales	Nat og Morgen	Night and Morning	Edward Bulwer				True			Reg002477
+standardpost	False	NovelsPlaysTales	Nicholas Nickleby		Charles Dickens				True			Reg002505
+standardpost	False	NovelsPlaysTales	Norske Folkeeventyr		P. C. Asbjørnsen; Jørgen Moe				True			Reg002531
+standardpost	False	NovelsPlaysTales	Notre-Dame de Paris		V. Hugo				True			Reg002532
+standardpost	False	NovelsPlaysTales	Das Novellenbuch		Eduard von Bülow				True			Reg000605
+standardpost	False	NovelsPlaysTales	Noveller		St. St. Blicher				True			Reg002533
+standardpost	False	NovelsPlaysTales	Den nysgjerrige Kone		Madame Leprince de Beaumont				True			Reg000744
+standardpost	False	NovelsPlaysTales	Otte nyere Forelæsninger		Erik Bøgh				True			Reg002633
+standardpost	False	NovelsPlaysTales	Et overflødigt Menneskes Dagbog		I. Turgenjev				True			Reg001220
+standardpost	False	NovelsPlaysTales	En Pennetegning. Af Calma		Axelline Lund, Ill. Tidende 30.8.1874, Tillæg				True			Reg001109
+standardpost	False	NovelsPlaysTales	Pietro Mancino, der Bandit		K. E. R. Belani				True			Reg002688
+standardpost	False	NovelsPlaysTales	Poetiske Naturer		Thomas Lange				True			Reg002706
+standardpost	False	NovelsPlaysTales	Prinds Otto af Danmark		B. S. Ingemann				True			Reg002732
+standardpost	False	NovelsPlaysTales	I promessi sposi		A. Manzoni				True			Reg001705
+standardpost	False	NovelsPlaysTales	En Præsts Hemmelighed		det Franske, Aftenlæsning 1871				True			Reg001110
+standardpost	False	NovelsPlaysTales	Den Pukkelryggede		M. S. Schwartz				True			Reg000680
+standardpost	False	NovelsPlaysTales	Quits		Baronesse Jemina Tautphoeus				True			Reg002758
+standardpost	False	NovelsPlaysTales	Der Rabbi von Bacharach		H. Heine				True			Reg000800
+standardpost	False	NovelsPlaysTales	Rachel Gray		Julia Kavanagh				True			Reg002766
+standardpost	False	NovelsPlaysTales	Ravnen		M. Goldschmidt				True			Reg002775
+standardpost	False	NovelsPlaysTales	Robert Fulton		C. Hauch				True			Reg002815
+standardpost	False	NovelsPlaysTales	Roderick Random		Tobias Smollett				True			Reg002819
+standardpost	False	NovelsPlaysTales	Romantiske Skildringer		Thomas Lange				True			Reg002842
+standardpost	False	NovelsPlaysTales	Rudin		I. Turgenjev				True			Reg002859
+standardpost	False	NovelsPlaysTales	Røde Robin		W. Scott				True			Reg002863
+standardpost	False	NovelsPlaysTales	Sanct Ronans Brønd		W. Scott				True			Reg002934
+standardpost	False	NovelsPlaysTales	Sarons Rose		Sigurd Müller	Tre Fortællinger			True			Reg002959
+inferred_container	False	NovelsPlaysTales	Tre Fortællinger		Sigurd Müller				False			
+standardpost	False	NovelsPlaysTales	Das Schatzkästlein des Gevattersmanns		B. Auerbach				True			Reg000607
+standardpost	False	NovelsPlaysTales	Schwarzwälder Dorfgeschichten		Berthold Auerbach				True			Reg002971
+standardpost	False	NovelsPlaysTales	Die Serapionsbrüder		E. Th. A. Hoffmann				True			Reg000914
+standardpost	False	NovelsPlaysTales	De sidste Herrer af Gervansborg		B. S. Ingemann				True			Reg000650
+standardpost	False	NovelsPlaysTales	Siegfried von Lindenburg		J. G. Müller von Itzehoe				True			Reg002991
+standardpost	False	NovelsPlaysTales	Sir Launcelot Greaves og hans Venners, Søemandens og Advokatens, Tildragelser		Tobias Smollett				True			Reg003001
+standardpost	False	NovelsPlaysTales	Sjöjungfruns sagor		W. Bäckman				True			Reg003010
+standardpost	False	NovelsPlaysTales	Skizzer fra Krigen		M. Gjørup				True			Reg003023
+krydshenvisning	False	NovelsPlaysTales	Skjenkestuen					Erindringer fra min Onkels Huus	True			Reg003024
+standardpost	False	NovelsPlaysTales	Slottet ved Rhinen		C. Hauch				True			Reg003039
+standardpost	False	NovelsPlaysTales	Smaahistorier 2. Samling		L. Budde				True	1875		Reg003044
+standardpost	False	NovelsPlaysTales	Stedmoder og Steddatter		Athalia Schwartz				True			Reg003100
+standardpost	False	NovelsPlaysTales	Studie en uitspanning		J. J. D. Nepveu				True			Reg003124
+standardpost	False	NovelsPlaysTales	Svalerne og Blodiglerne	De muschjes en de bloedzuigers	Johannes Kneppelhout				True			Reg003137
+standardpost	False	NovelsPlaysTales	Svenskerne paa Kronborg		H. F. Ewald				True			Reg003143
+standardpost	False	NovelsPlaysTales	Syskonlif		Fredrika Bremer				True			Reg003155
+standardpost	False	NovelsPlaysTales	Syv Aar. Et Bidrag til et nordisk Riges hemmelige Hof-Historie		L. Kruse				True			Reg003156
+standardpost	False	NovelsPlaysTales	Søerøveren		W. Scott				True			Reg003165
+standardpost	False	NovelsPlaysTales	Den tavse Mand		Johanne Schjørring	Fortællinger og Skizzer			True			Reg000761
+inferred_container	False	NovelsPlaysTales	Fortællinger og Skizzer		Johanne Schjørring				False			
+standardpost	False	NovelsPlaysTales	Telse		St. St. Blicher				True			Reg003195
+standardpost	False	NovelsPlaysTales	Til Maalet		Thorald Læssøe				True			Reg003259
+standardpost	False	NovelsPlaysTales	To Fortællinger af I		Cornelia von Levetzow				True			Reg003281
+standardpost	False	NovelsPlaysTales	De to Jernringe		A. Oehlenschlæger				True			Reg000657
+standardpost	False	NovelsPlaysTales	Tom Jones		Henry Fielding				True			Reg003290
+krydshenvisning	False	NovelsPlaysTales	En Tour i mit Værelse					Voyage autour de ma chambre	True			Reg001127
+standardpost	False	NovelsPlaysTales	Tremasteren Fremtiden		Jonas Lie				True			Reg003317
+standardpost	False	NovelsPlaysTales	Triumf		Henriette Brandis				True			Reg003322
+standardpost	False	NovelsPlaysTales	Les Trois mousquetaires		A. Dumas père				True			Reg002135
+standardpost	False	NovelsPlaysTales	Trolldomstecknet		Sofie Bolander				True			Reg003324
+standardpost	False	NovelsPlaysTales	Tropmanns sidste Nat		l. Turgenjev				True			Reg003326
+standardpost	False	NovelsPlaysTales	Der Troubadur		E. G. von Brunnow				True			Reg000816
+standardpost	False	NovelsPlaysTales	Tusind og een Nat						True			Reg003335
+krydshenvisning	False	NovelsPlaysTales	Tømmerpladsen					Erindringer fra min Onkels Huus	True			Reg003353
+standardpost	False	NovelsPlaysTales	Undine		Fr. de la Motte Fouqué				True			Reg003379
+standardpost	False	NovelsPlaysTales	En ung Piges Historie		Cornelia von Levetzow				True			Reg001142
+standardpost	False	NovelsPlaysTales	En ungdommelig Historie		L. Budde				True			Reg001144
+standardpost	False	NovelsPlaysTales	Die unsichtbare Loge		Jean Paul				True			Reg000932
+standardpost	False	NovelsPlaysTales	Ved Nytaarstid i Nøddebo Præstegaard		H. Scharling				True			Reg003414
+standardpost	False	NovelsPlaysTales	Veronicas Sorg		Axelline Lund				True			Reg003446
+standardpost	False	NovelsPlaysTales	The Vicar of Wakefield		Oliver Goldsmith				True			Reg003230
+standardpost	False	NovelsPlaysTales	Village Tales from the Black Forests		Berthold Auerbach		Schwarzwälder Dorfgeschichten		True			Reg003455
+standardpost	False	NovelsPlaysTales	Visioner		I. Turgenjev				True			Reg003464
+standardpost	False	NovelsPlaysTales	Voyage autour de ma chambre		Xavier de Maistre				True			Reg003471
+standardpost	False	NovelsPlaysTales	Waldeinsamkeit		Carl Alexander af Sachsen-Weimar-Eisenach				True			Reg003478
+standardpost	False	NovelsPlaysTales	Wallensteins erste Liebe		Karl Herloszsohn				True			Reg003484
+standardpost	False	NovelsPlaysTales	Weltglück		Therese von Bacheracht				True			Reg003493
+standardpost	False	NovelsPlaysTales	Wiener Lebensbilder		I. F. Castelli				True			Reg003501
+standardpost	False	NovelsPlaysTales	Wilhelm Meisters Lehrjahre		J. W. von Goethe				True			Reg003503
+standardpost	False	NovelsPlaysTales	Wundersame Liebesgeschichte der schönen Magelone und des Grafen Peter aus der Provence		L. Tieck				True			Reg003515
+standardpost	False	NovelsPlaysTales	Zanoni		Edward Bulwer				True			Reg003519
+standardpost	False	NovelsPlaysTales	Zitta, Domkirkens Datter		O. C. Lund				True			Reg003529
+standardpost	False	NovelsPlaysTales	Øen i Sydhavet		A. Oehlenschlæger				True			Reg003697
+standardpost	False	NovelsPlaysTales	Abekatten		Johanne Luise Heiberg				True			Reg000137
+standardpost	False	NovelsPlaysTales	Abracadabra		L. Holberg				True			Reg000144
+standardpost	False	NovelsPlaysTales	Der Adept		Fr. Halm				True			Reg000769
+standardpost	False	NovelsPlaysTales	Adrienne Lecouvreur		E. Scribe; E. Legouvé				True			Reg000157
+standardpost	False	NovelsPlaysTales	Advokaten og hans Myndling		H. Hertz				True			Reg000158
+standardpost	False	NovelsPlaysTales	En Aften 1722		H. Hertz				True			Reg001063
+standardpost	False	NovelsPlaysTales	Agnes Bernauer		Adolf Böttger				True			Reg000167
+standardpost	False	NovelsPlaysTales	Ahasvérus		Edgar Quinet				True			Reg000175
+standardpost	False	NovelsPlaysTales	Die Ahnfrau		Fr. Grillparzer				True			Reg000871
+standardpost	False	NovelsPlaysTales	Aladdin		A. Oehlenschlæger				True			Reg000177
+standardpost	False	NovelsPlaysTales	Alboin der Longobardenkönig		F. de la Motte Fouqué				True			Reg000179
+standardpost	False	NovelsPlaysTales	Albrecht Dürer in Venedig		Eduard von Schenk				True			Reg000182
+standardpost	False	NovelsPlaysTales	Alferne		J. L. Heiberg				True			Reg000189
+standardpost	False	NovelsPlaysTales	Alt for Fædrelandet		V. Sardou				True			Reg000201
+standardpost	False	NovelsPlaysTales	Die alte Schachtel		Gustav von und zu Putlitz				True			Reg000921
+standardpost	False	NovelsPlaysTales	Der alte Student		G. A. Von Maltitz				True			Reg000827
+standardpost	False	NovelsPlaysTales	Amanda		H. Hertz				True			Reg000207
+standardpost	False	NovelsPlaysTales	Gli amanti sessagenari		F. Berti				True			Reg001463
+standardpost	False	NovelsPlaysTales	Der Amerikaner		Wilh. Vogel				True		Camillo Federici	Reg000770
+standardpost	False	NovelsPlaysTales	Amon Geniestreger		H. Hertz				True			Reg000210
+standardpost	False	NovelsPlaysTales	Die Andacht zum Kreuze		(Calderón de la Barca				True			Reg000872
+standardpost	False	NovelsPlaysTales	Anna Colbiørnsen		K. L. Rahbek				True			Reg000231
+standardpost	False	NovelsPlaysTales	L' Anneau d'argent		Adolph Herbelen				True			Reg001963
+standardpost	False	NovelsPlaysTales	Antigone		Sofokles				True			Reg000237
+standardpost	False	NovelsPlaysTales	Aprilsnarrene		J. L. Heiberg				True			Reg000255
+standardpost	False	NovelsPlaysTales	Der arme Poet		August von Kotzebue				True			Reg000828
+standardpost	False	NovelsPlaysTales	Der arme Teufel, oder Des Pastetenbäckers Robert Leben, Thaten und Höllenfahrt		August Meyer				True			Reg000829
+standardpost	False	NovelsPlaysTales	Armod og Høimodighed		August von Kotzebue				True			Reg000263
+standardpost	False	NovelsPlaysTales	Arthur of Zestien Jaren Later		Dupeuty; Fontan; Davrigny				True			Reg000266
+standardpost	False	NovelsPlaysTales	Athalie		Jean Racine				True			Reg000273
+standardpost	False	NovelsPlaysTales	Attestats og Forlovelse		N. C. Bierring				True			Reg000276
+standardpost	False	NovelsPlaysTales	Der aufrichtigste Freund		E. Scribe; Mélesville				True			Reg000830
+standardpost	False	NovelsPlaysTales	L'Avare		Molière				True			Reg001964
+standardpost	False	NovelsPlaysTales	Axel og Valborg		A. Oehlenschlæger				True			Reg000285
+standardpost	False	NovelsPlaysTales	Badet i Dieppe		E. Scribe				True			Reg000297
+standardpost	False	NovelsPlaysTales	Bagtalelsens Skole		Richard Brinsley Sheridan		Die Lästerschule og School for Scandal		True			Reg000299
+standardpost	False	NovelsPlaysTales	Balders Død		Johs. Ewald				True			Reg000302
+standardpost	False	NovelsPlaysTales	Ball zur Ellerbrunn		Karl Blum				True			Reg000303
+standardpost	False	NovelsPlaysTales	Ballet i Olympen		Erik Bøgh				True			Reg000304
+standardpost	False	NovelsPlaysTales	Il Bandocani						True	19.1.1834, Teatro Fiano, Rom		Reg001713
+standardpost	False	NovelsPlaysTales	Barberen i Sevilla		Beaumarchais				True			Reg000308
+standardpost	False	NovelsPlaysTales	Barselstuen		L. Holberg				True			Reg000315
+standardpost	False	NovelsPlaysTales	Die beiden Billeu		Anton Wall				True		Florian	Reg000922
+standardpost	False	NovelsPlaysTales	Das bemooste Haupt		R. Benedix				True			Reg000611
+standardpost	False	NovelsPlaysTales	Bertran de Born		E. von der Recke				True			Reg000342
+standardpost	False	NovelsPlaysTales	Bertrand l'horloger		Jules de Prémaray				True			Reg000343
+standardpost	False	NovelsPlaysTales	Der Besuch im Irrenhaus		Theodor Hell				True			Reg000773
+standardpost	False	NovelsPlaysTales	Besøget i Kjøbenhavn		H. Hertz				True			Reg000348
+standardpost	False	NovelsPlaysTales	Le Billet de faveur		Laurencin; Cormon; Michel Delaporte				True			Reg002052
+standardpost	False	NovelsPlaysTales	Blyspelen. Uit het Hoogduitsch vertaalt. Amsterdam 1747		L. Holberg				True			Reg000370
+standardpost	False	NovelsPlaysTales	Den bogstavelige Udtydning		W. H. Brömel				True			Reg000689
+standardpost	False	NovelsPlaysTales	Bonjour						True	1.8.1856, Hofteatret, Dresden		Reg000377
+standardpost	False	NovelsPlaysTales	Bonton blandt Borgerstanden		Edmond John Eyre				True			Reg000378
+standardpost	False	NovelsPlaysTales	De borgerlige Stevnemøder		F. B. Hoffman				True			Reg000632
+standardpost	False	NovelsPlaysTales	Le Bossu		Paul Féval; Anicet Bourgeois				True			Reg002053
+standardpost	False	NovelsPlaysTales	Le Bouchon de carafe		Dupin; Eugène Grangé				True			Reg002054
+standardpost	False	NovelsPlaysTales	Brand		H. Ibsen				True			Reg000383
+standardpost	False	NovelsPlaysTales	Die Braut von Messina		Fr. von Schiller				True			Reg000874
+standardpost	False	NovelsPlaysTales	Brudgommen fra Mexico		H. Clauren				True			Reg000404
+standardpost	False	NovelsPlaysTales	Brunhild		Emanuel Geibel				True			Reg000406
+standardpost	False	NovelsPlaysTales	Die Brüder		P. Terentius				True			Reg000875
+standardpost	False	NovelsPlaysTales	Brylluppet paa Ulfsbjerg		Frans Hedberg		Brölloppet på Ulfåsa		True			Reg000413
+standardpost	False	NovelsPlaysTales	En Bryllupsdags Fataliteter		Th. Overskou				True			Reg001066
+standardpost	False	NovelsPlaysTales	Brölloppet på Ulfåsa		Frans Hedberg		Brylluppet paa Ulfsbjerg		True			Reg000415
+standardpost	False	NovelsPlaysTales	Les Burgraves		V. Hugo				True			Reg002111
+standardpost	False	NovelsPlaysTales	Les Buses-graves		D. Chs. Dupeuty; Ferd. Langlé				True			Reg002112
+standardpost	False	NovelsPlaysTales	Bürger und Junker		Martin Schleich				True			Reg000432
+standardpost	False	NovelsPlaysTales	Bürgerlich und romantisch		Ed. von Bauernfeld				True			Reg000433
+standardpost	False	NovelsPlaysTales	Byron i Venedig, England og Missolonghi	Byron in Venezia	G. B. Cipro				True			Reg000421
+standardpost	False	NovelsPlaysTales	Caleb		A. Dartois; E. Planard				True		W. Scott	Reg000434
+standardpost	False	NovelsPlaysTales	Caligula		Alexandre Dumas père				True			Reg000436
+standardpost	False	NovelsPlaysTales	Le Camerade de lit		Vanderburch; Ferd. Langé				True			Reg002056
+standardpost	False	NovelsPlaysTales	Camma		G. Montanelli				True			Reg000438
+standardpost	False	NovelsPlaysTales	La Canaille		M. Dumersan; Ph. Fr. P. Dumanoir				True			Reg001972
+krydshenvisning	False	NovelsPlaysTales	Canne et parapluie					Les Égarements d’une canne et d’un parapluie	True			Reg000439
+standardpost	False	NovelsPlaysTales	Capital og Arbeide		G. Siesbye				True		A. Weihrauch	Reg000447
+standardpost	False	NovelsPlaysTales	En Caprice		Erik Bøgh				True			Reg001068
+standardpost	False	NovelsPlaysTales	En Caprice		Alfred de Musset				True			Reg001067
+standardpost	False	NovelsPlaysTales	Capriciosa		Th. Overskou; A. L. Arnesen				True			Reg000448
+standardpost	False	NovelsPlaysTales	Les Caravanes de Mayeux		Ph. Fr. P. Dumanoir; Brisebarre				True			Reg002113
+standardpost	False	NovelsPlaysTales	Cardillac		Antony-Léopold				True			Reg000450
+standardpost	False	NovelsPlaysTales	Carl den Tolvte paa Hjemreisen		Karl Töpfer				True		J. R. Planché	Reg000455
+standardpost	False	NovelsPlaysTales	Caroline Mathilde		M. W. Brun				True			Reg000458
+standardpost	False	NovelsPlaysTales	Cendrillon, ou la Pantoufle merveilleuse		Clairville; Albert Monnier; E. Blum				True			Reg000463
+standardpost	False	NovelsPlaysTales	C’est ma fille						True	18.7.1857, Variétés, Paris		Reg000561
+standardpost	False	NovelsPlaysTales	César ou Le chien de château		E. Scribe; Varner				True			Reg000560
+standardpost	False	NovelsPlaysTales	Le Chanson de l'aveugle		Junien				True			Reg002059
+standardpost	False	NovelsPlaysTales	Chansonnettes		A. Achard				True			Reg000469
+standardpost	False	NovelsPlaysTales	Le petit Chaperon rouge		Marionet-Komedie, 22.4.1867, Paris				True			Reg002096
+standardpost	False	NovelsPlaysTales	Charlotte Corday		Athalia Schwartz				True			Reg000473
+standardpost	False	NovelsPlaysTales	La Chasse du roi		Émile Fontaine				True			Reg001974
+standardpost	False	NovelsPlaysTales	Le Chevreuil		Léon H ...; Jaime				True			Reg002061
+standardpost	False	NovelsPlaysTales	Christian den Fjerdes Dom		N. Søtoft				True			Reg000496
+standardpost	False	NovelsPlaysTales	Christoph und Renata		Karl Blum				True			Reg000501
+standardpost	False	NovelsPlaysTales	Claudina		Marionetkomedie; 16.1.; 25.1.1841, Teatro Fiano, Rom				True			Reg000524
+standardpost	False	NovelsPlaysTales	Le Clavier de Berthe		Barrière; Lorin				True			Reg002062
+standardpost	False	NovelsPlaysTales	La Closerie des genêts		Fr. Soulié				True			Reg001975
+standardpost	False	NovelsPlaysTales	Cola di Rienzi		Rud. Kirner				True			Reg000534
+standardpost	False	NovelsPlaysTales	Coliche		N. P. Dupont; P. Roucher				True			Reg000535
+standardpost	False	NovelsPlaysTales	En Colonels Giftermaal	La raison propose ou Un mariage diplomatique	Paul Duport				True			Reg001069
+standardpost	False	NovelsPlaysTales	Les conférences chez Beaubicon		Clairville; E. Blum				True			Reg002136
+standardpost	False	NovelsPlaysTales	Coriolan		W. Shakespeare				True			Reg000544
+standardpost	False	NovelsPlaysTales	Correggio		A. Oehlenschlæger				True			Reg000545
+standardpost	False	NovelsPlaysTales	Crinoline den Store		Erik Bøgh		Dronning Crinoline		True		Hippolyte Cogniard	Reg000551
+standardpost	False	NovelsPlaysTales	El crisol de la lealtad		Ángel de Saavedra, Hertug af Rivas				True			Reg001041
+standardpost	False	NovelsPlaysTales	Crispin rival de son maître		Lesage				True			Reg000552
+standardpost	False	NovelsPlaysTales	Cromwells Ende		Ernst Raupach				True			Reg000555
+standardpost	False	NovelsPlaysTales	En Cuurmethode		H. Hertz				True			Reg001071
+standardpost	False	NovelsPlaysTales	Cymbeline		W. Shakespeare				True			Reg000558
+standardpost	False	NovelsPlaysTales	La Dame aux camélias		Alexandre Dumas fils				True			Reg001976
+standardpost	False	NovelsPlaysTales	La Dame et la demoiselle		Empis; Mazères				True			Reg001978
+standardpost	False	NovelsPlaysTales	De Danske i Paris		J. L. Heiberg				True			Reg000619
+standardpost	False	NovelsPlaysTales	De har en Datter		H. P. Holst				True			Reg000639
+standardpost	False	NovelsPlaysTales	Debatten i Politivennen		H. Hertz				True			Reg000664
+standardpost	False	NovelsPlaysTales	Deborah		S. H. Mosenthal				True			Reg000665
+standardpost	False	NovelsPlaysTales	Declarationen		Chr. Richardt				True			Reg000666
+standardpost	False	NovelsPlaysTales	Den deiligste Qvinde		Michael Gjørup				True			Reg000692
+standardpost	False	NovelsPlaysTales	Les Demoiselles de St. Cyr		Alexandre Dumas père				True			Reg002115
+standardpost	False	NovelsPlaysTales	El desengaño en un sueño		Ángel de Saavedra, Hertug af Rivas				True			Reg001042
+standardpost	False	NovelsPlaysTales	Ein deutscher Krieger		Eduard von Bauernfeld				True			Reg001033
+standardpost	False	NovelsPlaysTales	Les Deux ânes		Mélesville; P. F. A. Carmouche				True			Reg002117
+standardpost	False	NovelsPlaysTales	Dichter Piron		Jean-Nicolas Bouilly; Joseph Pain				True			Reg000862
+standardpost	False	NovelsPlaysTales	Diderich Menschenskræk		L. Holberg				True			Reg000866
+standardpost	False	NovelsPlaysTales	Dieu vous bénisse		A. Ancelot; Paul Duport				True			Reg000936
+standardpost	False	NovelsPlaysTales	Dina		A. Oehlenschlæger				True			Reg000944
+standardpost	False	NovelsPlaysTales	Dir wie mir		Otto Randolf				True			Reg000949
+standardpost	False	NovelsPlaysTales	Djævelens Memoirer		Etienne Arago; Paul Vermond		Les Mémoires du Diable		True			Reg000952
+standardpost	False	NovelsPlaysTales	Doctoren imod sin Villie		Molière				True			Reg000953
+standardpost	False	NovelsPlaysTales	Dominique		Viollet d'Epagny; H. Dupin				True			Reg000961
+standardpost	False	NovelsPlaysTales	Don Álvaro ó la fuerza del Sino		Ángel de Saavedra, Hertug af Rivas				True			Reg000975
+standardpost	False	NovelsPlaysTales	Don Carlos		Fr. von Schiller				True			Reg000968
+standardpost	False	NovelsPlaysTales	Don Juan		Molière				True			Reg000970
+standardpost	False	NovelsPlaysTales	Don Juan af Østerrig		Casimir Delavigne				True			Reg000972
+standardpost	False	NovelsPlaysTales	Donna Diana		Agustin Moreto				True			Reg000977
+standardpost	False	NovelsPlaysTales	Dorf und Stadt		Charlotte Birch-Pfeiffer				True			Reg000980
+standardpost	False	NovelsPlaysTales	Dr. Robin		Wilh. Friedrich				True		Jules Regnault de Prémary	Reg000981
+standardpost	False	NovelsPlaysTales	Dramatisches Vergissmeinnicht		Theodor Hell				True			Reg000982
+standardpost	False	NovelsPlaysTales	Dramatiske Scener		Chr. Bredahl				True			Reg000983
+standardpost	False	NovelsPlaysTales	Dramatiske Værker		P. F. Wulff				True		W. Shakespeare	Reg000984
+standardpost	False	NovelsPlaysTales	Drei Tage aus dem Leben eines Spielers		Louis Angely				True		Victor Ducange	Reg000986
+standardpost	False	NovelsPlaysTales	Drivhuusplanter		H. P. Holst				True		Fr. Hedberg	Reg000993
+standardpost	False	NovelsPlaysTales	Dronning Crinoline		Benjamin Feddersen		Crinoline den Store		True		H. Cogniard	Reg000995
+standardpost	False	NovelsPlaysTales	Dronning Margareta		A. Oehlenschlæger				True			Reg000999
+standardpost	False	NovelsPlaysTales	Dronning Marguerites Noveller	Les Contes de la reine de Navarre	Legouvé; Scribe		Die Königin von Navarra		True			Reg001000
+standardpost	False	NovelsPlaysTales	Drøm og Virkelighed		anonymt				True			Reg001005
+standardpost	False	NovelsPlaysTales	Due case in una casa		L. B. Picard; Wafflard; Fulgence				True			Reg001007
+standardpost	False	NovelsPlaysTales	Dyveke		O. J. Samsøe				True			Reg001010
+standardpost	False	NovelsPlaysTales	Der Eckensteher Nante im Verhör		Friedr. Beckmann				True			Reg000776
+standardpost	False	NovelsPlaysTales	L'École des bourgeois		d'Allainval				True			Reg001968
+standardpost	False	NovelsPlaysTales	En Eftermiddag paa Heden		H. H. Nyegaard				True			Reg001073
+standardpost	False	NovelsPlaysTales	Les Égarements d'une canne et d'un parapluie		Duvert; Lauzanne				True			Reg002138
+standardpost	False	NovelsPlaysTales	Egmont		J. W. von Goethe				True			Reg001019
+standardpost	False	NovelsPlaysTales	Eh! allez donc Turlurette		Cogniard; Clairville				True			Reg001021
+standardpost	False	NovelsPlaysTales	Einer von ünsere Leut'		O. F. Berg				True			Reg001038
+standardpost	False	NovelsPlaysTales	Elisabetta regina d'Inghilterra		Paolo Giacometti				True			Reg001050
+standardpost	False	NovelsPlaysTales	Den ellefte Juni		L. Holberg				True			Reg000696
+standardpost	False	NovelsPlaysTales	Elverhøi		J. L. Heiberg				True			Reg001055
+standardpost	False	NovelsPlaysTales	Embedsiver eller Herr og Fru Møller		J. F. A. Bayard				True			Reg001059
+standardpost	False	NovelsPlaysTales	Emigrantens Reisevogn		Mélesville; Hestienne; d'Aubigny				True			Reg001060
+standardpost	False	NovelsPlaysTales	Emilie Galotti		G. E. Lessing				True			Reg001061
+standardpost	False	NovelsPlaysTales	Emilies Hjertebanken		J. L. Heiberg				True			Reg001062
+standardpost	False	NovelsPlaysTales	Endlich bat er es doch gutgemaht		Albin von Meddlhammer				True			Reg001146
+standardpost	False	NovelsPlaysTales	Den eneste Feil		H. Hertz				True			Reg000697
+standardpost	False	NovelsPlaysTales	Les Enfants d'Edouard		C. Delavigne				True			Reg002119
+standardpost	False	NovelsPlaysTales	Et enfoldigt Pigebarn		Erik Bøgh				True			Reg001218
+standardpost	False	NovelsPlaysTales	Enken		L. Kruse				True			Reg001166
+standardpost	False	NovelsPlaysTales	En Episode		Chr. Juul				True			Reg001074
+standardpost	False	NovelsPlaysTales	Er ist nieht eifersüchtig		Alexander Elz				True			Reg001173
+standardpost	False	NovelsPlaysTales	Er mengt sich in Alles		J.F. Jünger				True		Susanna Centlive	Reg001174
+standardpost	False	NovelsPlaysTales	Erasmus Montanus		L. Holberg				True			Reg001175
+standardpost	False	NovelsPlaysTales	Erik og Abel		A. Oehlenschlæger				True			Reg001178
+standardpost	False	NovelsPlaysTales	Der Erntekranz		Franz von Dingelstedt				True			Reg000777
+standardpost	False	NovelsPlaysTales	Erziehungs-Resultate		Karl Blum				True		Alexis Decomberousse	Reg001186
+standardpost	False	NovelsPlaysTales	Esmeralda		Erik Bøgh				True		V. Hugo	Reg001190
+standardpost	False	NovelsPlaysTales	Eulenspiegel oder Schabenack über Schabernack		J. N. Nestroy				True			Reg001225
+standardpost	False	NovelsPlaysTales	Europæerne i Amerika		Marionetkomedie, 3.2.1841, Teatro Fiano, Rom				True			Reg001229
+standardpost	False	NovelsPlaysTales	Et Eventyr i Dyrehaven, eller: Cassanders opdagede Trædskhed		H. Hertz				True			Reg001201
+standardpost	False	NovelsPlaysTales	Et Eventyr i Rosenborg Have		J. L. Heiberg				True			Reg001203
+standardpost	False	NovelsPlaysTales	Eventyr paa Fodreisen		C. Hostrup				True			Reg001237
+standardpost	False	NovelsPlaysTales	Der ewige Jude		Carlschmidt				True		Eugen Sue	Reg000831
+standardpost	False	NovelsPlaysTales	Examensfeber		Edvard Bäckström				True			Reg001240
+standardpost	False	NovelsPlaysTales	Fabrikanten		Émil Souvestre				True			Reg001244
+standardpost	False	NovelsPlaysTales	En Fallit		Bj. Bjørnson				True			Reg001075
+standardpost	False	NovelsPlaysTales	Un fallo	Et Feiltrin	E. Scribe				True			Reg003375
+standardpost	False	NovelsPlaysTales	En Familie paa Moden		Erik Bøgh				True		V. Sardou	Reg001076
+standardpost	False	NovelsPlaysTales	Familien Riquebourg		E. Scribe				True			Reg001247
+standardpost	False	NovelsPlaysTales	Fandens Overmand		Th. Overskou				True			Reg001250
+standardpost	False	NovelsPlaysTales	Fanget		Johs. Helms				True			Reg001251
+standardpost	False	NovelsPlaysTales	Far male per far male						True	31.5.1846, Teatro Fiorentini, Napoli		Reg001252
+standardpost	False	NovelsPlaysTales	Farbror		H. P. Holst				True			Reg001253
+standardpost	False	NovelsPlaysTales	Farinelli		de Forges; St.-Georges; Leuven				True			Reg001254
+standardpost	False	NovelsPlaysTales	De Fattiges Dyrehave		H. Hertz				True			Reg000620
+standardpost	False	NovelsPlaysTales	Faust, Marionetspil						True			Reg001268
+standardpost	False	NovelsPlaysTales	Faust I		J. W. von Goethe				True			Reg001264
+standardpost	False	NovelsPlaysTales	Faust II		J. W. von Goethe				True			Reg001265
+standardpost	False	NovelsPlaysTales	Faust		Nicolaus Lenau				True			Reg001262
+standardpost	False	NovelsPlaysTales	Der Fechter von Ravenna		Fr. Halm				True			Reg000779
+standardpost	False	NovelsPlaysTales	Feiltagelserne		Oliver Goldsmith				True			Reg001271
+standardpost	False	NovelsPlaysTales	500000 Djævle						True			Reg000122
+standardpost	False	NovelsPlaysTales	Fiesco		Fr. von Schiller				True			Reg001286
+standardpost	False	NovelsPlaysTales	Le Fils de Giboyer		E. Augier				True			Reg002067
+standardpost	False	NovelsPlaysTales	La finta strega		W. Scott				True	efter W. Scott: »Guy Mannering«, 12.6.1846, Teatro Fiorentini, Napoli		Reg002014
+standardpost	False	NovelsPlaysTales	Fiskeren		A. Oehlenschlæger				True			Reg001296
+standardpost	False	NovelsPlaysTales	En fix Idé		William Bloch; Nicolaj Bøgh				True			Reg001131
+standardpost	False	NovelsPlaysTales	Fjeldsøen		A. Munch				True			Reg001299
+standardpost	False	NovelsPlaysTales	En flot Herre		Clairville; Victor Bernard				True			Reg001132
+standardpost	False	NovelsPlaysTales	Foliquet, coiffeur des dames		Paul Duport; Laurencin				True			Reg001313
+standardpost	False	NovelsPlaysTales	For Alvor		Paul Chievitz; Adolph Recke				True			Reg001321
+standardpost	False	NovelsPlaysTales	For Bentsens Skyld		Tom Taylor				True			Reg001322
+standardpost	False	NovelsPlaysTales	De Forlovede		Carl Møller				True			Reg000621
+standardpost	False	NovelsPlaysTales	En fornem Dames Søn		J. Davidsen; Th. Overskou				True		det franske	Reg001133
+standardpost	False	NovelsPlaysTales	Forseent		N.N., Odense				True			Reg001328
+standardpost	False	NovelsPlaysTales	Et Forspil		C. Hostrup				True			Reg001206
+standardpost	False	NovelsPlaysTales	Fortabt		Carit Etlar				True			Reg001330
+standardpost	False	NovelsPlaysTales	En Fortid		A. Thornam				True			Reg001078
+standardpost	False	NovelsPlaysTales	Fra det daglige Liv		Albert Hansen				True			Reg001349
+standardpost	False	NovelsPlaysTales	Le François à Londres		Boissy				True			Reg002069
+standardpost	False	NovelsPlaysTales	Freien nach Vorschrift		Karl Töpfer				True			Reg001379
+standardpost	False	NovelsPlaysTales	Die Fremde		Johanna Franul Von Weissenthurn				True			Reg000877
+standardpost	False	NovelsPlaysTales	Freuden und Leiden eines Kranken		Franz von Kurländer				True			Reg001384
+standardpost	False	NovelsPlaysTales	Freyas Altar		A. Oehlenschlæger				True			Reg001385
+standardpost	False	NovelsPlaysTales	Friedrich Schiller		Ludv. Eckardt				True			Reg001387
+standardpost	False	NovelsPlaysTales	Frieriet paa Helgoland		Benjamin Feddersen				True		L. Schneider	Reg001388
+standardpost	False	NovelsPlaysTales	Froufrou		Meilhac; Halévy				True			Reg001394
+standardpost	False	NovelsPlaysTales	The Frozen Deep		Wilkie Collins				True			Reg003209
+standardpost	False	NovelsPlaysTales	Fruentimmerskolen		Molière				True			Reg001396
+standardpost	False	NovelsPlaysTales	Fröhlich		Louis Schneider				True			Reg001399
+standardpost	False	NovelsPlaysTales	Den første Kjærlighed		E. Scribe				True			Reg000706
+standardpost	False	NovelsPlaysTales	Det første Regiment		H. P. Holst				True			Reg000850
+standardpost	False	NovelsPlaysTales	Gabrielle de Belle-lsle		Alexandre Dumas père				True			Reg001411
+standardpost	False	NovelsPlaysTales	Les Gardes du roi de Siam		Cormon; Grangé; Delacour				True			Reg002121
+standardpost	False	NovelsPlaysTales	Garrick i Bristol		J. L. Deinhardstein				True			Reg001423
+standardpost	False	NovelsPlaysTales	Gaston van Frankrijk		Arnould; Fournier				True			Reg001425
+standardpost	False	NovelsPlaysTales	Die Gefangenen der Czarin		J. F. A. Bayard				True			Reg000878
+standardpost	False	NovelsPlaysTales	Die gefährliche Tante		Albin von Meddlhammer				True	Pseudonym: Albini		Reg000926
+standardpost	False	NovelsPlaysTales	Das Gefängnis		Roderich Benedix				True			Reg000590
+standardpost	False	NovelsPlaysTales	Der geheime Agent		F. W. Hackländer				True			Reg000832
+standardpost	False	NovelsPlaysTales	Georges et Thérese		Louis Auvray				True			Reg001443
+standardpost	False	NovelsPlaysTales	Das Gespenst auf der Bastei		Karl Meisl				True			Reg000591
+standardpost	False	NovelsPlaysTales	Der gestiefelte Kater		L. Tieck				True			Reg000833
+krydshenvisning	False	NovelsPlaysTales	Die gestrengen Herren					Tempora mutantur	True			Reg000927
+standardpost	False	NovelsPlaysTales	Gienfærdet paa Herlufsholm		A. Oehlenschlæger				True			Reg001448
+standardpost	False	NovelsPlaysTales	Et Giftermaal ved Trommen	Le Mariage au tarobour	Peter Faber		Le Mariage au tambour		True		de Leuven, Brunswick og Alexandre Dumas	Reg001207
+standardpost	False	NovelsPlaysTales	Gioacchino		H. P. Holst				True			Reg001451
+standardpost	False	NovelsPlaysTales	Gienboerne		C. Hostrup				True			Reg001447
+standardpost	False	NovelsPlaysTales	Gjennem Skjærsilden		Octave Feuillet				True			Reg001460
+standardpost	False	NovelsPlaysTales	Gjøngehøvdingen		M. W. Brun				True			Reg001461
+standardpost	False	NovelsPlaysTales	Et GlasVand		E. Scribe		Une Verre d'eau		True			Reg001208
+standardpost	False	NovelsPlaysTales	Ein glücklicher Familienvater		Karl August Görner				True			Reg001034
+standardpost	False	NovelsPlaysTales	Das goldene Lamm		J. Sonnleithner				True			Reg000612
+standardpost	False	NovelsPlaysTales	Das goldene Vliess		Fr. Grillpazer				True			Reg000613
+standardpost	False	NovelsPlaysTales	Der Goldschmied von Ulm		S. H. Mosenthal				True			Reg000784
+standardpost	False	NovelsPlaysTales	Graf Essex		Heinrich Laube				True			Reg001474
+standardpost	False	NovelsPlaysTales	Grev Essex		J. C. Lange				True			Reg001485
+standardpost	False	NovelsPlaysTales	Die Grille		Charlotte Birch-Pfeiffer		En lille Heks		True	Charlotte Birch-Pfeiffer efter George Sand: La petite Fadette	George Sand	Reg000881
+standardpost	False	NovelsPlaysTales	Gringoire		Th. Bainville				True			Reg001489
+standardpost	False	NovelsPlaysTales	Griseldis		Fr. Halm				True			Reg001490
+standardpost	False	NovelsPlaysTales	Grisen		Labiche; Delacour				True			Reg001491
+standardpost	False	NovelsPlaysTales	Grøns Fødselsdag		Clara Andersen				True			Reg001495
+standardpost	False	NovelsPlaysTales	Die Günstlinge		Charlotte Birch-Pfeiffer				True			Reg000882
+standardpost	False	NovelsPlaysTales	Götz von Berlichingen		J. W. von Goethe				True			Reg001513
+standardpost	False	NovelsPlaysTales	Hagbarth og Signe		A. Oehlenschlæger				True			Reg001520
+standardpost	False	NovelsPlaysTales	Hakon Jarl		A. Oehlenschlæger				True			Reg001521
+standardpost	False	NovelsPlaysTales	Hamlet		W. Shakespeare				True			Reg001524
+standardpost	False	NovelsPlaysTales	Han gaaer paa Kommers		J. N. Nestroy				True			Reg001526
+standardpost	False	NovelsPlaysTales	Hans Jürge		Karl von Holtei				True			Reg001531
+standardpost	False	NovelsPlaysTales	Hans Sachs		J. L. Deinhardstein				True			Reg001533
+standardpost	False	NovelsPlaysTales	Das Haus det Temperamente		J. N. Nestroy				True			Reg000593
+standardpost	False	NovelsPlaysTales	Der Hausmeister in tausenden Aengsten						True	24.8.1857, Hofteatret, Dresden		Reg000785
+standardpost	False	NovelsPlaysTales	Helene oder die Körbe						True	27.11.1840, München		Reg001553
+standardpost	False	NovelsPlaysTales	Det hemmelige Politi		J. P. Svendsen				True			Reg000853
+standardpost	False	NovelsPlaysTales	En Hemmelighed		Ida Nielsen				True			Reg001082
+standardpost	False	NovelsPlaysTales	Henrich og Pernille		L. Holberg				True			Reg001560
+standardpost	False	NovelsPlaysTales	Henrik af Navarra		C. Hauch				True			Reg001563
+standardpost	False	NovelsPlaysTales	Henrik den Fjerde, 1ste Deel		W. Shakespeare				True			Reg001564
+standardpost	False	NovelsPlaysTales	Henrik den Fjerde, 2den Deel		W. Shakespeare				True			Reg001565
+standardpost	False	NovelsPlaysTales	Herman von Unna		A. F. Skjöldebrand				True			Reg001572
+standardpost	False	NovelsPlaysTales	Hermance		Virginie Ancelot				True			Reg001573
+standardpost	False	NovelsPlaysTales	Herodias		Silvio Pellico				True			Reg001577
+standardpost	False	NovelsPlaysTales	Hinter dem häuslichen Herd						True	25.10. 1860, Hofteatret, Dresden		Reg001595
+standardpost	False	NovelsPlaysTales	Hr. Grylle og hans nyeste Viser		Erik Bøgh				True			Reg001633
+standardpost	False	NovelsPlaysTales	Hr. Lauge med den tunge Haand		Carit Etlar				True			Reg001634
+standardpost	False	NovelsPlaysTales	Hr. Malesherbes Roser		A. von Kotzebue				True			Reg001635
+krydshenvisning	False	NovelsPlaysTales	Hr. Møller, Hr. og Fru Møller					Embedsiver	True			Reg001636
+standardpost	False	NovelsPlaysTales	Hr. Sørensen morer sig		Harald Jensen				True		Salingré	Reg001639
+standardpost	False	NovelsPlaysTales	Hr. Sørensen paa Eventyr		Carl Ploug				True			Reg001640
+standardpost	False	NovelsPlaysTales	Hr. Volmer i Sorø		William Bloch; Nicolaj Bøgh				True			Reg001641
+standardpost	False	NovelsPlaysTales	En Herre og en Dame		Xavier; Duvert; Lauzanne				True			Reg001083
+standardpost	False	NovelsPlaysTales	Et Herreselskab		H. Hertz				True			Reg001209
+standardpost	False	NovelsPlaysTales	Hertug Concretus og hans Datter		Erik Bøgh				True		Hans Sachs	Reg001584
+standardpost	False	NovelsPlaysTales	Hexerie eller Blind Alarm		L. Holberg				True			Reg001590
+standardpost	False	NovelsPlaysTales	Huismiddel tegen schoonmoeders	Rezept gegen Schwiegermütter	J. Both J. Jzn.				True		det Spanske af Kong Ludwig I af Bayern	Reg001645
+standardpost	False	NovelsPlaysTales	Huldrebakken		Erik Bøgh				True			Reg001646
+standardpost	False	NovelsPlaysTales	Hun skal debutere!		Erik Bøgh				True		Bayard og Théaulon	Reg001649
+standardpost	False	NovelsPlaysTales	Les Hures graves		Ph. Fr. P. Dumanoir; Paul Siraudin; Louis Clairville				True			Reg002122
+standardpost	False	NovelsPlaysTales	Hussiterne eller Naumburgs Beleiring		A. von Kotzebue				True			Reg001655
+standardpost	False	NovelsPlaysTales	Ein Hut	Le Chapeau d'un horloger	Moritz Grandjean				True		Delphine Girardin	Reg001026
+standardpost	False	NovelsPlaysTales	De hvide Roser		William Bloch; Nicolai Bøgh				True			Reg000641
+standardpost	False	NovelsPlaysTales	Den Hvidklædte		H. P. Holst				True		Fr. Hedbergs Bearbejdelse af Wilkie Collins'	Reg000678
+standardpost	False	NovelsPlaysTales	Hvor Tiden løber		N. T. Bruun				True		Louis B. Picard	Reg001664
+standardpost	False	NovelsPlaysTales	Hyrden af Tolosa		B. S. Ingemann				True			Reg001670
+standardpost	False	NovelsPlaysTales	Häuslichen Wirren		J. Lederer				True			Reg001676
+standardpost	False	NovelsPlaysTales	En Hævn		Waldemar Bruun				True			Reg001090
+standardpost	False	NovelsPlaysTales	l den anden Verden		M. Goldschmidt				True			Reg003583
+standardpost	False	NovelsPlaysTales	l Dynekilen		Carit Etlar				True			Reg003582
+standardpost	False	NovelsPlaysTales	l en Fart		Kr. Mantzius				True		Decourcelle, Barrière og Morand	Reg003584
+standardpost	False	NovelsPlaysTales	lch bleibe ledig		Karl Blum				True			Reg003586
+standardpost	False	NovelsPlaysTales	Indianerne i England		A. Kotzebue				True			Reg001741
+standardpost	False	NovelsPlaysTales	lndqvarteringen		H. Hertz				True			Reg003587
+standardpost	False	NovelsPlaysTales	Indtoget		P. A. Heiberg				True			Reg001744
+standardpost	False	NovelsPlaysTales	Ines de Castro		António de Ferreira				True			Reg001745
+standardpost	False	NovelsPlaysTales	Ingen Tærte						True	14.5.1846, Teatro Carlino, Napoli		Reg001746
+standardpost	False	NovelsPlaysTales	Das lntermezzo		A. von Kotzebue				True			Reg000614
+standardpost	False	NovelsPlaysTales	Intrigerne		C. Hostrup				True			Reg001750
+standardpost	False	NovelsPlaysTales	Iphigenie auf Tauris		J. W. von Goethe				True			Reg001754
+standardpost	False	NovelsPlaysTales	Isabella Orsini		S. H. Mosenthal				True			Reg001755
+standardpost	False	NovelsPlaysTales	En italiensk Straahat		E. Labiche; Marc Michel				True			Reg001136
+standardpost	False	NovelsPlaysTales	Ja!		J. L. Heiberg				True			Reg001768
+standardpost	False	NovelsPlaysTales	Jacob von Thybo		L. Holberg				True			Reg001771
+standardpost	False	NovelsPlaysTales	The Jacobite						True	1.7.1847, Hay-Market, London		Reg003212
+standardpost	False	NovelsPlaysTales	Jagten paa Søeborg		Mønster?				True			Reg001772
+standardpost	False	NovelsPlaysTales	Jean Baudry		Auguste Vacquerie				True			Reg001777
+standardpost	False	NovelsPlaysTales	Jean de France		L. Holberg				True			Reg001778
+standardpost	False	NovelsPlaysTales	Jeanne d’Arc		Alex. Soumet				True			Reg001782
+standardpost	False	NovelsPlaysTales	Jeg spiser hos min Moder		Decourcelle; L. Thibouet				True			Reg001783
+standardpost	False	NovelsPlaysTales	Jens		H. P. Holst				True			Reg001787
+standardpost	False	NovelsPlaysTales	Jens Støvring		Benjamin Feddersen				True		G. von Moser	Reg001789
+standardpost	False	NovelsPlaysTales	Jeppe paa Bjerget		L. Holberg				True			Reg001790
+standardpost	False	NovelsPlaysTales	Le Jeu de l’amour et du hasard		Marivaux				True			Reg002072
+krydshenvisning	False	NovelsPlaysTales	Johan af Østerige					Don Juan af Østerrig	True			Reg001807
+standardpost	False	NovelsPlaysTales	Johann von Oesterreich		Julius Mosen				True			Reg001809
+standardpost	False	NovelsPlaysTales	Johanna Montfaucon		A. von Kotzebue				True			Reg001810
+standardpost	False	NovelsPlaysTales	Joseph solgt af sine Brødre						True	7.4.1843, Gymnase des enfants, Paris		Reg001825
+standardpost	False	NovelsPlaysTales	Jovial, stadstjenare och poet		Théaulon; Choquart				True			Reg001829
+standardpost	False	NovelsPlaysTales	Der Jude		J. F. H. Brockmann				True		Richard Cumberland	Reg000786
+standardpost	False	NovelsPlaysTales	Judith		Delphine de Girardin				True			Reg001834
+standardpost	False	NovelsPlaysTales	Julestuen		L. Holberg				True			Reg001840
+standardpost	False	NovelsPlaysTales	Julia		Fr. Hebbel				True			Reg001842
+standardpost	False	NovelsPlaysTales	Julian den Frafaldne		C. Hauch				True			Reg001844
+standardpost	False	NovelsPlaysTales	Julius Cæsar		W. Shakespeare				True			Reg001845
+standardpost	False	NovelsPlaysTales	Die Jungfrau von Orleans		Fr. von Schiller				True			Reg000887
+standardpost	False	NovelsPlaysTales	Juvelskrinet		H. Hertz				True			Reg001855
+standardpost	False	NovelsPlaysTales	Kabale und Liebe		Fr. von Schiller				True			Reg001863
+standardpost	False	NovelsPlaysTales	Kalanus		Fr. Paludan-Müller				True			Reg001866
+standardpost	False	NovelsPlaysTales	Kalifen paa Eventyr		Erik Bøgh				True			Reg001868
+standardpost	False	NovelsPlaysTales	Kammeraterne		E. Scribe				True			Reg001869
+standardpost	False	NovelsPlaysTales	Kamp og Seier		Erneste Legouvé				True			Reg001870
+standardpost	False	NovelsPlaysTales	Kan ei		J. L. Runeberg				True			Reg001871
+standardpost	False	NovelsPlaysTales	Kanariefuglen		William Bloch; Nicolaj Bøgh				True			Reg001872
+standardpost	False	NovelsPlaysTales	Karel Skreta, malír		V. A. Swoboda				True			Reg001875
+standardpost	False	NovelsPlaysTales	Das Kasernen-Zimmer						True	1.12.1840, München		Reg000595
+standardpost	False	NovelsPlaysTales	Kean		Alexandre Dumas père; Théaulon; de Courcy				True			Reg001885
+standardpost	False	NovelsPlaysTales	Kierlighed uden Strømper		J. H. Wessel				True			Reg001891
+standardpost	False	NovelsPlaysTales	Die Kinder des Regiments		Friedrich Blum				True			Reg000888
+standardpost	False	NovelsPlaysTales	Der Kinderfreund		C. F. Weisze				True			Reg000787
+standardpost	False	NovelsPlaysTales	Kirsten Pils Kilde		J. M. Thiele				True			Reg001895
+standardpost	False	NovelsPlaysTales	Kjærlighed og Politik		Viggo Hindberg				True			Reg001898
+standardpost	False	NovelsPlaysTales	Kjærlighed og Statistik		Johs. Helms				True			Reg001899
+standardpost	False	NovelsPlaysTales	En Kjærlighedsdrøm		E. Scribe; Biéville				True			Reg001094
+standardpost	False	NovelsPlaysTales	Kjøbmanden i Venedig		W. Shakespeare				True			Reg001904
+standardpost	False	NovelsPlaysTales	Klaus Rigmands Skat		J. M. Thiele				True			Reg001905
+krydshenvisning	False	NovelsPlaysTales	Klokker Link, Vaudeville-Monolog					Ja!	True			Reg001914
+standardpost	False	NovelsPlaysTales	Klokkerfamilien	Plan til Sangspil	Bj. Bjørnson				True			Reg001915
+standardpost	False	NovelsPlaysTales	Knud Svendsøn		Chr. Bredahl				True			Reg001919
+standardpost	False	NovelsPlaysTales	Komedie der Irrungen	The Comedy of Errors	W. Shakespeare				True			Reg001921
+standardpost	False	NovelsPlaysTales	En Kone, der springer ud af Vinduet		E. Scribe; G. Lemoine				True			Reg001095
+standardpost	False	NovelsPlaysTales	Kong Lear		W. Shakespeare				True			Reg001924
+standardpost	False	NovelsPlaysTales	Kong René's Datter		H. Hertz				True			Reg001927
+standardpost	False	NovelsPlaysTales	Kong Salomon og Jørgen Hattemager		J. L. Heiberg				True			Reg001928
+krydshenvisning	False	NovelsPlaysTales	Kong Valdemar og Tovelille					König Waldemar und Tovelille	True			Reg001931
+standardpost	False	NovelsPlaysTales	Kong Waldemar og Bisp Absalon		H. Scharling				True			Reg001932
+standardpost	False	NovelsPlaysTales	Kong Sigurd		C. J. Boye				True			Reg001930
+standardpost	False	NovelsPlaysTales	Kongens Yndling		C. Hauch				True			Reg001934
+standardpost	False	NovelsPlaysTales	Kongs-Emnerne		H. Ibsen				True			Reg001937
+standardpost	False	NovelsPlaysTales	Korsikaneren. Syngestykke, bearb. af Adolph Hertz. Musiken af Emil Hartmann		J. H. V. de Saint-Georges				True			Reg001941
+standardpost	False	NovelsPlaysTales	Kostgjængerne		Daniel; Hagen				True			Reg001944
+standardpost	False	NovelsPlaysTales	Kroisos, Lydiens sidste Konge		Alfred Flinch				True			Reg001948
+standardpost	False	NovelsPlaysTales	Der Kurmärker und die Picarde		Louis Schneider				True			Reg000791
+standardpost	False	NovelsPlaysTales	Das Käthchen von Heilbronn		Heinrich von Kleist				True			Reg000596
+standardpost	False	NovelsPlaysTales	König Waldemar und Tovelille		Georgia Høst				True			Reg001959
+standardpost	False	NovelsPlaysTales	Die Königin von Navarra	Les Contes de la reine de Navarre	Legouvé; E. Scribe		Dronning Marguerites Noveller		True			Reg000890
+standardpost	False	NovelsPlaysTales	Die Königin von sechzehn Jahre		Theodor Hell		Dronningen paa 16 Aar (Sp. 60)		True		Bayard	Reg000891
+standardpost	False	NovelsPlaysTales	Die Königstochter ein Bettlerweib		Ernst Raupach				True			Reg000892
+krydshenvisning	False	NovelsPlaysTales	Landet fundet og forsvundet (A. Oehlenschlæger)					De to Armringe	True			Reg002033
+standardpost	False	NovelsPlaysTales	Leichtsinn aus Liebe		Ed. von Bauernfeld				True			Reg002101
+standardpost	False	NovelsPlaysTales	Lenore oder die Vermählung am Grabe		Karl von Holtei				True			Reg002103
+standardpost	False	NovelsPlaysTales	D'letzte Fensterln		Johann Gabriel Seidl				True			Reg000562
+standardpost	False	NovelsPlaysTales	Das Liebesprotokoll		E. von Bauernfeld				True			Reg000598
+standardpost	False	NovelsPlaysTales	Lige for Lige	Measure for Measure	W. Shakespeare		Masz für Masz		True			Reg002153
+standardpost	False	NovelsPlaysTales	En lille Heks af George Sands Roman »La petite Fadette«)		Ad. Recke; P. Aalborg		Die Grille		True		en tysk Dramatisering (»Die Grille«	Reg001138
+standardpost	False	NovelsPlaysTales	Den lille Hyrdedreng		A. Oehlenschlæger				True			Reg000733
+standardpost	False	NovelsPlaysTales	Lindane oder Die Fee und der Haarbeutelschneider		A. Bäuerle				True			Reg002160
+standardpost	False	NovelsPlaysTales	La Lisette de Béranger		Monolog af Frédéric Bérat				True			Reg001992
+standardpost	False	NovelsPlaysTales	El loco de la Guardilla		Narciso Serra				True			Reg001044
+standardpost	False	NovelsPlaysTales	Lord William Russell		A. Munch				True			Reg002177
+standardpost	False	NovelsPlaysTales	Louise Bernard		Alexandre Dumas peré				True			Reg002179
+standardpost	False	NovelsPlaysTales	Lucrèce		Fr. Ponsard				True			Reg002189
+standardpost	False	NovelsPlaysTales	Ludlams Hule		A. Oehlenschlæger				True			Reg002190
+standardpost	False	NovelsPlaysTales	Luftens Datter		P. Faber				True		Cogniard og Raymond	Reg002196
+standardpost	False	NovelsPlaysTales	Die Luftschlösser		A. F. Weidner				True			Reg000895
+standardpost	False	NovelsPlaysTales	Lumpacivagabundus		J. N. Nestroy				True			Reg002197
+standardpost	False	NovelsPlaysTales	Ein Lustspiel		R. Benedix				True			Reg001027
+standardpost	False	NovelsPlaysTales	Lycksalighetens ö		P. D. A. Atterbom				True			Reg002200
+standardpost	False	NovelsPlaysTales	Der Lügner und sein Sohn		K. Meisl				True			Reg000793
+standardpost	False	NovelsPlaysTales	Lygtemænd		William Bloch				True			Reg002201
+standardpost	False	NovelsPlaysTales	Det lykkelige Skibbrud		L. Holberg				True			Reg000854
+standardpost	False	NovelsPlaysTales	De lykkeligste Børn		Clara Andersen				True			Reg000644
+standardpost	False	NovelsPlaysTales	Lykkens Skjødebarn		H. P. Holst				True		Charlotte Birch-Pfeiffer	Reg002208
+standardpost	False	NovelsPlaysTales	De lystige Koner i Windsor		W. Shakespeare		The Merry Wives of Windsor		True			Reg000646
+standardpost	False	NovelsPlaysTales	Lystspil, oversatte af Benedicte Arnesen Kall. I-III		Molière				True			Reg002213
+standardpost	False	NovelsPlaysTales	De lærde Damer		Molière				True			Reg000647
+standardpost	False	NovelsPlaysTales	Die Lästerschule	School for Scandal	Richard Brinsley Sheridan		Bagtalelsens Skole og School for Scandal		True			Reg000896
+standardpost	False	NovelsPlaysTales	Macbeth		W. Shakespeare				True			Reg002225
+standardpost	False	NovelsPlaysTales	Madame d'Egmont, ou Sont-elles deux?		J. Ancelot; Decomberousse				True			Reg002230
+standardpost	False	NovelsPlaysTales	Mademoiselle Déjazet au Sérail, ou Le Palais-Royal en 1872		J. F. A. Bayard; Gabriel de Lurieu				True			Reg002231
+standardpost	False	NovelsPlaysTales	Madonna		Heinrich Bode				True			Reg002236
+standardpost	False	NovelsPlaysTales	Magister Ageholm eller Fragmenterne		Arthur Ejserman				True			Reg002285
+standardpost	False	NovelsPlaysTales	Man kan, hvad man vil		Jacques Ancelot; Decomberousse				True			Reg002289
+standardpost	False	NovelsPlaysTales	Man skal Ingenting forsværge		Alfred de Musset				True			Reg002291
+standardpost	False	NovelsPlaysTales	Marco Sciarra, apperettatore de Io quartiere de puorto ossia l'ommo che nun se fa li fatte suoie cu la Ianterna va truvanno guaie		Orazio Schiano				True			Reg002297
+standardpost	False	NovelsPlaysTales	Margherita di Waldemar, regina delle tre corone del Nord		G. C. Cosenza				True			Reg002300
+standardpost	False	NovelsPlaysTales	Margrethe		Karl von Holtei				True			Reg002301
+standardpost	False	NovelsPlaysTales	Maria Stuart		Fr. von Schiller				True			Reg002315
+standardpost	False	NovelsPlaysTales	Maria Stuart i Skotland		Bj. Bjørnson				True			Reg002316
+standardpost	False	NovelsPlaysTales	Maria Tudor		V. Hugo				True			Reg002317
+standardpost	False	NovelsPlaysTales	Le Mariage au tambour		Ad. de Leuven; Brunswick		Et Giftermaal ved Trommen		True			Reg002077
+standardpost	False	NovelsPlaysTales	Le Mariage de Figaro		Beaumarchais				True			Reg002078
+standardpost	False	NovelsPlaysTales	Marie		A. von Kotzebue				True			Reg002329
+standardpost	False	NovelsPlaysTales	Marie Antoinette		M. W. Brun				True			Reg002330
+standardpost	False	NovelsPlaysTales	Marie-Jeanne		Ad. Dennery; Mallian				True			Reg002332
+standardpost	False	NovelsPlaysTales	Marie Stuart		Pierre Lebrun				True		Schiller	Reg002331
+standardpost	False	NovelsPlaysTales	Marion de Lorme		V. Hugo				True			Reg002334
+standardpost	False	NovelsPlaysTales	Die Marquise von Vilette		Charlotte Birch-Pfeiffer				True			Reg000897
+standardpost	False	NovelsPlaysTales	La Marraine		E. Scribe; Lockroy; Chabot de Bouin		Den unge Gudmoder		True			Reg001994
+standardpost	False	NovelsPlaysTales	Une Martingale		Clairville; Cham; Rochefort				True			Reg003381
+standardpost	False	NovelsPlaysTales	Mascarade		L. Holberg				True			Reg002342
+krydshenvisning	False	NovelsPlaysTales	Der Maschinenbauer					Capital og Arbeide	True			Reg000794
+standardpost	False	NovelsPlaysTales	Masz für Masz	Measure for Measure	W. Shakespeare		Lige for Lige		True			Reg002345
+standardpost	False	NovelsPlaysTales	Mathilde		Roderich Benedix				True			Reg002346
+standardpost	False	NovelsPlaysTales	Médée		Ernest Legouvé				True			Reg002450
+standardpost	False	NovelsPlaysTales	»Meer end nok« eller Ole Lukøie		Erik Bøgh; Kristian Arentzen				True			Reg003657
+standardpost	False	NovelsPlaysTales	Mein Freund		J. N. Nestroy				True			Reg002365
+standardpost	False	NovelsPlaysTales	Meister Andrea		Emanuel Geibel				True			Reg002366
+standardpost	False	NovelsPlaysTales	Mejonkvrouw de La Seiglière		Jules Sandeau		Slottet i Poitou		True			Reg002368
+standardpost	False	NovelsPlaysTales	Les Mémoires du Diable		Etienne Arago; Paul Vermond		Djævelens Memoirer		True			Reg002126
+standardpost	False	NovelsPlaysTales	Merlin		Karl Immermann				True			Reg002377
+standardpost	False	NovelsPlaysTales	The Merry Wives of Windsor		W. Shakespeare		De lystige Koner i Windsor		True			Reg003218
+standardpost	False	NovelsPlaysTales	Mester Gert Westphaler		L. Holberg				True			Reg002379
+standardpost	False	NovelsPlaysTales	Mester og Lærling		C. Hostrup				True			Reg002380
+standardpost	False	NovelsPlaysTales	Metal og Papir		J. C. Gerson				True			Reg002382
+standardpost	False	NovelsPlaysTales	Les Métamorphoses de Bougival		Adolphe Favre; Ad. Stel				True			Reg002127
+standardpost	False	NovelsPlaysTales	Michel Perrin		Mélesville; Ch. Duveyrier				True			Reg002386
+standardpost	False	NovelsPlaysTales	Mille et une nuits		Th.; H. Cogniard				True			Reg002393
+standardpost	False	NovelsPlaysTales	Min egen Dreng		Carl Møller; William Faber				True		A. l’Arronge	Reg002396
+standardpost	False	NovelsPlaysTales	Min Lykkestjerne		E. Scribe				True			Reg002394
+standardpost	False	NovelsPlaysTales	Min Onkels Slaabrok	De Huisjapon van mij' Oom	Vrij naar het Hoogduitsch door J. Both J. Jzn				True			Reg002395
+standardpost	False	NovelsPlaysTales	Minna von Barnhelm		G. E. Lessing				True			Reg002408
+standardpost	False	NovelsPlaysTales	Mirandolina	La locandiera	Goldoni				True			Reg002411
+standardpost	False	NovelsPlaysTales	Mit der Feder		Sigmund Schlesinger				True			Reg002419
+standardpost	False	NovelsPlaysTales	Moder og Søn		A. Munch				True			Reg002420
+standardpost	False	NovelsPlaysTales	Molière		Charles Desvoyer; Eugène Labat				True			Reg002425
+standardpost	False	NovelsPlaysTales	Monsieur Mouflet		Léon Halévy; Jaime				True			Reg002427
+standardpost	False	NovelsPlaysTales	Morbror Per		R. Benedix				True			Reg002429
+standardpost	False	NovelsPlaysTales	La morisca de Alajuar		Ángel de Saavedra, Hertug al Rivas				True			Reg002020
+standardpost	False	NovelsPlaysTales	Les Mousquetaires du carneval		Eugène Grangé; Lambert Thibouet				True			Reg002125
+standardpost	False	NovelsPlaysTales	Mutter und Sohn		Charlotte Birch-Pfeiffer				True			Reg002445
+standardpost	False	NovelsPlaysTales	Der Müller und sein Kind		Ernst Raupach				True			Reg000797
+standardpost	False	NovelsPlaysTales	Das Mädchen aus der Feenwelt oder der Bauer als Millionär		Ferd. Raimund				True			Reg000600
+standardpost	False	NovelsPlaysTales	Die Mäntel		E. Scribe				True			Reg000899
+standardpost	False	NovelsPlaysTales	Mönch und Soldat		Friedrich Kaiser				True			Reg002451
+standardpost	False	NovelsPlaysTales	Die Mönche		Millenet				True			Reg000900
+standardpost	False	NovelsPlaysTales	Naar Djævelen banker paa!		Benjamin Feddersen				True		Dupeuty, Dumersan og Gabriel	Reg002457
+standardpost	False	NovelsPlaysTales	Naar Katten er ude		Carl Møller				True			Reg002458
+standardpost	False	NovelsPlaysTales	Nach Sonnenuntergang		Louis Angely				True			Reg002461
+standardpost	False	NovelsPlaysTales	Nacht und Morgen		Charlotte Birch-Pfeiffer				True			Reg002463
+standardpost	False	NovelsPlaysTales	Namenlos		David Kalisch; Ernst Pohl				True			Reg002465
+krydshenvisning	False	NovelsPlaysTales	Nante					Der Eckensteher Nante im Verhör	True			Reg002466
+standardpost	False	NovelsPlaysTales	Napoleon Bonaparte, Eerste Konsul		H. J. Schimmel				True			Reg002468
+standardpost	False	NovelsPlaysTales	En Nat mellem Fjeldene		C. Hostrup				True			Reg001104
+standardpost	False	NovelsPlaysTales	Nathan der Weise		G. E. Lessing				True			Reg002478
+standardpost	False	NovelsPlaysTales	En Nattegjæst	Two o'clock in the Morning	Lockroy & Anicet				True			Reg001106
+standardpost	False	NovelsPlaysTales	Nehmt ein Exempel dran!		Karl Töpfer		Seer Jer i Speil		True			Reg002496
+standardpost	False	NovelsPlaysTales	Nei		J. L. Heiberg				True			Reg002497
+standardpost	False	NovelsPlaysTales	Nero Cæsar		L. Lund				True			Reg002504
+krydshenvisning	False	NovelsPlaysTales	Die Nibelungen (E. Geibel)					Brunhild	True			Reg000902
+standardpost	False	NovelsPlaysTales	Die Nibelungen		Fr. Hebbel				True			Reg000903
+standardpost	False	NovelsPlaysTales	Ninon		H. Hertz				True			Reg002513
+standardpost	False	NovelsPlaysTales	N° 777		Carl Lebrun				True			Reg002572
+standardpost	False	NovelsPlaysTales	Nornerne, Forspil til Balletten Thrymskviden		H. P. Holst				True			Reg002530
+standardpost	False	NovelsPlaysTales	La Nouvelle Psyché		Félicien Mallefille				True			Reg001995
+standardpost	False	NovelsPlaysTales	La Nuit de Mardi-gras		Emile Fontaine				True			Reg001996
+standardpost	False	NovelsPlaysTales	Nur eine Seele		Wilhelm Wolfsohn				True			Reg002537
+standardpost	False	NovelsPlaysTales	De Nygifte		Bj. Björnson				True			Reg000625
+standardpost	False	NovelsPlaysTales	Nytaarsnat 1869		Erik Bøgh				True			Reg002569
+standardpost	False	NovelsPlaysTales	Nytaarsnat 1872-73		Paul Marcussen; Rich. Kaufmann; Carl Wulff				True			Reg002570
+standardpost	False	NovelsPlaysTales	En nyttig Onkel		Clara Andersen				True			Reg001139
+standardpost	False	NovelsPlaysTales	Oberon		J. R. Planché				True			Reg002586
+standardpost	False	NovelsPlaysTales	Oidipus i Kolonos		Sofokles				True			Reg002596
+standardpost	False	NovelsPlaysTales	Den oldenborgske Stamme i Danmark. En Cyclus af Skuespil	Christjern, Kongefader. - Kong Hans	Benedicte Arnesen Kall				True			Reg000745
+standardpost	False	NovelsPlaysTales	En Omelette		V. C. S. Topsøe				True			Reg001107
+standardpost	False	NovelsPlaysTales	En Omvei		A. Thornam				True			Reg001108
+standardpost	False	NovelsPlaysTales	Onkel Brand		Louis Angely				True			Reg002611
+krydshenvisning	False	NovelsPlaysTales	Onkelen fra Californien					Svogeren fra Californien	True			Reg002612
+standardpost	False	NovelsPlaysTales	Onkelens Slot		Desaugiers; Armand				True			Reg002613
+standardpost	False	NovelsPlaysTales	L'Orphelin de la Chine		Henri Dupin				True			Reg001966
+standardpost	False	NovelsPlaysTales	Les Orphelines du faubourg		E. Thirion; Hippolyte Bedeau				True			Reg002129
+standardpost	False	NovelsPlaysTales	Die Osternacht		Wilhelm Wolfsohn				True			Reg000904
+standardpost	False	NovelsPlaysTales	Othello		W. Shakespeare				True			Reg002632
+standardpost	False	NovelsPlaysTales	Paa Jagt efter Eventyr		E. Augier; J. Sandeau				True			Reg002641
+standardpost	False	NovelsPlaysTales	Palnatoke		A. Oehlensehlæger				True			Reg002645
+standardpost	False	NovelsPlaysTales	Paläophron und Neoterpe		J. W. von Goethe				True			Reg002646
+standardpost	False	NovelsPlaysTales	Pariserdrengen		Bayard; Vanderburch				True			Reg002655
+standardpost	False	NovelsPlaysTales	Passions-Skuespillet i Oberammergau		J. A. Daisenberger				True			Reg002660
+standardpost	False	NovelsPlaysTales	Le Pavé des journaux						True	6.2.1863, Délassements-Comiques, Paris		Reg002081
+standardpost	False	NovelsPlaysTales	Un Péché de jeunesse		J. Samson; Jules de Wailly				True			Reg003372
+standardpost	False	NovelsPlaysTales	Peer Gynt		H. Ibsen				True			Reg002667
+standardpost	False	NovelsPlaysTales	Pernilles korte Frøkenstand		L. Holberg				True			Reg002674
+standardpost	False	NovelsPlaysTales	El perro del castello	César ou Le chien du château	E. Scribe; A. F. Varner				True			Reg001045
+standardpost	False	NovelsPlaysTales	Les Petits mystères de Paris		D. Chs. Dupeuty; Eug. Cormon				True			Reg002131
+standardpost	False	NovelsPlaysTales	Phèdre		Jean Racine				True			Reg002685
+standardpost	False	NovelsPlaysTales	Philoktet		A. Schöll				True			Reg002683
+standardpost	False	NovelsPlaysTales	Die Piccolomini		Fr. von Schiller				True			Reg000905
+standardpost	False	NovelsPlaysTales	Le pied de mouton		Martainville; Ribié		Mefistofeles (Ballet)		True			Reg002098
+standardpost	False	NovelsPlaysTales	Les Pilules du Diable		F. Laloue; Bourgeois; Laurent				True			Reg002132
+standardpost	False	NovelsPlaysTales	Politiet		Lockroy; Rosier				True			Reg002707
+standardpost	False	NovelsPlaysTales	Den politiske Kandestøber		L. Holberg				True			Reg000747
+standardpost	False	NovelsPlaysTales	Le Poltron		J. F. A. Bayard; Alphonse; Regnault				True			Reg002084
+standardpost	False	NovelsPlaysTales	Polyeucte		Pierre Corneille				True			Reg002711
+standardpost	False	NovelsPlaysTales	Portraitet		H. Hertz				True			Reg002718
+standardpost	False	NovelsPlaysTales	Ein Posse als Medizin		Friedr. Kaiser				True			Reg001028
+standardpost	False	NovelsPlaysTales	Pottemager Walter		J. L. Hedberg				True			Reg002724
+standardpost	False	NovelsPlaysTales	Preciosa		Pius Alexander Wolff				True			Reg002729
+krydshenvisning	False	NovelsPlaysTales	Prindsessen i den sovende Skov					To Tidsaldre	True			Reg002734
+standardpost	False	NovelsPlaysTales	Prinz Friedrich von Homburg		Heinrich von Kleist				True			Reg002738
+standardpost	False	NovelsPlaysTales	La Prise de Pékin		Ad. Dennery				True			Reg002002
+standardpost	False	NovelsPlaysTales	Ein Prolog		L. Tieck				True			Reg001029
+standardpost	False	NovelsPlaysTales	Der Prozess		Roderich Benedix				True			Reg000799
+standardpost	False	NovelsPlaysTales	Qvindehævn		C. Hauch				True			Reg002759
+standardpost	False	NovelsPlaysTales	Qvækeren og Dandserinden		E. Scribe; Paul Duport				True			Reg002761
+standardpost	False	NovelsPlaysTales	Rabagas		V. Sardou				True			Reg002763
+standardpost	False	NovelsPlaysTales	Rabbien og Ridderen		M. Goldschmidt				True			Reg002765
+standardpost	False	NovelsPlaysTales	Ravnen		S. Meisling				True		C. Gozzi	Reg002773
+standardpost	False	NovelsPlaysTales	Recensenten og Dyret		J. L. Heiberg				True			Reg002778
+standardpost	False	NovelsPlaysTales	Der rechte Weg		Johann Hutt				True			Reg000835
+standardpost	False	NovelsPlaysTales	Regina Dovagno		J. M. Firmenich-Richartz				True			Reg002780
+standardpost	False	NovelsPlaysTales	Die Reise zur Hochzeit		J. W. Lembert				True			Reg000907
+standardpost	False	NovelsPlaysTales	Et Reise-Eventyr		A. L. Arnesen				True			Reg001213
+standardpost	False	NovelsPlaysTales	Le Retour ou La suite du Michel et Christine		E. Scribe; J. H. Dupin				True			Reg002088
+standardpost	False	NovelsPlaysTales	Richard III		W. Shakespeare				True			Reg002803
+standardpost	False	NovelsPlaysTales	Richards Wanderleben		Johann Georg Kettel				True		det Engelske	Reg002804
+standardpost	False	NovelsPlaysTales	Et rigt Parti		Magdalene Thoresen				True			Reg001221
+standardpost	False	NovelsPlaysTales	Ringen	Nr. 2	George Farquhar, bearbeidet af F. L. Schröder				True			Reg002810
+standardpost	False	NovelsPlaysTales	Roaga		Fr. von Kobell				True			Reg002813
+standardpost	False	NovelsPlaysTales	Robert und Bertram		Gustav Räder				True			Reg002818
+standardpost	False	NovelsPlaysTales	Romantiske Dramer. En Kjøbmands Datter og en Kongesøn. Drømmeren		J. M. Thiele				True			Reg002841
+standardpost	False	NovelsPlaysTales	Romeo e Giulietta		C. A. Warburg				True			Reg002843
+standardpost	False	NovelsPlaysTales	Romeo og Julie		W. Shakespeare				True			Reg002845
+standardpost	False	NovelsPlaysTales	Rosa og Rosita		Clara Andersen				True			Reg002848
+standardpost	False	NovelsPlaysTales	Rose und Röschen		Charlotte Birch-Pfeiffer				True			Reg002850
+standardpost	False	NovelsPlaysTales	Rubens i Madrid		Charlotte Birch-Pfeiffer				True			Reg002856
+standardpost	False	NovelsPlaysTales	La Rue de la Lune		Charles Varin; Boyer				True			Reg002003
+standardpost	False	NovelsPlaysTales	Rübezahl		A. Oehlenschlæger				True			Reg002868
+standardpost	False	NovelsPlaysTales	Die Räuber		Fr. Von Schiller				True			Reg000908
+standardpost	False	NovelsPlaysTales	Røverborgen		A. Oehlenschlæger				True			Reg002864
+standardpost	False	NovelsPlaysTales	Salig Ferdinand		N. Fournier; G. Bondon				True			Reg002920
+standardpost	False	NovelsPlaysTales	Salomon de Caus		Andreas Munch				True			Reg002921
+standardpost	False	NovelsPlaysTales	Samlede Skuespil ved K. L. Rahbek l-IV		P. A. Heiberg				True			Reg002928
+standardpost	False	NovelsPlaysTales	Sankt Sebastian						True			Reg002954
+standardpost	False	NovelsPlaysTales	Sardanapal		Byron				True			Reg002957
+standardpost	False	NovelsPlaysTales	Sappho		Fr. Grillparzer				True			Reg002956
+standardpost	False	NovelsPlaysTales	Scapins Skalkestykker		Molière				True			Reg002962
+standardpost	False	NovelsPlaysTales	Scheik Hassan		H. Hertz				True			Reg002965
+standardpost	False	NovelsPlaysTales	Lo schiavo di S. Domingo [efter V. Hugos Roman Bug Jargal]						True	31.5.1846, Teatro Fiorentini, Napoli		Reg002169
+standardpost	False	NovelsPlaysTales	Das Schloss Limburg		Benott-Joseph Marsollier				True			Reg000608
+standardpost	False	NovelsPlaysTales	Der Schneider und sein Sohn		Thomas Morton				True			Reg000802
+standardpost	False	NovelsPlaysTales	School for Scandal		R. B. Sheridan		Bagtalelsens Skole og Die Lästerschule		True			Reg002968
+standardpost	False	NovelsPlaysTales	Die Schuld		A. Müllner				True			Reg000909
+standardpost	False	NovelsPlaysTales	Die Schule der Verliebten		Karl Blum				True	Karl Blum efter J. Sheridan Knowles: »The Love-Chase«	J. Sheridan Knowles	Reg000910
+standardpost	False	NovelsPlaysTales	Die Schule des Lebens		Ernst Raupach				True			Reg000911
+standardpost	False	NovelsPlaysTales	Die Schärpe und die Blume		Calderón de la Barca				True			Reg000913
+standardpost	False	NovelsPlaysTales	Seer Jer i Speil		Karl Töpfer		Nehmt ein Exempel dran!		True			Reg002977
+krydshenvisning	False	NovelsPlaysTales	Sein Hut					Ein Hut	True			Reg002978
+standardpost	False	NovelsPlaysTales	Die seltsame Ehen		Albin von Meddlhammer				True			Reg000931
+standardpost	False	NovelsPlaysTales	Sie ist verheiratet		Friedrich Kaiser				True			Reg002990
+standardpost	False	NovelsPlaysTales	Sigurd Slembe		Bj. Bjørnson				True			Reg002994
+standardpost	False	NovelsPlaysTales	En Sjæl efter Døden		J. L. Heiberg				True			Reg001113
+standardpost	False	NovelsPlaysTales	Skam til Tak		Leopold Budde				True			Reg003015
+standardpost	False	NovelsPlaysTales	En Skavank		M. Goldschmidt				True			Reg001115
+standardpost	False	NovelsPlaysTales	Skibsværftet		H. Hertz				True			Reg003020
+standardpost	False	NovelsPlaysTales	En Skillevæg		Benedicte Arnesen Kall				True		Calderón	Reg001116
+krydshenvisning	False	NovelsPlaysTales	Den skjønneste Qvinde					Den deiligste Qvinde	True			Reg000752
+standardpost	False	NovelsPlaysTales	Skuespilleren imod sin Villie		Louis A. Dorvigny				True			Reg003030
+standardpost	False	NovelsPlaysTales	En Skærsommernatsdrøm		W. Shakespeare				True			Reg001117
+standardpost	False	NovelsPlaysTales	Slavinden	Cora ou l'esclavage	Erik Bøgh				True		Jules Barbier	Reg003037
+standardpost	False	NovelsPlaysTales	Slouet i Poitou	Mademoiselle de la Seiglière	Jules Sandeau		Mejonkvrouw de La Seiglière		True			Reg003040
+standardpost	False	NovelsPlaysTales	Slægtningerne		Henriette Nielsen				True			Reg003042
+standardpost	False	NovelsPlaysTales	Smeden i Neumark		Wilh. Holst				True			Reg003046
+standardpost	False	NovelsPlaysTales	Der Sohn der Wildnis		Fr. Halm				True			Reg000804
+standardpost	False	NovelsPlaysTales	Der Sohn der Elfen		A. E. Wollheim da Fonseca				True			Reg000803
+standardpost	False	NovelsPlaysTales	Der Sohn der Wildnis	Ørkenens Søn	Fr. Halm		Ørkenens Søn		True			Reg000805
+standardpost	False	NovelsPlaysTales	Sokrates		Ludw. Eckardt				True			Reg003052
+standardpost	False	NovelsPlaysTales	Solaces de un prisionero		Ángel de Saavedra, Hertug af Rivas				True			Reg003053
+standardpost	False	NovelsPlaysTales	Der Soldat ganz allein		I. F. Castelli				True			Reg000808
+standardpost	False	NovelsPlaysTales	Soldaterløier		C. Hostrup				True			Reg003056
+standardpost	False	NovelsPlaysTales	Soldaterne		C. G. H. Arresto				True			Reg003057
+standardpost	False	NovelsPlaysTales	Der Sonnenwendhof		S. H. Mosenthal		En Landsbyhistorie (H. C. Andersen, Sp. 61)		True			Reg000809
+standardpost	False	NovelsPlaysTales	Sonnes Frieri		Ilia Fibiger				True			Reg003064
+standardpost	False	NovelsPlaysTales	Sophie Arnoud		A. de Leuven; De Forges; Ph. Dumanoir				True			Reg003065
+standardpost	False	NovelsPlaysTales	Les Soupers de carneval		Charles Varin; F. A. Duvert; Paul de Kock				True			Reg002134
+standardpost	False	NovelsPlaysTales	Sourde-oreille						True	6.5.1843, Théâtre Comte, Paris		Reg003068
+standardpost	False	NovelsPlaysTales	Sous clé		A. De Forges; Dumanoir; A. de Leuven				True			Reg003069
+standardpost	False	NovelsPlaysTales	Spanisches Theater		A. W. Schlegel				True			Reg003075
+standardpost	False	NovelsPlaysTales	Sparekassen		H. Hertz				True			Reg003077
+standardpost	False	NovelsPlaysTales	Spionen af den fornemme Verden		Th. Andersen				True		de Saint-Georges’	Reg003082
+standardpost	False	NovelsPlaysTales	Språkmästaren	Sproglæreren	Thomasine Gyllembourg				True			Reg003085
+standardpost	False	NovelsPlaysTales	En Spurv i Tranedands		C. Hostrup				True			Reg001119
+standardpost	False	NovelsPlaysTales	Spøg ikke dermed!		Benedicte Arnesen Kall				True		Calderón	Reg003087
+standardpost	False	NovelsPlaysTales	Staberls Reise durch die Luft		A. Bäuerle				True			Reg003093
+standardpost	False	NovelsPlaysTales	Staberls Reiseabenteuer		A. Bäuerle				True			Reg003094
+standardpost	False	NovelsPlaysTales	Statsmand og Borger		E. Scribe				True			Reg003099
+standardpost	False	NovelsPlaysTales	Stevnemødet i Ermelunden		Erik Bøgh				True		Dumanoir	Reg003104
+standardpost	False	NovelsPlaysTales	Stormen		W. Shakespeare		The Tempest		True			Reg003112
+standardpost	False	NovelsPlaysTales	Stradella		J. Davidsen				True		det franske	Reg003116
+standardpost	False	NovelsPlaysTales	Der Streichmacher		Karl Meisl				True			Reg000811
+standardpost	False	NovelsPlaysTales	Struensee		Heinrich Laube				True			Reg003120
+standardpost	False	NovelsPlaysTales	Struensee		H. J. Schimmel				True			Reg003119
+standardpost	False	NovelsPlaysTales	Stuen og første Sal		J. N. Nestroy				True			Reg003127
+standardpost	False	NovelsPlaysTales	Den Stundesløse		L. Holberg				True			Reg000682
+standardpost	False	NovelsPlaysTales	Stærkodder		A. Oehlenschlæger				True			Reg003128
+standardpost	False	NovelsPlaysTales	Le Succès		F. A. Harel				True			Reg002089
+krydshenvisning	False	NovelsPlaysTales	La Suite du Michel et Christine					Le Retour	True			Reg002006
+standardpost	False	NovelsPlaysTales	Sullivan		Mélesville				True			Reg003129
+standardpost	False	NovelsPlaysTales	Svanehammen		H. Hertz				True			Reg003138
+standardpost	False	NovelsPlaysTales	Et Svar		J. Krohn				True			Reg001215
+standardpost	False	NovelsPlaysTales	Svend Dyrings Huus		H. Hertz				True			Reg003140
+standardpost	False	NovelsPlaysTales	Svogeren fra Californien		H. Hertz				True			Reg003146
+standardpost	False	NovelsPlaysTales	Swenska Sprätthöken		Karl Gyllenborg				True			Reg003147
+standardpost	False	NovelsPlaysTales	Sylvesternat		Charlotte Birch-Pfeiffer				True			Reg003149
+standardpost	False	NovelsPlaysTales	Syv militaire Piger		L. Angely				True		Francis, Armand og Théaulon	Reg003157
+standardpost	False	NovelsPlaysTales	Syvsoverdag		J. L. Heiberg				True			Reg003158
+standardpost	False	NovelsPlaysTales	En Søndag paa Amager		Johanne Luise Heiberg				True			Reg001124
+standardpost	False	NovelsPlaysTales	Søstrene paa Kinnekullen		C. Hauch				True			Reg003173
+standardpost	False	NovelsPlaysTales	T. F. oder der Enthusiast		L. M. Erich				True			Reg003178
+standardpost	False	NovelsPlaysTales	Ein Tag Carl Stuart des Zweiten		J. B. Zahlhas				True			Reg001031
+standardpost	False	NovelsPlaysTales	Der Tagesbefehl		Karl Töpfer				True			Reg000812
+standardpost	False	NovelsPlaysTales	Tak!		Erik Bøgh				True			Reg003180
+standardpost	False	NovelsPlaysTales	Der Talisman		J. N. Nestroy				True			Reg000813
+standardpost	False	NovelsPlaysTales	En Tantes Ideer		Henri Nicolle				True			Reg001125
+standardpost	False	NovelsPlaysTales	Tanto vales cuanto tienes		Ángel de Saavedra, Hertug af Rivas				True			Reg003188
+standardpost	False	NovelsPlaysTales	Tartuffe		Molière				True			Reg003190
+standardpost	False	NovelsPlaysTales	Das Taschenbuch		A. von Kotzebue				True			Reg000609
+standardpost	False	NovelsPlaysTales	Une Tasse du thé		Charles Nuitter; Joseph Derley				True			Reg003382
+standardpost	False	NovelsPlaysTales	The Tempest		W. Shakespeare		Stormen		True			Reg003229
+standardpost	False	NovelsPlaysTales	Tempora mutantur, oder Die gestrengen Herren		Karl Blum				True			Reg003197
+standardpost	False	NovelsPlaysTales	Ho thanatos tou Markou Botzare		Theodoras Alkaios				True			Reg001614
+standardpost	False	NovelsPlaysTales	Théâtre complet		Alfred de Vigny				True			Reg003244
+standardpost	False	NovelsPlaysTales	Thomas Thyrnau		Charlotte Birch-Pfeiffer				True			Reg003234
+standardpost	False	NovelsPlaysTales	Tiderne skifte		Fr. Paludan-Müller				True			Reg003249
+standardpost	False	NovelsPlaysTales	Til Sæters		C. P. Riis				True			Reg003263
+standardpost	False	NovelsPlaysTales	De to Armringe	= Landet fundet og forsvundet, 1. Akt	A. Oehlenschlæger				True			Reg000653
+standardpost	False	NovelsPlaysTales	To Cousiner		E. F. Koch				True			Reg003279
+standardpost	False	NovelsPlaysTales	To Søstre		Ilia Fibiger				True			Reg003286
+standardpost	False	NovelsPlaysTales	To Tidsaldre eller Prindsessen i den sovende Skov		Octave Feuillet				True			Reg003287
+standardpost	False	NovelsPlaysTales	Tonietta		H. Hertz				True			Reg003292
+standardpost	False	NovelsPlaysTales	Tordenskjold i Marstrand		Carit Etlar				True			Reg003295
+standardpost	False	NovelsPlaysTales	Tordenveir		C. Hostrup				True			Reg003296
+standardpost	False	NovelsPlaysTales	Touboulic-le-Cruel		A. Decomberousse				True			Reg003304
+standardpost	False	NovelsPlaysTales	Le Tour de Nesle		A. Dumas père				True			Reg002090
+standardpost	False	NovelsPlaysTales	En Tour til Armeen		H. P. Holst				True			Reg001128
+standardpost	False	NovelsPlaysTales	Touristen i Nordsjælland		Studenterforestilling 4.4.1868 i Casino				True			Reg003305
+standardpost	False	NovelsPlaysTales	Il tratto						True	18.2.1841, Teatro Aliberti, Rom		Reg001722
+standardpost	False	NovelsPlaysTales	Das Trauerspiel in Tirol		K. Immermann				True			Reg000610
+standardpost	False	NovelsPlaysTales	Tre Dage i Padua		H. Hertz				True			Reg003310
+standardpost	False	NovelsPlaysTales	De tre Musketerer		M. W. Brun				True			Reg000659
+standardpost	False	NovelsPlaysTales	l tre negozianti da ligne						True	4.3.1841, Teatro Carlino, Napoli		Reg003585
+standardpost	False	NovelsPlaysTales	De tre Policineller		Le tre pulcinelle				True	7.1.1841, Teatro della Pace, Rom		Reg000660
+standardpost	False	NovelsPlaysTales	Den trekantede Hat		Villiam Faber				True			Reg000762
+standardpost	False	NovelsPlaysTales	Les trois Catherines		Paul Duport				True			Reg002137
+standardpost	False	NovelsPlaysTales	Turandot		Carlo Gozzi				True			Reg003334
+standardpost	False	NovelsPlaysTales	Tycho Brahes Ungdom		C. Hauch				True			Reg003338
+standardpost	False	NovelsPlaysTales	Et ubekjendt Mesterværk		Charles Lafont				True			Reg001222
+standardpost	False	NovelsPlaysTales	Ude og hjemme		Bayard; de Wailly				True			Reg003355
+standardpost	False	NovelsPlaysTales	Uden Hoved og Hale		L. Holberg				True			Reg003357
+standardpost	False	NovelsPlaysTales	Ulysses von Ithacia		L. Holberg				True			Reg003371
+standardpost	False	NovelsPlaysTales	Uncle John		John Baldwin Buckstone				True			Reg003376
+standardpost	False	NovelsPlaysTales	Under Revolutionen		Paul Marcussen				True		Alex. Dumas og Maquct	Reg003378
+standardpost	False	NovelsPlaysTales	En ung flickas dagbok		Eugene Cormon; Grangé				True			Reg001143
+standardpost	False	NovelsPlaysTales	Unge Mennesker		Léon Laya				True			Reg003387
+standardpost	False	NovelsPlaysTales	De Unges Forbund		H. Ibsen				True			Reg000627
+standardpost	False	NovelsPlaysTales	De Usynlige		L. Holberg				True			Reg000628
+standardpost	False	NovelsPlaysTales	Val och qval		P. Siraudin; Th. de Langeac				True			Reg003393
+standardpost	False	NovelsPlaysTales	Valbygaasen		Erik Bøgh				True			Reg003394
+standardpost	False	NovelsPlaysTales	Die Valentine		Gustav Freytag				True			Reg000916
+standardpost	False	NovelsPlaysTales	Valérie		E. Scribe; Mélesville				True			Reg003403
+standardpost	False	NovelsPlaysTales	Valeur & Compagnie		Bayard; Devorme				True			Reg003396
+standardpost	False	NovelsPlaysTales	Valgerda		J. L. Heiberg				True			Reg003398
+standardpost	False	NovelsPlaysTales	Ved Dannevirke		H. P. Holst				True			Reg003409
+standardpost	False	NovelsPlaysTales	La Vendetta		Ph. Fr. P. Dumanoir; Paul Siraudin				True			Reg002008
+standardpost	False	NovelsPlaysTales	Verbrechen aus Ehrsucht		A. W. Iffland				True			Reg003440
+standardpost	False	NovelsPlaysTales	Vermländingarne		Frederik August Dahlgren				True			Reg003443
+standardpost	False	NovelsPlaysTales	Une Verre d'eau		E. Scribe		Et Glas Vand		True			Reg003383
+standardpost	False	NovelsPlaysTales	Der Verschwender		Ferd. Raimund				True			Reg000817
+standardpost	False	NovelsPlaysTales	Der verwünschene Prinz		A. Bäuerle				True			Reg000836
+standardpost	False	NovelsPlaysTales	Die verwünschte Prinzessin		Gustav Räder				True			Reg000933
+standardpost	False	NovelsPlaysTales	Et Vidunder		P. Chievitz; A. Recke				True		Varin og de Biéville	Reg001216
+standardpost	False	NovelsPlaysTales	Viel Lärmen um nichts	Much Ado about Nothing	W. Shakespeare				True			Reg003452
+standardpost	False	NovelsPlaysTales	Et Vinter-Eventyr		W. Shakespeare				True			Reg001217
+standardpost	False	NovelsPlaysTales	Viola oder Was lhr wollt	Twelfth-Night	W. Shakespeare				True			Reg003460
+standardpost	False	NovelsPlaysTales	Voilà la chose		Ernest Blum; Alex. Flan				True			Reg003467
+standardpost	False	NovelsPlaysTales	Die Vorleserin	La lectrice	J. F. A. Bayard				True			Reg000917
+standardpost	False	NovelsPlaysTales	Eine vornehme Ehe		Octave Feuillet				True			Reg001037
+standardpost	False	NovelsPlaysTales	Der Vorsatz		Franz von Holbein				True			Reg000818
+standardpost	False	NovelsPlaysTales	Voyage entre ciel et terre		Felix-Auguste Duvert; Augustin; Théodore Lauzanne de Vauroussel; Paul Duport				True			Reg003475
+standardpost	False	NovelsPlaysTales	De Vrouwe van Waardenburg		Jacob van Lennep				True			Reg000630
+standardpost	False	NovelsPlaysTales	De Vrouwenhoeden		J. Both J. Jzn.				True		det Franske	Reg000631
+standardpost	False	NovelsPlaysTales	Den Vægelsindede		L. Holberg				True			Reg000684
+standardpost	False	NovelsPlaysTales	Væringerne i Miklagard		A. Oehlenschlæger				True			Reg003477
+standardpost	False	NovelsPlaysTales	Le Wagon des dames		Clairville; O. Gastineau				True			Reg002092
+standardpost	False	NovelsPlaysTales	Die Waise aus Lowood		Charlotte Birch-Pfeiffer				True			Reg000918
+standardpost	False	NovelsPlaysTales	Wallenstein		Fr. von Schiller				True			Reg003481
+standardpost	False	NovelsPlaysTales	Wallensteins Lager		Fr. von Schiller				True			Reg003482
+standardpost	False	NovelsPlaysTales	Wallensteins Tod		Fr. von Schiller				True			Reg003483
+krydshenvisning	False	NovelsPlaysTales	Was Ihr wollt (W. Shakespeare)					Viola	True			Reg003488
+standardpost	False	NovelsPlaysTales	Der Weiberfeind		R. Benedix				True			Reg000822
+standardpost	False	NovelsPlaysTales	Die weisse Pekésche		Karl Töpfer				True			Reg000934
+standardpost	False	NovelsPlaysTales	Ein weisser Othello	Un Tigre de Bengale	Wilh. Friedrich				True		Ed. Brisebarre	Reg001035
+standardpost	False	NovelsPlaysTales	Wer iszt mit?		W. Friedrich				True		Desaugiers	Reg003494
+standardpost	False	NovelsPlaysTales	Werner oder Herz und Welt		Karl Gutzkow				True			Reg003496
+standardpost	False	NovelsPlaysTales	Der Widerspenstigen Zähmung	Taming of the Shrew	W. Shakespeare				True			Reg000823
+standardpost	False	NovelsPlaysTales	Die Wiener in Berlin		Karl von Holtei				True			Reg000919
+standardpost	False	NovelsPlaysTales	Die Wiener in Paris		Karl von Holtei				True			Reg000920
+standardpost	False	NovelsPlaysTales	Wilhelm Tell		Fr. von Schiller				True			Reg003504
+standardpost	False	NovelsPlaysTales	William Shakespeare		C. J. Boye				True			Reg003509
+standardpost	False	NovelsPlaysTales	Über allen Zauber Liebe		Calderón de la Barca				True			Reg003703
+standardpost	False	NovelsPlaysTales	Yelva		Scribe; de Villeneuve; Desvergers				True			Reg003516
+standardpost	False	NovelsPlaysTales	Den Yngste		H. Hertz				True			Reg000685
+standardpost	False	NovelsPlaysTales	Yrsa		A. Oehlenschlæger				True			Reg003517
+standardpost	False	NovelsPlaysTales	Zar Fedor Iwanowitsch		Alexej Tolstoj				True			Reg003520
+standardpost	False	NovelsPlaysTales	Zopf und Schwert		Karl Gutzkow				True			Reg003530
+standardpost	False	NovelsPlaysTales	Der Zunftmeister von Nürnberg		Oskar Redwitz				True			Reg000826
+standardpost	False	NovelsPlaysTales	Die zwei Ärzte		Alexander Baumann				True			Reg000935
+standardpost	False	NovelsPlaysTales	Ægteskabspolitik		A. Thornam				True			Reg003687
+standardpost	False	NovelsPlaysTales	Ørkenens Søn		Fr. Halm		Der Sohn der Wildnis		True			Reg003700
+standardpost	False	NovelsPlaysTales	Østergade og Vestergade		Th. Overskou				True			Reg003702
+standardpost	False	NovelsPlaysTales	A Trambiâch'l kaffa?		J.G. Seidl				True	Tekst		Reg000125
+standardpost	False	NovelsPlaysTales	Abels Død		Fr. Paludan-Müller				True			Reg000140
+standardpost	False	NovelsPlaysTales	»Ack, du min moder -«	Fredmans Epistel nr. 23	C.M. Bellman				True			Reg003592
+standardpost	False	NovelsPlaysTales	Adam Homo - Første Deel:		Fr.Paludan-Müller				True			Reg000148
+standardpost	False	NovelsPlaysTales	Adonis		Fr. Paludan-Müller				True			Reg000154
+krydshenvisning	False	NovelsPlaysTales	Adonis (Shakespeare)					Venus and Adonis	True			Reg000155
+standardpost	False	NovelsPlaysTales	Aftenridt		Anonymt Digt; For Romantik; Historie 1874				True			Reg000166
+standardpost	False	NovelsPlaysTales	Agnete og Havmanden		Folkevise				True			Reg000170
+standardpost	False	NovelsPlaysTales	Album poétique		Henri Blanvalet				True			Reg000183
+standardpost	False	NovelsPlaysTales	Allemannische Gedichte		J. P. Hebel				True			Reg000194
+standardpost	False	NovelsPlaysTales	Als sie starb		I. F. Castelli				True			Reg000200
+standardpost	False	NovelsPlaysTales	Altschottische und altenglische Volksballaden		W. Von Dönniges				True			Reg000206
+standardpost	False	NovelsPlaysTales	Anm Schillertage		Emanuel Geibel				True			Reg000228
+standardpost	False	NovelsPlaysTales	Amaranth		Oscar von Redwitz				True			Reg000208
+standardpost	False	NovelsPlaysTales	Amor als Landschaftsmaler		J. W. von Goethe				True			Reg000212
+standardpost	False	NovelsPlaysTales	Amor, der blinde Passagier	Heimkehr, LXVII	H. Heine				True			Reg000217
+standardpost	False	NovelsPlaysTales	Amors Vinger		F. L. Høedt				True			Reg000220
+standardpost	False	NovelsPlaysTales	An die Freude		Fr. von Schiller				True			Reg000224
+standardpost	False	NovelsPlaysTales	Andreas und Marfa		F. M. Bodenstedt				True			Reg000226
+standardpost	False	NovelsPlaysTales	I'Ange et l'enfant		Jean Reboul				True			Reg001706
+standardpost	False	NovelsPlaysTales	Ann' Marie		Michael Rosing				True			Reg000230
+standardpost	False	NovelsPlaysTales	Arnljot Gelline		Bj. Bjørnson				True			Reg000265
+standardpost	False	NovelsPlaysTales	Atta Troll		H. Heine				True			Reg000275
+standardpost	False	NovelsPlaysTales	Auf den Tod eines reichen Biedermannes, meines unvergesslichen Freundes		I. F. Castelli				True			Reg000277
+standardpost	False	NovelsPlaysTales	Bacchus		Bernhard Wolff				True			Reg000289
+standardpost	False	NovelsPlaysTales	Barnligheten	»Lilla Clara, förebrå ej mig -«	Michael Choræus				True			Reg000314
+standardpost	False	NovelsPlaysTales	Beatrice		Fr. Paludan-Müller				True			Reg000317
+standardpost	False	NovelsPlaysTales	Det befriede Jerusalem		Torquato Tasso				True			Reg000843
+standardpost	False	NovelsPlaysTales	Bluettes et boutades		J. Petit-Senn				True			Reg000369
+standardpost	False	NovelsPlaysTales	Het Boek Job		J. J. L. ten Kate				True			Reg001587
+standardpost	False	NovelsPlaysTales	[Bønskrift til Kejser Franz om at beholde Hatten paa, naar Folk hilser ham paa Gaden]		I. F. Castelli				True			Reg003534
+standardpost	False	NovelsPlaysTales	Cantate ved Christopher Sødring og Julie Sødring, f. Rosenkildes Sølvbryllupsfest		Nicolaj Bøgh				True			Reg000443
+standardpost	False	NovelsPlaysTales	Cantate ved Indvielsen af Studenterforeningsbygningen		Chr. Richardt				True			Reg000445
+standardpost	False	NovelsPlaysTales	Chants populaires du Nord		Xavier Marmier				True			Reg000470
+standardpost	False	NovelsPlaysTales	Childe Harold's Pilgrimage [Ͻ: Ritter Harolds Pilgerfahrt, übers, v. Zedlitz]		Byron				True			Reg000475
+standardpost	False	NovelsPlaysTales	Dania. Eine Auswahl dänischer Gedichte im Versmasse der Originale übersetzt von Emanuel Bendix. Zweite Auflage. Berlin 1875						True			Reg000569
+standardpost	False	NovelsPlaysTales	»De oudheid verhaalt ons van menschen, wier zielen -«		J. P. Hasebroek	Nieuwe Winde-Kelken			True			Reg003607
+inferred_container	False	NovelsPlaysTales	Nieuwe Winde-Kelken		J. P. Hasebroek				False			
+standardpost	False	NovelsPlaysTales	»Deilig er Jorden -«		B. S. Ingemann				True			Reg003608
+standardpost	False	NovelsPlaysTales	»Den Wåg här rusar fram, till ärestod du får -«		B. Lidner				True	Tekst		Reg003610
+standardpost	False	NovelsPlaysTales	»Der er et yndigt Land -«		A. Oehlenschlæger				True			Reg003614
+standardpost	False	NovelsPlaysTales	Des Deutschen Vaterland	»Was ist dem Deutschen Vaterland?«	Ernst Moritz Arndt				True			Reg000838
+standardpost	False	NovelsPlaysTales	Dichtungen . Nach dem Ungarischen, in eigenen wie fremden Uebersetzungcn gesammelt von K. M. Kertbeny		Alex. Petöfi				True			Reg000864
+standardpost	False	NovelsPlaysTales	Dichtungen		J. G. Seidl				True	1844		Reg000863
+standardpost	False	NovelsPlaysTales	Digte af Jens Baggesen. I et Udvalg samlede og udgivne af August Baggesen						True			Reg000940
+standardpost	False	NovelsPlaysTales	[Digte af Ernst von Beaulieu-Marconnay]						True			Reg003544
+standardpost	False	NovelsPlaysTales	Digte		Chr. Ulrich Deichmann				True			Reg000938
+standardpost	False	NovelsPlaysTales	Digteren Hr. Etatsraad H.C. Andersens eget Eventyr, ved Festen i Odense d. 6. December 1867 i 5 Sange af P		Peter E. Petersen				True			Reg000943
+standardpost	False	NovelsPlaysTales	La Divina Commedia		Dante				True			Reg001979
+standardpost	False	NovelsPlaysTales	Drei Tage und drei Farben		Karl Simrock				True			Reg000987
+krydshenvisning	False	NovelsPlaysTales	Det døende Barn (Jean Reboul)					I'Ange et l'enfant	True			Reg000847
+standardpost	False	NovelsPlaysTales	»Ein Bächlein war es und wurde ein Strom -«		Benedikt Morel				True	Tekst		Reg003621
+standardpost	False	NovelsPlaysTales	Eleonore. Ein Lebensbild		Eugène Peschier				True			Reg001047
+standardpost	False	NovelsPlaysTales	Elverkongen og Jomfruen		M. Rosing				True			Reg001056
+standardpost	False	NovelsPlaysTales	»Enge wohnte man sonst, weit war es aber im Herzen -«		Schneer, Nürnberg				True	Tekst		Reg003622
+standardpost	False	NovelsPlaysTales	Erzählende Dichtungen		Alexander Petöfi				True			Reg001187
+standardpost	False	NovelsPlaysTales	»Es ist eine seltsame Sache -«		I. F. Castelli				True			Reg003624
+standardpost	False	NovelsPlaysTales	Eva Homo		Oluf Lundt Bang				True			Reg001231
+standardpost	False	NovelsPlaysTales	Eva Homo - 2. forøgede Udg		Oluf Lundt Bang				True			Reg001232
+standardpost	False	NovelsPlaysTales	Fabeln und Erzählungen		C. F. Gellert				True			Reg001243
+standardpost	False	NovelsPlaysTales	Fem Digte af Theokritos. Ill. af Lorenz Frølich. Oversatte af Sigurd Müller						True	1872		Reg001274
+standardpost	False	NovelsPlaysTales	Les Feuilles d'automne		V. Hugo				True			Reg002120
+standardpost	False	NovelsPlaysTales	Fire Thronarvinger		Nicolaj Bøgh				True			Reg001290
+standardpost	False	NovelsPlaysTales	Der Fischer		J. W. von Goethe				True			Reg000780
+standardpost	False	NovelsPlaysTales	Fordum og nu		Bj. Bjørnson				True			Reg001326
+standardpost	False	NovelsPlaysTales	Formælingen den 28de Juli 1869		Henrik Hertz				True			Reg001327
+standardpost	False	NovelsPlaysTales	Fra »Bragi«. Digte af Svend Trøst [Ͻ: Alfred Ipsen] og Svend Vonved [Ͻ:: Johs. Levinsen]. Randers 1871						True			Reg001356
+standardpost	False	NovelsPlaysTales	Fra min Ungdom		H.P. Holst				True			Reg001354
+standardpost	False	NovelsPlaysTales	Fred eller Krig?		C. Hostrup				True			Reg001370
+standardpost	False	NovelsPlaysTales	Frederiksborg		Chr. K. F. Molbech				True			Reg001378
+standardpost	False	NovelsPlaysTales	Frelst		M. Rosing				True			Reg001380
+standardpost	False	NovelsPlaysTales	Frithiofs Saga		E. Tegnér				True			Reg001391
+standardpost	False	NovelsPlaysTales	Fänrik Ståls sägner		J. L. Runeberg				True			Reg001405
+standardpost	False	NovelsPlaysTales	Gaadebrev - Svar paa Gaadebrev	15.2.1863	Erik Bøgh				True	22.2.1863		Reg001408
+standardpost	False	NovelsPlaysTales	Gedichte, 2. Auflage 1834		Adelbert von Chamisso				True			Reg001431
+standardpost	False	NovelsPlaysTales	Gedichte		Annette von Droste-Hülshoff				True	1844		Reg001427
+standardpost	False	NovelsPlaysTales	Gedichte		Ferd. Freiligrath				True			Reg001428
+standardpost	False	NovelsPlaysTales	Gedichte		Emanuel Geibel				True	1840		Reg001426
+standardpost	False	NovelsPlaysTales	Gedichte in niederösterreichischer Mundart		I. F. Castelli				True			Reg001429
+standardpost	False	NovelsPlaysTales	Gedichte in pfälziseher Mundart. 3. Aufl		Franz von Kobell				True			Reg001430
+standardpost	False	NovelsPlaysTales	Gedichte, ältere und neuere		Fr. von Pechlin				True	1842		Reg001432
+standardpost	False	NovelsPlaysTales	Giengangeren og han selv, eller Baggesen over Baggesen		J. Baggesen				True			Reg001449
+standardpost	False	NovelsPlaysTales	Giv Tid!		B.S. Ingemann				True			Reg001457
+standardpost	False	NovelsPlaysTales	Gjenganger-Breve		Henrik Hertz				True			Reg001459
+standardpost	False	NovelsPlaysTales	Grabschrift auf meinen Hund		I. F. Castelli				True			Reg001473
+standardpost	False	NovelsPlaysTales	Den grimme Ælling. Eventyr af H. C. Andersen. Fortalt paa Vers af den 14-aarige Peder Jacobsen i Flemløse		Assens Avis 1872 Nr. 85-88; 3.5.; 5.5.; 6.5.; 8.5.				True			Reg000714
+standardpost	False	NovelsPlaysTales	»Guds Fred er meer end Engle-Vagt«		N. F. S. Grundtvig; sunget ved hans Bisættelse 11.9.1872				True			Reg003632
+standardpost	False	NovelsPlaysTales	Guldæblet		B.S. Ingemann				True			Reg001505
+standardpost	False	NovelsPlaysTales	»Göta kom i dans från Seves fjällar -«		Esaias Tegnér				True	Tekst		Reg003633
+standardpost	False	NovelsPlaysTales	Hans og Trine	Af Scener i Rosenborg Slotshave	Poul Møller				True			Reg001535
+standardpost	False	NovelsPlaysTales	Hausschatz der Volkspoesie		Bernhard Wolff				True			Reg001538
+standardpost	False	NovelsPlaysTales	Hávamál						True			Reg001674
+standardpost	False	NovelsPlaysTales	Heide, Gylfes dotter		Karl XV				True			Reg001543
+standardpost	False	NovelsPlaysTales	Heidenröslein		J. W. von Goethe				True			Reg001544
+standardpost	False	NovelsPlaysTales	Helge		A. Oehlenschlæger				True			Reg001554
+standardpost	False	NovelsPlaysTales	Den hemmelighedsfulde Port		B. S. Ingemann				True			Reg000727
+standardpost	False	NovelsPlaysTales	Henimod Aften ved Rom	Efter et Maleri af Küchler	H. Hertz				True			Reg001558
+standardpost	False	NovelsPlaysTales	»Herlige Hav -«		Havfruens første Sang af Fortællingen De Underjordiske, B. S. Ingemann				True			Reg003635
+standardpost	False	NovelsPlaysTales	Herr Karl eller klosterrovet		Geijer; Afzelius				True	Geijer og Afzelius: Svenska folkvisor Nr. 26		Reg001579
+standardpost	False	NovelsPlaysTales	Hiawatha se: The Song of Hiawatha		H. W. Longfellow				True			Reg001591
+standardpost	False	NovelsPlaysTales	Holmens faste Stok		Adolph Recke				True			Reg001626
+standardpost	False	NovelsPlaysTales	Hr. Sverkel		Abrahamson; Nyerup; Rahbek				True	Abrahamson, Nyerup og Rahbek: Udvalgte danske Viser fra Middelalderen Nr. CLV		Reg001638
+standardpost	False	NovelsPlaysTales	Hälsning till Danmark		Carl Fredrik Ridderstad				True			Reg001675
+standardpost	False	NovelsPlaysTales	Hundrede Digte efter det Engelske		C. Preetzmann				True	Pseudonym: Caralis		Reg001651
+standardpost	False	NovelsPlaysTales	Hyrden og Slangen		Rudolph Schmidt				True			Reg001671
+standardpost	False	NovelsPlaysTales	»l denne Bog, hvor alt et Hold -«:	I Wilhelmine Sonnleithners Stambog	Henrik Hertz				True	Tekst		Reg003682
+standardpost	False	NovelsPlaysTales	I Ny og Næ		Vilhelm Bergsøe				True			Reg001691
+standardpost	False	NovelsPlaysTales	I Nød og Fare		Chr. Richardt				True			Reg001693
+krydshenvisning	False	NovelsPlaysTales	»I Snee staaer Urt og Busk i Skjul -« (Af »Huldregaverne«) (B. S. Ingemann)					Giv Tid!	True			Reg003643
+standardpost	False	NovelsPlaysTales	I Sorg og i Glæde		Benedicte Arnesen Kall				True			Reg001698
+standardpost	False	NovelsPlaysTales	Iliaden		Homeros				True			Reg001726
+standardpost	False	NovelsPlaysTales	In der Fürstengruft zu Weimar am 29. Jan. 1846		Hermann Rollett				True			Reg001739
+standardpost	False	NovelsPlaysTales	Ja og Nei eller Den hurtige Frier		J. Baggesen				True			Reg001767
+standardpost	False	NovelsPlaysTales	Jacob og Lone		Chr. Winther				True			Reg001769
+standardpost	False	NovelsPlaysTales	Die Jobsiade		Karl Arnold Kortum				True			Reg000886
+standardpost	False	NovelsPlaysTales	En Julegave i Sang fra Gamle og Unge, samlet af Vilhelm Gregersen						True			Reg001091
+standardpost	False	NovelsPlaysTales	Keed af Verden, og kier ad Himmelen	»Far, Verden, far vel -«	Thomas Kingo				True			Reg001886
+standardpost	False	NovelsPlaysTales	Kirkeklokken i Farum		C. J. Boye				True			Reg001893
+standardpost	False	NovelsPlaysTales	Klintekorset		O. C. Lund				True			Reg001910
+standardpost	False	NovelsPlaysTales	Klokken		Fr. von Schiller	Das Lied von der Glocke			True			Reg001913
+inferred_container	False	NovelsPlaysTales	Das Lied von der Glocke		Fr. von Schiller				False			
+standardpost	False	NovelsPlaysTales	Klänge und Bilder aus Ungarn		J. N. Vogl				True			Reg001916
+standardpost	False	NovelsPlaysTales	»Kong Christian stod ved høien Mast -«		Johs. Ewald				True			Reg003651
+standardpost	False	NovelsPlaysTales	Die Kraniche des Ibykus		Fr. Von Schiller				True			Reg000889
+standardpost	False	NovelsPlaysTales	Der Kreuzschnabel		Julius Mosen				True			Reg000790
+standardpost	False	NovelsPlaysTales	Et Kys		C. Ploug				True			Reg001210
+standardpost	False	NovelsPlaysTales	The Lady of the Lake		W. Scott				True			Reg003213
+standardpost	False	NovelsPlaysTales	Lalla Rookh . Übers. von Fr. von Pechlin		Thomas Moore				True			Reg002030
+standardpost	False	NovelsPlaysTales	Last Poems		Elisabeth Barrett Browning				True			Reg002045
+standardpost	False	NovelsPlaysTales	Lay of the Last Minstrel		W. Scott				True			Reg002050
+standardpost	False	NovelsPlaysTales	Lebensfahrt	»Ein Lachen und Singen -«	H. Heine				True			Reg002100
+standardpost	False	NovelsPlaysTales	Die Legende von hl. Katharina		Luise von Bornstedt				True			Reg000893
+standardpost	False	NovelsPlaysTales	Het lelijke jonge eendtjen Andersen naverteld		J. J. L. ten Kate				True		HCA	Reg001589
+standardpost	False	NovelsPlaysTales	Lenore		G. A. Bürger				True			Reg002102
+standardpost	False	NovelsPlaysTales	Das Lied von der Glocke		Fr. von Schiller				True			Reg000599
+standardpost	False	NovelsPlaysTales	Lieder eines Malers mit Randzeichnungen seiner Freunde		Robert Reinick				True			Reg002147
+standardpost	False	NovelsPlaysTales	Lieder und Bilder. Deutsche Dichtungen mit Randzeichnungen deutscher Künstler		Düsseldorf, Buddeus' Forlag				True			Reg002149
+krydshenvisning	False	NovelsPlaysTales	»Lille Clara, var ei vred paa mig«					Barnligheten	True			Reg003653
+standardpost	False	NovelsPlaysTales	Lucifers Fald		Fr. Paludan-Müller				True			Reg002185
+standardpost	False	NovelsPlaysTales	Lusiaderne		Luis de Camões				True			Reg002198
+standardpost	False	NovelsPlaysTales	Lyriske Digte og Romancer		C. Hauch				True			Reg002210
+standardpost	False	NovelsPlaysTales	Løveridderen		A. Oehlenschlæger				True			Reg002220
+standardpost	False	NovelsPlaysTales	Løvfrøen. - Græshopperne drage forbi	Af Vintergrønt	Vilhelm Bergsøe				True			Reg002221
+krydshenvisning	False	NovelsPlaysTales	Marfé (F. M. Bodenstedt)					Andreas und Marfa	True			Reg002298
+standardpost	False	NovelsPlaysTales	Mazeppa		Byron				True			Reg002353
+standardpost	False	NovelsPlaysTales	Melusine		Theodor Apel				True			Reg002371
+standardpost	False	NovelsPlaysTales	Der Messias		F. G. Klopstock				True			Reg000795
+standardpost	False	NovelsPlaysTales	Mindesang over de Faldne	»Slumrer sødt i Slesvigs Jord -«	H. P. Holst				True			Reg002400
+standardpost	False	NovelsPlaysTales	Modersmaalet		N. F. S. Grundtvig				True			Reg002422
+standardpost	False	NovelsPlaysTales	El Moro exposito		Ángel de Saavedra, Hertug af Rivas				True			Reg001040
+standardpost	False	NovelsPlaysTales	Mythologiske Digte		Fr. Paludan-Müller				True			Reg002448
+standardpost	False	NovelsPlaysTales	Nachklänge der alten Geschichte, verhallend bis in die Neuzeit		Fr. von Pechlin				True			Reg002462
+standardpost	False	NovelsPlaysTales	Naturen og Kunsten		H. Hertz				True			Reg002482
+standardpost	False	NovelsPlaysTales	Nieuwe Winde-Kelken		J. P. Hasebroek				True			Reg002509
+standardpost	False	NovelsPlaysTales	Nogle Digte		S. Schandorph				True			Reg002520
+standardpost	False	NovelsPlaysTales	Nordens Signaler		H. Ibsen				True			Reg002524
+standardpost	False	NovelsPlaysTales	Norgesreisen		A. Oehlenschlæger				True			Reg002527
+standardpost	False	NovelsPlaysTales	The North and the South		Elisabeth Barrett Browning				True			Reg003220
+standardpost	False	NovelsPlaysTales	»Nu rinder Solen op af Østerlide - «		Thomas Kingo				True			Reg003661
+standardpost	False	NovelsPlaysTales	Nya dikter		C. R. Nyblom				True			Reg002539
+standardpost	False	NovelsPlaysTales	Nye Digte		J. L. Heiberg				True			Reg002541
+standardpost	False	NovelsPlaysTales	Nye Digte		Fr. Paludan-Müller				True			Reg002540
+standardpost	False	NovelsPlaysTales	Nye Digte af danske Digtere		Chr. Winther				True			Reg002542
+standardpost	False	NovelsPlaysTales	Nye og gamle Viser af og for danske Folk		P. O. Boisen				True			Reg002565
+standardpost	False	NovelsPlaysTales	O, vidste Du bare		Bj. Bjørnson				True			Reg002580
+standardpost	False	NovelsPlaysTales	Oberon		C. M. Wieland				True			Reg002584
+standardpost	False	NovelsPlaysTales	Oder		Q. Horatius Flaccus				True			Reg002590
+standardpost	False	NovelsPlaysTales	Odysseen		Homeros				True			Reg002592
+standardpost	False	NovelsPlaysTales	On Viol and Flute		Edmund W. Gosse				True			Reg002609
+standardpost	False	NovelsPlaysTales	Orlando furioso		L. Ariosto				True			Reg002623
+standardpost	False	NovelsPlaysTales	Ossian		James Macpherson				True			Reg002628
+standardpost	False	NovelsPlaysTales	Peder Paars		L. Holberg				True			Reg002665
+standardpost	False	NovelsPlaysTales	Peters Juul		J. Krohn, ill. af Pietro Krohn				True			Reg002678
+standardpost	False	NovelsPlaysTales	The Pied Piper of Hamelin		R. Browning				True			Reg003221
+standardpost	False	NovelsPlaysTales	P. L. Møller, død den 10. Decbr. 1865		Holger Drachmann				True			Reg002637
+standardpost	False	NovelsPlaysTales	Poems		Humphry William Freeland				True			Reg002700
+standardpost	False	NovelsPlaysTales	Poems		Alice McClure Griffin				True	1871		Reg002699
+standardpost	False	NovelsPlaysTales	Poésies complètes		A. T. de La Tour				True			Reg002725
+standardpost	False	NovelsPlaysTales	Poésies complètes		Alfred de Vigny				True			Reg002726
+standardpost	False	NovelsPlaysTales	Poetical Works		Henry W. Long-fellow				True	1851		Reg002703
+standardpost	False	NovelsPlaysTales	Poetische Versuche		G. K. Pfeffel				True			Reg002704
+standardpost	False	NovelsPlaysTales	Poetischer Hausschatz des deutschen Volkes		Bernhard Wolff				True	Skolebog		Reg002705
+standardpost	False	NovelsPlaysTales	Prentenboek zooder prenten. Vertellingen van de maan. Door J. J. L. ten Kate. Vierde druk						True	1870		Reg002730
+standardpost	False	NovelsPlaysTales	»Presso al Tamigi un fior di Parndiso -«		P.-A. Fiorentino				True	Tekst		Reg003665
+standardpost	False	NovelsPlaysTales	The Prisoner of Chillon		Byron				True			Reg003222
+standardpost	False	NovelsPlaysTales	Prolog	Fremsagt af Jfr. Sønderskou	Carl Bagger				True			Reg002739
+standardpost	False	NovelsPlaysTales	Prolog, fremsagt j Fredags [22.1.1875] i Kasino ved Forestillingen til Indtægt for H. C. Andersens Monument		H. Vilh. Martensen				True			Reg002743
+standardpost	False	NovelsPlaysTales	Prolog og Program	Ved Casinos 25 Aars Jubilæumsforestilling	Erik Bøgh				True			Reg002740
+standardpost	False	NovelsPlaysTales	Prolog til den 50. Opførelse af Svend Dyrings Huus		H. P. Holst				True			Reg002741
+standardpost	False	NovelsPlaysTales	Prolog ved Det kgl. Teaters Aabningsforestilling 15.10.1874		C. Ploug				True			Reg002742
+standardpost	False	NovelsPlaysTales	Quickborn		Klaus Groth				True			Reg002756
+standardpost	False	NovelsPlaysTales	Reineke Fuchs		J. W. von Goethe				True			Reg002781
+standardpost	False	NovelsPlaysTales	Reisedrømmen		B. S. Ingemann				True			Reg002791
+standardpost	False	NovelsPlaysTales	Rimbrev til Fru Julie Sødring		Nicolaj Bøgh				True			Reg002809
+standardpost	False	NovelsPlaysTales	Ritter Toggenburg		Fr. von Schiller				True			Reg002812
+standardpost	False	NovelsPlaysTales	Romanser ur svenska folklifvet jemte några andra diktér		J. G. Carlén				True			Reg002840
+standardpost	False	NovelsPlaysTales	Samlede Digte		Carl Ploug				True	1862		Reg002925
+standardpost	False	NovelsPlaysTales	En Samling Vers		Chr. Winther				True			Reg001112
+standardpost	False	NovelsPlaysTales	The Seasons		James Thomson				True			Reg003226
+standardpost	False	NovelsPlaysTales	Serenaden und Phantasien eines Friesischen Sängers		Harro Harring				True			Reg002983
+standardpost	False	NovelsPlaysTales	Sigrid med Sløret		A. Oehlenschlæger				True			Reg002993
+standardpost	False	NovelsPlaysTales	»Sind wir nicht geplagte Wesen?«	Heinrich von Ofterdingen, 6. Kapitel	Novalis				True			Reg003670
+standardpost	False	NovelsPlaysTales	Sint-Albaan	Af Krekelzangen	W. Bilderdijk				True			Reg003000
+standardpost	False	NovelsPlaysTales	Skabelsen	De Schepping	J. J. L. ten Kate				True			Reg003011
+standardpost	False	NovelsPlaysTales	Skriftemaalet		Henrik Hertz				True			Reg003028
+standardpost	False	NovelsPlaysTales	Slaget ved Fredericia		Carl Ploug				True			Reg003033
+standardpost	False	NovelsPlaysTales	Slaven		Fr. Paludan-Mülller				True			Reg003036
+standardpost	False	NovelsPlaysTales	Smaadigte og Sange		M. Rosing				True			Reg003043
+standardpost	False	NovelsPlaysTales	»Solen gaar bag Aasen ned -«	Sole gaar bak Aasen ne	Aagots Sang af H. A. Bjerregaard				True	Aagots Sang af H. A. Bjerregaard: Fjeldeventyret		Reg003673
+standardpost	False	NovelsPlaysTales	The Song of Hiawatba		H. W. Longfellow				True			Reg003227
+standardpost	False	NovelsPlaysTales	Stellas Kunstindvielse		C. N. David				True			Reg003102
+standardpost	False	NovelsPlaysTales	Svenska folkvisor )		E. G. Geijer; A. A. Afzelius				True			Reg003142
+standardpost	False	NovelsPlaysTales	Søfartens Oprindelse og Virkning		Chr. B. Tullin				True			Reg003166
+standardpost	False	NovelsPlaysTales	Tankebreve fra en Afdød		B. S. Ingemann				True			Reg003183
+standardpost	False	NovelsPlaysTales	Tanker og Tegninger		L. Lund				True			Reg003184
+standardpost	False	NovelsPlaysTales	Den tappre Landsoldat		Peter Faber				True			Reg000760
+standardpost	False	NovelsPlaysTales	Tasso te Rome		J. van Gravenweert				True			Reg003192
+standardpost	False	NovelsPlaysTales	Tassos Klage	The Lament of Tasso	Byron				True			Reg003193
+krydshenvisning	False	NovelsPlaysTales	Tiden er prosaisk (Bj. Bjørnson)					Fordum og nu	True			Reg003247
+standardpost	False	NovelsPlaysTales	Til en vis Mand [Kong Karl XV af Sverrig-Norge]		Chr. Winther				True			Reg003265
+standardpost	False	NovelsPlaysTales	Til Grundtvigs Venner. Rimbrev fra F. L. Grundtvig						True			Reg003252
+standardpost	False	NovelsPlaysTales	Til Kong Frederik VII.s Minde, Studenterforeningen 20.12.1863		Chr. Richardt				True			Reg003255
+standardpost	False	NovelsPlaysTales	Til Nordens Kvinde	»Vi har sagt det saa tidt -«	Mads Hansen				True			Reg003261
+standardpost	False	NovelsPlaysTales	Til Oehlenschläger		Chr. Winther				True			Reg003262
+standardpost	False	NovelsPlaysTales	Till J. P. Miller		C. F. Dahlgren				True			Reg003270
+standardpost	False	NovelsPlaysTales	To Digte af En ung Angelbo	1. Sønderjydsk Sang. 2. Haabets Stjerne	Koldingposten 30.1.1866				True			Reg003280
+standardpost	False	NovelsPlaysTales	Totenkränze		J. C. von Zedlitz				True			Reg003302
+standardpost	False	NovelsPlaysTales	Trinkspruch in einer literarischen Gesellschaft 1831	»O, lasset urs in dieser düstern, bangen Zeit -«	A. von Chamisso				True			Reg003319
+standardpost	False	NovelsPlaysTales	Træsnit		Chr. Winther				True			Reg003331
+standardpost	False	NovelsPlaysTales	Uhyret		Fr. Høegh-Guldberg				True			Reg003368
+standardpost	False	NovelsPlaysTales	Die Ulme zu Hirsau		Ludwig Uhland				True			Reg000915
+standardpost	False	NovelsPlaysTales	Urania über Gott, Unsterblichkeit und Freiheit		C. A. Tiedge				True			Reg003389
+standardpost	False	NovelsPlaysTales	Valkyrien		Fr. Bøgh				True			Reg003400
+standardpost	False	NovelsPlaysTales	[Vandfaldet i Englischer Garten, München]		Moritz Saphir				True			Reg003565
+standardpost	False	NovelsPlaysTales	Vaterlandslied	»Stadt Hamburg, in der Elbe Auen -«	Gemeinnütziger Almanach auf das Jahr 1831				True	Tekst		Reg003408
+standardpost	False	NovelsPlaysTales	Ved H. C. Ørsteds Jordefærd		C. Hauch				True			Reg003410
+standardpost	False	NovelsPlaysTales	Venedig		Nicolaj Bøgh				True			Reg003419
+standardpost	False	NovelsPlaysTales	Venus and Adonis		W. Shakespeare				True			Reg003430
+standardpost	False	NovelsPlaysTales	»Vift stolt paa Codans Bølge -«		B.S. Ingemann				True			Reg003677
+standardpost	False	NovelsPlaysTales	»Vildt Göta störtade från fjällen -«		Esaias Tegnér				True	Tekst		Reg003679
+standardpost	False	NovelsPlaysTales	» Vintern rasat ut bland våra fjällar -«		Herman Sätherberg				True			Reg003591
+standardpost	False	NovelsPlaysTales	Volkslieder der Serben		Therese A. L. von Jacob, g. Robinson				True	Pseudonym: Talvj		Reg003469
+standardpost	False	NovelsPlaysTales	Waldmeisters Brautfahrt		Otto Roquette				True			Reg003480
+standardpost	False	NovelsPlaysTales	Wanderungen durch den Markt des Lebens. Zweites Buch: Wanderung durch den Markt der Ehre		C. A. Tiedge				True			Reg003486
+standardpost	False	NovelsPlaysTales	Winde-Kelken		J. P. Hasebroek				True			Reg003511
+standardpost	False	NovelsPlaysTales	Der Zauberlehrling		J. W. von Goethe				True			Reg000825
+standardpost	False	NovelsPlaysTales	Zigeuner-Mährchen		J. W. von Goethe				True			Reg003525
+standardpost	False	NovelsPlaysTales	Zwölf Gedichte		Alexej Tolstoj				True			Reg003532
+standardpost	False	NovelsPlaysTales	Ældre og nyere Digte		Rudolph Schmidt				True			Reg003688
+standardpost	False	NovelsPlaysTales	Ældre og nyere Digte		Wilhelm Moldenhawer				True	Pseudonym: Vilhelm		Reg003689
+standardpost	False	NovelsPlaysTales	Æneiden		P. Vergilius Maro				True			Reg003691
+standardpost	False	NovelsPlaysTales	Øjeblikkets Børn		Martin Kok				True			Reg003698
+standardpost	False	NovelsPlaysTales	The Academy						True			Reg003199
+standardpost	False	NovelsPlaysTales	Aftenlæsning						True			Reg000165
+standardpost	False	NovelsPlaysTales	Altonaer Wochenblatt						True			Reg000205
+standardpost	False	NovelsPlaysTales	Appleton's Journal						True			Reg000254
+standardpost	False	NovelsPlaysTales	The Athenæeum						True			Reg003201
+standardpost	False	NovelsPlaysTales	The Atlantic						True			Reg003202
+standardpost	False	NovelsPlaysTales	Aunt Judy' s Magazine		Margaret Gatty				True			Reg000279
+standardpost	False	NovelsPlaysTales	Der Bazar						True			Reg000772
+standardpost	False	NovelsPlaysTales	Die Biene						True			Reg000873
+standardpost	False	NovelsPlaysTales	Blätter für literarische Unterhaltung						True			Reg000371
+standardpost	False	NovelsPlaysTales	Børne-Tidende		W. H. Herdahl				True			Reg000426
+standardpost	False	NovelsPlaysTales	Ceres		L. Flamand				True			Reg000465
+standardpost	False	NovelsPlaysTales	Corsaren						True			Reg000547
+standardpost	False	NovelsPlaysTales	Dansk Kirketidende		Niels Lindberg				True			Reg000577
+standardpost	False	NovelsPlaysTales	Dansk Maanedsskrift						True			Reg000578
+standardpost	False	NovelsPlaysTales	Die deutsche Jugend						True			Reg000923
+standardpost	False	NovelsPlaysTales	Didaskalia oder Blätter für Geist, Gemüth und Publizität						True			Reg000865
+standardpost	False	NovelsPlaysTales	The Examiner						True			Reg003207
+standardpost	False	NovelsPlaysTales	Feierstunden. Ein Unterhaltungsblatt für Gebildete aller Stände 1860						True			Reg001270
+standardpost	False	NovelsPlaysTales	Figaro		Robert Watt				True			Reg001287
+standardpost	False	NovelsPlaysTales	Flyvende Blade		Vilhelm Møller				True			Reg001311
+standardpost	False	NovelsPlaysTales	Folkekalender for Danmark						True			Reg001314
+standardpost	False	NovelsPlaysTales	Folkets Nisse						True			Reg001316
+standardpost	False	NovelsPlaysTales	For Idé og Virkelighed		Bj. Bjørnsen; Rasmus Nielsen; Rudolph Schmidt				True			Reg001323
+standardpost	False	NovelsPlaysTales	For Romantik og Historie		H. P. Holst				True			Reg001324
+standardpost	False	NovelsPlaysTales	The Fortnightly Review						True			Reg003208
+krydshenvisning	False	NovelsPlaysTales	Frankfurter Didaskalien					Didaskalia	True			Reg001359
+standardpost	False	NovelsPlaysTales	Fremtidens Nytaarsgave						True			Reg001381
+standardpost	False	NovelsPlaysTales	Gefion, Nytaarsgave for 1826		Johanne Eliza Beyer				True			Reg001435
+standardpost	False	NovelsPlaysTales	Die Gegenwart. Wochenschrift für Literatur, Kunst und öffentl. Leben						True	1875		Reg000879
+standardpost	False	NovelsPlaysTales	Die Grenzboten						True			Reg000880
+standardpost	False	NovelsPlaysTales	Harper's Magazine						True			Reg001537
+standardpost	False	NovelsPlaysTales	Household Pagds		Charles Dickens				True			Reg001630
+standardpost	False	NovelsPlaysTales	Humoristische Blätter		Theodor Kobbe, Oldenburg				True			Reg001647
+standardpost	False	NovelsPlaysTales	The Illustrated London News						True			Reg003211
+standardpost	False	NovelsPlaysTales	L'Illustration						True			Reg001965
+standardpost	False	NovelsPlaysTales	Illustrerad Tidning						True			Reg001728
+standardpost	False	NovelsPlaysTales	Illustreret Børneblad		August Westrup				True			Reg001729
+standardpost	False	NovelsPlaysTales	Illustreret Nyhedsblad 11.9.1864						True			Reg001730
+standardpost	False	NovelsPlaysTales	Illustreret Tidende						True			Reg001731
+krydshenvisning	False	NovelsPlaysTales	Illustreret Tidende (norsk)					Illustreret Nyhedsblad	True			Reg001732
+standardpost	False	NovelsPlaysTales	Illustrirte deutsche Monatshefte						True			Reg001734
+standardpost	False	NovelsPlaysTales	Illustrirte Zeitung						True			Reg001733
+standardpost	False	NovelsPlaysTales	Illustrirter Kalender für die Schweiz						True	1852		Reg001735
+standardpost	False	NovelsPlaysTales	Intelligensblade		J. L. Heiberg				True	1842		Reg001748
+standardpost	False	NovelsPlaysTales	Die Jahreszeiten. Hamburger neue Mode-Zeitung		Ludwig Lenz				True			Reg000885
+standardpost	False	NovelsPlaysTales	Julebog 1874	og 1875	Karl Schmidt				True			Reg001838
+standardpost	False	NovelsPlaysTales	Der Kinderfreund		C. F. Weisze				True			Reg000788
+standardpost	False	NovelsPlaysTales	The Leisure Hour						True			Reg003216
+standardpost	False	NovelsPlaysTales	The Literary Gazette		William Jerdan				True			Reg003217
+standardpost	False	NovelsPlaysTales	Lommebog for Skuespilyndere 1805		Peter Foersom				True			Reg002174
+standardpost	False	NovelsPlaysTales	Læsefrugter, samlede paa Litteraturens Mark		A. F. Elmquist				True			Reg002218
+standardpost	False	NovelsPlaysTales	Maanedsroser		Thomas Overskou				True			Reg002224
+standardpost	False	NovelsPlaysTales	Magazin for Ungdommen		J. Chr. Riise				True			Reg002283
+standardpost	False	NovelsPlaysTales	Magazin für die Literatur des Auslandes						True			Reg002284
+standardpost	False	NovelsPlaysTales	Meyer's Universum		1833-56				True			Reg002384
+standardpost	False	NovelsPlaysTales	Münchener Theater-Journal		Blume				True			Reg002456
+standardpost	False	NovelsPlaysTales	The National Quarterly Review						True			Reg003219
+standardpost	False	NovelsPlaysTales	Det 19. Aarhundrede		Georg; Edvard Brandes				True			Reg000840
+standardpost	False	NovelsPlaysTales	Nord og Syd 14.2.1851		M. Goldschmidt				True			Reg002523
+standardpost	False	NovelsPlaysTales	Nordischer Telegraph		Carl B. Lorck				True			Reg002525
+standardpost	False	NovelsPlaysTales	Ny Portefeuille		G. Carstensen				True			Reg002538
+standardpost	False	NovelsPlaysTales	Den nye Almanak for 1871		Mads Hansen; Anton Nielsen				True			Reg000739
+standardpost	False	NovelsPlaysTales	Nyt dansk Maanedsskrift		Vilh. Møller				True			Reg002567
+standardpost	False	NovelsPlaysTales	Nær og Fjern		P. Hansen				True			Reg002574
+standardpost	False	NovelsPlaysTales	Penelope. Taschenbuch für das Jahr 1845		Theodor Hell				True			Reg002671
+standardpost	False	NovelsPlaysTales	Pjerrot						True			Reg002694
+standardpost	False	NovelsPlaysTales	Portefeuillen		G. Carstensen				True			Reg002715
+standardpost	False	NovelsPlaysTales	Punch, or the London Charivari		Mark Lemon				True			Reg002754
+standardpost	False	NovelsPlaysTales	Punch		dansk				True			Reg002753
+standardpost	False	NovelsPlaysTales	The Quarterly Review		J. G. Lockhart				True			Reg003223
+standardpost	False	NovelsPlaysTales	Revue britannique						True			Reg002800
+standardpost	False	NovelsPlaysTales	Revue des deux Mondes						True			Reg002801
+standardpost	False	NovelsPlaysTales	Riises Arkiv og Historisk-geographisk Archiv	Archiv for Historie og Geographie (1820-38	1839-64				True			Reg002808
+standardpost	False	NovelsPlaysTales	The Riverside Magazine for Young People		Horace E. Scudder				True			Reg003224
+standardpost	False	NovelsPlaysTales	The Saturday Review						True			Reg003225
+standardpost	False	NovelsPlaysTales	Scribner’s Monthly Magazine						True			Reg002975
+standardpost	False	NovelsPlaysTales	Souvenir		C. Thorkilsen				True			Reg003070
+standardpost	False	NovelsPlaysTales	Søndags-Posten		C. H. Sørensen				True			Reg003168
+standardpost	False	NovelsPlaysTales	Tiden		V. F. Palmblad				True			Reg003246
+standardpost	False	NovelsPlaysTales	de Tijd		J. L. van der Vliet				True			Reg003581
+standardpost	False	NovelsPlaysTales	Ueber Land und Meer						True	1875		Reg003365
+standardpost	False	NovelsPlaysTales	Volkskalender 1846		F. W. Gubitz				True			Reg003468
+standardpost	False	NovelsPlaysTales	Zeitung für die elegante Welt						True			Reg003523
+standardpost	False	NovelsPlaysTales	Et Bidrag til Monumentet for H.C. Andersen. Fortællinger og Digte for Børn		August Westrups Forlag				True	1875		Reg001197
+standardpost	False	NovelsPlaysTales	Billedbog for Store og Smaa		Christian Winther				True			Reg000356
+standardpost	False	NovelsPlaysTales	Das Buch der Welt. Ein deutsches Familienbuch für alle Stände						True	1860		Reg000589
+standardpost	False	NovelsPlaysTales	Cuentos y fábulas		J.E. Hartzenbusch				True			Reg000557
+standardpost	False	NovelsPlaysTales	Danske Værker 11-12	Prosaiske Skrifter 3-4. Dramaturgisk Kritik	Jens Baggesen				True			Reg000585
+standardpost	False	NovelsPlaysTales	Fortællinger og Vers for Store og Smaa		Chr. Richardt; G. Rode				True	1866		Reg001340
+standardpost	False	NovelsPlaysTales	Fra nordiske Digtere. Et Album						True			Reg001355
+standardpost	False	NovelsPlaysTales	Gesammelte Schriften		J. C. Biernatzski				True			Reg001444
+standardpost	False	NovelsPlaysTales	Läsning för barn		Zacharias Topelius				True			Reg002214
+standardpost	False	NovelsPlaysTales	Obras completas IV		Ángel de Saavedra, Hertug af Rivas				True			Reg002587
+standardpost	False	NovelsPlaysTales	Samlade dikter I-V		Karl August Nicander				True			Reg002923
+standardpost	False	NovelsPlaysTales	Samlede Skrifter		B. S. Ingemann				True			Reg002926
+standardpost	False	NovelsPlaysTales	Samlede Værker		Carl Bagger, udg. af Vilh. Møller				True			Reg002929
+standardpost	False	NovelsPlaysTales	Sämtliche Werke in Einem Bande		Silvio Pellico				True			Reg003162
+standardpost	False	NovelsPlaysTales	Sämtliche Werke	1-Binds Udg.	Fr. von Schiller				True			Reg003161
+standardpost	False	NovelsPlaysTales	Ude og hjemme		H. P. Holst				True			Reg003356
+standardpost	False	NovelsPlaysTales	Vintergrønt. Nye Fortællinger og Digte, danske, norske og svenske. Udg. af Christian Richardt						True			Reg003459
+standardpost	False	NovelsPlaysTales	Volksmärchen von Peter Leberecht II		L. Tieck				True			Reg003470
+standardpost	False	NovelsPlaysTales	Werke	1861-63	H. Heine				True			Reg003495

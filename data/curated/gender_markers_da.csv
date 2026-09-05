@@ -1,0 +1,75 @@
+category,term,gender,weight,match,notes
+label_title,Grevinde,K,3.0,label_segment,100 forekomster i registret
+label_title,Lensgrevinde,K,3.0,label_segment,
+label_title,Baronesse,K,3.0,label_segment,
+label_title,Friherreinde,K,3.0,label_segment,
+label_title,Komtesse,K,3.0,label_segment,
+label_title,Dronning,K,3.0,label_segment,"matcher også ""Dronning af –"""
+label_title,Prinsesse,K,3.0,label_segment,
+label_title,Kronprinsesse,K,3.0,label_segment,
+label_title,Hertuginde,K,3.0,label_segment,
+label_title,Storhertuginde,K,3.0,label_segment,
+label_title,Kejserinde,K,3.0,label_segment,
+label_title,Fyrstinde,K,3.0,label_segment,
+label_title,Landgrevinde,K,3.0,label_segment,
+label_title,Markgrevinde,K,3.0,label_segment,
+label_title,Lady,K,2.6,label_segment,engelsk; 18 forekomster
+label_title,Madame,K,2.6,label_segment,
+label_title,Mademoiselle,K,2.6,label_segment,
+label_title,Signora,K,2.6,label_segment,
+label_title,Fru,K,2.6,label_segment,
+label_title,Frøken,K,2.6,label_segment,
+label_title,Enkedronning,K,3.0,label_segment,
+label_title,Abbedisse,K,3.0,label_segment,
+label_title,Greve,M,3.0,label_segment,196 forekomster
+label_title,Lensgreve,M,3.0,label_segment,
+label_title,Rigsgreve,M,3.0,label_segment,
+label_title,Landgreve,M,3.0,label_segment,
+label_title,Markgreve,M,3.0,label_segment,
+label_title,Baron,M,3.0,label_segment,
+label_title,Lensbaron,M,3.0,label_segment,
+label_title,Friherre,M,3.0,label_segment,
+label_title,Konge,M,3.0,label_segment,
+label_title,Prins,M,3.0,label_segment,
+label_title,Kronprins,M,3.0,label_segment,
+label_title,Hertug,M,3.0,label_segment,
+label_title,Storhertug,M,3.0,label_segment,
+label_title,Kejser,M,3.0,label_segment,
+label_title,Fyrste,M,3.0,label_segment,
+label_title,Sultan,M,3.0,label_segment,
+label_title,Sir,M,2.6,label_segment,
+label_title,Lord,M,2.6,label_segment,
+label_title,Monsieur,M,2.6,label_segment,
+label_title,Signor,M,2.6,label_segment,
+label_title,Don,M,2.2,label_segment,svagere: også spansk fornavn-element
+label_title,Pave,M,3.0,label_segment,
+label_title,Kardinal,M,2.8,label_segment,
+label_title,Biskop,M,2.4,label_segment,historisk kontekst 1800-tallet
+desc_prefix,Datter,K,3.0,desc_prefix,"1.038 beskrivelser starter med ""Datter af …"""
+desc_prefix,Søn,M,3.0,desc_prefix,"1.014 beskrivelser starter med ""Søn af …"""
+relation,Hustru,K,2.8,desc_relation, [referent-sikret: se _relation_hits/_predicative_title_hits]
+relation,Enke,K,2.6,desc_word,194 forekomster; se enkemand-undtagelsen i parseren
+relation,Enkemand,M,2.8,desc_word,
+relation,Ægtemand,M,2.8,desc_relation, [referent-sikret: se _relation_hits/_predicative_title_hits]
+relation,Moder,K,2.0,desc_relation,svagere: kan referere til en anden person i beskrivelsen [referent-sikret: se _relation_hits/_predicative_title_hits]
+relation,Fader,M,2.0,desc_relation,svagere: samme referent-risiko [referent-sikret: se _relation_hits/_predicative_title_hits]
+relation,Søster,K,2.2,desc_relation,"ofte ""Søster til X"" — men kan omtale tredjepart [referent-sikret: se _relation_hits/_predicative_title_hits]"
+relation,Broder,M,2.2,desc_relation, [referent-sikret: se _relation_hits/_predicative_title_hits]
+relation,Bror,M,2.2,desc_relation, [referent-sikret: se _relation_hits/_predicative_title_hits]
+title,Fru,K,2.2,desc_title_pred, [referent-sikret: se _relation_hits/_predicative_title_hits]
+title,Frøken,K,2.4,desc_title_pred, [referent-sikret: se _relation_hits/_predicative_title_hits]
+title,Jomfru,K,2.4,desc_title_pred, [referent-sikret: se _relation_hits/_predicative_title_hits]
+title,Madame,K,2.2,desc_title_pred, [referent-sikret: se _relation_hits/_predicative_title_hits]
+pronoun,hun,K,2.0,desc_word_cased,"kun små bogstaver — ""Hun"" i sætningsstart er stadig entydigt"
+pronoun,hendes,K,2.0,desc_word_cased,
+pronoun,han,M,1.8,desc_word_cased,"kun små bogstaver: ""Hans"" med stort er mandsnavnet"
+pronoun,hans,M,1.8,desc_word_cased,kun små bogstaver — se ovenfor
+label_title,Frue,K,2.6,label_segment,bestemt form af Fru; se PLACE_NOISE_RE for Vor Frue Kirke-undtagelsen
+label_title,Mrs,K,2.6,label_segment,engelsk
+label_title,Miss,K,2.6,label_segment,engelsk
+label_title,Frau,K,2.6,label_segment,tysk
+label_title,Fräulein,K,2.6,label_segment,tysk
+label_title,Signorina,K,2.6,label_segment,italiensk
+label_title,Mademoiselle,K,2.6,label_segment,fransk (dublet-sikker: sæt-baseret opslag)
+label_title,Herr,M,2.4,label_segment,tysk
+label_title,Mr,M,2.4,label_segment,engelsk
