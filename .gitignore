@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Office lock files
+~$*
+.~lock.*#
+
+# Assembled by scripts/publish.py from the files already committed under
+# data/. It is a copy, not a source — regenerate it, never edit it.
+dist/
