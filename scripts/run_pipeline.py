@@ -86,6 +86,12 @@ STAGES = [
      "scripts/enrichment/build_kb_links.py", [], True),
     ("1h", "verified place workbook -> categories/countries",
      "scripts/enrichment/reconcile_steder_categories.py", [], True),
+    # Not a transformation: reports dangling cross-references and
+    # kind-specific missing values across the registers. Optional so a run
+    # still completes with findings outstanding -- tests/test_index_integrity.py
+    # is what refuses to let them grow. See docs/index-integrity.md.
+    ("2", "check register integrity (cross-references, required values)",
+     "scripts/validation/check_indexes.py", ["--write"], True),
 ]
 
 

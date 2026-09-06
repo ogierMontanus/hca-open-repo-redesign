@@ -61,14 +61,26 @@ Alongside the data it writes `data/normalized/_source.json`, recording the
 raw sources (filename + SHA-256) the package was derived from, so the
 publication repo can state its provenance without holding the workbooks.
 
+## Integrity checks
+
+```
+python scripts/validation/check_indexes.py
+```
+
+Reports cross-references that lead nowhere, and fields that are empty when
+their kind of row requires them — written per index and per entry kind,
+because a redirect stub and an ordinary entry have opposite requirements.
+See [`docs/index-integrity.md`](docs/index-integrity.md).
+
 ## Tests
 
 ```
 python -m pytest tests/ -q
 ```
 
-These guard the *cleaning* output — register segmentation and the person
-emendations. The build-output tests live in the publication repo.
+These guard the *cleaning* output — register segmentation, the person
+emendations, and the integrity rules above. The build-output tests live in
+the publication repo.
 
 ## Licence
 

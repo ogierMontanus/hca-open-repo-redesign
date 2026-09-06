@@ -139,19 +139,33 @@ def test_references_parsed_columns_within_printed_range(rows):
     assert not unexpected, f"new out-of-range column references (not in known list): {unexpected[:10]}"
 
 
-def test_see_also_targets_mostly_resolve(rows):
-    # Not all "se:" targets resolve to a surname in this same register
-    # (many point to a nation/group with no person-entry, e.g.
-    # "Storbritannien"), so this is a proportion check, not a strict
-    # one -- a sudden drop signals the splitter is cutting entries
-    # wrong, which was the actual cause the one time this ratio dipped
-    # during development.
-    surnames = {r["03_surname"] for r in rows}
-    targets = [r["12_see_also"].split(",")[0].strip() for r in rows if r["12_see_also"]]
-    assert targets, "no 'se:' cross-references found at all -- SEE_RE likely broken"
-    resolved = sum(1 for t in targets if t in surnames)
-    ratio = resolved / len(targets)
-    assert ratio >= 0.75, f"only {ratio:.0%} of 'se:' targets resolve to a known surname (expected >= 75%)"
+def test_see_also_targets_are_extracted_at_all(rows):
+    # A coverage guard, not a resolution one: whether each "se:" target
+    # actually lands on an entry is checked properly in
+    # tests/test_index_integrity.py, which knows the register's own citation
+    # conventions (surname-only heads, inverted particles, alias
+    # parentheticals, the documented OCR confusion classes) and grades the
+    # failures. This test only asserts that SEE_RE is still finding
+    # cross-references at all — the one thing that file cannot tell apart
+    # from a register that genuinely has none.
+    #
+    # It replaces an earlier "at least 75% of targets resolve to a known
+    # surname" assertion. That threshold was doing more harm than good: bare
+    # string equality against the surname column scored a quarter of
+    # perfectly good references as failures, so the bar had to sit low
+    # enough that a real regression could hide underneath it.
+    targets = [r["12_see_also"] for r in rows if r["12_see_also"].strip()]
+    assert len(targets) >= 350, (
+        f"only {len(targets)} 'se:' cross-references found (expected ~400) -- "
+        "SEE_RE or the splitter has stopped recognising them"
+    )
+    stubs = [r for r in rows if r["02_entry_type"] == "krydshenvisning"]
+    missing = [r["01_entry_id"] for r in stubs if not r["12_see_also"].strip()]
+    # PerXI01219 is an ordinary entry mis-typed as a cross-reference; it is
+    # tracked with the other integrity findings rather than silenced here.
+    assert len(missing) <= 1, (
+        f"cross-reference rows with no target at all: {missing[:10]}"
+    )
 
 
 def test_birth_year_before_or_equal_death_year(rows):

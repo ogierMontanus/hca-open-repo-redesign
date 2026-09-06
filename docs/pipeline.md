@@ -19,6 +19,14 @@ there.
 | 1f | `parsers/parse_person_gender.py` | the V0.82 workbook, `curated/gender_markers_da.csv` | `normalized/person_gender{,_review}.csv` |
 | 1g | `enrichment/build_kb_links.py` | `1-KBDiaryLinkData-PQ-links-active.xlsm` | `normalized/kb_diary_links.csv` |
 | 1h | `enrichment/reconcile_steder_categories.py` | `Steder_i_dagboegerne_verificeret_udfyldt VER 1.0.xlsx`, `entities.csv` | `normalized/steder_verified_categories.csv` |
+| 2 | `validation/check_indexes.py` | the registers | `curated/index_integrity_review.csv` — cross-reference and required-value findings, see [`index-integrity.md`](index-integrity.md) |
+
+Stage 2 transforms nothing: it reports dangling cross-references and
+kind-specific missing values across the registers, and writes the findings
+to `data/curated/index_integrity_review.csv`. It is optional in the runner
+so a run still completes with findings outstanding —
+`tests/test_index_integrity.py` is what refuses to let them grow. The rules
+and their reasoning: [`index-integrity.md`](index-integrity.md).
 
 Stages after 1a are optional in the runner, mirroring how the publication
 repo treated them: their outputs are committed, so a machine without
