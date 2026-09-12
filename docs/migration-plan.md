@@ -1028,11 +1028,29 @@ Every difference is labelled before the step is accepted:
 | formatting-only | proven formatting-only (line endings, float precision, `lingua` confidence drift) and recorded — **not** waved through as "just formatting" |
 | unexplained | **blocks the step.** No step proceeds with an unexplained discrepancy outstanding. |
 
-The `lingua` confidence drift in `work_languages.csv` is the current live
-example: the *language assignments* are stable, the *confidence figures* move
-by thousandths between library versions. Pin the version, or accept the file
-as committed data and exclude it from byte comparison — decide and write it
-down, rather than rediscovering it each run.
+The `lingua` drift in `work_languages.csv` is the live example, and it was
+**measured during implementation rather than taken from the documentation —
+which understated it.** Comparing A's `main` against the split branch, 1,084
+rows each:
+
+| Field | Differences | Documented? |
+|---|---:|---|
+| language assignment | **0** | yes — the claim holds |
+| method (`detector` / `detector_cue`) | **9** | **no** |
+| confidence | **776** | as "a few thousandths"; `Reg000534` actually moves 0.653 → 0.604 |
+| row membership | **16 ids each way** | **no — and the most consequential** |
+
+All three instabilities are the same effect: rows sitting near `lingua`'s
+inclusion threshold cross it when the library version changes, which also
+flips which method label wins. The languages themselves never move, and the
+language is what the facet displays.
+
+**Consequences, now settled rather than hedged:** this file is committed data,
+not reproducible output. Regenerate it only in a pinned environment, exclude
+it from every byte-equality comparison, and do not run stages 1a–1e as part of
+establishing a baseline — doing so silently rewrites it and poisons everything
+downstream. A's own `build_all.py` invites exactly that mistake, and the
+UI-declutter branch hit it once already.
 
 ### J.6 — The person cutover, where byte-equality does not apply
 
