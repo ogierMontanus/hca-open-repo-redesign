@@ -72,6 +72,13 @@ STAGES = [
      ["--input", "data/raw/HCA REPOSITORY V0.82"], False),
     ("1a'", "V0.92 release -> normalised CSVs (timeline source)",
      "scripts/normalization/hca_v092_to_csv.py", [], True),
+    # Read-only verification surface, exactly as 1a' is. Nothing downstream
+    # reads data/normalized_v094/ -- it exists so adopting V0.94 can be argued
+    # from measurements rather than from its release notes. The report it
+    # writes is the point of the stage. See docs/v094-structural-diff.md.
+    ("1a''", "V0.94 release -> normalised CSVs + structural diff (verification only)",
+     "scripts/normalization/hca_v094_to_csv.py",
+     ["--report", "docs/v094-structural-diff.md"], True),
     ("1b", "Rejser HTM -> travel TSVs (geocodes)",
      "scripts/enrichment/parse_rejser_htm.py", [], True),
     ("1c", "SV14 TEI place-list -> reconciled coordinates",
