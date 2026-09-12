@@ -1,5 +1,29 @@
 # Pipeline
 
+The stages, in order, with their inputs and outputs. For *why* the pipeline is
+shaped this way — the boundary rule, what is authoritative, what must not be
+hand-edited — read [`architecture.md`](architecture.md) first.
+
+The authoritative stage list is `python scripts/run_pipeline.py --list`, which
+is generated from the code. The table below explains what each stage is for;
+if the two ever disagree, the runner is right and this file is stale.
+
+## Running it safely
+
+Two environment rules, both learned by being bitten:
+
+- **`PYTHONIOENCODING=utf-8` on Windows.** Several scripts print `→` or `⚠`,
+  which the cp1252 console default cannot encode. `build_cooccurrence.py` and
+  `build_nation_index.py` died on it in the publication repo, the latter
+  *silently* because its stage is optional; `build_kb_links.py` had never
+  completed on Windows at all, because its warning branch fires on every run.
+  The scripts here reconfigure stdout themselves now, but the habit is worth
+  keeping for anything new.
+- **`PYTHONHASHSEED=0` when producing a build for comparison**, and **never
+  run stages 1a–1h to establish a baseline** — they regenerate
+  `data/normalized/`, and `work_languages.csv` is not reproducible across
+  `lingua` versions (see below).
+
 ## The automated stages
 
 `python scripts/run_pipeline.py` regenerates everything that is
@@ -31,10 +55,38 @@ and their reasoning: [`index-integrity.md`](index-integrity.md).
 Stages after 1a are optional in the runner, mirroring how the publication
 repo treated them: their outputs are committed, so a machine without
 `lingua` leaves the previous extraction in place rather than emptying a
-facet. `work_languages.csv` is sensitive to the installed `lingua`
-version — the *language* assignments are stable, the confidence figures
-drift by a few thousandths between versions. Regenerate it in a fixed
-environment or leave the committed file alone.
+facet.
+
+### `work_languages.csv` is committed data, not reproducible output
+
+This was measured across two `lingua` versions, 1,084 rows each, and it is
+less stable than earlier drafts of this file claimed:
+
+| Field | Differences |
+|---|---:|
+| language assignment | **0** |
+| method (`detector` / `detector_cue`) | 9 |
+| confidence | 776 |
+| **row membership** | **16 ids each way** |
+
+All three instabilities are one effect: rows sitting near the inclusion
+threshold cross it when the library version changes, which also flips which
+method label wins. The language assignments never move — and the language is
+what the facet displays.
+
+So: regenerate only in a pinned environment, exclude the file from any
+byte-equality comparison, and do not let stage 1d run as a side effect of
+taking a baseline.
+
+### V0.94 is not yet ingested
+
+`data/raw/HCA REPOSITORY V0.94/` is present but no stage reads it. It is a
+different structure from V0.92, not a version bump — five renamed registries,
+a different ID scheme, and references re-encoded as key lists inside the
+dimension rows. It brings a complete works register and no person register at
+all. The plan is to ingest it read-only into a parallel
+`data/normalized_v094/` and publish a structural diff before any stage depends
+on it: [`migration-plan.md`](migration-plan.md) §0.4 and §I.
 
 ## The stages that are deliberately not automated
 
