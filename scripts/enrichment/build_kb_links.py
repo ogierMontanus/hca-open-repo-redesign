@@ -36,6 +36,13 @@ import csv
 import sys
 from pathlib import Path
 
+# The mismatch warning below prints U+26A0, which the Windows console's cp1252
+# default cannot encode. That branch is not hypothetical: vol I page 13 is a
+# standing discrepancy in the source workbook, documented above, so the warning
+# fires on every run and this script has never completed on Windows — it wrote
+# the CSV, then died reporting on it.
+sys.stdout.reconfigure(encoding="utf-8")
+
 try:
     import openpyxl
 except ImportError:
