@@ -61,6 +61,7 @@ sydslesvigsk,Sydslesvigsk,border_region,sydslesvigsk;sydslesvigske,South Schlesw
 slesvigholstensk,Slesvig-holstensk,border_region,slesvigholstensk;slesvig-holstensk;slesvig-holstenske,The contested Schleswig-Holstein duchies — central to the wars of 1848–51 and 1864.
 holstenlauenborgsk,Holsten-lauenborgsk,border_region,holsten-lauenborgsk;holsten-lauenborgske;slesvig-holsten-lauenborgsk;slesvig-holsten-lauenborgske;slesvig-holsten-lauenburgske,The full three-duchy formula (Schleswig-Holstein-Lauenburg), as used for the pre-1864 joint chancellery/ministry.
 holstensk,Holstensk,border_region,holstensk;holstenske,Holstein on its own (outside the "slesvig-holstensk" compound).
+lauenborgsk,Lauenborgsk,border_region,lauenborgsk;lauenborgske;lauenburgsk;lauenburgske,"Lauenburg on its own — the third duchy, under the Danish crown 1815–1864, Prussian after. No occurrence in the corpus yet: Lauenburg appears only inside the ""slesvig-holsten-lauenborgske"" formula (which matches holstenlauenborgsk as a whole token, before any hyphen split) or as the bare place name. Listed so a future standalone use lands in both umbrellas rather than nowhere."
 jysk,Jysk,regional_danish,jysk;jydsk;jyske;jydske;nørrejydsk;nørrejydske,"Jutland. ""Jydsk"" is the historical spelling, ""jysk"" the modern one — both occur."
 sjællandsk,Sjællandsk,regional_danish,sjællandsk;sjællandske,Zealand.
 fynsk,Fynsk,regional_danish,fynsk;fynske,Funen.
