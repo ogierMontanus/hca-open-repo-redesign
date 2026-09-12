@@ -26,8 +26,8 @@ repo used to run itself, as stages 1a–1e of its own build_all.py.
   1b  ingest   enrichment/parse_rejser_htm.py       geocoded travel table
   1c  reconcile enrichment/reconcile_sv14_geo.py    TEI place-list → coords
   1d  enrich   enrichment/detect_work_language.py   probable work language
-  1e  enrich   parsers/parse_person_ethnic_descriptors.py  nationality adjectives
-  1f  enrich   parsers/parse_person_gender.py       gender facet
+  1e  enrich   enrichment/parse_person_ethnic_descriptors.py  nationality adjectives
+  1f  enrich   enrichment/parse_person_gender.py       gender facet
   1g  ingest   enrichment/build_kb_links.py         Det Kgl. Bibliotek page links
   1h  reconcile enrichment/reconcile_steder_categories.py  verified place categories
 
@@ -40,7 +40,7 @@ and are committed as data (data/parsed/*.tsv, data/curated/*). Re-running
 them blindly would overwrite reviewed decisions. See docs/pipeline.md for
 the order they were applied in and how to re-derive a file deliberately.
 
-Two scripts (parsers/parse_person_role.py and the correspondence matchers)
+Two scripts (curation/parse_person_role.py and the correspondence matchers)
 read the publication repo's built *-extra.js cards, so they need a built
 hca-open-repo checkout; point HCA_MOCKUP_DATA_DIR at its mockup/data/.
 They are likewise excluded from the automated run.
@@ -86,9 +86,9 @@ STAGES = [
     ("1d", "work titles -> probable language",
      "scripts/enrichment/detect_work_language.py", [], True),
     ("1e", "person descriptions -> ethnic/national adjectives",
-     "scripts/parsers/parse_person_ethnic_descriptors.py", [], True),
+     "scripts/enrichment/parse_person_ethnic_descriptors.py", [], True),
     ("1f", "person descriptions -> gender facet",
-     "scripts/parsers/parse_person_gender.py", [], True),
+     "scripts/enrichment/parse_person_gender.py", [], True),
     ("1g", "KB link workbook -> diary page permalinks",
      "scripts/enrichment/build_kb_links.py", [], True),
     ("1h", "verified place workbook -> categories/countries",

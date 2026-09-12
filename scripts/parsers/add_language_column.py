@@ -21,26 +21,21 @@ Usage:
 import argparse
 import csv
 import pathlib
+import sys
 from collections import Counter
 
-from lingua import Language, LanguageDetectorBuilder
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+from _lib import language as _language
 
-
-LANGUAGES = [
-    Language.DANISH, Language.BOKMAL,
-    Language.GERMAN, Language.SWEDISH,
-    Language.FRENCH, Language.DUTCH,
-    Language.ENGLISH, Language.ITALIAN,
-    Language.LATIN, Language.SPANISH,
-    Language.PORTUGUESE,
-]
-
-DETECTOR = LanguageDetectorBuilder.from_languages(*LANGUAGES).build()
+# The language set and the Bokmål remap are shared with
+# enrichment/detect_work_language.py; the detection policy deliberately is
+# not. See scripts/_lib/language.py.
+DETECTOR = _language.build_detector()
 
 TITLE_COL = "04_main_title"
 CREATOR_COLS = ["06_creator", "05_creator"]
 
-REMAP = {"nb": "da"}
+REMAP = _language.REMAP
 
 
 def detect(title: str, creator: str) -> tuple[str, float]:

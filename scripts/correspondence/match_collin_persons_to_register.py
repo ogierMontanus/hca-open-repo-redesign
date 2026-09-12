@@ -10,7 +10,7 @@ on (surname, birth year) as requested -- the most reliable simple key
 available: given-name spelling/abbreviation varies far more between the
 two sources than a surname + a specific birth year does.
 
-Surname normalization is two-tier (see name_normalize.py for the full
+Surname normalization is two-tier (see scripts/_lib/names.py for the full
 reasoning and the measured numbers): primary_keys() applies the
 calibrated folds (æ->ae, ø->o always; å tried both bare and doubled to
 "aa"); edge_case_key() is a broader, uncalibrated fallback -- strips
@@ -45,7 +45,10 @@ import csv
 import json
 import os
 
-from name_normalize import primary_keys, edge_case_key
+import sys
+from pathlib import Path as _Path
+sys.path.insert(0, str(_Path(__file__).resolve().parents[1]))
+from _lib.names import primary_keys, edge_case_key
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 COLLIN_CSV = os.path.join(ROOT, "data", "curated", "collin_letters_person_index.csv")

@@ -64,8 +64,8 @@ Tærskler (eksperimentelle, justeres efter evaluering):
     < 0,70  Endnu ubestemt / menneskelig kontrol
 
 Kør:
-    python scripts/parsers/parse_person_gender.py
-    python scripts/parsers/parse_person_gender.py --review-limit 400
+    python scripts/enrichment/parse_person_gender.py
+    python scripts/enrichment/parse_person_gender.py --review-limit 400
 
 Kun standardbiblioteket.
 """

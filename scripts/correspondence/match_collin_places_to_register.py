@@ -10,14 +10,14 @@ disambiguator, so name is the only simple key available; ambiguous
 same-name matches (distinct real-world places sharing a name) are
 surfaced, not silently resolved.
 
-Two-tier normalization (see name_normalize.py for the full reasoning
+Two-tier normalization (see scripts/_lib/names.py for the full reasoning
 and the measured aa/å, ø/ö numbers behind it):
   "exact"                       matched on the calibrated primary keys
   "exact_diacritic_edge_case"   no primary-key match, but exactly one
                                  candidate matches once EVERY diacritic
                                  is stripped uniformly (an uncalibrated,
                                  broader fallback -- ranked below "exact"
-                                 on purpose, see name_normalize.py)
+                                 on purpose, see scripts/_lib/names.py)
 
 Run from the repo root:
   python scripts/correspondence/match_collin_places_to_register.py
@@ -27,7 +27,10 @@ import csv
 import json
 import os
 
-from name_normalize import primary_keys, edge_case_key
+import sys
+from pathlib import Path as _Path
+sys.path.insert(0, str(_Path(__file__).resolve().parents[1]))
+from _lib.names import primary_keys, edge_case_key
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 COLLIN_CSV = os.path.join(ROOT, "data", "curated", "collin_letters_place_index.csv")

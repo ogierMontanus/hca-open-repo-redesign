@@ -83,10 +83,22 @@ def _edits_within(a: str, b: str, limit: int) -> bool:
 def fold(s: str) -> str:
     """Diacritic-, case- and punctuation-insensitive comparison key.
 
-    æ/ø/å are folded the way the rest of the project folds them (see
-    name_normalize.py), and NFKD strips the rest. Punctuation becomes
-    whitespace rather than vanishing, so "O.T." and "O T" agree but
-    "Ja!" and "Jan" do not.
+    æ→ae and ø→o as elsewhere in the project, NFKD strips the rest, and
+    punctuation becomes whitespace rather than vanishing, so "O.T." and
+    "O T" agree but "Ja!" and "Jan" do not.
+
+    **å does not fold to "aa" here, despite the replace below.** NFKD runs
+    first and decomposes å into "a" plus a combining ring, which the next
+    line strips; by the time .replace("å", "aa") is reached there are no å
+    characters left. So fold("Åbenrå") == "abenra", which matches the
+    register's undoubled spellings and NOT "Aabenraa". æ and ø survive
+    because they have no decomposition.
+
+    That is a narrower rule than scripts/_lib/names.py, which declines to
+    pick a branch and returns both keys — see its docstring for the
+    measurement. Left as it stands deliberately: this function's output
+    decides what the integrity checker reports, and widening it is a
+    behaviour change needing its own before/after, not a tidy-up.
     """
     s = unicodedata.normalize("NFKD", s or "")
     s = "".join(c for c in s if not unicodedata.combining(c))

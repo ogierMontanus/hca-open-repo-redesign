@@ -63,6 +63,10 @@ import os
 import re
 import sys
 from collections import Counter
+from pathlib import Path as _Path
+
+sys.path.insert(0, str(_Path(__file__).resolve().parents[1]))
+from _lib import language as _language
 
 ROOT     = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 ENTITIES = os.path.join(ROOT, "data", "normalized", "entities.csv")
@@ -112,17 +116,12 @@ CUES = {
 
 
 def build_detector():
-    """Returns a lingua detector, or None when lingua isn't installed."""
-    try:
-        from lingua import Language, LanguageDetectorBuilder
-    except ImportError:
-        return None
-    langs = [
-        Language.DANISH, Language.BOKMAL, Language.GERMAN, Language.SWEDISH,
-        Language.FRENCH, Language.DUTCH, Language.ENGLISH, Language.ITALIAN,
-        Language.LATIN, Language.SPANISH, Language.PORTUGUESE,
-    ]
-    return LanguageDetectorBuilder.from_languages(*langs).with_preloaded_language_models().build()
+    """Returns a lingua detector, or None when lingua isn't installed.
+
+    The language set and the Bokmål remap are shared with
+    scripts/parsers/add_language_column.py — see scripts/_lib/language.py
+    for why only those two things are shared and the policies are not."""
+    return _language.build_detector(preload=True)
 
 
 def register_language(label: str, subform: str):
@@ -163,8 +162,7 @@ def detect(detector, title: str):
         return None, 0.0, "no_signal"
     top = values[0]
     code = top.language.iso_code_639_1.name.lower()
-    if code == "nb":
-        code = "da"          # Bokmål folds to Danish — see docstring
+    code = _language.to_iso(code)   # Bokmål folds to Danish — see docstring
     cue = CUES.get(code)
     has_cue = bool(cue and cue.search(title))
     if looks_like_bare_name(title) and not has_cue:

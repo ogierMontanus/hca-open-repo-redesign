@@ -9,7 +9,7 @@ same "(YYYY)" convention as the printed edition (e.g. "Aus Herz und
 Welt (1860)"), so title match doubles as a year check for most entries.
 
 Title normalization is two-tier, same as the place/person matchers (see
-name_normalize.py): primary_keys() applies the calibrated folds (æ->ae,
+_lib/names.py): primary_keys() applies the calibrated folds (æ->ae,
 ø->o always; å tried both bare and doubled). This matcher previously had
 NO diacritic handling at all -- ø/æ/ä/é all appear in this index's
 titles, and ø in particular has no shared NFD decomposition with "o", so
@@ -50,7 +50,10 @@ import json
 import os
 import re
 
-from name_normalize import primary_keys, edge_case_key
+import sys
+from pathlib import Path as _Path
+sys.path.insert(0, str(_Path(__file__).resolve().parents[1]))
+from _lib.names import primary_keys, edge_case_key
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 COLLIN_CSV = os.path.join(ROOT, "data", "curated", "collin_letters_work_index.csv")

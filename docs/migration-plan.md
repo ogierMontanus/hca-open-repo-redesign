@@ -140,7 +140,7 @@ share a git history:
 | 1b | `build_web/parse_rejser_htm.py` | `Rejser_HCA_X.htm` | `normalized/rejser{,_journeys}.tsv` | yes |
 | 1c | `build_mockup/reconcile_sv14_geo.py` | `SV14_places.xml`, entities, rejser | `normalized/sv14_places_{reconciled,ambiguous}.csv` | yes |
 | 1d | `build_mockup/detect_work_language.py` | entities | `normalized/work_languages.csv` | yes |
-| 1e | `parsers/parse_person_ethnic_descriptors.py` | V0.82 workbook, `curated/ethnic_adjectives_da.csv` | `normalized/person_ethnic_descriptors{,_review}.csv` | yes |
+| 1e | `enrichment/parse_person_ethnic_descriptors.py` | V0.82 workbook, `curated/ethnic_adjectives_da.csv` | `normalized/person_ethnic_descriptors{,_review}.csv` | yes |
 | 2 | `build_web/build_web_data.py` | `normalized/*.csv` | `web/data/*.json` (7 files) | no |
 | 3a | `build_mockup/build_diary_pages.py` | diary, references, entities, kb_diary_links | `mockup/diary-pages/*.html` (4,544) | no |
 | 3b | `build_mockup/build_diary_index.py` | diary, references | `mockup/data/diary-index.js`, `diary-refs.js` | no |
@@ -302,7 +302,7 @@ register slices ──parse──▶ parsed/{music,non_fiction,          │    
 | `parsers/parse_person_{gender,role,ethnic_descriptors}.py` | derive facet columns | `scripts/enrichment/` | **migrate + rehome** | These derive facts from descriptions — enrichment, not parsing. Their placement in `parsers/` is historical. |
 | `parsers/add_language_column.py` | language tag on any stage-2 TSV | `scripts/enrichment/` | **consolidate** with `detect_work_language.py` | Two implementations of one operation over `lingua`. |
 | `parsers/ner_page_grounding.py` | NER page grounding | `scripts/enrichment/` | **migrate, mark dormant** | Output (`ner_page_grounding.csv`, 1 MB) is committed but read by no build stage. Decide in phase 2. |
-| `parsers/wikidata_lookup.py` | QIDs + hero images | `scripts/curation/` | **migrate + rehome** | Reads the publication repo's *built* cards. Human-driven, not a pipeline stage — isolate it so that cross-repo read is visible. |
+| `curation/wikidata_lookup.py` | QIDs + hero images | `scripts/curation/` | **migrate + rehome** | Reads the publication repo's *built* cards. Human-driven, not a pipeline stage — isolate it so that cross-repo read is visible. |
 | `parsers/merge_manual_corrections.py` | fold reviewed corrections back in | `scripts/segmentation/` | **migrate — NOT in PR #1** | Added to A's `main` on 2026-09-06, after the split branch. See §I.0. |
 | `parsers/_common.py`, `xlsx_to_tsv.py`, `build_review_workbook.py`, `compare_to_xlsx.py` | shared I/O helpers | `scripts/_lib/` | **consolidate** | Shared plumbing; one home. |
 | `build_mockup/reconcile_sv14_geo.py` | TEI → coordinates | `scripts/enrichment/` | **migrate unchanged** | Derives a fact. Already reclassified in PR #1. |
@@ -491,11 +491,31 @@ four in place.
 and `build_mockup/detect_work_language.py` both wrap `lingua` over title
 strings with the same language restriction list.
 
+**Resolved, but not as stated.** On inspection they are not two
+implementations of one operation: the production stage takes the register's
+own statement first, then guards its guess with a confidence floor, a minimum
+length and a cue rescue; the CLI is bare top-1. What they genuinely share is
+the eleven-language restriction and the Bokmål→Danish remap — extracted to
+`scripts/_lib/language.py`. The policies stay separate, because merging them
+would either blunt the careful one or bloat the simple one.
+
 **E.6 — Name normalisation exists twice, one of them unwritten.**
 `correspondence/name_normalize.py` is a real module; the segmentation
 coverage measurement used an equivalent normalisation that the record
 describes step by step and then notes has "ingen færdig scriptfil". The
 second one is exactly what §J needs, and it does not exist.
+
+**Partly resolved.** `name_normalize.py` moved to `scripts/_lib/names.py` so
+more than its own directory can import it, and its three callers now do.
+Measuring the reimplementations first showed they are **not** substitutable:
+all three agree on æ and ø and disagree on å. `registers.fold()` reduces
+å→"a" — its `å`→`aa` replace is dead code, since NFKD has already stripped the
+ring by the time it runs, contradicting its own docstring;
+`reconcile_steder_categories.norm()` folds å→"aa"; only `primary_keys()`
+declines to choose and returns both. The divergence is now documented in all
+three places rather than unified, because two of them feed committed output
+that would change. Fixing `fold()` is a behaviour change needing its own
+before/after, not a refactor.
 
 **E.7 — Two parallel source generations are both ingested; one is discarded.**
 `normalized_v092/{entities,diary,references}.csv` are produced on every full

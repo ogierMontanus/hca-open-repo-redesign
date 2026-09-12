@@ -1,8 +1,38 @@
 """
-name_normalize.py
--------------------
-Shared name/title normalization for the collin_letters_*_match.py
-scripts. Two ranked levels, not one:
+names.py
+--------
+Name and title normalization for matching across registers. Was
+scripts/correspondence/name_normalize.py, which only its own directory could
+import; moved here unchanged so the rest of the pipeline can use it.
+
+There are three different normalisers in this pipeline, and they are NOT
+interchangeable. Before reaching for one, know which you want:
+
+  primary_keys() / edge_case_key()   here — returns a SET of keys, trying
+      å both ways. The only calibrated one: the folds below were measured
+      against the real indexes, and the å ambiguity is handled by not
+      resolving it. Use this for matching.
+
+  registers.fold()                   scripts/validation/registers.py — one
+      lowercase key for integrity checks. Its docstring says æ/ø/å are
+      "folded the way the rest of the project folds them", and that is not
+      what it does: it NFKD-normalises and strips combining marks BEFORE
+      replacing å, by which point NFKD has already reduced å to a bare "a",
+      so the å→aa fold never fires. æ and ø have no decomposition and do
+      fold. The effect is that fold("Åbenrå") == fold("Abenra") but NOT
+      "Aabenraa" — the opposite branch from the one below. Left as it is:
+      changing it changes what the integrity checker reports, which is a
+      behaviour change needing its own validation, not a refactor.
+
+  norm()                             scripts/enrichment/reconcile_steder_
+      categories.py — one key, replaces æ/ø/å first and NFD after, so
+      å→aa does fire. The other branch again.
+
+So the three agree on æ and ø and disagree on å, and only this module
+declines to guess. Recorded rather than unified, because two of them feed
+committed output that would change if their folding changed.
+
+Two ranked levels, not one:
 
   1. `primary_keys(s)` -- the folds actually measured to help, applied
      unconditionally where safe:

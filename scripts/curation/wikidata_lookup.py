@@ -49,10 +49,10 @@ wikidata.org, is what CLAUDE.md's Wikidata-lookup procedure documents for
 that case).
 
 Usage:
-    python scripts/parsers/wikidata_lookup.py "Bartolomé Esteban Murillo" \\
+    python scripts/curation/wikidata_lookup.py "Bartolomé Esteban Murillo" \\
         --author-match Murillo --out review_murillo.csv
 
-    python scripts/parsers/wikidata_lookup.py --creator-qid Q192062 \\
+    python scripts/curation/wikidata_lookup.py --creator-qid Q192062 \\
         --author-match Murillo --out review_murillo.csv --min-score 0.2
 """
 

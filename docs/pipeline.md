@@ -39,8 +39,8 @@ there.
 | 1b | `enrichment/parse_rejser_htm.py` | `Rejser_HCA_X.htm` | `normalized/rejser{,_journeys}.tsv` |
 | 1c | `enrichment/reconcile_sv14_geo.py` | `SV14_places.xml`, `entities.csv`, `rejser.tsv` | `normalized/sv14_places_{reconciled,ambiguous}.csv` |
 | 1d | `enrichment/detect_work_language.py` | `entities.csv` | `normalized/work_languages.csv` |
-| 1e | `parsers/parse_person_ethnic_descriptors.py` | the V0.82 workbook, `curated/ethnic_adjectives_da.csv` | `normalized/person_ethnic_descriptors{,_review}.csv` |
-| 1f | `parsers/parse_person_gender.py` | the V0.82 workbook, `curated/gender_markers_da.csv` | `normalized/person_gender{,_review}.csv` |
+| 1e | `enrichment/parse_person_ethnic_descriptors.py` | the V0.82 workbook, `curated/ethnic_adjectives_da.csv` | `normalized/person_ethnic_descriptors{,_review}.csv` |
+| 1f | `enrichment/parse_person_gender.py` | the V0.82 workbook, `curated/gender_markers_da.csv` | `normalized/person_gender{,_review}.csv` |
 | 1g | `enrichment/build_kb_links.py` | `1-KBDiaryLinkData-PQ-links-active.xlsm` | `normalized/kb_diary_links.csv` |
 | 1h | `enrichment/reconcile_steder_categories.py` | `Steder_i_dagboegerne_verificeret_udfyldt VER 1.0.xlsx`, `entities.csv` | `normalized/steder_verified_categories.csv` |
 | 2 | `validation/check_indexes.py` | the registers | `curated/index_integrity_review.csv` — cross-reference and required-value findings, see [`index-integrity.md`](index-integrity.md) |

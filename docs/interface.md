@@ -89,8 +89,8 @@ workbook it descends from, now that it no longer holds the workbook itself.
 Three curation scripts here read the publication repo's **built** cards
 (`mockup/data/works-extra.js`, `persons-extra.js`, `places-extra.js`):
 
-- `scripts/parsers/parse_person_role.py`
-- `scripts/parsers/wikidata_lookup.py`
+- `scripts/curation/parse_person_role.py`
+- `scripts/curation/wikidata_lookup.py`
 - `scripts/correspondence/match_collin_{persons,places,works}_to_register.py`
 
 They are occasional, human-driven curation passes, not pipeline stages, and

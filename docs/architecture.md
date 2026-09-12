@@ -79,6 +79,26 @@ V0.94 carries a curated column (place country and category, a work's artist
 and museum, a page's KB permalink), it wins over anything this repository
 derives by rule. Where it leaves a column empty, the derivation stands.
 
+#### A place's country: four sources, one order
+
+Country is the field most often derived twice, so its precedence is written
+down rather than left to whichever stage runs last:
+
+| Rank | Source | Kind |
+|---|---|---|
+| 1 | `4-LOCATION-Registry.xlsx` `Country` (V0.94) | curated by the people who verify it — **not yet ingested**, see `normalized_v094/` |
+| 2 | `data/normalized/steder_verified_categories.csv` | human-verified, from the verified-places workbook. **Authoritative today.** |
+| 3 | `data/curated/steder_country_to_nation_da.csv` | a country → nation-bucket mapping, not a country source; applied *after* a country is known |
+| 4 | the bounding-box gazetteer inlined in `build_web_data.py` | 33 European boxes over a coordinate, in the publication repo. A last resort, and the only one that can be wrong about a place it has never seen. |
+
+Rank 4 lives in the publication repository and covers only the geocoded
+subset. It is the one to retire first when V0.94's places are adopted, since
+ranks 1 and 2 cover every place rather than the 377 with coordinates.
+
+Note that `Country` in V0.94 uses a bare `0` as a "no value" placeholder in a
+few cells — it is not an empty string, and a naive fill count reads it as
+data. The ingester counts placeholders separately for this reason.
+
 ---
 
 ## 3. What happens here

@@ -13,7 +13,8 @@ step that resolves it):
 
   1. Exact case-insensitive RegistryTitle <-> label match.
   2. Diacritic/orthography-normalized match (æ/ø/å folded the same way
-     as name_normalize.py, generic accents NFD-stripped) — catches
+     as scripts/_lib/names.py's doubled key — å→aa fires here, since the
+     replace runs before NFD; generic accents NFD-stripped) — catches
      spelling-convention drift the exact match misses.
   3. Register "se: X" / "se X" redirect labels (e.g. "Bruxelles, se:
      Brüssel.") resolved to their target X, then matched (steps 1-2)
