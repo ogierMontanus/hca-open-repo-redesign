@@ -2,7 +2,7 @@
 """Sanity checks on data/parsed/personregister_xi_parsed.tsv, the digitized
 PERSONREGISTER (person index) from H. C. Andersens Dagbøger XI.
 
-These are regression guards for scripts/parsers/parse_personregister_xi.py,
+These are regression guards for scripts/segmentation/parse_personregister_xi.py,
 not a re-verification of OCR accuracy (see data/raw/ocr-comparison-dagboeger-XI.md
 for that). They catch the two classes of bug found during development:
 mis-split entries (a citation or "se:" clause fused into the wrong entry)

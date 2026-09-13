@@ -56,7 +56,7 @@ so the resolver classifies:
 | `resolved` | the target exists | — |
 | `ocr_variant` | the two agree once the corpus's documented OCR confusion classes (C/G, l/i, 0/9) are collapsed | whoever corrects the misread spelling — the reference and the entry still disagree |
 | `near_miss` | one entry is within one or two characters | usually the *target entry's* own label ("Slouet i Poitou" for "Slottet i Poitou") |
-| `linewrap` | the target still carries an unrejoined printed-column break ("Berner-Schil- den") | `scripts/parsers/apply_hyphen_linewrap_fixes.py` |
+| `linewrap` | the target still carries an unrejoined printed-column break ("Berner-Schil- den") | `scripts/segmentation/archive/apply_hyphen_linewrap_fixes.py` |
 | `overrun` | the target has swallowed the following entry | the splitter |
 | `malformed` | the target is not a name or title at all — empty, or a bare column pointer (`Sp. 60.`) | the parser |
 | `blind` | nothing exists and nothing is close | an editor: the register points at something it does not contain |

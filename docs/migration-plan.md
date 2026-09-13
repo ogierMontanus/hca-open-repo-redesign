@@ -444,7 +444,40 @@ and the order they *were* run in survives only as prose in
 why), not the code that applied them. One replayable segmentation stage reading
 a decision table would reproduce the file from the parser output, make the
 chain testable, and make the ~39 scripts an archive rather than a dependency.
-This is the largest single simplification available.
+
+**Tested 2026-09-13, and the replay is not possible.** A fresh parse was taken
+and compared against the committed file:
+
+| | |
+|---|---:|
+| fresh parse | 9,338 rows |
+| committed | 10,079 rows |
+| match on (surname, given names) | 7,741 |
+| fresh-parse only | 1,135 |
+| committed only | **2,101** |
+| shared entries differing substantively | 920 |
+
+The chain did not apply edits to a stable base, it restructured: 958 people
+imported from the transcription, 479 duplicates removed, entries split and
+merged, 901 descriptions re-segmented. Replaying it would need each pass's
+inputs as they stood when it ran, and later passes overwrote earlier ones in
+`data/review/`. That information is gone.
+
+So the achievable part of step 9 is the archive, which is done, and the file
+is confirmed as committed data in the strongest sense: re-running the parser
+does not approximate it. The account lives in
+`scripts/segmentation/README.md`.
+
+**And the comparison found something that blocks §I.10.** `01_entry_id` is a
+row number, not an identifier — `PerXI00001` is "Åberg" in a fresh parse and
+"Abbott" in the committed file, because the chain inserted 741 rows and every
+id after the first insertion shifted. There is nothing stable on this side for
+a `PerXI… ↔ Reg…` crosswalk to point at. A content key of (surname, given
+names, birth year, death year, references, description) is unique for 10,077
+of 10,079 rows, so ids can be **seeded** from content and then carried as data
+— assigned once, never re-derived. The two collisions are genuine
+exact-duplicate rows and want removing first. That is now the first task of
+§I.10a.
 
 **E.3 — The largest cleaning product is not consumed.**
 `data/parsed/personregister_xi_parsed.tsv` — 10,136 rows, 3 MB, the output of
@@ -936,7 +969,7 @@ the boundary that PR #1 does not have:
 
 | | Drift |
 |---|---|
-| `scripts/parsers/merge_manual_corrections.py` | new on `main` (237 lines), absent from PR #1 |
+| `scripts/segmentation/archive/merge_manual_corrections.py` | new on `main` (237 lines), absent from PR #1 |
 | `data/curated/ethnic_adjectives_da.csv` | edited on `main` (`f10dd85`, `36b65f1` "crossborder buckets") — differs |
 | `data/curated/nation_umbrellas_da.csv` | edited on `main` — differs |
 | `data/normalized/work_languages.csv` | differs — `lingua` version drift, exactly as PR #1's docs predicted |

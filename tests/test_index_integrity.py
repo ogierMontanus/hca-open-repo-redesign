@@ -155,7 +155,7 @@ CEILINGS = [
     ("personregister_xi", "XR2-blind", 7, "7"),
     ("personregister_xi", "XR2-linewrap", 3,
      "3 targets still carrying an unrejoined column break — "
-     "scripts/parsers/apply_hyphen_linewrap_fixes.py is the repair"),
+     "scripts/segmentation/archive/apply_hyphen_linewrap_fixes.py is the repair"),
     ("personregister_xi", "XR1-no-target", 1,
      "1 — PerXI01219 ('August, Le Locle 14.9.1833. I 175.') is an ordinary "
      "entry typed as a cross-reference; it has page references and no target"),

@@ -19,7 +19,7 @@ person is meant to edit.
 | `gender_markers_da.csv` | `enrichment/parse_person_gender.py` | the gendered-term vocabulary |
 | `given_name_gender_overrides.csv` | the same | cross-culturally ambiguous given names, resolved by hand |
 | `person_role_terms_da.csv` | `curation/parse_person_role.py` | ~185 role terms grouped into buckets |
-| `person_emendations.tsv` | `parsers/apply_person_emendations.py` | editorial corrections to individual register entries |
+| `person_emendations.tsv` | `segmentation/apply_person_emendations.py` — validates them against the register, and emits the merged view | editorial corrections to individual register entries |
 
 The first seven cross to the publication repository — see
 [`../../docs/interface.md`](../../docs/interface.md). The rest are read only

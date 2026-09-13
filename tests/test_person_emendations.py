@@ -20,7 +20,7 @@ import pytest
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 EMENDATIONS = ROOT / "data" / "curated" / "person_emendations.tsv"
-SCRIPT = ROOT / "scripts" / "parsers" / "apply_person_emendations.py"
+SCRIPT = ROOT / "scripts" / "segmentation" / "apply_person_emendations.py"
 
 VALID_FIELDS = {"surname", "given_names", "birth_year", "death_year", "description"}
 VALID_CONFIDENCE = {"certain", "probable", "proposed"}
