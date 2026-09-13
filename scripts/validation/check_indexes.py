@@ -53,7 +53,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import registers as R  # noqa: E402
 
 ROOT = R.ROOT
-REVIEW_DIR = ROOT / "data" / "curated"
+REVIEW_DIR = ROOT / "data" / "review"
 
 UNRESOLVED = ("blind", "overrun", "malformed", "linewrap")
 
@@ -291,7 +291,7 @@ def run() -> Findings:
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[1])
     ap.add_argument("--write", action="store_true",
-                    help="write data/curated/index_integrity_review.csv")
+                    help="write data/review/index_integrity_review.csv")
     ap.add_argument("--json", action="store_true", help="machine-readable output")
     args = ap.parse_args()
 

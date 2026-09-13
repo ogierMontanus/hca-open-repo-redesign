@@ -2,7 +2,7 @@
 """
 suggest_review_fixes.py
 ------------------------
-Adds a 15_suggested_fix column to data/curated/personregister_xi_review.tsv,
+Adds a 15_suggested_fix column to data/review/personregister_xi_review.tsv,
 attempting an automatic lookup for the "'se:'-mål ... findes ikke som
 opslag" rows (a "se:" cross-reference target that doesn't match any
 03_surname actually present in the register).
@@ -34,7 +34,7 @@ import re
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
-REVIEW_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_review.tsv")
+REVIEW_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_review.tsv")
 
 # A line-wrap hyphen followed by whitespace inside a word ("Guer- cino",
 # "Sachsen-Co- burg-Gotha") -- the hyphen is a genuine line-break

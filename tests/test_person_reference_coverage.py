@@ -89,7 +89,7 @@ def test_duplicate_candidates_do_not_grow(measured):
     assert n <= 90, (
         f"{n} duplicate-candidate groups, up from 66. A new import may have "
         "reintroduced the twins the dedupe passes removed. See "
-        "data/curated/person_duplicate_candidates.csv."
+        "data/review/person_duplicate_candidates.csv."
     )
 
 

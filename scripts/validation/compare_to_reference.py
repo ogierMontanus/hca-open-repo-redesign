@@ -71,7 +71,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 ROOT = Path(__file__).resolve().parents[2]
 OURS = ROOT / "data" / "parsed" / "personregister_xi_parsed.tsv"
 REFERENCE = ROOT / "data" / "raw" / "Personer _ HCA_tsv.txt"
-OUT_DIR = ROOT / "data" / "curated"
+OUT_DIR = ROOT / "data" / "review"
 
 # Every parenthesis holding a year, a year range, a "død 1881", a "ca. 1820",
 # or an "f. Chr." — removed wholesale before comparing. Removing only the

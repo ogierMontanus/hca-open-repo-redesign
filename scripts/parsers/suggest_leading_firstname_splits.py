@@ -42,7 +42,7 @@ refine_description_segmentation.py's docstring for the same catalogue):
     as a given name elsewhere in this register.
 
 Reporting only. Writes
-data/curated/personregister_xi_leading_firstname_review.tsv and changes
+data/review/personregister_xi_leading_firstname_review.tsv and changes
 nothing in personregister_xi_parsed.tsv.
 
   python scripts/parsers/suggest_leading_firstname_splits.py
@@ -54,7 +54,7 @@ from collections import Counter
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
-OUT_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_leading_firstname_review.tsv")
+OUT_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_leading_firstname_review.tsv")
 
 LIFE = (
     r"\(\s*(?:"

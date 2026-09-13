@@ -127,7 +127,7 @@ through as `blind` instead.
 
 41 findings need a human out of roughly 584 cross-reference targets; 31
 more are OCR near misses. `--write` puts the full list in
-`data/curated/index_integrity_review.csv`.
+`data/review/index_integrity_review.csv`.
 
 ## Known gap: redirects the ingester does not extract
 

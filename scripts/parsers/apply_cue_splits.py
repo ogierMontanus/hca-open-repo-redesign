@@ -32,7 +32,7 @@ import re
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
-REVIEW_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_cue_split_review.tsv")
+REVIEW_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_cue_split_review.tsv")
 
 # Leading alphabet section divider ("O. Oberlin, ..." -> "Oberlin, ...").
 # The letter must match the surname that follows, and that surname must

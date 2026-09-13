@@ -2,7 +2,7 @@
 """
 match_collin_places_to_register.py
 -------------------------------------
-Maps data/curated/collin_letters_place_index.csv (see
+Maps data/review/collin_letters_place_index.csv (see
 extract_collin_place_index.py / docs/data-model/collin-place-index.md)
 against this project's own PLACE-REGISTER (mockup/data/places-extra.js),
 matching on normalized place name -- places have no birth-year-like
@@ -33,7 +33,7 @@ sys.path.insert(0, str(_Path(__file__).resolve().parents[1]))
 from _lib.names import primary_keys, edge_case_key
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-COLLIN_CSV = os.path.join(ROOT, "data", "curated", "collin_letters_place_index.csv")
+COLLIN_CSV = os.path.join(ROOT, "data", "review", "collin_letters_place_index.csv")
 # Built register cards from the publication repo (hca-open-repo). They are a
 # BUILD artefact, so they live in the other repository; point
 # HCA_MOCKUP_DATA_DIR at its mockup/data/ folder, or keep the two repos as
@@ -43,7 +43,7 @@ MOCKUP_DATA_DIR = os.environ.get(
     os.path.join(ROOT, os.pardir, "hca-open-repo", "mockup", "data"),
 )
 PLACES_JS = os.path.join(MOCKUP_DATA_DIR, "places-extra.js")
-OUT_CSV = os.path.join(ROOT, "data", "curated", "collin_letters_place_match.csv")
+OUT_CSV = os.path.join(ROOT, "data", "review", "collin_letters_place_match.csv")
 
 
 def load_json_object(path):

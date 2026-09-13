@@ -78,6 +78,10 @@ import re
 import sys
 from collections import Counter, defaultdict
 
+# This script prints characters the Windows console's cp1252 default cannot
+# encode. Without this the run dies at the print, after the work is done.
+sys.stdout.reconfigure(encoding="utf-8")
+
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 ENTITIES = os.path.join(ROOT, "data", "normalized", "entities.csv")
 ETHNIC = os.path.join(ROOT, "data", "normalized", "person_ethnic_descriptors.csv")

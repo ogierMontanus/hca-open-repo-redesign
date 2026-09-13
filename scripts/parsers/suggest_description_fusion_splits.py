@@ -26,7 +26,7 @@ just the first), and a candidate is SAFE only when xlsx confirms each
 fragment as a distinct, unambiguous entry.
 
 Reporting only. Writes
-data/curated/personregister_xi_description_fusion_review.tsv and
+data/review/personregister_xi_description_fusion_review.tsv and
 changes nothing in personregister_xi_parsed.tsv.
 
   python scripts/parsers/suggest_description_fusion_splits.py
@@ -42,7 +42,7 @@ import openpyxl
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
 XLSX_PATH = os.path.join(ROOT, "data", "raw", "HCA REPOSITORY V0.92", "PersonData-PQ-V0.92.xlsx")
-OUT_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_description_fusion_review.tsv")
+OUT_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_description_fusion_review.tsv")
 
 # Marker a): a reference run, then a name-head.
 CUE_A = re.compile(

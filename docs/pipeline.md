@@ -47,7 +47,7 @@ there.
 
 Stage 2 transforms nothing: it reports dangling cross-references and
 kind-specific missing values across the registers, and writes the findings
-to `data/curated/index_integrity_review.csv`. It is optional in the runner
+to `data/review/index_integrity_review.csv`. It is optional in the runner
 so a run still completes with findings outstanding —
 `tests/test_index_integrity.py` is what refuses to let them grow. The rules
 and their reasoning: [`index-integrity.md`](index-integrity.md).

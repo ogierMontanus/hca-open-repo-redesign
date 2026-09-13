@@ -3,7 +3,7 @@
 apply_reviewed_name_diff_splits.py
 --------------------------------------
 Second pass over the rows the reviewer marked as skewed in
-data/curated/personregister_xi_reference_name_diffs.tsv.
+data/review/personregister_xi_reference_name_diffs.tsv.
 
 Those 45 rows were paired to a reference entry by a shared page-
 reference signature, but the pairing is FALSE -- it linked two unrelated

@@ -117,7 +117,7 @@ def test_references_parsed_columns_within_printed_range(rows):
     # number outside the register's own printed range (1-796) is
     # necessarily wrong, usually a source OCR error (a dropped space
     # fusing two numbers). These rows should also appear in
-    # data/curated/personregister_xi_review.tsv, not be silently
+    # data/review/personregister_xi_review.tsv, not be silently
     # dropped -- this test only guards that they are not treated as
     # ordinary, unflagged data days after being introduced.
     out_of_range = []
@@ -182,7 +182,7 @@ def test_birth_year_before_or_equal_death_year(rows):
     # so "1007" is a source-OCR defect, not a source typesetting one;
     # kept in this list because fixing one hand-verified digit here
     # would not generalize, and the row is already surfaced in
-    # data/curated/personregister_xi_review.tsv for that reason.
+    # data/review/personregister_xi_review.tsv for that reason.
     # Sofokles (496-406) is BC but the source omits "f. Chr." on this
     # one entry (unlike the neighboring Aischylos entry, which has it),
     # so year_note misses it too -- same known-defect bucket regardless.

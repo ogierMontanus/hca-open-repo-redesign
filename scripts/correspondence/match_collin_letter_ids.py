@@ -25,9 +25,9 @@ Tables read from ../hca_db_export/hca_db.sql (sibling checkout):
   brevperson(ID, Fornavn, Efternavn)  -- resolves PersonID -> a name
 
 Output:
-  data/curated/collin_letter_id_calibration.csv -- the 20 sampled
+  data/review/collin_letter_id_calibration.csv -- the 20 sampled
     letters with their verified (or flagged-ambiguous/unmatched) BrevID
-  data/curated/collin_letter_pages_with_ids.csv -- all 505 letters from
+  data/review/collin_letter_pages_with_ids.csv -- all 505 letters from
     collin_letter_pages.csv, each with an interpolated estimated_brevid
     (per-volume linear fit from that volume's 5 calibration points) plus
     the verified BrevID directly on the 20 calibration rows themselves
@@ -42,9 +42,9 @@ import re
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 SQL_PATH = r"C:\Users\nh\Documents\GitHub\hca_db_export\hca_db.sql"
-LETTER_PAGES_CSV = os.path.join(ROOT, "data", "curated", "collin_letter_pages.csv")
-OUT_CALIBRATION = os.path.join(ROOT, "data", "curated", "collin_letter_id_calibration.csv")
-OUT_FULL = os.path.join(ROOT, "data", "curated", "collin_letter_pages_with_ids.csv")
+LETTER_PAGES_CSV = os.path.join(ROOT, "data", "review", "collin_letter_pages.csv")
+OUT_CALIBRATION = os.path.join(ROOT, "data", "review", "collin_letter_id_calibration.csv")
+OUT_FULL = os.path.join(ROOT, "data", "review", "collin_letter_pages_with_ids.csv")
 
 
 def parse_tuples(sql_text):
@@ -217,7 +217,7 @@ def main():
     resolved = [c for c in calibration if c["brevid"]]
     print(f"  {len(resolved)}/{len(calibration)} resolved to a BrevID")
 
-    out_review = os.path.join(ROOT, "data", "curated", "collin_letter_id_calibration_review.csv")
+    out_review = os.path.join(ROOT, "data", "review", "collin_letter_id_calibration_review.csv")
     failed = [a for a in attempted if not a["brevid"]]
     with open(out_review, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=list(attempted[0].keys()))

@@ -18,6 +18,10 @@ import re
 import sys
 from pathlib import Path
 
+# This script prints characters the Windows console's cp1252 default cannot
+# encode. Without this the run dies at the print, after the work is done.
+sys.stdout.reconfigure(encoding="utf-8")
+
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_SQL = REPO_ROOT.parent / "hca_db_export" / "hca_db.sql"
 DEFAULT_OUT = REPO_ROOT / "data" / "normalized_v092"

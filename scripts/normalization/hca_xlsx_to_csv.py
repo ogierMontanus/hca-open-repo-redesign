@@ -23,6 +23,10 @@ import os
 import sys
 import warnings
 
+# This script prints characters the Windows console's cp1252 default cannot
+# encode. Without this the run dies at the print, after the work is done.
+sys.stdout.reconfigure(encoding="utf-8")
+
 # openpyxl emits UserWarnings about Slicer List and other unsupported xlsx
 # extensions that are present in the HCA workbook. They are harmless and
 # add noise to the build output, so suppress them here.

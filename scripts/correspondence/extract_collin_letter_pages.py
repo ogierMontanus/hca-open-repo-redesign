@@ -22,7 +22,7 @@ from and interpolates over -- see that script and
 (heading pattern, printed-page-number extraction, known OCR quirks)
 this reuses from lookup_collin_letter_by_page.py.
 
-Output: data/curated/collin_letter_pages.csv -- one row per letter:
+Output: data/review/collin_letter_pages.csv -- one row per letter:
   volume, letter_no, direction (Fra/Til), person, pdf_page_start,
   printed_page_start, printed_page_end, dateline_iso (blank if none
   printed near the heading)
@@ -45,7 +45,7 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 VOL_DIR = (r"C:\Users\nh\Syddansk Universitet\HCA-MS - Documents"
            r"\forskning_HCA\BEC Breve til Edvard og Henriette Collin")
 VOL_FILE = "andersen-hc_breve-collin_{n}.pdf"
-OUT_CSV = os.path.join(ROOT, "data", "curated", "collin_letter_pages.csv")
+OUT_CSV = os.path.join(ROOT, "data", "review", "collin_letter_pages.csv")
 
 PAREN_YEAR_RE = re.compile(r"\(1[78]\d\d\)")
 PAGE_NO_RE = re.compile(r"^[il](\d+)$|^(\d+)$")

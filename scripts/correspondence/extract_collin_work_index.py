@@ -16,7 +16,7 @@ don't share the place-index's "definite-article-inversion" problem, but
 DO share its false-positive risk from short, capitalized-looking
 citation fragments -- handled the same way (GARBLED_ROMAN exclusion).
 
-Output: data/curated/collin_letters_work_index.csv (title, category
+Output: data/review/collin_letters_work_index.csv (title, category
 header the entry falls under, publication year if printed, citation).
 
 Run from the repo root:
@@ -35,7 +35,7 @@ except ImportError:
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PDF_PATH = r"C:\Users\nh\Documents\GitHub\breve-data\andersen-hc_breve-collin_6.pdf"
-OUT_CSV = os.path.join(ROOT, "data", "curated", "collin_letters_work_index.csv")
+OUT_CSV = os.path.join(ROOT, "data", "review", "collin_letters_work_index.csv")
 
 PAGE_LO, PAGE_HI = 50, 57  # 0-indexed = "I. VÆRK-REGISTER"
 PAGE_W = 450.85

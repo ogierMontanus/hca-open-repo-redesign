@@ -23,7 +23,7 @@ Source PDF: C:\\Users\\nh\\Documents\\GitHub\\breve-data\\andersen-hc_breve-coll
   role in docs/data-model/correspondence-integration.md).
   ABBYY FineReader PDF 15 OCR layer, two-column layout, 450x565pt pages.
 
-Output: data/curated/collin_letters_place_index.csv -- see the module
+Output: data/review/collin_letters_place_index.csv -- see the module
 docstring in that file's own header row / docs/data-model/
 collin-place-index.md for the column meanings and the cleaning approach.
 
@@ -44,8 +44,8 @@ except ImportError:
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PDF_PATH = r"C:\Users\nh\Documents\GitHub\breve-data\andersen-hc_breve-collin_6.pdf"
-OUT_CSV = os.path.join(ROOT, "data", "curated", "collin_letters_place_index.csv")
-OUT_REVIEW = os.path.join(ROOT, "data", "curated", "collin_letters_place_index_review.csv")
+OUT_CSV = os.path.join(ROOT, "data", "review", "collin_letters_place_index.csv")
+OUT_REVIEW = os.path.join(ROOT, "data", "review", "collin_letters_place_index_review.csv")
 
 PAGE_LO, PAGE_HI = 69, 82   # 0-indexed PDF pages = printed pp. 64-77
 PAGE_W = 450.85

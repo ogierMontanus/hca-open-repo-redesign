@@ -30,7 +30,7 @@ Classification:
             candidates too close to separate).
 
 Reporting only; writes
-data/curated/personregister_xi_cue_split_review.tsv and rewrites
+data/review/personregister_xi_cue_split_review.tsv and rewrites
 nothing.
 
   python scripts/parsers/suggest_cue_splits.py
@@ -45,9 +45,9 @@ import openpyxl
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
-REVIEW_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_vs_xlsx_review.tsv")
+REVIEW_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_vs_xlsx_review.tsv")
 XLSX_PATH = os.path.join(ROOT, "data", "raw", "HCA REPOSITORY V0.92", "PersonData-PQ-V0.92.xlsx")
-OUT_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_cue_split_review.tsv")
+OUT_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_cue_split_review.tsv")
 
 # A reference run ending an entry, e.g. "III 375." or "VIII 89- 91 101."
 # followed by the next entry's capitalised name-head.

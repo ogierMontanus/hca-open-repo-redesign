@@ -4,7 +4,7 @@ import_reference_missing_candidates.py
 ------------------------------------------
 Imports the 958 people that data/raw/Personer _ HCA_tsv.txt lists but
 personregister_xi_parsed.tsv lacks (see
-data/curated/personregister_xi_reference_missing_candidates.tsv, built
+data/review/personregister_xi_reference_missing_candidates.tsv, built
 by the name-difference pass).
 
 Each imported row is built entirely from the reference: name -> surname
@@ -27,7 +27,7 @@ import unicodedata
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
 CANDIDATES_TSV = os.path.join(
-    ROOT, "data", "curated", "personregister_xi_reference_missing_candidates.tsv"
+    ROOT, "data", "review", "personregister_xi_reference_missing_candidates.tsv"
 )
 
 # Reviewed orthographic fixes to apply to reference text on import.

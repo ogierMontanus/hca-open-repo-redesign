@@ -19,6 +19,11 @@ import csv
 import os
 import re
 from html.parser import HTMLParser
+import sys
+
+# This script prints characters the Windows console's cp1252 default cannot
+# encode. Without this the run dies at the print, after the work is done.
+sys.stdout.reconfigure(encoding="utf-8")
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 HTM_DEFAULT = os.path.join(ROOT, "data", "raw", "Rejser_HCA_X.htm")

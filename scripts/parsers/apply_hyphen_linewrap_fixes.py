@@ -3,7 +3,7 @@
 apply_hyphen_linewrap_fixes.py
 --------------------------------
 Applies the 'join_linewrap' fixes from
-data/curated/ocr_hyphen_linewrap_candidates.tsv to
+data/review/ocr_hyphen_linewrap_candidates.tsv to
 data/parsed/personregister_xi_parsed.tsv: each is a line-wrap hyphen
 artifact ("Gottholdi- ne" -> "Gottholdine") in 03_surname, 04_given_names
 or 09_description. The 'remove_space_keep_hyphen' rows (real hyphenated
@@ -25,7 +25,7 @@ import os
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
-CANDIDATES_TSV = os.path.join(ROOT, "data", "curated", "ocr_hyphen_linewrap_candidates.tsv")
+CANDIDATES_TSV = os.path.join(ROOT, "data", "review", "ocr_hyphen_linewrap_candidates.tsv")
 
 
 def rebuild_sort_key(r):

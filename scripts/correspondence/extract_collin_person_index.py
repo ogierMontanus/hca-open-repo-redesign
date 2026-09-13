@@ -31,7 +31,7 @@ all (a real minority, e.g. "Achard, Anna, Pensionatsværtinde i Genève")
 are necessarily out of scope for this extraction method and are not
 captured here -- they carry no matchable year regardless.
 
-Output: data/curated/collin_letters_person_index.csv. Citation is taken
+Output: data/review/collin_letters_person_index.csv. Citation is taken
 as the raw text between one match's year-parenthesis and the next
 match's surname -- this is an approximation (the true citation/
 description boundary within that span isn't parsed), kept for reference
@@ -53,8 +53,8 @@ except ImportError:
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PDF_PATH = r"C:\Users\nh\Documents\GitHub\breve-data\andersen-hc_breve-collin_6.pdf"
-OUT_CSV = os.path.join(ROOT, "data", "curated", "collin_letters_person_index.csv")
-OUT_REVIEW = os.path.join(ROOT, "data", "curated", "collin_letters_person_index_review.csv")
+OUT_CSV = os.path.join(ROOT, "data", "review", "collin_letters_person_index.csv")
+OUT_REVIEW = os.path.join(ROOT, "data", "review", "collin_letters_person_index_review.csv")
 
 PAGE_LO, PAGE_HI = 83, 162  # 0-indexed PDF pages = "IV. PERSON-REGISTER"
 PAGE_W = 450.85

@@ -5,10 +5,10 @@ merge_manual_corrections.py
 Three-way merge of the manually corrected register against the machine
 OCR pass, both of which branched from the same base.
 
-    base    data/curated/personregister_xi_review_full.tsv          (10.079)
-    branch A data/curated/personregister_xi_review_full_ocr_refined.tsv
+    base    data/review/personregister_xi_review_full.tsv          (10.079)
+    branch A data/review/personregister_xi_review_full_ocr_refined.tsv
              -- machine: J6sika->Jósika, 6 regenerated 05_sort_key
-    branch B data/curated/personregister_xi_review_full_2026-09-05-manual-corrections.csv
+    branch B data/review/personregister_xi_review_full_2026-09-05-manual-corrections.csv
              -- manual: 14 rows edited, 9 "B" split rows, 2 splits that
                 landed on a duplicate id, 1 row deleted
 

@@ -138,7 +138,7 @@ instruktioner.**
    sessionen (senest til `9000 ≤ n ≤ 10800`, se
    `tests/test_personregister_xi_parsed.py`). Grænsen er bevidst løs og bør
    ikke strammes uden at genmåle mod referencen.
-5. **`data/curated/personregister_xi_review_full.xlsx`** er sidst
+5. **`data/review/personregister_xi_review_full.xlsx`** er sidst
    genereret FØR punkt 7-9's rettelser i denne session (`build_review_workbook.py`
    blev kørt, men kontrollér tidsstemplet mod seneste `parsed`-ændring —
    kør scriptet igen hvis der er tvivl, inden nogen læser arket).

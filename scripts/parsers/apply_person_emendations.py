@@ -49,7 +49,7 @@ import os
 import sys
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-MASTER1 = os.path.join(ROOT, "data", "curated", "personregister_xi_review_full.tsv")
+MASTER1 = os.path.join(ROOT, "data", "review", "personregister_xi_review_full.tsv")
 EMENDATIONS = os.path.join(ROOT, "data", "curated", "person_emendations.tsv")
 OUT_JSON = os.path.join(ROOT, "data", "normalized", "person_emendations.json")
 OUT_RESOLVED = os.path.join(ROOT, "data", "normalized",

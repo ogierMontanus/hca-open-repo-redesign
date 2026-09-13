@@ -2,7 +2,7 @@
 """
 match_collin_works_to_register.py
 ------------------------------------
-Maps data/curated/collin_letters_work_index.csv against this project's
+Maps data/review/collin_letters_work_index.csv against this project's
 own WORK-REGISTER (mockup/data/works-extra.js), matching on normalized
 title -- works-extra.js titles already embed a publication year in the
 same "(YYYY)" convention as the printed edition (e.g. "Aus Herz und
@@ -56,7 +56,7 @@ sys.path.insert(0, str(_Path(__file__).resolve().parents[1]))
 from _lib.names import primary_keys, edge_case_key
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-COLLIN_CSV = os.path.join(ROOT, "data", "curated", "collin_letters_work_index.csv")
+COLLIN_CSV = os.path.join(ROOT, "data", "review", "collin_letters_work_index.csv")
 # Built register cards from the publication repo (hca-open-repo). They are a
 # BUILD artefact, so they live in the other repository; point
 # HCA_MOCKUP_DATA_DIR at its mockup/data/ folder, or keep the two repos as
@@ -66,7 +66,7 @@ MOCKUP_DATA_DIR = os.environ.get(
     os.path.join(ROOT, os.pardir, "hca-open-repo", "mockup", "data"),
 )
 WORKS_JS = os.path.join(MOCKUP_DATA_DIR, "works-extra.js")
-OUT_CSV = os.path.join(ROOT, "data", "curated", "collin_letters_work_match.csv")
+OUT_CSV = os.path.join(ROOT, "data", "review", "collin_letters_work_match.csv")
 
 FUZZY_CUTOFF = 0.88
 

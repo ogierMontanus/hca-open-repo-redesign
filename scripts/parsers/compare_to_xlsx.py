@@ -17,7 +17,7 @@ For every surname where my data and xlsx disagree on WHICH specific
 people are filed under it (the "Ahlefeldt-shaped" case: both sources
 have entries for that surname, but not the same set of people), a
 full side-by-side row is written to
-data/curated/personregister_xi_vs_xlsx_review.tsv for manual review.
+data/review/personregister_xi_vs_xlsx_review.tsv for manual review.
 
 Run from the repo root, AFTER fix_diacritics_from_xlsx.py:
   python scripts/parsers/compare_to_xlsx.py
@@ -33,7 +33,7 @@ import openpyxl
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
 XLSX_PATH = os.path.join(ROOT, "data", "raw", "HCA REPOSITORY V0.92", "PersonData-PQ-V0.92.xlsx")
-OUT_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_vs_xlsx_review.tsv")
+OUT_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_vs_xlsx_review.tsv")
 
 
 def strip_diacritics(s: str) -> str:

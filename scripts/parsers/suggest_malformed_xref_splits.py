@@ -42,7 +42,7 @@ Two rows are deliberately NOT auto-split and are reported for review:
     ("see this one") with no separate target name to split on.
 
 Reporting only. Writes
-data/curated/personregister_xi_malformed_xref_review.tsv; use --apply to
+data/review/personregister_xi_malformed_xref_review.tsv; use --apply to
 write the split into personregister_xi_parsed.tsv.
 
   python scripts/parsers/suggest_malformed_xref_splits.py

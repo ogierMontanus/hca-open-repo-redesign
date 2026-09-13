@@ -20,7 +20,7 @@ import re
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
-REVIEW_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_description_fusion_review.tsv")
+REVIEW_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_description_fusion_review.tsv")
 
 XL_YEARS = re.compile(
     r"\((?:ca\.\s*)?(?:(?P<d_only>(?:d\.|død)\s*(?P<dy>\d{3,4}))"

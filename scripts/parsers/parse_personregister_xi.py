@@ -80,7 +80,7 @@ except ImportError:
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PDF_PATH = os.path.join(ROOT, "data", "raw", "dagbog-bd-11-3408_Claus-OCR test ABBYY.pdf")
 OUT_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
-OUT_REVIEW = os.path.join(ROOT, "data", "curated", "personregister_xi_review.tsv")
+OUT_REVIEW = os.path.join(ROOT, "data", "review", "personregister_xi_review.tsv")
 
 PAGE_LO, PAGE_HI = 47, 444  # 0-indexed PDF pages, "test ABBYY" file
 PAGE_W = 440.65

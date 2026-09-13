@@ -38,7 +38,7 @@ import openpyxl
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
 XLSX_PATH = os.path.join(ROOT, "data", "raw", "HCA REPOSITORY V0.92", "PersonData-PQ-V0.92.xlsx")
-OUT_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_paren_segmentation_review.tsv")
+OUT_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_paren_segmentation_review.tsv")
 
 
 def strip_diacritics(s: str) -> str:

@@ -7,10 +7,10 @@ carrying the FULL content of every row, with the individual cells that
 need a human decision highlighted.
 
 Two outputs, because TSV cannot carry formatting:
-  data/curated/personregister_xi_review_full.xlsx
+  data/review/personregister_xi_review_full.xlsx
       every column, frozen header, autofilter, colour-coded cells, and
       a per-row "review_flags" column naming the issues found.
-  data/curated/personregister_xi_review_full.tsv
+  data/review/personregister_xi_review_full.tsv
       the same data and flags as plain text, for grep/diff/pipeline use.
 
 Flag classes (colour in the workbook):
@@ -49,8 +49,8 @@ from openpyxl.utils import get_column_letter
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
-OUT_XLSX = os.path.join(ROOT, "data", "curated", "personregister_xi_review_full.xlsx")
-OUT_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_review_full.tsv")
+OUT_XLSX = os.path.join(ROOT, "data", "review", "personregister_xi_review_full.xlsx")
+OUT_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_review_full.tsv")
 
 FILL = {
     "red": PatternFill("solid", fgColor="FFC7CE"),

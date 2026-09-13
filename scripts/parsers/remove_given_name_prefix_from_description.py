@@ -27,7 +27,7 @@ explicit "d."/"dod", or an "f. Chr." form) and only into an EMPTY
 
 Usage:
   --sample N   write the first N matches (default 20) to
-               data/curated/personregister_xi_given_name_prefix_sample.tsv
+               data/review/personregister_xi_given_name_prefix_sample.tsv
                for review; makes NO changes to the parsed file.
   --apply      remove the duplicated prefix (and lift any resulting
                leading life span) across ALL matching rows and write
@@ -44,7 +44,7 @@ import re
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
-SAMPLE_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_given_name_prefix_sample.tsv")
+SAMPLE_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_given_name_prefix_sample.tsv")
 
 # Same life-span shape used elsewhere in this pipeline (refine_description_
 # segmentation.py): a range, an explicit death, or a BC year. Includes the

@@ -24,7 +24,7 @@ segmentation is only accepted when every reference fragment is found in
 our row's text in the same order, covering most of it.
 
 Reporting only. Writes
-data/curated/personregister_xi_tsv_harvest_review.tsv and changes
+data/review/personregister_xi_tsv_harvest_review.tsv and changes
 nothing in personregister_xi_parsed.tsv.
 
   python scripts/parsers/harvest_segmentation_from_tsv.py
@@ -37,7 +37,7 @@ import unicodedata
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
 REF_TXT = os.path.join(ROOT, "data", "raw", "Personer _ HCA_tsv.txt")
-OUT_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_tsv_harvest_review.tsv")
+OUT_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_tsv_harvest_review.tsv")
 
 # Our rows worth checking: anything whose description is long enough to
 # plausibly hide a second entry, or that a fusion flag already marks.

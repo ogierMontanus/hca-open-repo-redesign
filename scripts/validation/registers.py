@@ -242,7 +242,7 @@ def split_targets(target: str) -> list[str]:
 # A word broken across the printed column and never rejoined: "Berner-Schil-
 # den", "Dra- strup", "Frie- derici". The project already treats this as its
 # own defect family (apply_hyphen_linewrap_fixes.py,
-# data/curated/ocr_hyphen_linewrap_candidates.tsv); naming it here means a
+# data/review/ocr_hyphen_linewrap_candidates.tsv); naming it here means a
 # reference that fails only because of one is reported as the known,
 # already-tooled defect it is rather than as a blind reference.
 LINEWRAP = re.compile(r"[a-zæøåäöü]-\s+[a-zæøåäöü]")

@@ -26,7 +26,7 @@ into the split logic, since inventing a surname without page-image
 verification would be a fabrication, not a fix.
 
 Reporting only. Writes
-data/curated/personregister_xi_embedded_name_review.tsv and changes
+data/review/personregister_xi_embedded_name_review.tsv and changes
 nothing in personregister_xi_parsed.tsv.
 
   python scripts/parsers/suggest_embedded_name_splits.py
@@ -42,7 +42,7 @@ import openpyxl
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 PARSED_TSV = os.path.join(ROOT, "data", "parsed", "personregister_xi_parsed.tsv")
 XLSX_PATH = os.path.join(ROOT, "data", "raw", "HCA REPOSITORY V0.92", "PersonData-PQ-V0.92.xlsx")
-OUT_TSV = os.path.join(ROOT, "data", "curated", "personregister_xi_embedded_name_review.tsv")
+OUT_TSV = os.path.join(ROOT, "data", "review", "personregister_xi_embedded_name_review.tsv")
 
 EMBEDDED_NAME_YEAR = re.compile(
     r"[A-ZÆØÅÖÜ][a-zæøåöäü]+(?:\s\([^)]*\))?,\s"
