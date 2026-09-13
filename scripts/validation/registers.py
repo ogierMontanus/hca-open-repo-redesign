@@ -345,7 +345,7 @@ class Index:
                 continue
             for cand_key, ids in self.keys.items():
                 if cand_key.startswith(k + " "):
-                    other = [h for h in ids if h != citing_id]
+                    other = sorted(h for h in ids if h != citing_id)
                     if other:
                         return Resolution("resolved", raw, other[0])
 
@@ -353,9 +353,14 @@ class Index:
         # before falling back to a blind similarity search: a hit here has a
         # documented cause, which a ratio never does.
         ocr_index = self._ocr_index()
-        for k in cands:
+        # sorted(), not bare iteration: `cands` is a set, so its order varies
+        # with PYTHONHASHSEED, and so did which of several equally-valid
+        # suggestions this returned. The finding was always the same; only
+        # the reported `nearest` moved, which put spurious diffs in a
+        # committed review file. See the module note below.
+        for k in sorted(cands):
             ids = ocr_index.get(ocr_key(k), [])
-            other = [h for h in ids if h != citing_id]
+            other = sorted(h for h in ids if h != citing_id)
             if other:
                 return Resolution("ocr_variant", raw, other[0],
                                   self.labels.get(other[0]), 1.0)
@@ -364,7 +369,9 @@ class Index:
         # defect to fix, not a blind reference to escalate, so it is worth
         # the one-off cost of a fuzzy pass over the key space.
         best, score = None, 0.0
-        probe = max(cands, key=len) if cands else fold(cleaned)
+        # max() over a set breaks ties by iteration order; sort first so the
+        # longest-then-alphabetically-first candidate always wins.
+        probe = max(sorted(cands), key=len) if cands else fold(cleaned)
         for cand_key in self.keys:
             if abs(len(cand_key) - len(probe)) > 6:
                 continue
