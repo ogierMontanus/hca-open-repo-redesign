@@ -37,11 +37,26 @@ SOURCES = (
            "V0.82 remains the spine until the HCAP-to-Reg crosswalk is "
            "accepted; 97.8 % resolved, 209 entries in review."),
 
-    Source("person references", "V0.82 + segmentation output",
-           "Merged additively at plan step 10c: the segmentation supplements "
-           "references.csv rather than replacing it, so persons gain "
-           "references and none lose any.",
-           "Depends on the same crosswalk."),
+    Source("person references", "V0.82 + segmentation output (MERGED)",
+           "Done, step 10c. 11,220 references added across 2,358 people, "
+           "+16.2 %. Strictly additive and append-only: the first 69,583 "
+           "lines of references.csv are byte-identical, so no person lost a "
+           "reference and dropping the tail restores the previous state. "
+           "Excluded: 2,190 references from 27 entries that absorbed a "
+           "neighbour's citation list during OCR segmentation, 12 citing "
+           "pages that do not exist, and 614 behind unresolved crosswalk "
+           "rows.",
+           ""),
+
+    Source("person identifiers", "Reg… (unchanged, public)",
+           "Step 10d. The segmentation's HCAP ids are internal; the site "
+           "keeps citing Reg… . The register is a citable scholarly resource "
+           "with a published version URL, and persons.html?reg=Reg… is what "
+           "external links point at — breaking them to tidy an internal id "
+           "space is a bad trade. The crosswalk carries the indirection "
+           "instead, which costs one join and no citations.",
+           "Entries with no Reg counterpart need ids in a documented, "
+           "non-colliding range before the spine can swap (step 10e)."),
 
     Source("works", "V0.82",
            "V0.94's 5-WORK-Registry is ready to take over — 3,590 rows, and "

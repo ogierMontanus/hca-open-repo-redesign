@@ -39,7 +39,10 @@ in this repository, plus one branch in the publication repo.
 | — · resolver determinism | **done** — found while verifying step 8 | `c92cf87` |
 | 9 · consolidate the segmentation chain | **done, with a negative result** — the replay is impossible; the chain is archived | `142c8c7` |
 | 10a · stable ids + crosswalk | **done** — `00_person_id` minted, 97.8 % crosswalked | `397afff` |
-| 10b–e · adopt persons additively | not started — clean the parsed references, merge, then swap the spine | — |
+| 10b · validate the citations | **done** — the live set is 16× dirtier than the register | `(this)` |
+| 10c · merge the references additively | **done** — 11,220 added, append-only, nothing lost | `(this)` |
+| 10d · public identifier | **decided: `Reg…` stays public**, HCAP internal. No URL changes | `(this)` |
+| 10e · rebuild and compare on substance | **done** — 3,880 diary pages + 5 person artifacts changed; every works and places artifact unchanged | `(this)` |
 | 11 · adopt V0.94 per entity type | **partly done** — the per-entity source map is written and enforced; one "win" turned out not to be one, two are blocked | `(this)` |
 | 12 · removals | not started | — |
 
