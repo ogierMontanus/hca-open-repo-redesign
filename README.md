@@ -34,14 +34,18 @@ what is generated, and what must never be hand-edited.
 | `data/raw/` | The source materials: three generations of register workbook (V0.82, V0.92, V0.94), the geocoded Rejser table, the SV14 TEI place-list, the KB link workbook, the verified-places workbook, the independent person transcription, the register OCR PDF |
 | `data/normalized/` | Star-shaped CSVs and the enrichment layers derived from them |
 | `data/parsed/` | Register segmentation output — one row per register entry |
-| `data/curated/` | Hand-curated authority tables and the review artefacts the curation passes produced |
-| `scripts/normalization/` | Workbook ingesters (V0.82 flat, V0.92 multi-file) |
+| `data/normalized_v092/`, `data/normalized_v094/` | Read-only verification surfaces for the two newer source releases. **Nothing consumes them** |
+| `data/curated/` | 11 hand-maintained authority tables — inputs, edit deliberately |
+| `data/review/` | 39 generated review artefacts — outputs, read by a human and kept for audit |
+| `scripts/_lib/` | Shared primitives: name normalisation, the language set |
+| `scripts/normalization/` | Workbook ingesters (V0.82 flat, V0.92 and V0.94 multi-file) |
 | `scripts/enrichment/` | Reconciliation and derivation passes over the normalised CSVs |
 | `scripts/parsers/` | Register parsers and the person-register segmentation/cleaning passes |
 | `scripts/place_typology/` | Place classification work |
 | `scripts/correspondence/` | Collin-letter index extraction and register matching |
+| `scripts/curation/` | Human-driven passes that read the publication repo's **built** cards — not pipeline stages |
 | `scripts/migration/` | Tidstavle (timeline) migration from EPUB/SQL |
-| `scripts/validation/` | Register integrity checks, and the build-equivalence harness |
+| `scripts/validation/` | Register integrity checks, the build-equivalence harness, and the person-register coverage measurement |
 | `dist/` | The published package — assembled by `scripts/publish.py`, gitignored |
 
 ### Three source generations, none complete
@@ -53,7 +57,12 @@ type** rather than by one global version switch:
 |---|---|---|
 | **V0.82** | the live site: persons, diary text, references with ordering | — |
 | **V0.92** | nothing in production; kept as a verification surface | its person slice covers volumes VI–VII only |
-| **V0.94** | works, places, the ten-volume page list, the calendar — **not yet ingested** | **no person register**; coordinates and cross-references provisioned but empty |
+| **V0.94** | works, places, the ten-volume page list, the calendar — ingested read-only, **not yet consumed** | **no person register**; coordinates and cross-references provisioned but empty |
+
+Persons are the exception to "newest wins": the destination is this
+repository's own segmentation output, not any workbook. See
+[`docs/architecture.md`](docs/architecture.md) §2 and
+[`docs/migration-plan.md`](docs/migration-plan.md) §E.3a.
 
 [`docs/architecture.md`](docs/architecture.md) §2 explains what is
 authoritative for which field, and why the newest file does not automatically
@@ -72,6 +81,10 @@ deterministic from the raw sources; the human-in-the-loop cleaning passes
 under `scripts/parsers/` are deliberately *not* in it, because their
 results were reviewed and are committed as data. See
 [`docs/pipeline.md`](docs/pipeline.md).
+
+A full run takes about 70 seconds and leaves every file under
+`data/normalized/` byte-identical — the prepared data is reproducible from the
+sources on this machine.
 
 ## The interface to hca-open-repo
 
@@ -114,12 +127,25 @@ reproducible across `lingua` versions. The script's docstring has the details.
 ## Tests
 
 ```
-python -m pytest tests/ -q      # 53 tests
+python -m pytest tests/ -q      # 59 tests
 ```
 
 These guard the *cleaning* output — register segmentation, the person
-emendations, and the integrity rules above. The build-output tests live in
-the publication repo.
+emendations, the integrity rules above, and the register's coverage against
+the independent transcription. The build-output tests live in the publication
+repo.
+
+## Measuring the person register against the independent transcription
+
+```
+python scripts/validation/compare_to_reference.py --write
+```
+
+`data/raw/Personer _ HCA_tsv.txt` is a separately produced transcription of
+the same printed register. Nothing reads it as a pipeline input; it is the
+only external check on whether the segmentation found the right people. The
+script reports coverage, the entries unmatched on each side once spelling
+variants are discounted, and duplicate candidates.
 
 ## Documentation
 
@@ -132,6 +158,7 @@ the publication repo.
 | [`docs/person-register-segmentation.md`](docs/person-register-segmentation.md) | How register XI was segmented, how good it is, known weaknesses |
 | [`docs/migration-plan.md`](docs/migration-plan.md) | Why the architecture is shaped this way, and what changes next |
 | [`docs/equivalence-2026-09-12.md`](docs/equivalence-2026-09-12.md) | The first equivalence run, and three findings from it |
+| [`docs/v094-structural-diff.md`](docs/v094-structural-diff.md) | Generated: what adopting V0.94 would gain and cost, per entity type |
 | [`docs/history/`](docs/history/) | Superseded pipeline documents, kept for their reasoning |
 
 ## Licence

@@ -105,4 +105,4 @@ ships).
 When V0.9x grows a `WorkData-PQ` workbook, drop V0.82 entirely and merge
 this folder into `data/normalized/`.
 
-See also: [`docs/data-model/v0.92-structural-diff.md`](../../docs/data-model/v0.92-structural-diff.md).
+See also: [`v0.92-structural-diff.md`](https://github.com/ogierMontanus/hca-open-repo/blob/main/docs/data-model/v0.92-structural-diff.md) (in the publication repo).

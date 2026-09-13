@@ -1,16 +1,98 @@
 # Migration plan — data pipeline from `hca-open-repo` into this repository
 
-Investigation phase only. Nothing is migrated or deleted by this document.
+**Sections 0–K below are the original investigation, kept as written** — they
+are the reasoning the architecture rests on, and §0 in particular records
+where the brief and the repositories disagreed. **For what has actually been
+built, read the status section immediately below**; where the two differ, the
+status section is current.
 
 | | |
 |---|---|
-| **Repository A** | [`ogierMontanus/hca-open-repo`](https://github.com/ogierMontanus/hca-open-repo) — website + full pipeline, `main` @ `36b65f1` |
-| **Repository B** | [`ogierMontanus/hca-open-repo-redesign`](https://github.com/ogierMontanus/hca-open-repo-redesign) — **this repository, currently empty (zero commits)** |
-| **Repository C** | [`ogierMontanus/HCA-Diary-data-cleaning`](https://github.com/ogierMontanus/HCA-Diary-data-cleaning) — a third repo holding an already-built, already-validated version of this migration on an unmerged branch (PR #1) |
-| Date | 2026-09-12 |
-| Revision | 2026-09-12 — **V0.94 source release added** (`new input/HCA REPOSITORY V0.94`); §0.4, §C, §E.1, §E.4, §F, §H, §I and §K revised accordingly |
-| Decision | 2026-09-12 — **persons will come from the cleaning repo's segmentation output**, not from the V0.82 workbook. §E.3 resolved; §D, §H, §I.10 and §J.6 revised. |
-| Decision | 2026-09-12 — **V0.92 rejected as a person source** (§E.3a). **V0.82 remains the person spine until the crosswalk validates**; the segmentation output is adopted additively, not as a cutover. §I.10 restaged. |
+| **Repository A** | [`ogierMontanus/hca-open-repo`](https://github.com/ogierMontanus/hca-open-repo) — website + build. `main` was at `36b65f1` when this was written |
+| **Repository B** | [`ogierMontanus/hca-open-repo-redesign`](https://github.com/ogierMontanus/hca-open-repo-redesign) — this repository. Was empty; now holds the pipeline |
+| **Repository C** | [`ogierMontanus/HCA-Diary-data-cleaning`](https://github.com/ogierMontanus/HCA-Diary-data-cleaning) — held an already-built version of this migration on an unmerged branch (PR #1). **Seeded B; now superseded by it** |
+| Written | 2026-09-12 |
+| Revision | 2026-09-12 — **V0.94 source release added**; §0.4, §C, §E.1, §E.4, §F, §H, §I and §K revised |
+| Decision | 2026-09-12 — **persons come from this repository's own segmentation output**, not from any workbook. §E.3 resolved |
+| Decision | 2026-09-12 — **V0.92 rejected as a person source** (§E.3a). V0.82 stays the person spine until the crosswalk validates; the segmentation output is adopted **additively**, not as a cutover |
+| Implemented | 2026-09-13 — steps 0–8 and §J.3. See below |
+
+---
+
+## Status — what is built
+
+Steps are those of §I. Nothing has been pushed; all work is on local `main`
+in this repository, plus one branch in the publication repo.
+
+| Step | State | Commit |
+|---|---|---|
+| 0 · reconcile the drift | **done** — four files, rule: A's `main` wins | `36d4af3` |
+| 1 · seed B | **done** — PR #1's five commits preserved, V0.94 rehomed into `data/raw/` | `1ff0787` |
+| 2 · freeze the baseline | **done** — 4,560 artifacts hashed | `74f7864` |
+| 3 · prove the interface | **done** — **4,559 of 4,560 byte-identical** | `74f7864` |
+| 4 · land the A-side commit | **dropped at the user's request.** A keeps its preprocessing for now | — |
+| 5 · rewrite the documentation | **done** — `architecture.md`; three superseded documents archived | `12fff95` |
+| 6 · ingest V0.94 read-only | **done** — `hca_v094_to_csv.py`, stage `1a''`, structural diff | `610dd53` |
+| §J.3 · coverage harness | **done** — `compare_to_reference.py` + 6 tests | `21fc03b` |
+| 7 · consolidate enrichment | **done** — `scripts/_lib/`, `scripts/curation/`, country precedence | `202153a` |
+| 8 · split `data/curated/` | **done** — 11 authority tables / 39 review artefacts | `17c2b26` |
+| — · resolver determinism | **done** — found while verifying step 8 | `c92cf87` |
+| 9 · consolidate the segmentation chain | **next.** Now unblocked by §J.3 | — |
+| 10 · adopt the segmentation output for persons | not started — additive route, §I.10a–e | — |
+| 11 · adopt V0.94 per entity type | not started | — |
+| 12 · removals | not started | — |
+
+### What the implementation established
+
+**The boundary holds.** With `data/{normalized,normalized_v092,parsed,curated}`
+**deleted** from a publication-repo checkout and replaced by
+`publish.py --into`, its build produced 4,559 of 4,560 artifacts byte-identical
+to one built from its own committed data. The single difference is
+`manifest.json`'s `built_at` timestamp. Method and caveats:
+[`equivalence-2026-09-12.md`](equivalence-2026-09-12.md).
+
+**The pipeline could never run on Windows, and now does.** Seven scripts
+printed characters the cp1252 console cannot encode and died at the print,
+after doing their work. Three in the publication repo
+(`build_cooccurrence`, `build_nation_index`, `build_kb_links`) and four here —
+including `hca_xlsx_to_csv.py`, **stage 1a, the one non-optional stage**, so
+`run_pipeline.py` as a whole could not complete. Worse than the failures were
+the silences: `build_nation_index` and `parse_person_gender` sit on *optional*
+stages, so their runs reported success while the artefact was simply absent.
+A full run now completes in ~70s and leaves `data/normalized/` byte-identical.
+
+**Three claims in the inherited documentation were wrong, and measuring found
+them:**
+
+| Claim | Measured |
+|---|---|
+| `work_languages.csv` drifts only in "confidence figures, by a few thousandths" | 0 language changes, but 9 method flips, 776 confidence changes, and **16 row-membership changes each way**. Rows near `lingua`'s threshold cross it between versions. The file is committed data, not reproducible output |
+| `registers.fold()` folds å "the way the rest of the project folds them" | It does not. NFKD strips the ring before the `å`→`aa` replace runs, so `fold("Åbenrå") == "abenra"`, not `"aabenraa"` — the opposite branch from its neighbour |
+| Stages 1g and 1h "need adding to the runner" | Already there |
+
+**Two of my own errors, caught by numbers rather than by reading:**
+
+- The first coverage harness classified every reference row without a
+  tabulated citation as a redirect stub. Only 690 of 1,276 are; the other 594
+  are ordinary people. That reported a **net +572 discrepancy that did not
+  exist**. Corrected to detect the `se:` marker — and then again, because the
+  pattern matched `ogsaa` but not `også`.
+- The first V0.94 ingester split reference keys on the last hyphen, which
+  reads the page range `II-407-09` as volume `II-407`, page `09`. 763 tokens
+  have that shape. Ranges are now expanded; ~1,000 references were being
+  mangled.
+
+**What the segmentation output is worth**, now that it can be measured: 9,669
+person entries against the transcription's 9,538, net real difference **+24**
+after spelling variants are discounted — reproducing the hand measurement's
+~10 closely enough to trust. And **66 duplicate candidates** that nothing
+previously tested for (known weakness #3).
+
+### Open questions still with the spreadsheet side
+
+Unchanged from §K: when a person register ships, whether the withdrawn star
+schema was deliberate, whether `OLDLocationID` can carry the live `Reg…` ids,
+and whether the empty coordinate and cross-reference columns will be filled.
 
 ---
 

@@ -54,7 +54,17 @@ entity type rather than by a global version switch:
 |---|---|---|
 | `HCA REPOSITORY V0.82` | one flat workbook, one `Registry` sheet with H1–H4 classification columns | the live site today: persons, diary text, references with ordering |
 | `HCA REPOSITORY V0.92` | nine workbooks — PowerQuery extracts plus PowerPivot star schemas | nothing in production. Its person slice covers volumes VI–VII only. Kept as a verification surface |
-| `HCA REPOSITORY V0.94` | five renamed, numbered registries plus a specification workbook | works, places, the ten-volume page list, the calendar. **Has no person register.** Not yet ingested |
+| `HCA REPOSITORY V0.94` | five renamed, numbered registries plus a specification workbook | works, places, the ten-volume page list, the calendar. **Has no person register.** Ingested read-only by stage `1a''`; nothing consumes it |
+
+**Persons are the exception to all of this.** No workbook is their
+destination: V0.94 has no person register at all, and V0.92's covers two
+volumes out of ten. The person register's future source is this repository's
+own segmentation output, `data/parsed/personregister_xi_parsed.tsv` — richer
+than what the site shows (45,293 page references against 39,361) and measured
+against the independent transcription by
+`scripts/validation/compare_to_reference.py`. V0.82 remains the spine until
+the `PerXI… ↔ Reg…` crosswalk is built and validated. See
+[`migration-plan.md`](migration-plan.md) §E.3 and §E.3a.
 
 **Independent transcriptions and scans.** `Personer _ HCA_tsv.txt` is a
 separately produced, pre-segmented transcription of the person register —
@@ -86,7 +96,7 @@ down rather than left to whichever stage runs last:
 
 | Rank | Source | Kind |
 |---|---|---|
-| 1 | `4-LOCATION-Registry.xlsx` `Country` (V0.94) | curated by the people who verify it — **not yet ingested**, see `normalized_v094/` |
+| 1 | `4-LOCATION-Registry.xlsx` `Country` (V0.94) | curated by the people who verify it — ingested to `normalized_v094/`, **not yet consumed** |
 | 2 | `data/normalized/steder_verified_categories.csv` | human-verified, from the verified-places workbook. **Authoritative today.** |
 | 3 | `data/curated/steder_country_to_nation_da.csv` | a country → nation-bucket mapping, not a country source; applied *after* a country is known |
 | 4 | the bounding-box gazetteer inlined in `build_web_data.py` | 33 European boxes over a coordinate, in the publication repo. A last resort, and the only one that can be wrong about a place it has never seen. |
@@ -153,8 +163,9 @@ honest.
 | `data/raw/**` | **Source.** Never edited here, by hand or by script. |
 | `data/normalized/**` | **Generated** by the runner from `data/raw/`. Committed, because consumers need them without re-running. Do not hand-edit — the next run overwrites you. |
 | `data/parsed/**` | **Generated once, then hand-corrected over many reviewed passes.** Re-running a parser discards that work. See §5. |
-| `data/curated/**` | **Hand-maintained.** Vocabularies and authority tables: the nationality list, gender markers, nation umbrellas, the entity-type gate, Wikidata ids. Edit these deliberately; they are inputs, not outputs. |
-| `data/review/**`, the `*_review.*` files | **Generated reports.** A human reads them and acts; nothing reads them back. |
+| `data/curated/**` | **Hand-maintained — 11 authority tables.** The nationality list, gender markers and given-name overrides, nation umbrellas, the entity-type gate, role terms, person emendations, Wikidata ids. Edit these deliberately; they are inputs. |
+| `data/review/**` | **Generated — 39 artefacts.** Suggestion files a human approved, Collin-letter indexes and matches, integrity findings, reference-comparison reports. A person reads them and acts; the pipeline never reads them back. |
+| `data/normalized_v092/**`, `data/normalized_v094/**` | **Generated verification surfaces.** Ingested so a source generation can be argued about with numbers. Nothing consumes them. |
 | `dist/` | **Generated** by `publish.py`. Gitignored. |
 
 Two exceptions worth knowing, because both have bitten:
@@ -242,11 +253,22 @@ python scripts/validation/compare_build_output.py compare before.json after.json
 
 - **`PYTHONHASHSEED=0`** when producing a comparable build. Several builders
   iterate over sets whose order reaches the output.
-- **`PYTHONIOENCODING=utf-8` on Windows.** Several scripts print `→` or `⚠`,
-  which the cp1252 console default cannot encode. The scripts here set it
-  themselves now; the habit is still worth keeping.
+- **`PYTHONIOENCODING=utf-8` on Windows.** Seven scripts printed `→`, `⚠`,
+  `✓` or `≥`, which the cp1252 console default cannot encode, and died at the
+  print *after* doing their work. One of them was stage 1a, so the pipeline
+  could not complete at all; two sat on optional stages and so failed
+  silently, reporting success while their artefact was absent. Every script
+  here now reconfigures stdout itself, and any new one must — a
+  `print` is not a safe place to put a non-ASCII character on this platform.
 - **Never run the ingest stages to establish a baseline.** They regenerate
   `data/normalized/`, including the non-reproducible file in §4.
+
+A third rule applies to anything that writes a committed file: **sort before
+taking "the first" of a set or an unordered list.** `check_indexes.py` chose
+among equally-scoring suggestions by set-iteration order, so its committed
+findings file changed between interpreter runs. A validation tool that is not
+reproducible is worse than an ordinary one: it is the thing other checks are
+measured against.
 
 ---
 
@@ -277,6 +299,7 @@ Carried from the printed-register work, and binding on any new stage:
 
 | Question | Document |
 |---|---|
+| What has actually been built, and what did implementing it turn up? | [`migration-plan.md`](migration-plan.md) — the Status section at the top |
 | What exactly crosses to the publication repo? | [`interface.md`](interface.md) |
 | What do the stages do, in order? | [`pipeline.md`](pipeline.md) |
 | What does the integrity checker enforce? | [`index-integrity.md`](index-integrity.md) |
