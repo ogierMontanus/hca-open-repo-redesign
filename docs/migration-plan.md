@@ -37,10 +37,30 @@ in this repository, plus one branch in the publication repo.
 | 7 · consolidate enrichment | **done** — `scripts/_lib/`, `scripts/curation/`, country precedence | `202153a` |
 | 8 · split `data/curated/` | **done** — 11 authority tables / 39 review artefacts | `17c2b26` |
 | — · resolver determinism | **done** — found while verifying step 8 | `c92cf87` |
-| 9 · consolidate the segmentation chain | **next.** Now unblocked by §J.3 | — |
-| 10 · adopt the segmentation output for persons | not started — additive route, §I.10a–e | — |
-| 11 · adopt V0.94 per entity type | not started | — |
+| 9 · consolidate the segmentation chain | **done, with a negative result** — the replay is impossible; the chain is archived | `142c8c7` |
+| 10a · stable ids + crosswalk | **done** — `00_person_id` minted, 97.8 % crosswalked | `397afff` |
+| 10b–e · adopt persons additively | not started — clean the parsed references, merge, then swap the spine | — |
+| 11 · adopt V0.94 per entity type | **partly done** — the per-entity source map is written and enforced; one "win" turned out not to be one, two are blocked | `(this)` |
 | 12 · removals | not started | — |
+
+### Step 11, measured rather than assumed
+
+The plan named four "unambiguous wins" to land first. Measuring each against
+its live equivalent changed the answer for three of them:
+
+| Candidate | Measured | Outcome |
+|---|---|---|
+| KB permalinks | all 4,413 URLs **identical** to what `build_kb_links.py` derives | **Not adopted.** V0.94 *states* the links; the workbook lets them be *derived and checked*, and that check caught vol I page 13. Switching trades a live validation for no change in output. V0.94 is now a cross-check instead. |
+| Place country / category | of 2,327 places shared by label, country differs on 1 and category on 5 — **every disagreement is the live side being empty** | Strictly better, but **blocked on identity**: `OLDLocationID` resolves 0 of 2,433, so places cannot be cut over on id. Needs a label-join crosswalk, as persons needed. |
+| Works register | `OLDWorkID` resolves **3,590 / 3,590** | Ready, but adoption changes site output and so needs a before/after against the build baseline. Not yet run. |
+| Artist / museum / city | 2,113 / 576 / 574 filled | Lands with the works register. |
+
+What did land is the mechanism: `scripts/_lib/sources.py` declares the
+authoritative source per entity with its reason and its blocker, and
+`tests/test_v094_agreement.py` turns the second source into an active
+cross-check — the KB links must keep agreeing, the work crosswalk must stay
+complete, and the place-identity blocker is asserted so that its *fixing*
+fails the test and prompts a revisit.
 
 ### What the implementation established
 
