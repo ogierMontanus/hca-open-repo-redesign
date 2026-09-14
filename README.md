@@ -45,6 +45,7 @@ what is generated, and what must never be hand-edited.
 | `scripts/correspondence/` | Collin-letter index extraction and register matching |
 | `scripts/curation/` | Human-driven passes that read the publication repo's **built** cards — not pipeline stages |
 | `scripts/migration/` | Tidstavle (timeline) migration from EPUB/SQL |
+| `scripts/index_maintenance/` | The reusable index-update engine: carry, mint, split, merge, validate |
 | `scripts/validation/` | Register integrity checks, the build-equivalence harness, and the person-register coverage measurement |
 | `dist/` | The published package — assembled by `scripts/publish.py`, gitignored |
 
@@ -125,13 +126,27 @@ reproducible across `lingua` versions. The script's docstring has the details.
 ## Tests
 
 ```
-python -m pytest tests/ -q      # 77 tests
+python -m pytest tests/ -q      # 97 tests
 ```
 
 These guard the *cleaning* output — register segmentation, the person
 emendations, the integrity rules above, and the register's coverage against
 the independent transcription. The build-output tests live in the publication
 repo.
+
+## Updating an index
+
+```
+python scripts/index_maintenance/update_index.py --list
+python scripts/index_maintenance/update_index.py person --from <updated.tsv>
+python scripts/index_maintenance/update_index.py person --from <updated.tsv> --apply
+```
+
+Carries every id it can, mints only for genuinely new entries and for the
+extra rows a split produces, follows references through a merge, and escalates
+rather than guesses. Run with no `--from` for a no-op integrity check. Works
+for any register with a label, a citation signature and an id column — see
+[`docs/index-maintenance.md`](docs/index-maintenance.md).
 
 ## Measuring the person register against the independent transcription
 
@@ -159,6 +174,7 @@ variants are discounted, and duplicate candidates.
 | [`docs/v094-structural-diff.md`](docs/v094-structural-diff.md) | Generated: what adopting V0.94 would gain and cost, per entity type |
 | [`docs/person-index-data-quality.md`](docs/person-index-data-quality.md) | How the person-register problems were found and classified, and the two mistakes made getting there |
 | [`docs/reports/person-index-input-report.md`](docs/reports/person-index-input-report.md) | **For the register's maintainers** — the problems found in the person-index input, and what was done with each |
+| [`docs/index-maintenance.md`](docs/index-maintenance.md) | **The update workflow** — what to run when any register changes, and how ids are carried, minted, split and merged |
 | [`docs/removals.md`](docs/removals.md) | What was removed, what was not, and what each one is waiting on |
 | [`docs/history/`](docs/history/) | Superseded pipeline documents, kept for their reasoning |
 

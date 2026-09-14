@@ -1,0 +1,33 @@
+kind,id,label,detail
+ambiguous-both-sides,,CRANACH BARBARA F BRENGBIER,HCAP00158 | HCAP02688
+ambiguous-both-sides,,DANMARK DAGMAR DRONNING AF F PRINSESSE AF BOHMEN,HCAP00165 | HCAP02789
+ambiguous-both-sides,,HESSEN KASSEL FRIEDRICH II LANDGREVE AF,HCAP00353 | HCAP04550
+ambiguous-both-sides,,MAROKKO SIDI MUHAMMED SULTAN AF,HCAP00522 | HCAP06254
+ambiguous-both-sides,,BRETTON FLORENCE BARONESSE,HCAP02054 | HCAP02055
+ambiguous-both-sides,,ECKARDT LAURITZ,HCAP03134 | HCAP03135
+ambiguous-both-sides,,FRANZL AUGUST LUDWIG,HCAP03620 | HCAP03621
+ambiguous-both-sides,,LOWENSTEIN WERTHEIM WILHELM PRINS AF,HCAP06121 | HCAP06122
+ambiguous-both-sides,,MAGNUS EMANUEL,HCAP06161 | HCAP06162
+ambiguous-both-sides,,MELCHIOR EMIL,HCAP06366 | HCAP06367
+unassigned,,"Cranach. Barbara, f. Brengbier",
+unassigned,,"Danmark, Dagmar, Dronning af –, f. Prinsesse af Bøhmen",
+unassigned,,"Hessen-Kassel, Friedrich II, Landgreve af –",
+unassigned,,"Marokko, Sidi Muhammed, Sultan af –",
+unassigned,,"Bretton, Florence, Baronesse",
+unassigned,,"Bretton, Florence, Baronesse",
+unassigned,,"Cranach, Barbara, f. Brengbier",
+unassigned,,"Danmark, Dagmar, Dronning af -, f. Prinsesse af Bøhmen",
+unassigned,,"Eckardt, Lauritz",
+unassigned,,"Eckardt, Lauritz",
+unassigned,,"Fränzl, August Ludwig",
+unassigned,,"Fränzl, August Ludwig",
+unassigned,,"Hessen-Kassel, Friedrich II, Landgreve af —",
+unassigned,,"Löwenstein-Wertheim, Wilhelm, Prins af —",
+unassigned,,"Löwenstein-Wertheim, Wilhelm, Prins af —",
+unassigned,,"Magnus, Emanuel",
+unassigned,,"Magnus, Emanuel",
+unassigned,,"Marokko, Sidi Muhammed, Sultan af —",
+unassigned,,"Melchior, Emil",
+unassigned,,"Melchior, Emil",
+missing-id,20 row(s) carry no id,,"Cranach. Barbara, f. Brengbier | Danmark, Dagmar, Dronning af –, f. Prinsesse af Bøhmen | Hessen-Kassel, Friedrich II, Landgreve af –"
+split,HCAP00003,,HCAP00003 HCAP10080
