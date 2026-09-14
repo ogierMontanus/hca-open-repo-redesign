@@ -44,7 +44,7 @@ in this repository, plus one branch in the publication repo.
 | 10d · public identifier | **decided: `Reg…` stays public**, HCAP internal. No URL changes | `(this)` |
 | 10e · rebuild and compare on substance | **done** — 3,880 diary pages + 5 person artifacts changed; every works and places artifact unchanged | `(this)` |
 | 11 · adopt V0.94 per entity type | **done, and the answer is "not yet"** — every candidate measured; none can land. See below | `11506f6`, `(this)` |
-| 12 · removals | not started | — |
+| 12 · removals | **done — almost nothing removed, and that is the right outcome.** See [`removals.md`](removals.md) | `(this)` |
 
 ### Step 11, measured rather than assumed
 
@@ -139,6 +139,31 @@ person entries against the transcription's 9,538, net real difference **+24**
 after spelling variants are discounted — reproducing the hand measurement's
 ~10 closely enough to trust. And **66 duplicate candidates** that nothing
 previously tested for (known weakness #3).
+
+### Step 12, and what a removal list is worth
+
+Six of the plan's removal candidates were re-examined against the data. **Not
+one survived.** `build_cooccurrence.py` has no successor because V0.94
+withdrew the fact tables; the artist regex is the *better* source, not the
+superseded one; the KB workbook carries a check V0.94 cannot; V0.92's CSVs
+will never become primary; and `personregister_xi_parsed.tsv` moved *into* the
+interface rather than out of the repository.
+
+The largest group — the publication repo's raw sources, five script
+directories and 56 data files — is fully evidenced and **blocked by decision,
+not by doubt**: A keeps its own copy of the pipeline until step 4 lands.
+
+`ner_page_grounding.py` was the one open question, and the answer is
+**dormant**: it implements a written task definition and is blocked on diary
+text coverage (751 of 4,549 pages), which V0.94 does not lift.
+
+What did change: four review artefacts left behind in `data/normalized/` by
+step 8 moved to `data/review/`. A reachability audit over all 118 data files
+and 53 live scripts found nothing else misfiled and no tracked cruft — steps 7
+to 9 had already done the sweeping.
+
+A removal list written from a design is a list of hypotheses.
+[`removals.md`](removals.md) records each verdict and what would unblock it.
 
 ### Open questions still with the spreadsheet side
 

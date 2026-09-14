@@ -50,7 +50,7 @@ Metode (regelbaseret grundlinje, ikke NLP-model):
 
 Output:
     data/normalized/ner_page_grounding.csv   — alle forslagsrækker
-    data/normalized/ner_page_grounding_review.csv
+    data/review/ner_page_grounding_review.csv
         — delmængde under --min-conf, til menneskelig gennemgang
 
 Dette script skriver IKKE til references.csv. Det er et rent
@@ -78,7 +78,7 @@ ENTITIES = os.path.join(ROOT, "data", "normalized", "entities.csv")
 DIARY = os.path.join(ROOT, "data", "normalized", "diary.csv")
 
 OUT = os.path.join(ROOT, "data", "normalized", "ner_page_grounding.csv")
-OUT_REVIEW = os.path.join(ROOT, "data", "normalized", "ner_page_grounding_review.csv")
+OUT_REVIEW = os.path.join(ROOT, "data", "review", "ner_page_grounding_review.csv")
 
 IN_SCOPE_TYPES = {"person", "place"}
 

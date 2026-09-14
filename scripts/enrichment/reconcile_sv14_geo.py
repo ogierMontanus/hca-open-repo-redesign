@@ -31,7 +31,7 @@ Writes:
   data/normalized/sv14_places_reconciled.csv  — entity_id -> matched geo,
                                                  consumed by
                                                  build_places_extra.py
-  data/normalized/sv14_places_ambiguous.csv   — same-name/different-coords
+  data/review/sv14_places_ambiguous.csv   — same-name/different-coords
                                                  collisions, for manual review
 
 Stdlib only.
@@ -50,7 +50,7 @@ SV14_XML  = os.path.join(ROOT, "data", "raw", "SV14_places.xml")
 ENTITIES  = os.path.join(ROOT, "data", "normalized", "entities.csv")
 REJSER    = os.path.join(ROOT, "data", "normalized", "rejser.tsv")
 OUT       = os.path.join(ROOT, "data", "normalized", "sv14_places_reconciled.csv")
-AMBIGUOUS = os.path.join(ROOT, "data", "normalized", "sv14_places_ambiguous.csv")
+AMBIGUOUS = os.path.join(ROOT, "data", "review", "sv14_places_ambiguous.csv")
 
 TEI_NS = {"tei": "http://www.tei-c.org/ns/1.0"}
 XML_ID = "{http://www.w3.org/XML/1998/namespace}id"

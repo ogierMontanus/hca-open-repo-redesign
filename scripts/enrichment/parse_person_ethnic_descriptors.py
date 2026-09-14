@@ -37,7 +37,7 @@ triage aid for human review, not a classifier — see the docs page.
 
 Writes:
   data/normalized/person_ethnic_descriptors.csv         — every match
-  data/normalized/person_ethnic_descriptors_review.csv  — unmatched
+  data/review/person_ethnic_descriptors_review.csv  — unmatched
                                                             "-sk/-iske"
                                                             candidates,
                                                             for ongoing
@@ -57,7 +57,7 @@ ROOT       = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")
 WORKBOOK   = os.path.join(ROOT, "data", "raw", "HCA REPOSITORY V0.82", "HCA-Repository V0.82.xlsx")
 ADJ_TABLE  = os.path.join(ROOT, "data", "curated", "ethnic_adjectives_da.csv")
 OUT        = os.path.join(ROOT, "data", "normalized", "person_ethnic_descriptors.csv")
-REVIEW_OUT = os.path.join(ROOT, "data", "normalized", "person_ethnic_descriptors_review.csv")
+REVIEW_OUT = os.path.join(ROOT, "data", "review", "person_ethnic_descriptors_review.csv")
 
 # Any Unicode letter run, plus internal ASCII hyphens for compounds like
 # "tysk-fransk". Using \w-minus-digits (not a hand-enumerated accent

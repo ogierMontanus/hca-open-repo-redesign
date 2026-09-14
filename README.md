@@ -159,6 +159,7 @@ variants are discounted, and duplicate candidates.
 | [`docs/v094-structural-diff.md`](docs/v094-structural-diff.md) | Generated: what adopting V0.94 would gain and cost, per entity type |
 | [`docs/person-index-data-quality.md`](docs/person-index-data-quality.md) | How the person-register problems were found and classified, and the two mistakes made getting there |
 | [`docs/reports/person-index-input-report.md`](docs/reports/person-index-input-report.md) | **For the register's maintainers** — the problems found in the person-index input, and what was done with each |
+| [`docs/removals.md`](docs/removals.md) | What was removed, what was not, and what each one is waiting on |
 | [`docs/history/`](docs/history/) | Superseded pipeline documents, kept for their reasoning |
 
 ## Licence

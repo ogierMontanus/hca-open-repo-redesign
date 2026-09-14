@@ -89,7 +89,7 @@ MARKERS = os.path.join(ROOT, "data", "curated", "gender_markers_da.csv")
 NAME_OVERRIDES = os.path.join(ROOT, "data", "curated", "given_name_gender_overrides.csv")
 
 OUT_GENDER = os.path.join(ROOT, "data", "normalized", "person_gender.csv")
-OUT_REVIEW = os.path.join(ROOT, "data", "normalized", "person_gender_review.csv")
+OUT_REVIEW = os.path.join(ROOT, "data", "review", "person_gender_review.csv")
 OUT_NAMESTATS = os.path.join(ROOT, "data", "normalized", "given_name_gender_stats.csv")
 
 FEMALE, MALE, UNKNOWN = "Kvindelig", "Mandlig", "Endnu ubestemt"
