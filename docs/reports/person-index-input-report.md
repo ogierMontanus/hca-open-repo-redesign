@@ -158,6 +158,43 @@ your call, not a precondition for our work.
 
 ---
 
+## 3b. 18 labels damaged by a find-and-replace
+
+Found while assessing the V0.94 work register, and **not an OCR problem**:
+
+```
+Festen paa KenilPagth                  ->  Festen paa Kenilworth     (W. Scott)
+Household Pagds (Udg.: Charles Dickens) ->  Household words          (Dickens)
+Journey to Angora (William AinsPagth)  ->  … Ainsworth
+Einige Pagte über Pferdezucht          ->  Einige worte …
+Om Holger-Danske-Sagnet (Pauline Pagm) ->  … Pauline worm
+```
+
+The letters **`wor` have been replaced by `Pag`** — 15 works, 2 persons and 1
+place. OCR does not turn three letters into three different letters
+consistently, mid-word, across unrelated entries. It looks like a
+substitution meant for the `Pag…` page-handle prefix that ran over the label
+text on its way past.
+
+The damage is in the **V0.82 workbook**, so it is upstream of us and shows on
+the live site today. V0.94's work registry does not have it, which is how it
+surfaced: the corrupted entries are among the handful that fail to crosswalk
+between the two.
+
+Careful with the detection — six real names legitimately begin with "Pag"
+(Paganini, Paget, Pagani, Pagh, Pagliani-Gagliardi). There is no mechanical
+way to tell `Pagds` → `words` from `Pagani` → `worani`; the six are excluded
+by name, so a new one will show up as a finding rather than be silently
+swallowed.
+
+**Not repaired here** — the fix belongs in the workbook. Correcting it
+downstream would leave the source wrong and quietly diverge the two.
+
+Full list with suggested corrections: `data/review/label_corruption.csv`,
+from `scripts/validation/check_label_corruption.py`.
+
+---
+
 ## 4. Coverage against the independent transcription
 
 Measured against `Personer _ HCA_tsv.txt`:
@@ -218,6 +255,7 @@ no row deleted. Every problem above is reported, not fixed.
 | `data/review/person_duplicate_candidates.csv` | the 66 duplicate groups |
 | `data/review/person_crosswalk_review.csv` | 209 entries with no live counterpart |
 | `data/review/person_reference_unmatched_*.csv` | coverage gaps against the transcription |
+| `data/review/label_corruption.csv` | the 18 `wor`→`Pag` labels, with suggested corrections |
 
 Method, including how each check works and the two mistakes we made getting
 there: [`docs/person-index-data-quality.md`](../person-index-data-quality.md).

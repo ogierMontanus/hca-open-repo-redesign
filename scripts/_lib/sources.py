@@ -59,16 +59,48 @@ SOURCES = (
            "non-colliding range before the spine can swap (step 10e)."),
 
     Source("works", "V0.82",
-           "V0.94's 5-WORK-Registry is ready to take over — 3,590 rows, and "
-           "OLDWorkID resolves 3,590 of 3,590 into entities.csv, a complete "
-           "crosswalk.",
-           "Adoption changes site output, so it needs a before/after against "
-           "the build baseline. Not yet run."),
+           "OLDWorkID resolves 3,590 of 3,590, so the identifiers are not the "
+           "problem — but the register still cannot be swapped in. V0.94 "
+           "holds 3,590 works against the live 3,708, and the 138 it does not "
+           "cover are not noise: 119 are cross-reference stubs ('Aamanden, "
+           "se: Klokkedybet') that the site's see-also navigation runs on, "
+           "and 19 are entries whose labels are corrupted upstream (see "
+           "'label corruption' below), which is why they fail to match.",
+           "A swap would delete 119 working cross-references. Enrichment is "
+           "the only safe shape, and the one field worth enriching from turns "
+           "out not to be usable — see the next entry."),
 
-    Source("work artist / museum / city", "V0.82 regex",
-           "V0.94 supplies these as real columns (2,113 / 576 / 574 filled), "
-           "retiring the title-parenthesis regex in the publication repo.",
-           "Lands with the works register."),
+    Source("work artist", "V0.82 title-parenthesis regex",
+           "The plan had this backwards. V0.94's Artist column does not "
+           "retire the regex; for the genre where an artist attribution "
+           "matters most it is far worse. Across the 921 shared BILLEDKUNST "
+           "works the regex fills 267 and V0.94 fills 3. "
+           "They are also not the same field. Where both are filled and "
+           "disagree (331 works), V0.94 names the AUTHOR and the regex names "
+           "the ILLUSTRATOR: 'Eventyr. Med 125 Ill. efter Originaltegninger "
+           "af V. Pedersen' is 'H.C. Andersen' to V0.94 and 'V. Pedersen' to "
+           "the regex. Both are right about different questions. Merging them "
+           "into one column would answer neither.",
+           "Needs a decision about what person_derived means for a work "
+           "before either can fill it. Guarded by "
+           "tests/test_v094_agreement.py."),
+
+    Source("work museum / city", "nothing — new in V0.94",
+           "MuseumEtc (576) and City (574) have no live equivalent and no "
+           "semantic clash. Genuinely new information.",
+           "Nothing in the publication repo reads them, so carrying them "
+           "across the interface would add columns nobody consumes. Lands "
+           "when a view wants them."),
+
+    Source("label corruption", "V0.82 (damaged)",
+           "18 labels have the letters 'wor' replaced by 'Pag' — Kenilworth "
+           "as 'KenilPagth', Household words as 'Household Pagds', Ainsworth "
+           "as 'AinsPagth'. A substitution meant for the Pag page-handle "
+           "prefix that ran over the label text. Present on the live site.",
+           "Upstream, in the workbook. Reported by "
+           "scripts/validation/check_label_corruption.py; deliberately not "
+           "repaired here, because fixing it downstream would leave the "
+           "source wrong."),
 
     Source("places", "V0.82",
            "V0.94's place attributes are strictly better: of 2,327 places "

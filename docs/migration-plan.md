@@ -43,7 +43,7 @@ in this repository, plus one branch in the publication repo.
 | 10c · merge the references additively | **done** — 11,220 added, append-only, nothing lost | `(this)` |
 | 10d · public identifier | **decided: `Reg…` stays public**, HCAP internal. No URL changes | `(this)` |
 | 10e · rebuild and compare on substance | **done** — 3,880 diary pages + 5 person artifacts changed; every works and places artifact unchanged | `(this)` |
-| 11 · adopt V0.94 per entity type | **partly done** — the per-entity source map is written and enforced; one "win" turned out not to be one, two are blocked | `(this)` |
+| 11 · adopt V0.94 per entity type | **done, and the answer is "not yet"** — every candidate measured; none can land. See below | `11506f6`, `(this)` |
 | 12 · removals | not started | — |
 
 ### Step 11, measured rather than assumed
@@ -64,6 +64,35 @@ authoritative source per entity with its reason and its blocker, and
 cross-check — the KB links must keep agreeing, the work crosswalk must stay
 complete, and the place-identity blocker is asserted so that its *fixing*
 fails the test and prompts a revisit.
+
+**The works register, measured (2026-09-14).** It was the one candidate the
+plan called ready. It is not, for three independent reasons:
+
+- **A swap would delete working cross-references.** V0.94 has 3,590 works
+  against the live 3,708. Of the 138 it does not cover, **119 are
+  cross-reference stubs** — "Aamanden, se: Klokkedybet" — that the site's
+  see-also navigation runs on.
+- **`Artist` is not `person_derived`.** Where both are filled and disagree
+  (331 works), V0.94 names the **author** and the live regex names the
+  **illustrator**: "Eventyr. Med 125 Ill. efter Originaltegninger af V.
+  Pedersen" is "H.C. Andersen" to one and "V. Pedersen" to the other. Both
+  are right about different questions; merging them answers neither.
+- **For billedkunst the regex is far better.** Across the 921 shared
+  BILLEDKUNST works the regex fills 267 artists and V0.94 fills **3**. The
+  plan had this exactly backwards — it listed the Artist column as retiring
+  the regex.
+
+`MuseumEtc` (576) and `City` (574) are genuinely new and clash with nothing,
+but nothing in the publication repo reads them, so carrying them across the
+interface would add columns no one consumes.
+
+**And the assessment turned up a bug.** 18 labels have the letters `wor`
+replaced by `Pag` — Kenilworth as "KenilPagth", Household words as "Household
+Pagds", Ainsworth as "AinsPagth". Upstream damage in the V0.82 workbook,
+visible on the live site, found because the corrupted entries are among the
+few that fail to crosswalk to V0.94. Reported by
+`scripts/validation/check_label_corruption.py`, not repaired here — the fix
+belongs in the workbook.
 
 ### What the implementation established
 
