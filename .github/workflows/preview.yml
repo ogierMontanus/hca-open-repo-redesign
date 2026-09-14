@@ -1,0 +1,112 @@
+# Preview site for this repository
+#
+# Builds the publication repo from THIS repo's published package and deploys
+# the result to this repo's own GitHub Pages, so the data work has a live link
+# of its own.
+#
+# The publication repo is checked out at build time and thrown away. No user
+# interface is copied into this repository: that would mean two copies of the
+# same 8 builders and 30 HTML pages, drifting apart, which is exactly the
+# duplication the migration removed. Checking it out instead keeps the
+# boundary — nothing here renders, nothing there re-derives — and makes the
+# preview unable to drift, because it is the real site built from this data.
+
+name: Preview site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+      - '.github/workflows/preview.yml'
+  workflow_dispatch:
+    inputs:
+      site_ref:
+        description: 'hca-open-repo ref to build with'
+        default: 'main'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Check out this repository (the data)
+        uses: actions/checkout@v4
+        with:
+          path: data-repo
+
+      - name: Check out the publication repository (the site)
+        uses: actions/checkout@v4
+        with:
+          repository: ogierMontanus/hca-open-repo
+          ref: ${{ github.event.inputs.site_ref || 'main' }}
+          path: site-repo
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # No pip install. The publication repo's presentation stages are
+      # stdlib-only, and the stages that were not — the ingest and enrichment
+      # ones needing openpyxl and lingua — are this repository's job and have
+      # already run. Their output is what publish.py hands over.
+
+      - name: Hand the prepared data to the site
+        working-directory: data-repo
+        run: |
+          python scripts/publish.py --check --into ../site-repo || true
+          python scripts/publish.py --into ../site-repo
+
+      - name: Build the site from it
+        working-directory: site-repo
+        env:
+          PYTHONHASHSEED: '0'
+          PYTHONIOENCODING: utf-8
+        run: |
+          for stage in 2 3a 3b 4a 4b 4c 4d 4e 4f; do
+            echo "::group::stage $stage"
+            python scripts/build_all.py --only "$stage"
+            echo "::endgroup::"
+          done
+
+      - name: Refresh the findings the landing page reports
+        working-directory: data-repo
+        env:
+          PYTHONIOENCODING: utf-8
+        run: |
+          python scripts/validation/check_page_references.py --write
+          python scripts/validation/check_label_corruption.py --write
+          python scripts/validation/compare_to_reference.py --write
+          python scripts/index_maintenance/update_index.py person || true
+
+      - name: Assemble the preview
+        working-directory: data-repo
+        env:
+          PYTHONIOENCODING: utf-8
+        run: |
+          python scripts/preview/build_preview.py \
+            --site site \
+            --a-sha "$(git -C ../site-repo rev-parse --short HEAD)"
+          cp -r ../site-repo/mockup site/mockup
+          cp -r ../site-repo/web    site/web
+          touch site/.nojekyll
+          du -sh site
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: data-repo/site
+      - id: deploy
+        uses: actions/deploy-pages@v4
