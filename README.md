@@ -62,11 +62,9 @@ type** rather than by one global version switch:
 Persons are the exception to "newest wins": the destination is this
 repository's own segmentation output, not any workbook. See
 [`docs/architecture.md`](docs/architecture.md) §2 and
-[`docs/migration-plan.md`](docs/migration-plan.md) §E.3a.
-
-[`docs/architecture.md`](docs/architecture.md) §2 explains what is
-authoritative for which field, and why the newest file does not automatically
-win.
+[`docs/migration-plan.md`](docs/migration-plan.md) §E.3a — and
+[`docs/architecture.md`](docs/architecture.md) §2 for what is authoritative
+for which field, and why the newest file does not automatically win.
 
 ## Running the pipeline
 
@@ -127,7 +125,7 @@ reproducible across `lingua` versions. The script's docstring has the details.
 ## Tests
 
 ```
-python -m pytest tests/ -q      # 59 tests
+python -m pytest tests/ -q      # 77 tests
 ```
 
 These guard the *cleaning* output — register segmentation, the person
@@ -159,6 +157,8 @@ variants are discounted, and duplicate candidates.
 | [`docs/migration-plan.md`](docs/migration-plan.md) | Why the architecture is shaped this way, and what changes next |
 | [`docs/equivalence-2026-09-12.md`](docs/equivalence-2026-09-12.md) | The first equivalence run, and three findings from it |
 | [`docs/v094-structural-diff.md`](docs/v094-structural-diff.md) | Generated: what adopting V0.94 would gain and cost, per entity type |
+| [`docs/person-index-data-quality.md`](docs/person-index-data-quality.md) | How the person-register problems were found and classified, and the two mistakes made getting there |
+| [`docs/reports/person-index-input-report.md`](docs/reports/person-index-input-report.md) | **For the register's maintainers** — the problems found in the person-index input, and what was done with each |
 | [`docs/history/`](docs/history/) | Superseded pipeline documents, kept for their reasoning |
 
 ## Licence

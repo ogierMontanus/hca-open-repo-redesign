@@ -17,18 +17,29 @@ Dry-run by default. `--apply` writes.
 
 What is deliberately NOT merged
 -------------------------------
-**Fused entries.** Some register entries absorbed their neighbour's citation
-list during OCR segmentation. The signature is unmistakable once seen: the
-entry's *own* pages sit in `09_description` while `11_references_parsed`
-holds someone else's. Scharff, Elvilda Antonia Victoria is the clearest —
-her description ends "X 335 342 384." (three pages, matching her three live
-references) while her parsed references run to 275, and her `13_raw_text`
-visibly runs on into "Scharff, H…".
+**Run-on entries — but only the ones that really are run-ons.**
 
-Merging those would attribute hundreds of pages to the wrong person, which is
-worse than missing them. 27 entries carry the signature with more than 20
-references, holding 2,190 references between them. They are excluded and
-written to the review file.
+27 entries have a citation list left behind in `09_description` as well as one
+in `10_references_raw`. A first pass excluded all 27. That was too blunt:
+they are two different defects, and only one of them is dangerous.
+
+The register cites volumes in ascending order, which is what tells them apart:
+
+  **Split list** (16 entries, 1,303 refs) — the parser ended the description
+  early and put the head of the citation list there, keeping the tail in
+  `10_references_raw`. The description's volumes *precede* the raw ones:
+  Bournonville, August has "II 33 … VIII …" in the description and "X 2 7 21
+  …" in the references. Both halves are his. Checked against the live data,
+  every reference these entries add falls in the tail volumes — Baller,
+  Sophie gains 24 volume-X references against the 1 the live register has.
+  **Admitted.**
+
+  **Run-on** (11 entries, 887 refs) — `10_references_raw` belongs to the
+  *following* entry. The volumes go backwards: Scharff, Elvilda has her own
+  "X 335 342 384." in the description while the references start at IV, and
+  her `13_raw_text` visibly runs on into "Scharff, H…". Merging these would
+  attribute hundreds of pages to the wrong person. **Excluded**, and written
+  to the review file for the editors.
 
 **Invalid citations.** The 14 references to pages that do not exist — see
 `scripts/validation/check_page_references.py`. Never repaired, never merged.
@@ -67,6 +78,27 @@ FUSION_REF_FLOOR = 20      # below this the signature is usually a real cross-re
 
 VOL_NUM = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6,
            "VII": 7, "VIII": 8, "IX": 9, "X": 10, "XI": 11}
+
+
+VOL_IN_TEXT = re.compile(r"\b(I|II|III|IV|V|VI|VII|VIII|IX|X)\s+\d")
+
+
+def runs_on_into_next_entry(description: str, references_raw: str) -> bool:
+    """True when `references_raw` belongs to the entry AFTER this one.
+
+    The register cites volumes in ascending order. So if the description's
+    citations reach volume VIII and the reference list restarts at IV, that
+    list is not a continuation of this entry — it is the next person's.
+
+    This is what separates the 11 genuine run-ons from the 16 entries whose
+    citation list the parser merely split in two. Excluding all 27, as a
+    first pass did, threw away 1,303 valid references.
+    """
+    dv = [VOL_NUM[m.group(1)] for m in VOL_IN_TEXT.finditer(description or "")]
+    rv = [VOL_NUM[m.group(1)] for m in VOL_IN_TEXT.finditer(references_raw or "")]
+    if not dv or not rv:
+        return False
+    return max(dv) > min(rv)
 
 
 def page_id(vol, page):
@@ -119,13 +151,16 @@ def main() -> int:
         if not refs:
             continue
 
-        if len(refs) > FUSION_REF_FLOOR and OWN_CITE_IN_DESCRIPTION.search(
-                m.get("09_description") or ""):
-            stats["excluded: fused entry"] += len(refs)
-            review.append({"person_id": pid, "name": name, "reason": "fused entry",
-                           "n_refs": len(refs),
-                           "detail": (m.get("09_description") or "")[:120]})
-            continue
+        if (len(refs) > FUSION_REF_FLOOR
+                and OWN_CITE_IN_DESCRIPTION.search(m.get("09_description") or "")):
+            if runs_on_into_next_entry(m.get("09_description") or "",
+                                       m.get("10_references_raw") or ""):
+                stats["excluded: run-on into next entry"] += len(refs)
+                review.append({"person_id": pid, "name": name,
+                               "reason": "run-on into next entry", "n_refs": len(refs),
+                               "detail": (m.get("09_description") or "")[:120]})
+                continue
+            stats["admitted: split citation list"] += len(refs)
 
         reg = walk.get(pid)
         if not reg:
