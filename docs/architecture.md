@@ -306,6 +306,7 @@ Carried from the printed-register work, and binding on any new stage:
 | How was the person register segmented, and how good is it? | [`person-register-segmentation.md`](person-register-segmentation.md) |
 | What is wrong with the person-index input, and how was it checked? | [`person-index-data-quality.md`](person-index-data-quality.md) |
 | A register was updated — what do I run? | [`index-maintenance.md`](index-maintenance.md) |
+| Which rows fuse two printed entries, and which split one? | [`fused-and-duplicated-rows.md`](fused-and-duplicated-rows.md) |
 | Why is the architecture shaped this way, and what changes next? | [`migration-plan.md`](migration-plan.md) |
 | How was equivalence proven? | [`equivalence-2026-09-12.md`](equivalence-2026-09-12.md) |
 | What did the old documents claim? | [`history/`](history/) |

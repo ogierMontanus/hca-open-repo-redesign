@@ -46,6 +46,9 @@ FINDINGS = [
      "Same surname, same cited pages, compatible given names."),
     ("person_crosswalk_review.csv", "entries with no counterpart in the live register",
      "Escalated rather than matched by guesswork."),
+    ("row_corrections_review.csv", "rows the scanner fused, and rows it split",
+     "Two printed entries run together into one row, or one person read as "
+     "two. Each finding carries what it proposes; none is applied."),
     ("page_reference_problems.csv", "citations to pages that do not exist",
      "Checkable for the first time now that a ten-volume page list exists."),
 ]

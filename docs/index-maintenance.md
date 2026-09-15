@@ -198,5 +198,6 @@ and it is worth running before and after any hand edit.
 | | |
 |---|---|
 | [`person-index-data-quality.md`](person-index-data-quality.md) | how the register's defects were found and classified |
+| [`fused-and-duplicated-rows.md`](fused-and-duplicated-rows.md) | what to run before an update when rows may need splitting or merging |
 | [`reports/person-index-input-report.md`](reports/person-index-input-report.md) | the findings, written for the register's maintainers |
 | [`architecture.md`](architecture.md) | where this sits in the pipeline |

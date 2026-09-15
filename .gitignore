@@ -8,3 +8,9 @@ __pycache__/
 # Assembled by scripts/publish.py from the files already committed under
 # data/. It is a copy, not a source — regenerate it, never edit it.
 dist/
+
+# scripts/segmentation/suggest_row_corrections.py --write writes a whole copy
+# of the register with its safe corrections applied, for diffing against the
+# master. A copy, not a source — regenerate it, never edit it. The findings
+# themselves are committed, in data/review/row_corrections_review.csv.
+data/parsed/*.proposed.tsv

@@ -1,0 +1,260 @@
+person_id,kind,tier,action,column,evidence,proposal
+HCAP00035,embedded_name_year,4,review by hand,09_description,"Charlotte (1803–1880), Pauline (1804–1887),",a second person is buried in this description
+HCAP01020,description_reference_run,1,recover citations,09_description,"fil.mag., senere Rektor i Viborg, Finland. I 298 383-85.",I:298;I:383;I:384;I:385
+HCAP01020,description_reference_run,2,trim the column,09_description,"Ahrens (Arenz), Portugiser, Setubal.","fil.mag., senere Rektor i Viborg, Finland. I 298 383-85."
+HCAP01020,description_reference_run,3,split out a new row,09_description,"Ahrens (Arenz), Portugiser, Setubal.",new entry: Ahrens
+HCAP01071,given_names_tail,1,recover citations,04_given_names,Bordeaux 1866. VII 89 174 176.,VII:174
+HCAP01071,given_names_tail,2,trim the column,04_given_names,Amé's Far,Bordeaux 1866. VII 89 174 176.
+HCAP01081,description_reference_run,1,recover citations,09_description,"fransk Forfatterinde, g. 1818 m. Fr. A. II 348 354-55 356.",II:348;II:354;II:355;II:356
+HCAP01081,description_reference_run,2,trim the column,09_description,"Ancker (Anker?), Sorø 20.5.1850.","fransk Forfatterinde, g. 1818 m. Fr. A. II 348 354-55 356."
+HCAP01081,description_reference_run,2,no split — the entry already exists,09_description,"Ancker (Anker?), Sorø 20.5.1850.",see existing Ancker
+HCAP01140,description_reference_run,1,recover citations,09_description,"t i Søetaten 1869, Premierløjtnant 1872. VI 116 180 218-19.",VI:116;VI:180;VI:218;VI:219
+HCAP01140,description_reference_run,2,trim the column,09_description,"Anker (Ancker?), Sorø 20.5.1850.","Søn af Johannes A., Kadet 1863, Sekondløjtnant i Søetaten 1869, Premierløjtnant 1872. VI 116 180 218-19."
+HCAP01140,description_reference_run,2,no split — the entry already exists,09_description,"Anker (Ancker?), Sorø 20.5.1850.",see existing Anker
+HCAP01186,description_reference_run,1,recover citations,09_description,g.m. Carl Th. A. IV 448. VIII 236.,IV:448;VIII:236
+HCAP01186,description_reference_run,2,trim the column,09_description,Arnesen (Arntzen?).,g.m. Carl Th. A. IV 448. VIII 236.
+HCAP01186,description_reference_run,2,no split — the entry already exists,09_description,Arnesen (Arntzen?).,see existing Arnesen
+HCAP01543,description_reference_run,1,recover citations,09_description,Opvarter i Murcia. V 232.,V:232
+HCAP01543,description_reference_run,2,trim the column,09_description,"Beppo (Peppo), Tigger paa den spanske Trappe i Rom.",Opvarter i Murcia. V 232.
+HCAP01543,description_reference_run,2,no split — the entry already exists,09_description,"Beppo (Peppo), Tigger paa den spanske Trappe i Rom.",see existing Beppo
+HCAP01608,given_names_tail,1,recover citations,04_given_names,"Grevinde, »født i Svendborg«, Paris 19.4.1867. VII 269.",VII:269
+HCAP01608,given_names_tail,2,trim the column,04_given_names,Bertall (Pseud. for Charles-Albert d'Arnoux),"Grevinde, »født i Svendborg«, Paris 19.4.1867. VII 269."
+HCAP01608,given_names_tail,2,no split — the entry already exists,04_given_names,Bertall (Pseud. for Charles-Albert d'Arnoux),see existing Bertall
+HCAP01644,description_reference_run,1,recover citations,09_description,Boghandler i København. IX 149.,IX:149
+HCAP01644,description_reference_run,2,trim the column,09_description,Bielke (»der døde af Snive«).,Boghandler i København. IX 149.
+HCAP01644,description_reference_run,2,no split — the entry already exists,09_description,Bielke (»der døde af Snive«).,see existing Bielke
+HCAP01664,description_reference_run,1,recover citations,09_description,hollandsk Digter. VII 36.,VII:36
+HCAP01664,description_reference_run,2,trim the column,09_description,Billes (ikke nærmere angivet).,hollandsk Digter. VII 36.
+HCAP01664,description_reference_run,2,no split — the entry already exists,09_description,Billes (ikke nærmere angivet).,see existing Billes
+HCAP01719,description_reference_run,1,recover citations,09_description,ucester; hans Moder var Søster til William Howitt. III 221.,III:221
+HCAP01719,description_reference_run,2,trim the column,09_description,"Birger Jarl (død 1266), svensk Stormand. III 339 360. Birger Persson t","ansat hos Hambro i London, senere i Firmaet Westenholz Brothers sst., derefter Købmand i Flensborg (1854) og fra 1870 i Gloucester; hans Moder var Søster til William Howitt. III 221."
+HCAP01719,description_reference_run,3,split out a new row,09_description,"Birger Jarl (død 1266), svensk Stormand. III 339 360. Birger Persson t",new entry: Birger
+HCAP01904,description_reference_run,1,recover citations,09_description,rosserer og dansk Vicekonsul i Newcastle. III 198. VII 180.,III:198;VII:180
+HCAP01904,description_reference_run,2,trim the column,09_description,Borring (»Brev fra Hr. Borring om at komme til ham og see hvad han hav,"Broder til Carl B., udvandret til England 1844, senere Grosserer og dansk Vicekonsul i Newcastle. III 198. VII 180."
+HCAP01904,description_reference_run,2,no split — the entry already exists,09_description,Borring (»Brev fra Hr. Borring om at komme til ham og see hvad han hav,see existing Borring
+HCAP01989,description_reference_run,1,recover citations,09_description,"os Dronning Marie Sophie Frederikke, Konferensraad. VI 305.",VI:305
+HCAP01989,description_reference_run,2,trim the column,09_description,"Brandt (Konsulatsembedsmand?), Napoli 3.3.1841.","Livlæge hos Dronning Marie Sophie Frederikke, Konferensraad. VI 305."
+HCAP01989,description_reference_run,2,no split — the entry already exists,09_description,"Brandt (Konsulatsembedsmand?), Napoli 3.3.1841.",see existing Brandt
+HCAP02158,description_reference_run,1,recover citations,09_description,"Marcus Junius (85-42 f.Chr.), Cæsars Morder. II 139.",II:139
+HCAP02158,description_reference_run,2,trim the column,09_description,"Bruun (Bruhn?), 22.4.1833.","Marcus Junius (85-42 f.Chr.), Cæsars Morder. II 139."
+HCAP02158,description_reference_run,2,no split — the entry already exists,09_description,"Bruun (Bruhn?), 22.4.1833.",see existing Bruun
+HCAP02160,description_reference_run,2,trim the column,09_description,"Bruun (»Lægen Bruun fra Odense der nu lever gift i Altona«, 15.9.1867,","Dansker, Munchen 25.6.1860. TV 386."
+HCAP02160,description_reference_run,2,no split — the entry already exists,09_description,"Bruun (»Lægen Bruun fra Odense der nu lever gift i Altona«, 15.9.1867,",see existing Bruun
+HCAP02186,description_reference_run,1,recover citations,09_description,", Hans (omkring 1520), Billedhugger og Billedskærer. IV 47.",IX:198;IV:47
+HCAP02186,description_reference_run,2,trim the column,09_description,Bruggemann (Brev fra ham til HCA Leipzig 8.9.1846).,"Balletdanserinde ved Det kgl. Teater, g. 1872 m. Olaf Poulsen. IX 198. — Se ogsaa: Poulsen, Emilie. Bruggeman, Hans (omkring 1520), Billedhugger og Billedskærer. IV 47."
+HCAP02186,description_reference_run,3,split out a new row,09_description,Bruggemann (Brev fra ham til HCA Leipzig 8.9.1846).,new entry: Bruggemann
+HCAP02190,description_reference_run,1,recover citations,09_description,", Professor ved Københavns Universitet 1870. IX 234. X 422.",IX:234;X:422
+HCAP02190,description_reference_run,2,trim the column,09_description,"Brøndsted (»en ung Brøndsted i Besøg«, Asmild Kloster 4.9.1859).","Filosof, Professor ved Københavns Universitet 1870. IX 234. X 422."
+HCAP02190,description_reference_run,2,no split — the entry already exists,09_description,"Brøndsted (»en ung Brøndsted i Besøg«, Asmild Kloster 4.9.1859).",see existing Brøndsted
+HCAP02203,description_reference_run,1,recover citations,09_description,"borg 1847, i Højesteret 1861, Justitiarius 1880-97. IV 364.",IV:364
+HCAP02203,description_reference_run,2,trim the column,09_description,"Buchheister (»fra Hamborg«), Konsulatsembedsmand, Barcelona.","Assessor i Landsoverretten i Viborg 1847, i Højesteret 1861, Justitiarius 1880-97. IV 364."
+HCAP02203,description_reference_run,2,no split — the entry already exists,09_description,"Buchheister (»fra Hamborg«), Konsulatsembedsmand, Barcelona.",see existing Buchheister
+HCAP02349,given_names_tail,1,recover citations,04_given_names,"us Aurelius Antoninus Bassianus, romersk Kejser 211. I 333.",I:333
+HCAP02349,given_names_tail,2,trim the column,04_given_names,Caralis (Pseud.),"Marcus Aurelius Antoninus Bassianus, romersk Kejser 211. I 333."
+HCAP02349,given_names_tail,3,split out a new row,04_given_names,Caralis (Pseud.),new entry: Caralis
+HCAP02616,embedded_name_year,4,review by hand,09_description,"Collin, Hjalmar (1834-97),",a second person is buried in this description
+HCAP02676,description_reference_run,1,recover citations,09_description,Kommandant i Vernet 1846. III 147 150.,III:147;III:150
+HCAP02676,description_reference_run,2,trim the column,09_description,"Coulon (I, 332, Noten), skal være: Colon, Marguerite (se denne)",Kommandant i Vernet 1846. III 147 150.
+HCAP02676,description_reference_run,3,split out a new row,09_description,"Coulon (I, 332, Noten), skal være: Colon, Marguerite (se denne)",new entry: Coulon
+HCAP02825,description_reference_run,1,recover citations,09_description,6 247. V 4 6-7 118 148-49 383. VI 281 315. VII 264. VIII 6.,III:424;IV:116;IV:247;V:4;V:6;V:7;V:118;V:148;V:149;V:383;VI:281;VI:315;VII:264;VIII:6
+HCAP02825,description_reference_run,2,trim the column,09_description,Danneskiolds (ikke nærmere angivet).,g. 1850 m. Kong Frederik VII af Danmark. III 424. IV 116 247. V 4 6-7 118 148-49 383. VI 281 315. VII 264. VIII 6.
+HCAP02825,description_reference_run,2,no split — the entry already exists,09_description,Danneskiolds (ikke nærmere angivet).,see existing Danneskiolds
+HCAP02826,embedded_name_year,4,review by hand,09_description,"Sophus, Greve (1800-86),",a second person is buried in this description
+HCAP02841,embedded_name_year,4,review by hand,09_description,"Zahrtmann, Wanda. Dante Alighieri (1265-1321),",a second person is buried in this description
+HCAP02919,description_reference_run,1,recover citations,09_description,"Frue, f. Tugnot Delanoy, g. ca. 1838 m. A.H.P.G.D. II 339.",II:339
+HCAP02919,description_reference_run,2,trim the column,09_description,"Demcray (Danscray?) (Navnet synes forskrevet), Braunschweig 22.6.1844.","Frue, f. Tugnot Delanoy, g. ca. 1838 m. A.H.P.G.D. II 339."
+HCAP02919,description_reference_run,2,no split — the entry already exists,09_description,"Demcray (Danscray?) (Navnet synes forskrevet), Braunschweig 22.6.1844.",see existing Demcray
+HCAP02986,embedded_name_year,4,review by hand,09_description,"Mouradgea, Friherre (1779-1851),",a second person is buried in this description
+HCAP03014,embedded_name_year,4,review by hand,09_description,"Alfred, Greve (1801-52),",a second person is buried in this description
+HCAP03056,description_reference_run,1,recover citations,09_description,"Søn af Valdemar D., senere Kemiker i USA. IX 96.",IX:96
+HCAP03056,description_reference_run,2,trim the column,09_description,"Dreyer (Dreier?), Glorup 16.8.1856.","Søn af Valdemar D., senere Kemiker i USA. IX 96."
+HCAP03056,description_reference_run,2,no split — the entry already exists,09_description,"Dreyer (Dreier?), Glorup 16.8.1856.",see existing Dreyer
+HCAP03085,description_reference_run,2,trim the column,09_description,"Dumreicher (»den unge«), Rendsborg 20.7.1851.","Frue fra Flensborg, Slesvig 19.7.1851. IV 46-48."
+HCAP03085,description_reference_run,2,no split — the entry already exists,09_description,"Dumreicher (»den unge«), Rendsborg 20.7.1851.",see existing Dumreicher
+HCAP03090,embedded_name_year,4,review by hand,09_description,"Plat, Cæsar (1804-74),",a second person is buried in this description
+HCAP03110,embedded_name_year,4,review by hand,09_description,"Frederik, Lensbaron (1792-1876),",a second person is buried in this description
+HCAP03226,given_names_tail,1,recover citations,04_given_names,"Lorentz Peter, Skuespiller ved Det kgl. Teater. I 133 456.",I:133;I:456
+HCAP03226,given_names_tail,2,trim the column,04_given_names,"Épée, Charles-Michel, Abbé de 1'","Lorentz Peter, Skuespiller ved Det kgl. Teater. I 133 456."
+HCAP03278,given_names_tail,1,recover citations,04_given_names,"Frue, Moder til Fru Lowener, Gent 8.5.1868. VIII 64.",VIII:64
+HCAP03278,given_names_tail,2,trim the column,04_given_names,"F. Faaborg, Christian","Frue, Moder til Fru Lowener, Gent 8.5.1868. VIII 64."
+HCAP03278,given_names_tail,2,no split — the entry already exists,04_given_names,"F. Faaborg, Christian",see existing Faaborg
+HCAP03410,given_names_tail,2,trim the column,04_given_names,"Firmenich (Richartz), Johann Mathias",Broder til Johann Mathias F. IV 178.
+HCAP03410,given_names_tail,2,no split — the entry already exists,04_given_names,"Firmenich (Richartz), Johann Mathias",see existing Firmenich
+HCAP03510,description_reference_run,1,recover citations,09_description,Søn af Napoléon III af F. VIII 411. X 226.,VIII:411;X:226
+HCAP03510,description_reference_run,2,trim the column,09_description,"Franz (Rössler-Franz), Hotelejerdynasti i Via Condotti, Rom.",Søn af Napoléon III af F. VIII 411. X 226.
+HCAP03510,description_reference_run,3,split out a new row,09_description,"Franz (Rössler-Franz), Hotelejerdynasti i Via Condotti, Rom.",new entry: Franz
+HCAP04192,given_names_tail,1,recover citations,04_given_names,"de ved Det kgl. Teater 1867-85, g. 1871 m. Erhard H. X 249.",X:249
+HCAP04192,given_names_tail,2,trim the column,04_given_names,—,"Doris Erhard, f. Pfeil, Operasangerinde ved Det kgl. Teater 1867-85, g. 1871 m. Erhard H. X 249."
+HCAP04242,description_reference_run,1,recover citations,09_description,norsk Malerinde og Kvindesagskvinde). IX 330 333.,IX:330;IX:333
+HCAP04242,description_reference_run,2,trim the column,09_description,"Haphys (Hephys), Pasha i Rustschuk.",norsk Malerinde og Kvindesagskvinde). IX 330 333.
+HCAP04242,description_reference_run,2,no split — the entry already exists,09_description,"Haphys (Hephys), Pasha i Rustschuk.",see existing Haphys
+HCAP04607,embedded_name_year,4,review by hand,09_description,"Hjelm, Octavia (1834-1918),",a second person is buried in this description
+HCAP04742,embedded_name_year,4,review by hand,09_description,"Adolph, Greve (1851-83),",a second person is buried in this description
+HCAP04879,description_reference_run,1,recover citations,09_description,hollandsk Blomstermaler. I 231.,I:231
+HCAP04879,description_reference_run,2,trim the column,09_description,"Hvid (Wied?). Gl. Fru Hvid, Roskilde 7.8.1863.",hollandsk Blomstermaler. I 231.
+HCAP04879,description_reference_run,2,no split — the entry already exists,09_description,"Hvid (Wied?). Gl. Fru Hvid, Roskilde 7.8.1863.",see existing Hvid
+HCAP04944,embedded_name_year,4,review by hand,09_description,"Ingemann, Bernhard Severin (1789- 1862),",a second person is buried in this description
+HCAP04955,given_names_tail,1,recover citations,04_given_names,". H., Direktør for Nederlandske Bank, Amsterdam. VII 47 54.",VII:47;VII:54
+HCAP04955,given_names_tail,2,trim the column,04_given_names,"loannou, Filippos","J. H., Direktør for Nederlandske Bank, Amsterdam. VII 47 54."
+HCAP05003,description_reference_run,1,recover citations,09_description,nsk Billedhugger. I 228 252 278 301 390 395 399 407-09 499.,I:228;I:252;I:278;I:301;I:390;I:395;I:399;I:499
+HCAP05003,description_reference_run,2,trim the column,09_description,"Jameson (kaldes af HCA ogsaa Jackson), Andrew, skotsk Rejsende April 1",holstensk Billedhugger. I 228 252 278 301 390 395 399 407-09 499.
+HCAP05003,description_reference_run,3,split out a new row,09_description,"Jameson (kaldes af HCA ogsaa Jackson), Andrew, skotsk Rejsende April 1",new entry: Jameson
+HCAP05013,description_reference_run,1,recover citations,09_description,Postmester i Nykøbing paa Falster 1836- 66. III 427.,III:427
+HCAP05013,description_reference_run,2,trim the column,09_description,"Jaque (Navnet maaske misforstaaet), »den unge Sangerinde som vor Dronn",Postmester i Nykøbing paa Falster 1836- 66. III 427.
+HCAP05013,description_reference_run,2,no split — the entry already exists,09_description,"Jaque (Navnet maaske misforstaaet), »den unge Sangerinde som vor Dronn",see existing Jaque
+HCAP05015,description_reference_run,1,recover citations,09_description,g. 1865 m. Richard J. VI 271. VII 15-16.,VI:271
+HCAP05015,description_reference_run,2,trim the column,09_description,"Jean Paul (Pseud. f. Johann Paul Friedrich Richter) (1763-1825), tysk",g. 1865 m. Richard J. VI 271. VII 15-16.
+HCAP05015,description_reference_run,3,split out a new row,09_description,"Jean Paul (Pseud. f. Johann Paul Friedrich Richter) (1763-1825), tysk",new entry: Jean
+HCAP05111,given_names_tail,1,recover citations,04_given_names,"Nuns Søn, Israels Fører efter Moses' Død. II 54.",II:54
+HCAP05111,given_names_tail,2,trim the column,04_given_names,Juan d'Austria,"Nuns Søn, Israels Fører efter Moses' Død. II 54."
+HCAP05111,given_names_tail,3,split out a new row,04_given_names,Juan d'Austria,new entry: Juan
+HCAP05123,description_reference_run,1,recover citations,09_description,"Datter af Otto Reedtz-Thott, g. 1865 m. Carl J.-B. VII 226.",VII:226
+HCAP05123,description_reference_run,2,trim the column,09_description,"Julia (død 14), Datter af Kejser Augustus, g. 1° Marcellus, 2° Felther","Datter af Otto Reedtz-Thott, g. 1865 m. Carl J.-B. VII 226."
+HCAP05123,description_reference_run,2,no split — the entry already exists,09_description,"Julia (død 14), Datter af Kejser Augustus, g. 1° Marcellus, 2° Felther",see existing Julia
+HCAP05215,embedded_name_year,4,review by hand,09_description,"Andersen, Karen Marie. Karl den Store (742-814),",a second person is buried in this description
+HCAP05309,description_reference_run,1,recover citations,09_description,fransk General. II 364. VII 342.,II:364;VII:342
+HCAP05309,description_reference_run,2,trim the column,09_description,"Klein (ung), Klampenborg 7.7.1867.",fransk General. II 364. VII 342.
+HCAP05309,description_reference_run,2,no split — the entry already exists,09_description,"Klein (ung), Klampenborg 7.7.1867.",see existing Klein
+HCAP05321,description_reference_run,1,recover citations,09_description,"Frue, Weimar 1846. III 51.",III:51
+HCAP05321,description_reference_run,2,trim the column,09_description,"Klock (Klok), Frk., Hofdame, Weimar.","Frue, Weimar 1846. III 51."
+HCAP05321,description_reference_run,2,no split — the entry already exists,09_description,"Klock (Klok), Frk., Hofdame, Weimar.",see existing Klock
+HCAP05437,description_reference_run,2,trim the column,09_description,"Kottwitz (Fritz?), Baron, Glion 26.5. 1873.",g. 1840 m. L.K. V 195-96.
+HCAP05437,description_reference_run,2,no split — the entry already exists,09_description,"Kottwitz (Fritz?), Baron, Glion 26.5. 1873.",see existing Kottwitz
+HCAP05444,description_reference_run,1,recover citations,09_description,"retær i Udenrigsministeriet, Kammerherre. VIII 295. IX 269.",VIII:295;IX:269
+HCAP05444,description_reference_run,2,trim the column,09_description,Kragh (Kraghs Have 10.8.1869).,"fhv. Departementssekretær i Udenrigsministeriet, Kammerherre. VIII 295. IX 269."
+HCAP05444,description_reference_run,2,no split — the entry already exists,09_description,Kragh (Kraghs Have 10.8.1869).,see existing Kragh
+HCAP05514,description_reference_run,1,recover citations,09_description,g.m. Johan K. I 51.,I:51
+HCAP05514,description_reference_run,2,trim the column,09_description,"Kruse (fra Nyborg), dansk Skibsfører paa Vej til Valparaiso, Hamburg 2",g.m. Johan K. I 51.
+HCAP05514,description_reference_run,2,no split — the entry already exists,09_description,"Kruse (fra Nyborg), dansk Skibsfører paa Vej til Valparaiso, Hamburg 2",see existing Kruse
+HCAP05574,given_names_tail,1,recover citations,04_given_names,"., Randers, g. 1865 m. Apoteker J. P. Karmark Obel. IV 360.",IV:360
+HCAP05574,given_names_tail,2,trim the column,04_given_names,"L. L, Frue","Nicolette, Datter af Apoteker S. L. K., Randers, g. 1865 m. Apoteker J. P. Karmark Obel. IV 360."
+HCAP05593,embedded_name_year,4,review by hand,09_description,"Elias, Friherre (1791-1864),",a second person is buried in this description
+HCAP05649,description_reference_run,1,recover citations,09_description,aa Basnæs. IV 473. VI 172 350. VIII 372 393. IX 82 255 296.,IV:473;VI:172;VI:350;VIII:372;VIII:393;IX:82;IX:255;IX:296
+HCAP05649,description_reference_run,2,trim the column,09_description,"Larsen (eller Lassen), jydsk Frivillig 1864.",Kusk paa Basnæs. IV 473. VI 172 350. VIII 372 393. IX 82 255 296.
+HCAP05649,description_reference_run,2,no split — the entry already exists,09_description,"Larsen (eller Lassen), jydsk Frivillig 1864.",see existing Larsen
+HCAP05802,description_reference_run,2,trim the column,09_description,"Levy (fra København), Rendsborg 6.6. 1860.","Silke- og Klædekræmmer, Grosserer. III 295-97."
+HCAP05802,description_reference_run,2,no split — the entry already exists,09_description,"Levy (fra København), Rendsborg 6.6. 1860.",see existing Levy
+HCAP05812,embedded_name_year,4,review by hand,09_description,"Ludvig, Greve (1820-95),",a second person is buried in this description
+HCAP05850,embedded_name_year,4,review by hand,09_description,"Liisberg, H. (1815-83),",a second person is buried in this description
+HCAP05980,embedded_name_year,4,review by hand,09_description,"Lumbye, Caroline (1833-1901),",a second person is buried in this description
+HCAP06103,embedded_name_year,4,review by hand,09_description,"Eggert (Aga), Baron (1788- 1861),",a second person is buried in this description
+HCAP06125,embedded_name_year,4,review by hand,09_description,"Maag, Sophie (1846-70),",a second person is buried in this description
+HCAP06234,given_names_tail,1,recover citations,04_given_names,"Louise von, Datter af Henriette von M. II 409.",II:409
+HCAP06234,given_names_tail,2,trim the column,04_given_names,"Margrethe (Margaretha), Selskabsdame hos Fru Serre","Louise von, Datter af Henriette von M. II 409."
+HCAP06234,given_names_tail,3,split out a new row,04_given_names,"Margrethe (Margaretha), Selskabsdame hos Fru Serre",new entry: Margrethe
+HCAP06281,description_reference_run,1,recover citations,09_description,"lledhugger, Professor ved Kunstskolen i Granada. V 255 257.",II:326;II:328;II:329;VI:197;V:255;V:257
+HCAP06281,description_reference_run,2,trim the column,09_description,"Martines (Martini, Martinho, Martino, Martins), Nabo til Carlos O'Neil","fransk Forfatter, Toldembedsmand. II 326 328 329 354. VI 197. Martin y Rodríguez, José (ca. 1825- 1881), spansk Figurmaler og Billedhugger, Professor ved Kunstskolen i Granada. V 255 257."
+HCAP06281,description_reference_run,2,no split — the entry already exists,09_description,"Martines (Martini, Martinho, Martino, Martins), Nabo til Carlos O'Neil",see existing Martines
+HCAP06327,description_reference_run,1,recover citations,09_description,"ransk Dronning, g.1533 m. Kong Henri II af Frankrig. V 348.",V:348
+HCAP06327,description_reference_run,2,trim the column,09_description,"Mehmed (Mohammed), Pasha i Rustschuk 1841.","fransk Dronning, g.1533 m. Kong Henri II af Frankrig. V 348."
+HCAP06327,description_reference_run,2,no split — the entry already exists,09_description,"Mehmed (Mohammed), Pasha i Rustschuk 1841.",see existing Mehmed
+HCAP06421,description_reference_run,1,recover citations,09_description,", Officer hos Cæsar i Gallien. I 219 284. II 102 134. V 55.",I:219;I:284;II:102;II:134;V:55
+HCAP06421,description_reference_run,2,trim the column,09_description,"Metmayer (?), se: Mittermaier, K. J. A. Mette, Pige hos Frk. Hallager","Cæcilia, g.m. Licinius Crassus, Officer hos Cæsar i Gallien. I 219 284. II 102 134. V 55."
+HCAP06421,description_reference_run,3,split out a new row,09_description,"Metmayer (?), se: Mittermaier, K. J. A. Mette, Pige hos Frk. Hallager",new entry: Metmayer
+HCAP06547,embedded_name_year,4,review by hand,09_description,"Anna, Komtesse (1834-90),",a second person is buried in this description
+HCAP06644,description_reference_run,1,recover citations,09_description,Israels Befrier og Lovgiver. II 55 167. VII 219.,II:55;II:167;VII:219
+HCAP06644,description_reference_run,2,trim the column,09_description,"Moslim (Navnet synes misforstaaet), Frue, Oldenburg 15.12.1845.",Israels Befrier og Lovgiver. II 55 167. VII 219.
+HCAP06644,description_reference_run,2,no split — the entry already exists,09_description,"Moslim (Navnet synes misforstaaet), Frue, Oldenburg 15.12.1845.",see existing Moslim
+HCAP06777,embedded_name_year,4,review by hand,09_description,"Møller (i Folketællingen 1834: Muller), Joachim Otto (1781-1873),",a second person is buried in this description
+HCAP06993,description_reference_run,2,trim the column,09_description,"Ohlsen (Olsen?), Helene, Christiania 1871.","kar. Generalmajor, Kommandant paa Kronborg. II 28-29."
+HCAP06993,description_reference_run,3,split out a new row,09_description,"Ohlsen (Olsen?), Helene, Christiania 1871.",new entry: Ohlsen
+HCAP07151,description_reference_run,1,recover citations,09_description,79 m. Violoncellisten Ernst De Munck. VIII 125 126 133 218.,VIII:125;VIII:126;VIII:133;VIII:218
+HCAP07151,description_reference_run,2,trim the column,09_description,"Paul (Paolo), Karl hos HCA.s Værtinde i Via purificazione, Rom, 1840-4","Koncertsangerinde, Søster til Adelina P., g.1879 m. Violoncellisten Ernst De Munck. VIII 125 126 133 218."
+HCAP07151,description_reference_run,2,no split — the entry already exists,09_description,"Paul (Paolo), Karl hos HCA.s Værtinde i Via purificazione, Rom, 1840-4",see existing Paul
+HCAP07162,description_reference_run,1,recover citations,09_description,fhv. Overauditør. VII 251.,VII:251
+HCAP07162,description_reference_run,2,trim the column,09_description,"Paulus (død ca. 64), Apostel.",fhv. Overauditør. VII 251.
+HCAP07162,description_reference_run,2,no split — the entry already exists,09_description,"Paulus (død ca. 64), Apostel.",see existing Paulus
+HCAP07298,description_reference_run,1,recover citations,09_description,"Mrs., f. Parson, Søster til Fru Harriet Bornemann. III 244.",III:244
+HCAP07298,description_reference_run,2,trim the column,09_description,"Philipsen (»en Hr. Philipsen jeg har seet hos Hartmann«), München Augu","Mrs., f. Parson, Søster til Fru Harriet Bornemann. III 244."
+HCAP07298,description_reference_run,2,no split — the entry already exists,09_description,"Philipsen (»en Hr. Philipsen jeg har seet hos Hartmann«), München Augu",see existing Philipsen
+HCAP07354,given_names_tail,1,recover citations,04_given_names,hvis Gods Corfitz Ulfeldts Lig skulde være fundet). II 271.,II:271
+HCAP07354,given_names_tail,2,trim the column,04_given_names,"Plessen (fra 1853: Scheel-Plessen), Cail, Baron, senere Greve",Baron (paa hvis Gods Corfitz Ulfeldts Lig skulde være fundet). II 271.
+HCAP07354,given_names_tail,2,no split — the entry already exists,04_given_names,"Plessen (fra 1853: Scheel-Plessen), Cail, Baron, senere Greve",see existing Plessen
+HCAP07409,description_reference_run,1,recover citations,09_description,"Søn af Affonso I Henriques af P., Konge 1185. VII 145.",VII:145
+HCAP07409,description_reference_run,2,trim the column,09_description,"Portugale (?), Gaétano de, Svoger til Brødrene O'Neill. VII 157 161. P","Søn af Affonso I Henriques af P., Konge 1185. VII 145."
+HCAP07409,description_reference_run,3,split out a new row,09_description,"Portugale (?), Gaétano de, Svoger til Brødrene O'Neill. VII 157 161. P",new entry: Portugale
+HCAP07511,embedded_name_year,4,review by hand,09_description,"Pødenphant, W. S. (1797-1881),",a second person is buried in this description
+HCAP07526,given_names_tail,1,recover citations,04_given_names,"Salomon von , Teaterentreprenør, Tandmedikus. I 176.",I:176
+HCAP07526,given_names_tail,2,trim the column,04_given_names,R. R.,"Salomon von , Teaterentreprenør, Tandmedikus. I 176."
+HCAP07704,description_reference_run,2,trim the column,09_description,Reventlows (ikke nærmere angivet).,"Søn af B.F.R., Ærkebiskop i Uppsala 1856, Kirkehistoriker. VI 292-93."
+HCAP07704,description_reference_run,2,no split — the entry already exists,09_description,Reventlows (ikke nærmere angivet).,see existing Reventlows
+HCAP07752,description_reference_run,1,recover citations,09_description,Tribun i Rom 1347-48. II 93.,II:93
+HCAP07752,description_reference_run,2,trim the column,09_description,"Riepenhausen (enten Franz (1786-1831) eller Johannes (1789-1860)), tys",Tribun i Rom 1347-48. II 93.
+HCAP07752,description_reference_run,2,no split — the entry already exists,09_description,"Riepenhausen (enten Franz (1786-1831) eller Johannes (1789-1860)), tys",see existing Riepenhausen
+HCAP07770,description_reference_run,1,recover citations,09_description,"fransk Ingeniør, Languedoc-Kanalens Bygmester. III 145.",III:145
+HCAP07770,description_reference_run,2,trim the column,09_description,"Rist (den unge), Før 7.9.1844.","fransk Ingeniør, Languedoc-Kanalens Bygmester. III 145."
+HCAP07770,description_reference_run,2,no split — the entry already exists,09_description,"Rist (den unge), Før 7.9.1844.",see existing Rist
+HCAP08175,description_reference_run,2,trim the column,09_description,"Saxo (omkr. 1200), Historiker.","dr.med., argentinsk Konsul i København 1863, Generalkonsul 1878. VIII 106-08."
+HCAP08175,description_reference_run,2,no split — the entry already exists,09_description,"Saxo (omkr. 1200), Historiker.",see existing Saxo
+HCAP08235,description_reference_run,1,recover citations,09_description,Cadix 11.11.1862. V 292.,V:292
+HCAP08235,description_reference_run,2,trim the column,09_description,"Schau (Schou?), Frue (23.2.1869).",Cadix 11.11.1862. V 292.
+HCAP08235,description_reference_run,2,no split — the entry already exists,09_description,"Schau (Schou?), Frue (23.2.1869).",see existing Schau
+HCAP08384,description_reference_run,1,recover citations,09_description,"tajn, senere Oberst V.E.Tychsen. VIII 249. IX 32 33 191-92.",VIII:249;IX:32;IX:33;IX:191;IX:192
+HCAP08384,description_reference_run,2,trim the column,09_description,"Scholler (Schöller?), Bordeaux 26.8. 1866.","Solodanserinde ved Det kgl. Teater, g.1876 m. Ingeniørkaptajn, senere Oberst V.E.Tychsen. VIII 249. IX 32 33 191-92."
+HCAP08384,description_reference_run,2,no split — the entry already exists,09_description,"Scholler (Schöller?), Bordeaux 26.8. 1866.",see existing Scholler
+HCAP08411,description_reference_run,1,recover citations,09_description,"asangerinde, g.1842 m. Vicelandmåtaren Felix Brand. II 322.",II:322
+HCAP08411,description_reference_run,2,trim the column,09_description,"Schousboe (f. ca. 1859), Datter af Otto S., Rolighed 2.9.1870.","svenskfinsk Operasangerinde, g.1842 m. Vicelandmåtaren Felix Brand. II 322."
+HCAP08411,description_reference_run,2,no split — the entry already exists,09_description,"Schousboe (f. ca. 1859), Datter af Otto S., Rolighed 2.9.1870.",see existing Schousboe
+HCAP08417,description_reference_run,1,recover citations,09_description,"i Storehedinge, død i Frederikssted paa St. Croix. IX 320.",IX:320
+HCAP08417,description_reference_run,2,trim the column,09_description,"Schoustrup (»den lille Skoustrup«), 10.8. 1869.","Skibsfører, bor i Storehedinge, død i Frederikssted paa St. Croix. IX 320."
+HCAP08417,description_reference_run,2,no split — the entry already exists,09_description,"Schoustrup (»den lille Skoustrup«), 10.8. 1869.",see existing Schoustrup
+HCAP08463,description_reference_run,1,recover citations,09_description,Tigger 19.3.1875. X 420.,X:420
+HCAP08463,description_reference_run,2,trim the column,09_description,"Schulz (Schulze?), Frue, Meudon 13.9. 1867.",Tigger 19.3.1875. X 420.
+HCAP08463,description_reference_run,2,no split — the entry already exists,09_description,"Schulz (Schulze?), Frue, Meudon 13.9. 1867.",see existing Schulz
+HCAP08643,given_names_tail,1,recover citations,04_given_names,"enograf 1872, Protokolsekretær 1894-1918, Forfatter. X 220.",X:220
+HCAP08643,given_names_tail,2,trim the column,04_given_names,"Skram (Schram), Gustav","Erik, Søn af Gustav Schram, Rigsdagsstenograf 1872, Protokolsekretær 1894-1918, Forfatter. X 220."
+HCAP08643,given_names_tail,2,no split — the entry already exists,04_given_names,"Skram (Schram), Gustav",see existing Skram
+HCAP08746,description_reference_run,1,recover citations,09_description,kar. Oberst. VIII 313 317 319-20 323.,VIII:313;VIII:317;VIII:319;VIII:320;VIII:323
+HCAP08746,description_reference_run,2,trim the column,09_description,"Spetz (maaske: Spatz), Napoli 5.3.1841.",kar. Oberst. VIII 313 317 319-20 323.
+HCAP08746,description_reference_run,2,no split — the entry already exists,09_description,"Spetz (maaske: Spatz), Napoli 5.3.1841.",see existing Spetz
+HCAP08890,description_reference_run,1,recover citations,09_description,fransk Officer og Militærskribent. II 354 358-59.,II:354;II:358;II:359
+HCAP08890,description_reference_run,2,trim the column,09_description,"Stolberg (»en stiv, fornem Grev Stolberg«) (Oldenburg 10.6.1847).",fransk Officer og Militærskribent. II 354 358-59.
+HCAP08890,description_reference_run,2,no split — the entry already exists,09_description,"Stolberg (»en stiv, fornem Grev Stolberg«) (Oldenburg 10.6.1847).",see existing Stolberg
+HCAP08958,embedded_name_year,4,review by hand,09_description,"Stöver, J. H. (1825-1911),",a second person is buried in this description
+HCAP09069,description_reference_run,1,recover citations,09_description,en ungarske Arkitekt Ferenc Schulz. VII 12 277 346. VIII 2.,II:300;VII:12;VII:277;VII:346;VIII:2
+HCAP09069,description_reference_run,2,trim the column,09_description,"Søren (Søren Ebbesen?), Slagelse 24.3. 1826.","Skuespillerinde, g.1847 m. Skuespiller Christian Schmidt. II 300. — Se ogsaa: Smidt, Thora. Sønderup, Anna (1841-70), Forfatterinde, g.1868 m. den ungarske Arkitekt Ferenc Schulz. VII 12 277 346. VIII 2."
+HCAP09069,description_reference_run,2,no split — the entry already exists,09_description,"Søren (Søren Ebbesen?), Slagelse 24.3. 1826.",see existing Søren
+HCAP09069,embedded_name_year,4,review by hand,09_description,"Sønderup, Anna (1841-70),",a second person is buried in this description
+HCAP09163,description_reference_run,1,recover citations,09_description,"Sognepræst i Jungshoved 1843, senere i Stavreby. IV 26.",IV:26
+HCAP09163,description_reference_run,2,trim the column,09_description,"Thiele (»Onkel Thiele«, en af J.M.Thieles tre Brødre: Kontorchef i Fin","Sognepræst i Jungshoved 1843, senere i Stavreby. IV 26."
+HCAP09163,description_reference_run,2,no split — the entry already exists,09_description,"Thiele (»Onkel Thiele«, en af J.M.Thieles tre Brødre: Kontorchef i Fin",see existing Thiele
+HCAP09163,embedded_name_year,4,review by hand,09_description,"Thiele (»Onkel Thiele«, en af J.M.Thieles tre Brødre: Kontorchef i Fin",a second person is buried in this description
+HCAP09225,description_reference_run,1,recover citations,09_description,"tmann (død 1874), g.1868 m. Chr. T. VIII 146. IX 27. X 339.",VIII:146;IX:27;X:339
+HCAP09225,description_reference_run,2,trim the column,09_description,"Tyberg (fra 1866: Tybjerg), Erland (1863-1925), Søn af Chr. T., senere","Datter af Caroline Oltmann (død 1874), g.1868 m. Chr. T. VIII 146. IX 27. X 339."
+HCAP09225,description_reference_run,2,no split — the entry already exists,09_description,"Tyberg (fra 1866: Tybjerg), Erland (1863-1925), Søn af Chr. T., senere",see existing Tyberg
+HCAP09225,embedded_name_year,4,review by hand,09_description,"Thyberg (fra 1866: Tybjerg), Christian (1815-79),",a second person is buried in this description
+HCAP09395,description_reference_run,1,recover citations,09_description,schweizisk Forfatter. IV 429.,IV:429
+HCAP09395,description_reference_run,2,trim the column,09_description,"Toppel (Topler?), F. A. Serres Svoger, Maxen Juli 1856.",schweizisk Forfatter. IV 429.
+HCAP09395,description_reference_run,3,split out a new row,09_description,"Toppel (Topler?), F. A. Serres Svoger, Maxen Juli 1856.",new entry: Toppel
+HCAP09417,description_reference_run,1,recover citations,09_description,"tz U., g.1678 m. Lave Beck til Gladsaxe og Andrarum. II 36.",II:36
+HCAP09417,description_reference_run,2,trim the column,09_description,"Ulla Maria (Pseud.), Forfatterinde.","Datter af Corfitz U., g.1678 m. Lave Beck til Gladsaxe og Andrarum. II 36."
+HCAP09417,description_reference_run,3,split out a new row,09_description,"Ulla Maria (Pseud.), Forfatterinde.",new entry: Ulla
+HCAP09442,embedded_name_year,4,review by hand,09_description,"Berlinghieri, Andrea (1772-1826),",a second person is buried in this description
+HCAP09630,given_names_tail,2,trim the column,04_given_names,"Warberg (Vahrberg), Casten Adolf","C., Fører af Dampskibet Götheborg, Göta Kanal 1849. III 375."
+HCAP09630,given_names_tail,2,no split — the entry already exists,04_given_names,"Warberg (Vahrberg), Casten Adolf",see existing Warberg
+HCAP09947,given_names_tail,1,recover citations,04_given_names,"nfanteriet, 1864 Generalmajor, 1874 Generalløjtnant. V 127.",V:127
+HCAP09947,given_names_tail,2,trim the column,04_given_names,Y. Yael,"J. A. P. F., Oberst i Infanteriet, 1864 Generalmajor, 1874 Generalløjtnant. V 127."
+HCAP09947,given_names_tail,3,split out a new row,04_given_names,Y. Yael,new entry: Yael
+HCAP09955,description_reference_run,1,recover citations,09_description,russisk Ritmester. IV 66. VIII 319.,IV:66;VIII:319
+HCAP09955,description_reference_run,2,trim the column,09_description,"Uxkull (Uexkull), Clara, Friherreinde, f. Walter (1823-1909), g.1843 m",russisk Ritmester. IV 66. VIII 319.
+HCAP09955,description_reference_run,3,split out a new row,09_description,"Uxkull (Uexkull), Clara, Friherreinde, f. Walter (1823-1909), g.1843 m",new entry: Uxkull
+HCAP09979,description_reference_run,2,trim the column,09_description,"Zemlen (Zelmen), Napoli 1846, J.A. Josephsons Rejsefælle.","Slotsforvalter ved Christiansborg, Arkitekt, Kammerraad. V 446-47."
+HCAP09979,description_reference_run,2,no split — the entry already exists,09_description,"Zemlen (Zelmen), Napoli 1846, J.A. Josephsons Rejsefælle.",see existing Zemlen
+HCAP10023,embedded_name_year,4,review by hand,09_description,"Charlotte, Baronesse (1837-76),",a second person is buried in this description
+HCAP02054 HCAP02055,exact_duplicate,4,merge — review by hand,(row),"Bretton, Florence, Baronesse",keep HCAP02054
+HCAP06366 HCAP06367,exact_duplicate,4,merge — review by hand,(row),"Melchior, Emil",keep HCAP06366
+HCAP00015 HCAP01188,ocr_twin,4,merge — review by hand,(row),Amesen Kali / Arnesen Kali  (5 shared pages),one scanner confusion apart (0.87)
+HCAP00081 HCAP01971,similar_names,4,probably not a merge — review by hand,(row),Braminer / Brammer  (2 shared pages),alike but not an OCR confusion (0.80)
+HCAP00118 HCAP02245,ocr_twin,4,merge — review by hand,(row),Burdett-Goutts / Burdett-Coutts  (7 shared pages),one scanner confusion apart (0.93)
+HCAP00145 HCAP02565,ocr_twin,4,merge — review by hand,(row),Clausen-Schiitz / Clausen-Schütz  (6 shared pages),one scanner confusion apart (0.90)
+HCAP00200 HCAP03071,ocr_twin,4,merge — review by hand,(row),Droscher / Dröscher  (6 shared pages),one scanner confusion apart (0.88)
+HCAP05025 HCAP05174,similar_names,4,probably not a merge — review by hand,(row),Jensen / Jørgensen  (6 shared pages),alike but not an OCR confusion (0.80)
+HCAP00232 HCAP03375,ocr_twin,4,merge — review by hand,(row),Femanda / Fernanda  (2 shared pages),one scanner confusion apart (0.80)
+HCAP00268 HCAP02465,ocr_twin,4,merge — review by hand,(row),Gederfeld de Simonsen / Cederfeld de Simonsen  (2 shared pages),one scanner confusion apart (0.95)
+HCAP00268 HCAP02466,ocr_twin,4,merge — review by hand,(row),Gederfeld de Simonsen / Cederfeld de Simonsen  (2 shared pages),one scanner confusion apart (0.95)
+HCAP00282 HCAP02629,ocr_twin,4,merge — review by hand,(row),Golloredo-Mansfeld / Colloredo-Mansfeld  (2 shared pages),one scanner confusion apart (0.94)
+HCAP00368 HCAP04752,ocr_twin,4,merge — review by hand,(row),Holsten-Lehn-Gharisius / Holsten-Lehn-Charisius  (6 shared pages),one scanner confusion apart (0.95)
+HCAP00617 HCAP07298,similar_names,4,probably not a merge — review by hand,(row),Philipsen / Philips  (3 shared pages),alike but not an OCR confusion (0.88)
+HCAP00625 HCAP07358,ocr_twin,4,merge — review by hand,(row),Piessy / Plessy  (3 shared pages),one scanner confusion apart (0.83)
+HCAP00711 HCAP08185,ocr_twin,4,merge — review by hand,(row),Sayn-Wittgens tein-Berleburg / Sayn-Wittgenstein-Berleburg  (2 shared pages),one scanner confusion apart (0.98)
+HCAP08907 HCAP08908,similar_names,4,probably not a merge — review by hand,(row),Storbritannien og Irland / Storbritannien og Wales  (2 shared pages),alike but not an OCR confusion (0.81)

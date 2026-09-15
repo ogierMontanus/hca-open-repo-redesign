@@ -174,6 +174,7 @@ variants are discounted, and duplicate candidates.
 | [`docs/v094-structural-diff.md`](docs/v094-structural-diff.md) | Generated: what adopting V0.94 would gain and cost, per entity type |
 | [`docs/person-index-data-quality.md`](docs/person-index-data-quality.md) | How the person-register problems were found and classified, and the two mistakes made getting there |
 | [`docs/reports/person-index-input-report.md`](docs/reports/person-index-input-report.md) | **For the register's maintainers** — the problems found in the person-index input, and what was done with each |
+| [`docs/fused-and-duplicated-rows.md`](docs/fused-and-duplicated-rows.md) | Rows where the scanner ran two printed entries together, and rows where it read one person as two — found by one pass, fixed by nobody automatically |
 | [`docs/index-maintenance.md`](docs/index-maintenance.md) | **The update workflow** — what to run when any register changes, and how ids are carried, minted, split and merged |
 | [`docs/removals.md`](docs/removals.md) | What was removed, what was not, and what each one is waiting on |
 | [`docs/history/`](docs/history/) | Superseded pipeline documents, kept for their reasoning |
