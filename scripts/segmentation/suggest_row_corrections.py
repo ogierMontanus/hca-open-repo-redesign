@@ -249,6 +249,40 @@ def find_merges(rows):
                         "evidence": f"{group[0]['03_surname']}, {group[0]['04_given_names']}"[:70],
                         "proposal": f"keep {group[0]['00_person_id']}"})
 
+    # Rows that point at the same entry and cite the same page. This is the
+    # duplicate a *manual split* creates: someone writes the hanging tail out
+    # as its own row without noticing the register already had it under a
+    # dash. Neither of the tests below sees it — one page is under the
+    # signature threshold, and "Watt" against "Søster af Watt, Robert" is
+    # under the name threshold — so it needs its own rule.
+    by_xref = defaultdict(list)
+    for r in rows:
+        xref = (r.get("12_see_also") or "").strip()
+        refs = frozenset(t.strip() for t in (r["11_references_parsed"] or "").split(";")
+                         if t.strip())
+        if xref and refs:
+            by_xref[(xref, refs)].append(r)
+    for (xref, refs), group in by_xref.items():
+        if len(group) < 2:
+            continue
+        for i in range(len(group)):
+            for j in range(i + 1, len(group)):
+                a, b = group[i], group[j]
+                da = (a["09_description"] or "").lower()
+                db = (b["09_description"] or "").lower()
+                if not da or not db:
+                    continue
+                ratio = difflib.SequenceMatcher(None, da, db).ratio()
+                if ratio < 0.55:
+                    continue
+                out.append({
+                    "person_id": f"{a['00_person_id']} {b['00_person_id']}",
+                    "kind": "cross_reference_twin", "tier": "4",
+                    "action": "merge — review by hand", "column": "(row)",
+                    "evidence": f"begge: se {xref}, {';'.join(sorted(refs))} — "
+                                f"{a['03_surname']} / {b['03_surname']}"[:120],
+                    "proposal": f"samme person beskrevet to gange ({ratio:.2f})"})
+
     by_sig = defaultdict(list)
     for r in rows:
         s = sig(r)

@@ -144,3 +144,28 @@ def test_the_proposal_keeps_every_row():
 def test_the_real_register_is_never_written():
     assert src.MASTER != src.PROPOSED
     assert src.PROPOSED.name.endswith(".proposed.tsv")
+
+
+def test_a_manual_split_that_duplicated_an_existing_row_is_caught():
+    # The real case: PerXI09667 "Watt, — Hans Søster ... Holbek" and
+    # PerXI10079 "Søster af Watt, Robert ... Holbæk" both cite IX:5 and both
+    # point at Watt, Robert. One page is under the signature threshold and the
+    # surnames are nowhere near 80% alike, so only the cross-reference rule
+    # sees it.
+    rows = [dict(row("HCAP1", "Watt",
+                      desc="Hans Søster »som er gift nede ved Holbek«.",
+                      parsed="IX:5"), **{"12_see_also": "Watt, Robert"}),
+            dict(row("HCAP2", "Søster af Watt, Robert",
+                      desc="Søster af Watt, Robert, som er gift nede ved Holbæk.",
+                      parsed="IX:5"), **{"12_see_also": "Watt, Robert"})]
+    m = src.find_merges(rows)
+    assert m and m[0]["kind"] == "cross_reference_twin"
+
+
+def test_two_different_people_pointing_at_the_same_entry_are_not_twins():
+    rows = [dict(row("HCAP1", "Watt", desc="Broder til Robert W., Købmand i Aarhus.",
+                      parsed="IX:5"), **{"12_see_also": "Watt, Robert"}),
+            dict(row("HCAP2", "Watt", desc="Søster, gift nede ved Holbæk.",
+                      parsed="IX:5"), **{"12_see_also": "Watt, Robert"})]
+    assert not [f for f in src.find_merges(rows)
+                if f["kind"] == "cross_reference_twin"]
