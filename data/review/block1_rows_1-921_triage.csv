@@ -1,0 +1,922 @@
+01_entry_id,03_surname,04_given_names,09_description,11_references_parsed,vurdering,modstykke_i_resten,note
+PerXI00001,Abbott,John,Engelsk Ingeniør i Indien.,VI:263,"samme efternavn, ingen fælles sider - BEHOLD",PerXI00938,
+PerXI00002,Abd-el-Kader,,"Emir af Maskara, algiersk Frihedskæmper.",VII:178,UNIK - findes intet andet sted,,nærmeste 'bodecker' 0.67
+PerXI00003,Åberg,,"svensk Rejsende, Italien 1834.",I:272;I:298;I:305;I:321;I:327;I:334;I:337;I:345;I:351;I:360,"ligner navn, men ingen fælles sider - BEHOLD",,'aaberg' lighed 0.91
+PerXI00004,Achard,Anna,Pensionatsværtinde i Genève 1860.,IV:422;IV:423;IV:425;IV:429;IV:433;IV:434,"samme efternavn, ingen fælles sider - BEHOLD",PerXI00954 PerXI00955,
+PerXI00005,Agrippina d.Æ.,,"g.m. Germanicus, Moder til Caligula.",II:139,UNIK - findes intet andet sted,,nærmeste 'wiinblad' 0.53
+PerXI00006,Aken,(?),Athen 6.4.1841.,II:175,UNIK - findes intet andet sted,,nærmeste 'caen' 0.75
+PerXI00007,Aldridge,Mrs.,g.m. Ira A.,VII:275,"samme efternavn, ingen fælles sider - BEHOLD",PerXI01041,
+PerXI00008,Alexander den Store,,makedonisk Konge.,I:335;I:339;II:54;II:132,UNIK - findes intet andet sted,,nærmeste 'constantindenstore' 0.57
+PerXI00009,Alexander III,,Pave 1159.,I:380;I:400,UNIK - findes intet andet sted,,nærmeste 'alexandra' 0.76
+PerXI00010,Alexander VII,,Pave 1655.,I:380,UNIK - findes intet andet sted,,nærmeste 'alexandra' 0.76
+PerXI00011,Alexis,"Willibald (Pseud, f. Georg Wilh. Heinr. Häring)",Tysk Forfatter.,I:111;I:188;I:505;II:353;III:30,"delvis overlap - BEHOLD, flet manuelt",PerXI01043,
+PerXI00012,Almeida,"Carlos Augusto de, Visconde, senere (1875) Conde de -","Søn af P. M. de A., Attaché ved det portugisiske Gesandtskab i Paris 1866.",VII:78;VII:115;VII:149;VII:153;VII:154;VII:156;VII:160,DUBLET - kan fjernes,PerXI01056,beskrivelseslighed 0.91
+PerXI00013,Almlöf,Nils Vilhelm,Skuespiller ved Det kgl. Teater i Stockholm.,III:314,UNIK - findes intet andet sted,,nærmeste 'alrnlof' 0.77
+PerXI00014,Amberger,"Anna Barbara, f. Esslinger",Enke efter Boghandler i Solingen Fr. Gerh. A.,IV:435;IV:436;V:24,"samme efternavn, anden person - BEHOLD",PerXI01067,beskrivelseslighed 0.29
+PerXI00015,Amesen Kali,Benedicte,Forfatterinde og Oversætter.,VIII:447;VIII:449;X:390;X:433;X:434,OCR-dublet - kan fjernes,PerXI01188,'arnesenkali' lighed 0.86
+PerXI00016,Amé’s Far,,Bordeaux 1866.,VII:89;VII:173;VII:176;VII:177;VII:342,UNIK - findes intet andet sted,,nærmeste 'caesar' 0.77
+PerXI00017,Amundin,,fra Vejle (tidligere Sømand) 26.4.1868.,VIII:56,UNIK - findes intet andet sted,,nærmeste 'raimund' 0.71
+PerXI00018,Ancker,(Anker?),Sorø 20.5.1850.,III:386,"samme efternavn, ingen fælles sider - BEHOLD",PerXI01082,
+PerXI00019,Andkjær,Augusta Jutta (Jytte),"Skuespillerinde ved Det kgl. Teater 1870–1872, g.m. Kunstforlægger, Litograf Alfred Jacobsen.",VIII:415,UNIK - findes intet andet sted,,nærmeste 'kjær' 0.73
+PerXI00020,Andrié,Jean-François-Daniel,"Sognepræst i le Locle 1830–1843, i Berlin (l’Eglise du Refuge) fra 1843.",IV:407,"ligner navn, men ingen fælles sider - BEHOLD",,'andrea' lighed 0.83
+PerXI00021,Anhalt-Bernburg,"Frederikke, Hertuginde af –, f. Prinsesse af Slesvig-Holsten-Sønderborg-Glücksborg","Søster til Kong Christian IX af Danmark, g. 1834 m. Hertug Alexander af A.-B.",IV:472,UNIK - findes intet andet sted,,nærmeste 'sachsenaltenburg' 0.73
+PerXI00022,Anholm,Frieda (Friede),"Datter af Johannes A., senere Institutbestyrerinde.",VI:92;VI:93;VI:94,DUBLET - kan fjernes,PerXI01134,beskrivelseslighed 0.61
+PerXI00023,Apfelstedt,Paul,"Tysk Autografsamler, Frankfurt a.M. 1875.",X:451,DUBLET - kan fjernes,PerXI01161,beskrivelseslighed 1.00
+PerXI00024,Armand,Madame,"Fransk Skuespillerinde, Medlem af Delcours Selskab fra Berlin.",II:407,"ligner navn, men ingen fælles sider - BEHOLD",,'aman' lighed 0.80
+PerXI00025,Arndt,Ernst Moritz,Tysk Digter.,II:313;II:372;II:373,UNIK - findes intet andet sted,,nærmeste 'arentz' 0.73
+PerXI00026,Arnkiel,Hans Michael,"Forpagter af Postekspeditionen i Gaabense, 1852 Postekspeditør.",III:428,OCR-dublet - kan fjernes,PerXI01193,'arrikiel' lighed 0.80
+PerXI00027,Aron,,"Moses’ Broder, Ypperstepræst.",II:167,"ligner navn, men ingen fælles sider - BEHOLD",,'carton' lighed 0.80
+PerXI00028,Asschenfeldt,C. C. J.,"Hovedpræst ved St. Nicolai Kirke i Flensborg, 1850–1854 Superintendent i den tysktalende Del af Slesvig, 1854 Overkonsis",II:422,"ligner navn, men ingen fælles sider - BEHOLD",,'schonfeldt' lighed 0.82
+PerXI00029,Assen,Cornelis Jacobus van,Professor i Romerret i Leiden.,III:195;III:197,"ligner navn, men ingen fælles sider - BEHOLD",,'assens' lighed 0.91
+PerXI00030,Assor,S.,"Privatlehrer, dr. phil., Altona.",VIII:88;VIII:89;VIII:91;VIII:107;VIII:114,"ligner navn, men ingen fælles sider - BEHOLD",,'tasso' lighed 0.80
+PerXI00031,Aubert,Ludvig Cæsar Martin,"Norsk Gymnasielærer, 1840–1875 Professor i latinsk Filologi ved Christiania Universitet.",I:455,"samme efternavn, ingen fælles sider - BEHOLD",PerXI01210 PerXI01211,
+PerXI00032,Auerbach,Ottilie,Datter af Berthold A.,IV:52,"samme efternavn, anden person - BEHOLD",PerXI01212,beskrivelseslighed 0.33
+PerXI00033,August,,Le Locle 14.9.1833.,I:175,DUBLET - kan fjernes,PerXI01219,beskrivelseslighed 1.00
+PerXI00034,Augustenborg,"Frederik, Prins af Slesvig-Holsten-Sønderborg-","Søn af Christian August af A., Hertug 1863 (Friedrich der Achte).",II:276;II:277;II:440;II:448;III:6;III:10;V:449;VI:25,"delvis overlap - BEHOLD, flet manuelt",PerXI01222 PerXI01223 PerXI01224,
+PerXI00035,Augustenborg,Prinsesserne af Slesvig-Holsten-Sønderborg,"Døtre af Prins Emil af A. (Charlotte (1803–1880), Pauline (1804–1887), Amalie (1813–1870), Sophie (1815–1861)).",II:407;III:64;III:65,DUBLET - kan fjernes,PerXI01222,beskrivelseslighed 0.64
+PerXI00036,Avisard,Sougey,"»en Ven af Bindesbøll«, Berlin 28.12.1845.",III:35,DUBLET - kan fjernes,PerXI01240,beskrivelseslighed 1.00
+PerXI00037,Bahrt,Michael Christian,"Broder til D.N.B., cand. theol., Huslærer for Prinsesserne på Augustenborg.",II:277,"ligner navn, men ingen fælles sider - BEHOLD",,'bahr' lighed 0.89
+PerXI00038,Baker,"Lady Florence, f. von Saas",g. 1860 m. Samuel B.,VII:270;VII:271,"samme efternavn, anden person - BEHOLD",PerXI01282,beskrivelseslighed 0.16
+PerXI00039,Bang,"Caroline Amalie, f. Ibsen",g. 1842 m. F. S.B.,III:207,"samme efternavn, anden person - BEHOLD",PerXI01311,beskrivelseslighed 0.41
+PerXI00040,Bang,"de, Frøken","(enten Henriette Marie (1809–1855) eller Augusta Christine (1805–1887)), Kusine til Fritz von Eggers.",II:260,DUBLET - kan fjernes,PerXI01308,beskrivelseslighed 0.78
+PerXI00041,Bang,Oluf (Ole),"Professor i Medicin ved Københavns Universitet, Forfatter, Konferensraad 1848, Gehejmekonferensraad 1874.",IV:28;IV:34;IV:35;V:138;V:388;VI:10;VI:11;VII:361;VII:395;VIII:186;IX:234;IX:454;IX:463;IX:464;X:32,"delvis overlap - BEHOLD, flet manuelt",PerXI01305 PerXI01306 PerXI01307,
+PerXI00042,Bardenfleth,Johan Frederik (Fritz),"Søn af C.E.B., cand. jur. 1860, Kammerjunker, senere Stiftamtmand i Nykøbing F. og Kammerherre.",V:20;VI:261;VI:279,"delvis overlap - BEHOLD, flet manuelt",PerXI01340 PerXI01341 PerXI01342,
+PerXI00043,Bardua,Wilhehnine (Mine),Søster til Caroline B.,III:40,"samme efternavn, anden person - BEHOLD",PerXI01353,beskrivelseslighed 0.33
+PerXI00044,Bartholin,Johanne (Hanne),"Datter af Elise Margrethe B., Hofdame hos Landgrevinde Charlotte af Hessen 1855–1861.",V:72;V:390;VII:252;VII:279;VII:380;VIII:203;VIII:260;VIII:354;IX:26;IX:183;X:258;X:259,"delvis overlap - BEHOLD, flet manuelt",PerXI01371 PerXI01372 PerXI01373,
+PerXI00045,Bastrup,Marie,Kolding 1870.,VIII:348;VIII:349,"ligner navn, men ingen fælles sider - BEHOLD",,'aastrup' lighed 0.86
+PerXI00046,Belani,"H. E. R. (Pseud, for Carl Ludwig Häberlin)",Tysk Forfatter.,III:352,"ligner navn, men ingen fælles sider - BEHOLD",,'melani' lighed 0.83
+PerXI00047,Bell & Daldy,,Forlagsboghandel i London.,VIII:154;VIII:181;VIII:182;VIII:234;VIII:362;VIII:368;VIII:446,UNIK - findes intet andet sted,,nærmeste 'bredal' 0.67
+PerXI00048,Bentley,Alfred,Søn af Richard B.,III:222;IV:252;IV:262,"samme efternavn, anden person - BEHOLD",PerXI01527,beskrivelseslighed 0.53
+PerXI00049,Bentley,Annie,ældste Datter af Richard B.,III:222;III:244;III:263;IV:252;IV:262;IV:263;IV:264;V:293;IX:146;IX:147;IX:150,"delvis overlap - BEHOLD, flet manuelt",PerXI01524 PerXI01525 PerXI01526,
+PerXI00050,Bentley’s Brodersønner,,,III:222;III:244;III:264;IV:262,UNIK - findes intet andet sted,,nærmeste 'talleyrandperigord' 0.47
+PerXI00051,Bentley’s Søstre,,,III:244,UNIK - findes intet andet sted,,nærmeste 'bardenfleth' 0.48
+PerXI00052,Bentzen,Anne Rosine,Datter af Karen B.,II:286;II:287;II:295;III:414;IV:35,"delvis overlap - BEHOLD, flet manuelt",PerXI01529 PerXI01530 PerXI01531,
+PerXI00053,Bentzen,"Karen, f. Knudsen (død 1845, 84¼ år gl.)","Enke efter Borgmester i Skien, Justitsraad Bent Mogens B.",II:286;II:287;II:295,"delvis overlap - BEHOLD, flet manuelt",PerXI01529 PerXI01530 PerXI01531,
+PerXI00054,Bentzen,Sophie,Datter af Karen B.,II:286;II:287;II:295;III:414;IV:35,"delvis overlap - BEHOLD, flet manuelt",PerXI01529 PerXI01530 PerXI01531,
+PerXI00055,Berry,Grevinde,"»født i Svendborg«, Paris 19.4.1867.",VII:269,DUBLET - kan fjernes,PerXI01608,beskrivelseslighed 0.87
+PerXI00056,Bertall (Pseud. for Charles-Albert d’Arnoux),,Fransk Illustrator af H.C. Andersens Eventyr og Fotograf (Bayard & Bertall).,VII:80,UNIK - findes intet andet sted,,nærmeste 'slesvigholstensonderborgglucksborg' 0.26
+PerXI00057,Bertran de Bom,,provencalsk Ridder og Trubadur.,X:4;X:5,UNIK - findes intet andet sted,,nærmeste 'bergstrom' 0.67
+PerXI00058,Bétzaris,Marko,græsk Frihedskæmper.,II:168,OCR-dublet - kan fjernes,PerXI01920 PerXI01921,'botzaris' lighed 0.88
+PerXI00059,Bielke,,(»der døde af Snive«).,VII:326,"samme efternavn, ingen fælles sider - BEHOLD",PerXI01645 PerXI01646 PerXI01647,
+PerXI00060,Billes,,(ikke nærmere angivet).,V:5,"ligner navn, men ingen fælles sider - BEHOLD",,'bille' lighed 0.91
+PerXI00061,Bilsted,Emst Frederik August,"Student 1828, cand. jur. 1836, fra 1833 Besidder af Høvdingsgaard, Mern S., 1862 Hofjægermester.",VII:15;VII:246;IX:12,"samme efternavn, anden person - BEHOLD",PerXI01690,beskrivelseslighed 0.12
+PerXI00062,Birger Jarl,,Svensk Stormand.,III:339;III:360,UNIK - findes intet andet sted,,nærmeste 'birkedal' 0.67
+PerXI00063,Birger Persson til Finsta,,Lagman over Uppland. Skt. Birgittas Far.,II:18,UNIK - findes intet andet sted,,nærmeste 'bernerschildenholsten' 0.51
+PerXI00064,Bissen,Johanne (Hanne),"Datter af Vilh.B., g. 1888 m. Apoteker og Fabrikejer Alfred Benzon.",IX:56,"samme efternavn, anden person - BEHOLD",PerXI01726,beskrivelseslighed 0.30
+PerXI00065,Bjerre,,Basnæs 7.10.1857.,IV:294,UNIK - findes intet andet sted,,nærmeste 'berge' 0.73
+PerXI00066,Bjömstjema,"Oscar Magnus Fredrik, Greve","Svensk Generalmajor, 1864 svensk Minister ad interim i København, Udenrigsminister 1872–1880.",IX:137,UNIK - findes intet andet sted,,nærmeste 'bjornstjerna' 0.73
+PerXI00067,Bjørnson,Bjørnstjeme,"Søn af Peder B., norsk Digter.",V:18;V:19;V:35;V:36;V:39;V:42;V:44;V:45;V:47;V:48;V:49;V:50;V:53;V:58;V:59;V:82;V:97;V:107;V:139;V:145;V:353;V:354;V:355;V:356;V:360;V:368;V:369;V:370;V:372;V:374;V:378;V:382;VI:24;VI:52;VI:71;VI:99;VI:128;VI:171;VI:172;VI:200;VI:229;VI:240;VI:263;VI:264;VI:323;VI:331;VI:335;VII:2;VII:271;VII:336;VII:357;VII:362;VII:390;VII:392;VII:393;VIII:5;VIII:16;VIII:25;VIII:49;VIII:99;VIII:101;VIII:105;VIII:120;VIII:123;VIII:124;VIII:153;VIII:172;VIII:451;VIII:452;IX:26;IX:31;IX:84;IX:86;IX:89;IX:91;IX:113;IX:114;IX:115;IX:116;IX:117;IX:118;IX:119;IX:120;IX:121;IX:122;IX:123;IX:124;IX:126;IX:127;IX:133;IX:134;IX:139;IX:147;IX:148;IX:162;IX:163;IX:167;IX:177;IX:179;IX:299;IX:329;IX:331;IX:346;IX:351;IX:380;IX:381;IX:387;IX:390;IX:391;X:11;X:152;X:438,"delvis overlap - BEHOLD, flet manuelt",PerXI01748 PerXI01749 PerXI01750,
+PerXI00068,Black,,Amerikansk Beundrer (1871).,IX:10,"samme efternavn, anden person - BEHOLD",PerXI01754,beskrivelseslighed 0.00
+PerXI00069,Bloch (Block),Karoline Amalie Ulrike Ottilie Adolfine Augusta (1803–54 (?)),Hofdame hos Prinsesse Maria af Preussen.,III:41,UNIK - findes intet andet sted,,nærmeste 'schlick' 0.59
+PerXI00070,Blom,Caroline (Lili),"Datter af Julius B., g. 1878 m. senere Generalkonsul i Berlin Robert Gädeke.",VIII:240,"samme efternavn, anden person - BEHOLD",PerXI01802,beskrivelseslighed 0.20
+PerXI00071,Bock,"Petrine Vilhehnine, f. Petersen",g. 1845 m. J.C.A.B.,IV:231,"samme efternavn, anden person - BEHOLD",PerXI01829,beskrivelseslighed 0.36
+PerXI00072,Boegekamp,Heinrich,"Tysk Publicist, Geograf og Indsamler af westfalske Sagn og Eventyr.",IV:223;IV:224,UNIK - findes intet andet sted,,nærmeste 'rennenkampff' 0.57
+PerXI00073,Bonaparte,"Lucien, Fyrste af Ganino",Broder til Napoléon I.,II:132,"samme efternavn, ingen fælles sider - BEHOLD",PerXI01866,
+PerXI00074,Boom,J. M.,Dansk Konsul i Cadix.,V:291;V:292;V:293,UNIK - findes intet andet sted,,nærmeste 'blom' 0.75
+PerXI00075,Borring,,"(»Brev fra Hr. Borring om at komme til ham og see hvad han havde hjembragt fra Færøerne og Island«, 12.4.1875).",X:433,"ligner navn, men ingen fælles sider - BEHOLD",,'bjerring' lighed 0.80
+PerXI00076,Bötcher,Frøken,Badegæst fra Kurland i Kreischa Juli 1844.,II:411;II:412,"ligner navn, men ingen fælles sider - BEHOLD",,'bothmer' lighed 0.86
+PerXI00077,Bouffé,Marie,Fransk Skuespiller.,II:340,UNIK - findes intet andet sted,,nærmeste 'bouree' 0.67
+PerXI00078,Boye,"Emilie Franzisca, f. Kiinitzer",g. 1855 m. Edvard B.,VI:340;VIII:344,"samme efternavn, anden person - BEHOLD",PerXI01944,beskrivelseslighed 0.13
+PerXI00079,Boye,Peter Vilhelm,"Broder til F.G.B., stud.theol.",II:284,"samme efternavn, anden person - BEHOLD",PerXI01945,beskrivelseslighed 0.17
+PerXI00080,Brahe,"Aurore Vilhelmina, Enkegrevinde, f. Friherreinde Koskuli",Enke efter Grev Magnus Frederik B. til Salsta.,III:332,"samme efternavn, ingen fælles sider - BEHOLD",PerXI01962 PerXI01963 PerXI01964,
+PerXI00081,Braminer,,"Jfr., Christinelund 1851.",IV:26;IV:27,OCR-dublet - kan fjernes,PerXI01971,'brammer' lighed 0.80
+PerXI00082,Brandis,Henriette (Henny),"Datter af J.D.B., Forfatterinde.",IV:196;IV:198;IV:238;IV:239;V:169;V:172;V:176;V:177;VI:33;VI:345;VI:349;VI:350;VI:351;VII:1;VII:2;VII:3;VII:4;VII:6;VII:198;VII:320;VII:323;VII:365;VII:366,DUBLET - kan fjernes,PerXI01987,beskrivelseslighed 1.00
+PerXI00083,Brandt,Frederik Christian,Korist ved Det kgl. Teater 1820–1825.,III:387,"samme efternavn, anden person - BEHOLD",PerXI02006,beskrivelseslighed 0.27
+PerXI00084,Braun,Familien,fra Rio de Janeiro.,III:275;III:276,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02020,
+PerXI00085,Breitkopf & Härtel,,Bogforlag i Leipzig.,III:59,UNIK - findes intet andet sted,,nærmeste 'streitshotel' 0.59
+PerXI00086,Brinck-Seidelin,"Maria Ghristophina, f. von Westen",g. 1809 m. H.D.B.-S.,I:2,"samme efternavn, anden person - BEHOLD",PerXI02066,beskrivelseslighed 0.12
+PerXI00087,Brinckmann,Wilhelmine,"Datter af Maria B., Itzehoe, Juni 1843.",II:379;II:380,"delvis overlap - BEHOLD, flet manuelt",PerXI02067 PerXI02068,
+PerXI00088,Briquet,"Suzanne-Mathilde, f. Archinard",g.m. Etienne-Emile B.,IV:429,"samme efternavn, anden person - BEHOLD",PerXI02071,beskrivelseslighed 0.17
+PerXI00089,Brix,"Frederiksholm, Sjælland (Sengeløse S.?)",Hotel d’Angleterre 5.7.1870.,VIII:393,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02076,
+PerXI00090,Broberg,,Svensk Løjtnant fra Jônkôping (1849).,III:342,"samme efternavn, anden person - BEHOLD",PerXI02079,beskrivelseslighed 0.00
+PerXI00091,Brodersen,"Charlotte, f. Hornemann","Datter af J. W. Hornemann, g. 1839 m. J.P.B.B.",IV:359,"samme efternavn, anden person - BEHOLD",PerXI02114,beskrivelseslighed 0.25
+PerXI00092,Bronzino,Agnlolo,Italiensk Maler.,I:253;I:432;I:433;II:79,UNIK - findes intet andet sted,,nærmeste 'browning' 0.75
+PerXI00093,Brosbøll,Carl (Carit Etlar),Forfatter.,III:80;III:182;IV:360;V:7;V:15;V:156;V:157;VI:43;VI:44;VI:45;VI:129;VI:157;VI:213;VI:214;VII:235;VII:246;VII:259;IX:6;IX:21;IX:55;IX:187;IX:231,DUBLET - kan fjernes,PerXI02127,beskrivelseslighed 1.00
+PerXI00094,Brown,"Hannah, f. Meredith",Veninde af Miss Burdett-Coutts.,IV:242;IV:243,"ligner navn, men ingen fælles sider - BEHOLD",,'burow' lighed 0.80
+PerXI00095,Brüggeman,Hans,"(omkring 1520), Billedhugger og Billedskærer.",IV:47,UNIK - findes intet andet sted,,nærmeste 'bergman' 0.75
+PerXI00096,Brüggemann,,(Brev fra ham til H.C. Andersen Leipzig 8.9.1846).,III:177,UNIK - findes intet andet sted,,nærmeste 'bergmann' 0.78
+PerXI00097,Brun,"Adelaide (Ida), f. Rantzau","tidligere Operasangerinde ved Det kgl. Teater, g. 1851 m. M.W.B.",IX:133,"samme efternavn, anden person - BEHOLD",PerXI02140,beskrivelseslighed 0.28
+PerXI00098,Brun,"Ella Amalie, f. Bluhme","g. 1859 m. Kaptajn af Artilleriet, senere Generalmajor Carl August B.",VIII:47,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02138 PerXI02139 PerXI02140,
+PerXI00099,Brunnow,"Elisabeth von, Baronesse",Datter af E.G.v.B.,II:406,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02156,
+PerXI00100,Brunnow,"Emst Georg von, Baron",Tysk Romanforfatter.,II:406;II:408;II:413,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02156,
+PerXI00101,Brunswick,(Pseud. for Léon Lhérie),fransk Skuespilforfatter.,II:332,UNIK - findes intet andet sted,,nærmeste 'blunck' 0.67
+PerXI00102,Brutus,Marcus Junius (85–42 f.Chr.),Cæsars Morder.,II:139,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02158,
+PerXI00103,Bruun,G. L.,"Grosserer, H.C. Andersens Nabo i Lille Kongensgade Nr. 1.",VII:260;VIII:43;IX:193,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02159 PerXI02160 PerXI02161,
+PerXI00104,Bruun,Gamillo,"Søn af J.S. B., Redaktør af Hjørring Amtstidende, Forfatter, 1869 Assistent i Bikuben i København.",IV:352;VII:269;VII:270,"delvis overlap - BEHOLD, flet manuelt",PerXI02159 PerXI02160 PerXI02161,
+PerXI00105,Bruun,Mary,Datter af G.L.B.,VII:260;VIII:43;IX:193,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02159 PerXI02160 PerXI02161,
+PerXI00106,Brøndsted,,"(»en ung Brøndsted i Besøg«, Asmild Kloster 4.9.1859).",IV:364,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02191 PerXI02192,
+PerXI00107,Buchheister,,"(»fra Hamborg«), Konsulatsembedsmand, Barcelona.",V:213;V:216;V:217;V:218;V:219;V:224,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02204,
+PerXI00108,Bueck,"Anne Clémy (kaldet Marthe), f. Rousse","g.m. Forretningsmand i Königsberg Henri Auguste B., Svigermoder til Konsul Eduard Kirstein (1835–1899) i Bordeaux.",VIII:89,"samme efternavn, anden person - BEHOLD",PerXI02213,beskrivelseslighed 0.18
+PerXI00109,Buil,Ole,Norsk Violinvirtuos.,II:253;II:377;III:139;III:140;III:146;IV:4;IV:14;IV:15;IV:470;VII:7;VII:8;VII:10;VII:11;VII:12;VII:13;VII:14;VII:17;VII:18,UNIK - findes intet andet sted,,nærmeste 'bull' 0.75
+PerXI00110,Buli,"Bodil Dorothea, f. Holst","Søsterdatter af H. C. Ørsted, g. 1867 m. Georg Albert B.",IX:166,UNIK - findes intet andet sted,,nærmeste 'bull' 0.75
+PerXI00111,Buli fra København,,Göteborg 29.7.1871.,IX:107,OCR-dublet - kan fjernes,PerXI02216,'bullfrakøbenhavn' lighed 0.94
+PerXI00112,Buli,Georg Albert,"fhv. Kapellan i Lindaas, Afsked 1870, boede i København til 1903.",IX:166,UNIK - findes intet andet sted,,nærmeste 'bull' 0.75
+PerXI00113,Buli,Georg Jacob,"Søn af A.S.Ø.B., cand. jur. 1870, senere Justitiarius i Overretten i Christiania.",IX:125,UNIK - findes intet andet sted,,nærmeste 'bull' 0.75
+PerXI00114,Buli,Johan Chr. Dahl,"Søn af A.S.Ø.B., Student 1869, senere kgl. Fuldmægtig i Christiania.",IX:125,UNIK - findes intet andet sted,,nærmeste 'bull' 0.75
+PerXI00115,Buli,Johanne (Hanne),Datter af Albertine B.,IX:125;IX:134,UNIK - findes intet andet sted,,nærmeste 'bull' 0.75
+PerXI00116,Buli,Sofie,Datter af Albertine B.,IX:125;IX:134,UNIK - findes intet andet sted,,nærmeste 'bull' 0.75
+PerXI00117,Buli,Søren Christian Ørsted,"Søn af Albertine B., Ekspeditionssekretær i Armédepartementet i Christiania.",IX:121;IX:122;IX:124;IX:125;IX:128;IX:134,UNIK - findes intet andet sted,,nærmeste 'bull' 0.75
+PerXI00118,Burdett-Goutts,Angela,Engelsk Filantrop.,III:265;IV:242;IV:243;IV:246;IV:247;IV:251;X:315,OCR-dublet - kan fjernes,PerXI02245,'burdettcoutts' lighed 0.92
+PerXI00119,Burenstam,Gari Reinhold,"Svensk Diplomat, 1859–1870 svensk-norsk Legationssekretær i Wien.",VIII:286,UNIK - findes intet andet sted,,nærmeste 'brentano' 0.71
+PerXI00120,Burns,Cleland,"skotsk Turist, Fribourg 6.-7.6.1873.",X:97;X:98;X:110,UNIK - findes intet andet sted,,nærmeste 'berens' 0.73
+PerXI00121,Baade,Knud,"Norsk Maler, München 1852.",IV:105,"ligner navn, men ingen fælles sider - BEHOLD",,'baden' lighed 0.80
+PerXI00122,Bøgh,Frk.,En af Frederik og Nicolaj Bøghs Søstre.,IX:293,"samme efternavn, anden person - BEHOLD",PerXI02294,beskrivelseslighed 0.35
+PerXI00123,Caligula,Gaius Cæsar (12–41),Romersk Kejser 37.,I:353;I:354;II:139;III:227;V:83,UNIK - findes intet andet sted,,nærmeste 'caliari' 0.67
+PerXI00124,Calmet,(?),30.6.1839.,II:39,"ligner navn, men ingen fælles sider - BEHOLD",,'calmette' lighed 0.86
+PerXI00125,Camphausen,Frue,g.m. Wilh. C.,V:376,"samme efternavn, anden person - BEHOLD",PerXI02338,beskrivelseslighed 0.17
+PerXI00126,Camprubi,Mariano,Spansk Danser.,II:41;II:42;II:344,UNIK - findes intet andet sted,,nærmeste 'cambiaso' 0.62
+PerXI00127,Caracalla,Marcus Aurelius Antoninus Bassianus,romersk Kejser 211.,I:333,DUBLET - kan fjernes,PerXI02349,beskrivelseslighed 1.00
+PerXI00128,Carstens,,Søn af Fedder C. (1872).,IX:336,"samme efternavn, anden person - BEHOLD",PerXI02376,beskrivelseslighed 0.00
+PerXI00129,Cartwright,"Maria Elizabeth, Lady, f. Grevinde von Sandizell",g.m. Sir Thomas C.,III:336,"samme efternavn, anden person - BEHOLD",PerXI02388,beskrivelseslighed 0.39
+PerXI00130,Carus,Frøknerne,Døtre af Carl Gustav C. (Marianne Albertine (1814–1868) og Caroline Cäcilie (1819–1895)).,V:110,"samme efternavn, anden person - BEHOLD",PerXI02391,beskrivelseslighed 0.51
+PerXI00131,Casse,"Christine Bothilde Petrea, f. Winding",g. 1866 m. P.E.C.,VIII:141,"samme efternavn, anden person - BEHOLD",PerXI02400,beskrivelseslighed 0.15
+PerXI00132,Castiglione,Giovanni Benedetto (il Grechetto),Italiensk Maler.,I:253,UNIK - findes intet andet sted,,nærmeste 'castillien' 0.76
+PerXI00133,Castilho,"Charlotte de, f. Vidal","Datter af M. C. Vidal, g.m. A. F. de C.",VII:109;VII:110;VII:112,"delvis overlap - BEHOLD, flet manuelt",PerXI02439 PerXI02440 PerXI02441,
+PerXI00134,Castlereagh,"Elisabeth Frances Charlotte, Lady, f. Jocelyn","Enke efter Viscount Richard of Powerscourt, g. 1846 m. Frederick William Robert Stewart G.",III:219,"samme efternavn, anden person - BEHOLD",PerXI02443,beskrivelseslighed 0.17
+PerXI00135,Cazalis,Gustave,Søn af William G.,III:153;III:154,"delvis overlap - BEHOLD, flet manuelt",PerXI02459 PerXI02460 PerXI02461,
+PerXI00136,Cerrito,Francesca (Fanny),"Italiensk Balletdanserinde, g. 1845 m. Arthur Saint-Léon, Ægteskabet opløst 1851.",III:238,UNIK - findes intet andet sted,,nærmeste 'cerillo' 0.71
+PerXI00137,Chambord,"Henri, Greve af –","Søn af Hertug Charles Ferdinand af Berry, fransk Tronprætendent.",I:489,UNIK - findes intet andet sted,,nærmeste 'achard' 0.71
+PerXI00138,Chlodvig,(Chlodovech),"Frankerrigets Grundlægger, Konge 481.",II:54,UNIK - findes intet andet sted,,nærmeste 'ludvig' 0.71
+PerXI00139,Chosrew Pasha,,tyrkisk Guvernør i Belgrad (1841).,II:230,"samme efternavn, anden person - BEHOLD",PerXI02505,beskrivelseslighed 0.00
+PerXI00140,Christensen,Dagmar,Datter af C.Th.C.,VIII:370,"samme efternavn, anden person - BEHOLD",PerXI02517,beskrivelseslighed 0.14
+PerXI00141,Christensen,Madam,Moder til Musikeren C.,X:386;X:387;X:388,"delvis overlap - BEHOLD, flet manuelt",PerXI02507 PerXI02508 PerXI02509,
+PerXI00142,Christensen,Mathilde (Illa.),"Datter af Harald G., Forfatterinde (F. C. van der Burgh).",X:80;X:82;X:83;X:196,"samme efternavn, anden person - BEHOLD",PerXI02522,beskrivelseslighed 0.20
+PerXI00143,Christian & Cocelles,,"Bankfirma, Wien.",I:478,UNIK - findes intet andet sted,,nærmeste 'tizianovecellio' 0.56
+PerXI00144,Claudi,G. B.,"Stifter af Redningsvæsenet på Jyllands Vestkyst, konstitueret Inspektør for Redningsvæsenet 1852–1869, Sandflugtskommiss",IV:342,UNIK - findes intet andet sted,,nærmeste 'clavaud' 0.77
+PerXI00145,Clausen-Schiitz,Christian Ludwig,Over- og Landsretsadvokat i Wandsbeck.,III:147;III:149;III:150;III:240;III:242;III:245,OCR-dublet - kan fjernes,PerXI02565,'clausenschutz' lighed 0.89
+PerXI00146,Clemens III,,Pave 1187.,I:402,"ligner navn, men ingen fælles sider - BEHOLD",,'clemensvii' lighed 0.90
+PerXI00147,Clemens VIII,,Pave 1592.,I:304,"ligner navn, men ingen fælles sider - BEHOLD",,'clemensvii' lighed 0.95
+PerXI00148,Clemens XII,,Pave 1730.,III:83,"ligner navn, men ingen fælles sider - BEHOLD",,'clemensvii' lighed 0.90
+PerXI00149,Clemens XIII,,Pave 1758.,I:393,"ligner navn, men ingen fælles sider - BEHOLD",,'clemensvii' lighed 0.86
+PerXI00150,Clemens XIV,,Pave 1769.,II:88,OCR-dublet - kan fjernes,PerXI02570,'clemensvii' lighed 0.80
+PerXI00151,Codes,Publius Horatius,romersk Helt.,I:219,"ligner navn, men ingen fælles sider - BEHOLD",,'rodes' lighed 0.80
+PerXI00152,Colbiørnsen,Angelique Wigan tine,"Datter af Engelke C., Hofdame hos Arveprinsesse Caroline.",I:32,"samme efternavn, anden person - BEHOLD",PerXI02584,beskrivelseslighed 0.51
+PerXI00153,Colchrane,Charles,"Engelsk Forfatter, Parlamentskandidat i Westminster ved Valget 1847.",III:237,UNIK - findes intet andet sted,,nærmeste 'orange' 0.67
+PerXI00154,Colditz,Frøken,Datter af H.F.C.C.,II:425,"samme efternavn, anden person - BEHOLD",PerXI02590,beskrivelseslighed 0.20
+PerXI00155,Collin,Hjalmar,"Son af Gottlieb C., Student 1852, cand. phil., Landmand, senere Journalist.",IV:198;IV:199;IV:323;IV:363;IV:364;IV:365;IV:366;V:5;V:141;V:756;VI:245;VII:339;VIII:759;VIII:164;VIII:408;IX:165;IX:180;IX:383,"delvis overlap - BEHOLD, flet manuelt",PerXI02605 PerXI02606 PerXI02607,
+PerXI00156,Collin,Ingeborg Mimi (Vulle),Datter af Edvard C.,II:308,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02605 PerXI02606 PerXI02607,
+PerXI00157,Cornelius,"Gertruda von, f. Fervatini",g. 1835 m. Peter von G.,II:63,"samme efternavn, anden person - BEHOLD",PerXI02662,beskrivelseslighed 0.25
+PerXI00158,Cranach. Barbara,f. Brengbier,g. 1505 m. Lucas C. d.Æ.,II:55;II:56,UNIK - findes intet andet sted,,nærmeste 'calderondelabarca' 0.45
+PerXI00159,Crowquill,Alfred (Pseudonym for Alfred Henry Forrester),"Engelsk Digter, Tegner og Illustrator.",III:243,UNIK - findes intet andet sted,,nærmeste 'cromwell' 0.71
+PerXI00160,Crusenstiema,,"Fører af Dampskibet Eric Nordwall, Gôta Kanal 1849.",III:375,OCR-dublet - kan fjernes,PerXI02705,'crusenstierna' lighed 0.88
+PerXI00161,d'Aubert,Eduard,svensk Violinist.,III:381,"ligner navn, men ingen fælles sider - BEHOLD",,'aubert' lighed 0.92
+PerXI00162,da Silva Pereira,,"dr.theol., Coimbra 21.7.1866.",VII:145,UNIK - findes intet andet sted,,nærmeste 'silvaloureiro' 0.67
+PerXI00163,Dahlstrøm,Frederik (Fritz),"Student 1831, cand. jur. 1835, 1840 Auditør i Armeen, 1842 Kancellist i Danske Kancelli, 1848 Departementschef i Justits",II:32;IV:325;IV:338;IV:343;IV:344;IV:345;IV:350;IV:355;IV:361;IV:472;V:163;V:164;V:384;V:385;V:386;VII:262;IX:59;IX:61;IX:66;IX:155;X:245;X:447,DUBLET - kan fjernes,PerXI02742,beskrivelseslighed 0.99
+PerXI00164,Danmark,"Charlotte Frederikke, Prinsesse af –, f. Prinsesse af Mecklenburg-Schwerin","g. 1806 m. Prins Christian (VIII) Frederik, Ægteskabet ophævet 1810.",II:128;II:149;VI:212,DUBLET - kan fjernes,PerXI02779,beskrivelseslighed 1.00
+PerXI00165,Danmark,"Dagmar, Dronning af –, f. Prinsesse af Bøhmen",g. 1205 m. Valdemar II Sejr af D.,II:285,DUBLET - kan fjernes,PerXI02774,beskrivelseslighed 0.91
+PerXI00166,Danmark,"Marie Sophie Frederikke, Dronning af –, f. Prinsesse af Hessen-Kassel",g. 1790 m. Kong Frederik VI af D.,I:213;I:225;II:31;II:305;IV:21;IV:80;IV:81;VIII:384;IX:32,"delvis overlap - BEHOLD, flet manuelt",PerXI02772 PerXI02773 PerXI02774,
+PerXI00167,Danmark,"Sophie Amalie, Dronning af-, f. Prinsesse af Braunschweig-Liineburg",g. 1643 m. Frederik III af D.,X:203,"samme efternavn, anden person - BEHOLD",PerXI02800,beskrivelseslighed 0.26
+PerXI00168,Danneskiold-Samsøe,"Henriette, Grevinde, f. Komtesse Krag-Juel-Vind-Frijs","Datter af C. E. Krag-Juel-Vind-Frijs, g. 1867 m. senere Lensgreve Christian D.-S. (1838–1914).",VIII:31;VIII:114;VIII:115;VIII:200;VIII:231;VIII:356,"delvis overlap - BEHOLD, flet manuelt",PerXI02826 PerXI02827 PerXI02828,
+PerXI00169,Danneskiolds,,(ikke nærmere angivet).,V:5,UNIK - findes intet andet sted,,nærmeste 'castenskiold' 0.67
+PerXI00170,Dante Alighieri,,Italiensk Digter.,II:65;II:79;V:66,UNIK - findes intet andet sted,,nærmeste 'lenteadeler' 0.56
+PerXI00171,Daoust,Charles Louis,"Fransk Officer, Nizza 1869.",VIII:314;VIII:315;VIII:320;VIII:322;VIII:326;VIII:327;IX:7,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02842,
+PerXI00172,Daquin,,London 1847.,III:263,UNIK - findes intet andet sted,,nærmeste 'austin' 0.67
+PerXI00173,Darius III,,persisk Konge 336–30.,I:335,UNIK - findes intet andet sted,,nærmeste 'piusiii' 0.75
+PerXI00174,Dawison,"Constance, f. Jacobi",g. 1861 m. Bogumil D.,V:111,"samme efternavn, anden person - BEHOLD",PerXI02880,beskrivelseslighed 0.21
+PerXI00175,De Gazes de Glücksbierg,Frøken,11.8.1869.,VIII:239,OCR-dublet - kan fjernes,PerXI02881,'decazesdeglucksbierg' lighed 0.95
+PerXI00176,De la Rose,(eller: Roche),"Hovmester i Hotel Rydberg, Stockholm 1865.",VI:286;VI:287,UNIK - findes intet andet sted,,nærmeste 'larsen' 0.71
+PerXI00177,de Pallins,Madame,Pensionatsværtinde i Montreux 1862.,V:200;V:201,UNIK - findes intet andet sted,,nærmeste 'ballin' 0.67
+PerXI00178,Decebalus,,Dacierfyrste.,II:215,UNIK - findes intet andet sted,,nærmeste 'delius' 0.67
+PerXI00179,Deckner,Carlotta,"ungarsk Violinistinde, København November 1865.",VI:320;VI:321;VI:322;VI:334;VII:9;VII:19;VII:20,"delvis overlap - BEHOLD, flet manuelt",PerXI02887 PerXI02888,
+PerXI00180,Delius,Ed.,"Tysk Købmand, Málaga 1862.",V:238;V:240;V:241;V:242;V:244;V:270;V:272;V:273;VI:200,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02917,
+PerXI00181,delle Grazie,Cesare,Passager på Donau-Dampskibet Argo Maj 1841.,II:218,UNIK - findes intet andet sted,,nærmeste 'delagardie' 0.67
+PerXI00182,Delong,"Frue, f. Tugnot Delanoy",g. ca. 1838 m. A.H.P.G.D.,II:339,"samme efternavn, anden person - BEHOLD",PerXI02918,beskrivelseslighed 0.19
+PerXI00183,Demcray,(Danscray?),"(Navnet synes forskrevet), Braunschweig 22.6.1844.",II:395,UNIK - findes intet andet sted,,nærmeste 'macready' 0.67
+PerXI00184,Descombaz,Edouard Aimé,Præst i Geneve 1868.,VIII:73;VIII:74;VIII:75;VIII:76;VIII:77,DUBLET - kan fjernes,PerXI02927,beskrivelseslighed 0.74
+PerXI00185,Dessau,Frøken,"fra Hamburg, København 16.5.1863.",VI:226,"samme efternavn, ingen fælles sider - BEHOLD",PerXI02929 PerXI02930 PerXI02931,
+PerXI00186,Dessauer,,,X:404,OCR-dublet - kan fjernes,PerXI02929 PerXI02930 PerXI02931,'dessau' lighed 0.86
+PerXI00187,Dickens,Catherine (Kate),"Datter af Charles D., g. 1° 1860 m. Charles Allston Collins, 2° m. C. E. Perugini.",III:265;IV:242;IV:243;IV:244;IV:249;IV:256;IV:258;IV:260;IV:262;IV:415,"delvis overlap - BEHOLD, flet manuelt",PerXI02945 PerXI02946 PerXI02947,
+PerXI00188,Dickson,"Frue, f. Hoskier",Göteborg 1.8.1871.,IX:109,UNIK - findes intet andet sted,,nærmeste 'dawison' 0.71
+PerXI00189,Döbler,"Döbel, Dupel","F. A. Serres Svoger, Koncertmester, Gotha.",IV:219;IV:220;IV:318;IV:321,UNIK - findes intet andet sted,,nærmeste 'adler' 0.73
+PerXI00190,Doeblin,Eugen,"Professor fra St. Petersborg, Tryllekunstner, optræder på Casino Februar 1867.",VII:241;VII:242,UNIK - findes intet andet sted,,nærmeste 'oberlin' 0.71
+PerXI00191,Döring,"Th. (Pseud, for Theodor Häring)",Tysk Skuespiller.,II:263,"ligner navn, men ingen fælles sider - BEHOLD",,'during' lighed 0.83
+PerXI00192,Dou,Gerrit (Gerard),Hollandsk Maler.,I:429;I:430;I:462;IV:178,UNIK - findes intet andet sted,,nærmeste 'daoust' 0.67
+PerXI00193,Douglas,Marian,"Boston, amerikansk Beundrerinde.",IX:316;IX:317,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03020 PerXI03021 PerXI03022,
+PerXI00194,Drewsen,"Amalie (Malle), f. Kümmel",g. 1830 m. Michael D.,III:390;III:396;V:20;V:135;V:285;V:321;V:405;VII:244,DUBLET - kan fjernes,PerXI03030,beskrivelseslighed 1.00
+PerXI00195,Drewsen,"Elisa, f. Hallady",g.m. Peter D.,VIII:360,"samme efternavn, anden person - BEHOLD",PerXI03029,beskrivelseslighed 0.09
+PerXI00196,Drewsen,J. C.,"Halvbroder til Adolph D., Papirmøller paa Strandmøllen, Stænderdeputeret, Kammerraad.",II:253;II:254;II:255;II:406;IX:291,"samme efternavn, anden person - BEHOLD",PerXI03036,beskrivelseslighed 0.02
+PerXI00197,Drewsen,Paul (1866–1907(?)),"Søn af Valdemar D., senere Ingeniør.",IX:96,"samme efternavn, anden person - BEHOLD",PerXI03028,beskrivelseslighed 0.56
+PerXI00198,Dreyer,(Dreier?),Glorup 16.8.1856.,IV:234,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03057 PerXI03058 PerXI03059,
+PerXI00199,Dreyschock,Frue,g.m. Alexander D.,IV:206,"samme efternavn, anden person - BEHOLD",PerXI03060,beskrivelseslighed 0.16
+PerXI00200,Droscher,,"Menig, 9. Infanteri-Regiment, 8. Kompagni, Nr. 405 (1864).",VI:74;VI:75;VI:76;VI:77;VI:78;VI:79,"samme efternavn, anden person - BEHOLD",PerXI03071,beskrivelseslighed 0.00
+PerXI00201,Du Bois,"Henricus Garel, dr.","Hollandsk Ministerresident i København 1856–1860, senere i Konstantinopel.",VII:41,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03072,
+PerXI00202,du Plat,Cæsar,"Premierløjtnant i Kavalleriet, 1839 Ritmester, 1848 Major, gik s.A. over til Insurgenterne, 1852 udelukket fra Amnestien",I:119;I:120;I:122;II:442;II:443,"ligner navn, men ingen fælles sider - BEHOLD",,'plat' lighed 0.80
+PerXI00203,du Plat,Giode,"Broder til Cæsar d.P., 1850 Oberstløjtnant og Chef for 2. Forstærkningsbataillon, 1856 Oberst, 1860 Generalmajor og Komm",III:405;III:406;III:421;IV:370,"ligner navn, men ingen fælles sider - BEHOLD",,'plat' lighed 0.80
+PerXI00204,Düb,Adolph,"Director, Pest (1841).",II:241,"samme efternavn, anden person - BEHOLD",PerXI03103,beskrivelseslighed 0.00
+PerXI00205,Duch,"Madame, f. Dübelt",Bordeaux 4.1.1863.,V:338;V:339,UNIK - findes intet andet sted,,nærmeste 'buch' 0.75
+PerXI00206,Duej Frederik,,"Norsk Statsminister i Stockholm 1841, svensk-norsk Gesandt i Wien 1858–1871.",III:88;III:89;III:90;III:92;III:311;III:312;III:314;III:324;III:325;VII:251;VIII:285;VIII:286;IX:198;IX:220;IX:221;IX:224;IX:226,UNIK - findes intet andet sted,,nærmeste 'frederikii' 0.73
+PerXI00207,Dührssen,Herman Chr.,"Tysklærer ved Liceu de Coimbra, Coimbra.",VII:146;VII:147;VII:154;X:406,UNIK - findes intet andet sted,,nærmeste 'anderssen' 0.71
+PerXI00208,Dunlop,"Christiane (Christine), f. Larsdatter (Larsen)",Enke efter Plantageejer på St. Croix John Balthazar D.,V:406;V:408;VI:170;IX:79;IX:80,"samme efternavn, anden person - BEHOLD",PerXI03088,beskrivelseslighed 0.32
+PerXI00209,d’Alton,"Agnes, f. Rauch","Datter af Chr. D. Rauch, g. 1829 m. J. S. E. d’A.",III:39,UNIK - findes intet andet sted,,nærmeste 'calon' 0.73
+PerXI00210,d’Alton,Johann Samuel Eduard,"Professor, dr med., sidst i Halle, Svigersøn af C. D. Rauch.",III:39,UNIK - findes intet andet sted,,nærmeste 'calon' 0.73
+PerXI00211,d’Auchamp,F. L. F.,"Overretsprokurator i København, Kancelliraad.",VIII:146,UNIK - findes intet andet sted,,nærmeste 'durham' 0.71
+PerXI00212,d’Avezac,A. G. V.,amerikansk Gesandt i Haag.,III:199,UNIK - findes intet andet sted,,nærmeste 'dotezac' 0.71
+PerXI00213,d’Ohsson,"Abraham Constantin Mouradgea, Friherre","Historiker, svensk Gesandt i Berlin 1835–1850.",III:33,UNIK - findes intet andet sted,,nærmeste 'olsson' 0.77
+PerXI00214,d’Orsay,"Alfred, Greve",Lady Blessingtons Svigersøn.,III:219;III:230;III:241,UNIK - findes intet andet sted,,nærmeste 'horsa' 0.73
+PerXI00215,Eaton,,"Engelsk Diligencepassager, Bologna 10.12.1840.",II:78,"ligner navn, men ingen fælles sider - BEHOLD",,'elton' lighed 0.80
+PerXI00216,Eckardt,Frue,g.m. Ludwig E.,V:97;V:98;V:99,"samme efternavn, anden person - BEHOLD",PerXI03136,beskrivelseslighed 0.14
+PerXI00217,Eckardt,G. E.,"Proprietær, Gathrineholm, Krummerup S., 0. Flakkebjerg H.",X:288,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03130 PerXI03131 PerXI03132,
+PerXI00218,Eckhoff,Magdalene (Lehnchen),Datter af J.W.E.,II:304;II:305,"samme efternavn, anden person - BEHOLD",PerXI03141,beskrivelseslighed 0.32
+PerXI00219,Egidius,Frøknerne,"Hildur (1835–1892), Inga (1841–1919) og Iduna (1844–1925), Døtre af norsk Konsul Th. Egidius, Amsterdam.",VII:47,DUBLET - kan fjernes,PerXI03158,beskrivelseslighed 0.90
+PerXI00220,Engel,Frk.,"Datter af G.F.E.E. (enten Emma Henriche, f. 1850, eller Marie Vilhelmine, f. 1851).",IX:327,"samme efternavn, anden person - BEHOLD",PerXI03205,beskrivelseslighed 0.24
+PerXI00221,Enholm,Lorentz Peter,Skuespiller ved Det kgl. Teater.,I:133;I:456,DUBLET - kan fjernes,PerXI03226,beskrivelseslighed 1.00
+PerXI00222,Épée,"Charles-Michel, Abbé de 1’",Grundlæggeren af den skolemæssige Døvstummeundervisning.,II:341,DUBLET - kan fjernes,PerXI03226B,beskrivelseslighed 1.00
+PerXI00223,Eriksen,Christian,Overtjener på Holsteinborg.,VII:331;VII:332;X:258;X:271;X:377,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03231,
+PerXI00224,Esbensen,Betty Sophie,Datter af J.R.E.,IV:33,"samme efternavn, anden person - BEHOLD",PerXI03247,beskrivelseslighed 0.16
+PerXI00225,Euripides,,græsk Tragediedigter.,II:139,UNIK - findes intet andet sted,,nærmeste 'christides' 0.63
+PerXI00226,Ewald. Madam,,Vaagekone (December 1872).,IX:368;IX:369,UNIK - findes intet andet sted,,nærmeste 'soldimadame' 0.67
+PerXI00227,Fabricius,"Caroline, f. Andersen","Enke efter Forpagter af Basnæs, cand. phil. Ferdinand Erik F.",IV:199;IV:475;V:1;V:2;V:115;V:392;V:454;VI:72;VI:74;VI:79;VIII:259;VIII:374,"delvis overlap - BEHOLD, flet manuelt",PerXI03287 PerXI03288 PerXI03289,
+PerXI00228,Fabricius,Frue,Augustenborg 19–20.9.1844.,II:441;II:442,"delvis overlap - BEHOLD, flet manuelt",PerXI03287 PerXI03288 PerXI03289,
+PerXI00229,Falbe,Wilhelmine (Mine) Ulrikke (1782 1858),Søster til Engelke Colbiørnsen.,I:32;I:37,DUBLET - kan fjernes,PerXI03309,beskrivelseslighed 1.00
+PerXI00230,Falkman-Petersen (senere: Falkman),Adolf,"cand. phil., Journalist.",VI:325;VI:326,UNIK - findes intet andet sted,,nærmeste 'saynwittgensteinberleburg' 0.42
+PerXI00231,Feisthamel,J.,"Baron, Geneve 1860.",IV:422;IV:423;IV:425;IV:431;IV:432;IV:433;IV:434,UNIK - findes intet andet sted,,nærmeste 'eichthal' 0.67
+PerXI00232,Femanda,,"prostitueret Tyrkinde, Paris 17.5.1868.",VIII:69;VIII:70,OCR-dublet - kan fjernes,PerXI03374 PerXI03375,'fernanda' lighed 0.80
+PerXI00233,Femmer,"Frederikke, f. Klem",Enke efter Postmester Oluf F.,I:55,"ligner navn, men ingen fælles sider - BEHOLD",,'remmer' lighed 0.83
+PerXI00234,Femmer,Ole,"Søn af Henriette Cathrine Orelius, f. Kikkebusch, Elev i Slagelse Skole.",I:55,"ligner navn, men ingen fælles sider - BEHOLD",,'remmer' lighed 0.83
+PerXI00235,Feuerherd,Frk.,"Datter af F. fra Portugal, Dresden 30.10.1860.",IV:457,UNIK - findes intet andet sted,,nærmeste 'eberhard' 0.71
+PerXI00236,Fibiger,Laura (1845–1912) eller Margrethe,Døtre af Axel F.,VI:247,"samme efternavn, anden person - BEHOLD",PerXI03387,beskrivelseslighed 0.15
+PerXI00237,Firmenich,,Broder til Johann Mathias F.,IV:178,DUBLET - kan fjernes,PerXI03410,beskrivelseslighed 1.00
+PerXI00238,Firmenich (Richartz),Johann Mathias,"Tysk Forfatter og Oversætter, Professor 1860.",I:419;I:421;I:422;I:430;I:438;I:439;IV:178,DUBLET - kan fjernes,PerXI03410B,beskrivelseslighed 1.00
+PerXI00239,Fischer,Johanne (Hanne),"Søster til Fru Christiane Liith, g. 1858 m. Arkitekt Laurits Albert Winstrup.",II:155,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03411 PerXI03412 PerXI03413,
+PerXI00240,Fisker,"Frederikke Wilhelmine Pauline, f. Govi",Enke efter Læge Lorentz Henrik F.,VI:256;VI:257,"samme efternavn, anden person - BEHOLD",PerXI03418,beskrivelseslighed 0.17
+PerXI00241,Flindt,(?),8.9.1859.,IV:365,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03432 PerXI03433 PerXI03434,
+PerXI00242,Forster,"Eliza Ann, f. Crosbie","Enke efter Forlæggeren Henry Colburn, g. 2° m. John F.",IV:244,"samme efternavn, anden person - BEHOLD",PerXI03470,beskrivelseslighed 0.24
+PerXI00243,Fouché,,"Greve fra Dijon, bor i Dresden med sin Moder, Maxen 10.10.1869.",VIII:270,UNIK - findes intet andet sted,,nærmeste 'funch' 0.73
+PerXI00244,Foy. C. A.,,"stud, philos., Boston (München 21.6.1852).",IV:101,UNIK - findes intet andet sted,,nærmeste 'foy' 0.75
+PerXI00245,Frankenberg und Ludwigsdorff,"An tonie von, Grevinde, f. Grevinde von Teczin-Paczinsky",Enke efter Grev Fr.v.F.-L.,VIII:294,"samme efternavn, anden person - BEHOLD",PerXI03494,beskrivelseslighed 0.42
+PerXI00246,Frankrig,"François I, Konge af –",Konge 1515.,V:348,DUBLET - kan fjernes,PerXI03498,beskrivelseslighed 0.78
+PerXI00247,Frederiksen,H. G.,"Skolemand, Grundlægger af Ordrup højere Skole og Opdragelsesanstalt, Redaktør af Ill. Børneblad.",IX:350,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03522 PerXI03523 PerXI03524,
+PerXI00248,Frederiksen,H. P.,Direktør for Industribanken i Købehavn.,X:116,"samme efternavn, anden person - BEHOLD",PerXI03522,beskrivelseslighed 0.18
+PerXI00249,Freiing,,"Apoteker, Hildesheim (1833).",I:141,OCR-dublet - kan fjernes,PerXI03535,'freling' lighed 0.86
+PerXI00250,Faaborg,Christian,"Operasanger ved Det kgl. Teater 1835–1850, 1851 Klasselotterikollektør i København, 1855 Kammerassessor.",IV:414,DUBLET - kan fjernes,PerXI03278B,beskrivelseslighed 0.99
+PerXI00251,Gad,G. E. G.,Forlagsboghandler.,VII:240,"samme efternavn, anden person - BEHOLD",PerXI03664,beskrivelseslighed 0.26
+PerXI00252,Gadow,"Louise von, f. Komtesse Krag-Juel-Vind-Frijs","Datter af Christian Krag-Juel-Vind-Fri js, g. 1839 m. Adolph Carl Ludwig Hans von G. til Hugodstorf, Neuhof, Drechow, Te",VI:249,UNIK - findes intet andet sted,,nærmeste 'gad' 0.75
+PerXI00253,Galiari,Gabriele,"Italiensk Maler, Søn af Paolo Veronese.",I:400,"ligner navn, men ingen fælles sider - BEHOLD",,'gagliardi' lighed 0.88
+PerXI00254,Galitzin,"Vasiliu Petrovid, Fyrste",russisk Kunstsamler.,III:92,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03687,
+PerXI00255,Gall,"Leonore von, Friherre inde, f. von Gall",g. 1835 m. Ferdinand v. G.,II:391;III:17;III:20;III:21;III:23;III:24;III:169;IV:439,"delvis overlap - BEHOLD, flet manuelt",PerXI03688,
+PerXI00256,Gallenga,Mrs.,g. 1858 m. A.G.N.G.,VI:97,"samme efternavn, anden person - BEHOLD",PerXI03691,beskrivelseslighed 0.13
+PerXI00257,Galon,Madame,g.m. P.G.,VIII:334,OCR-dublet - kan fjernes,PerXI02326 PerXI02327 PerXI02328,'calon' lighed 0.80
+PerXI00258,Galon,P.,"Dansk Konsul i Paris, 1873–1897 Generalkonsul.",VIII:70;VIII:331;VIII:334,OCR-dublet - kan fjernes,PerXI02326 PerXI02327 PerXI02328,'calon' lighed 0.80
+PerXI00259,Gambiaso,Luca,Italiensk Maler.,II:103,OCR-dublet - kan fjernes,PerXI02329,'cambiaso' lighed 0.88
+PerXI00260,Garlieb,"Frøknerne Anna Sophie Louise, Wilhelmine Elisabeth og Augusta Friderike",Døtre af G.G.,III:375,"samme efternavn, anden person - BEHOLD",PerXI03710,beskrivelseslighed 0.15
+PerXI00261,Gastex,"Blanche, f. Jurgensen","Datter af N. J. Jurgensen, g. 1866 m. Paul C.",VII:172,OCR-dublet - kan fjernes,PerXI02438,'castex' lighed 0.83
+PerXI00262,Gastillien,"Pedro I, den Grusomme, Konge af –",Konge 1350.,V:300,OCR-dublet - kan fjernes,PerXI02442,'castillien' lighed 0.90
+PerXI00263,Gastrén,,(Navnet misforstået?).,II:398,UNIK - findes intet andet sted,,nærmeste 'garben' 0.77
+PerXI00264,Gaubet,,"Fransk Operasanger, Amsterdam 20.2.1866.",VII:40,"ligner navn, men ingen fælles sider - BEHOLD",,'aubert' lighed 0.83
+PerXI00265,Gaus,Salomon de,Fransk Ingeniør.,IV:150,UNIK - findes intet andet sted,,nærmeste 'caus' 0.75
+PerXI00266,Gayangos y Arce,Emilia,Datter af Pascuâl de G. y A.,V:326;V:328,"samme efternavn, anden person - BEHOLD",PerXI03726,beskrivelseslighed 0.11
+PerXI00267,Gazin,,Svigerfader til Chr. A. Benzon.,II:314,"ligner navn, men ingen fælles sider - BEHOLD",,'cazin' lighed 0.80
+PerXI00268,Gederfeld de Simonsen,Carl,"Borgmester i Kalundborg, Justitsraad.",II:258;II:259,OCR-dublet - kan fjernes,PerXI02465 PerXI02466,'cederfelddesimonsen' lighed 0.95
+PerXI00269,Geldhaar,Wilhelmina (Mina),"Svensk Operasangerinde, g. 1° 1870 m. Friherre Eugen von Stedingk, 2° 1883 m. Kammarrättsradet Joh. Aug. Wallensteen.",VI:290,UNIK - findes intet andet sted,,nærmeste 'engelhardt' 0.67
+PerXI00270,Genevay,Antoine,"Fransk Journalist, deltog i Journalistbesøget i København August 1867.",VII:343;VII:344;VII:348;VII:360;VII:377;VII:396;X:197,DUBLET - kan fjernes,PerXI03759,beskrivelseslighed 1.00
+PerXI00271,Gerdislaw,Charlotte von,"Tysk Forfatterinde, Rügen (»en Ubekjendt på Rygen«).",V:169,UNIK - findes intet andet sted,,nærmeste 'gedalia' 0.62
+PerXI00272,Gerlach,G. L.,"Syngemester ved Det kgl. Teater 1863–1888, Komponist.",VIII:364,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03764,
+PerXI00273,Gerlaöh,"Leocadie, f. Bergnehr","Operasangerinde ved Det kgl. Teater, g. 1° 1852 m. Lysestøber Carl Edvard Fossum, 2° 1861 m. Syngemester Carl Ludvig G.",V:165;VI:182;VII:378;VIII:34;IX:39;IX:40;IX:45;X:339,"ligner navn, men ingen fælles sider - BEHOLD",,'gerlach' lighed 0.86
+PerXI00274,Gerstenberg,"Juliane (Lulu),",g. 1872 m. Frederik Tutein.,IX:314,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03768 PerXI03769,
+PerXI00275,Gheezy,Peter von,"ungarsk Godsejer (Garamezegh), Svigersøn af Fr. Bielke i Weimar.",III:55;III:56,UNIK - findes intet andet sted,,nærmeste 'genevay' 0.62
+PerXI00276,Giovanni,Gondoliere,Venezia 16.5.1872.,IX:277;IX:278,UNIK - findes intet andet sted,,nærmeste 'grimani' 0.67
+PerXI00277,Gjenge,(?),Málaga.,V:271,UNIK - findes intet andet sted,,nærmeste 'engel' 0.73
+PerXI00278,Gjerlev,,jydsk Proprietær (kalder sig ogsaa: Lund) (1865).,VI:339,"samme efternavn, anden person - BEHOLD",PerXI03807,beskrivelseslighed 0.00
+PerXI00279,Glevermann,,"Fransk Tryllekunstner, Paris 13.2.1870.",VIII:332,OCR-dublet - kan fjernes,PerXI02573,'clevermann' lighed 0.90
+PerXI00280,Glücksborg,"Christian, Prins af Slesvig-Holsten-Sønderborg-G.","Broder til Hertug Carl af G., 1863 Konge af Danmark (Christian IX).",II:422;II:424;IV:127,"samme efternavn, ingen fælles sider - BEHOLD",PerXI03827 PerXI03828 PerXI03829,
+PerXI00281,Gohen,den unge,Maxen 29.7.1861.,V:107,OCR-dublet - kan fjernes,PerXI02579 PerXI02580,'cohen' lighed 0.80
+PerXI00282,Golloredo-Mansfeld,"Hieronymus, Greve",Østrigsk Felttøjmester.,I:496;I:497,OCR-dublet - kan fjernes,PerXI02629,'colloredomansfeld' lighed 0.94
+PerXI00283,Göschel,Frue,Triest Marts 1846.,III:81;III:82,"ligner navn, men ingen fælles sider - BEHOLD",,'gosch' lighed 0.83
+PerXI00284,Gotthelf,Jeremias (Pseud. for Albert Bitzius),schweizisk Forfatter og Præst.,IV:187,UNIK - findes intet andet sted,,nærmeste 'goethe' 0.71
+PerXI00285,Govi,"Doris, f. Risler","Enke efter Ritmester Carl Fr. G., Præstø.",V:388;VI:256,UNIK - findes intet andet sted,,nærmeste 'govl' 0.75
+PerXI00286,Govi,Povline,"Datter af Doris G., Lærerinde ved N. Zahles Skole 1866, Forstanderinde sst. 1870.",V:388;VI:256,UNIK - findes intet andet sted,,nærmeste 'govl' 0.75
+PerXI00287,Grandjean,G. F.,Konditor.,X:157,"samme efternavn, anden person - BEHOLD",PerXI03893,beskrivelseslighed 0.21
+PerXI00288,Grassett,Mr.,London Juni 1857.,IV:246;IV:247,UNIK - findes intet andet sted,,nærmeste 'granet' 0.71
+PerXI00289,Gregor XVI,,Pave 1831.,II:93;II:106;II:111;II:120;II:121;II:126;II:129;II:231;III:88;III:89;III:91;III:108;III:123,OCR-dublet - kan fjernes,PerXI03910,'gregorxiv' lighed 0.89
+PerXI00290,Griffin,Alice McClure,"Amerikansk Forfatterinde, g.m. G.W.G.",IX:191;IX:192;IX:225;IX:226,DUBLET - kan fjernes,PerXI03919,beskrivelseslighed 0.82
+PerXI00291,Griffin,G. W.,"Amerikansk Konsul i København, Forfatter (bl.a. af »My Danish Days« 1875).",IX:191;IX:192;IX:193;IX:194;IX:196;IX:203;IX:225;IX:317;IX:318;X:177,"delvis overlap - BEHOLD, flet manuelt",PerXI03919 PerXI03920,
+PerXI00292,Grimm,Hermann,"Søn af Wilhelm G., tysk digter, kunst- og litteraturhistoriker, professor i Berlin i nyere kunsthistorie.",VII:31,"samme efternavn, anden person - BEHOLD",PerXI03927,beskrivelseslighed 0.17
+PerXI00293,Gruner,A. W.,Dansk Konsul i Bremen.,II:310,"samme efternavn, anden person - BEHOLD",PerXI03960,beskrivelseslighed 0.27
+PerXI00294,Grøn,M. G.,"Søn af L.J.G., senere Grosserer og Fabrikejer.",IX:61,"samme efternavn, anden person - BEHOLD",PerXI03977,beskrivelseslighed 0.41
+PerXI00295,Guillaumo,"Louise, f. de Basseux",Husbestyrerinde hos Frederik Sigfried Vogt.,I:314;I:315;I:316;II:141;III:106,"samme efternavn, anden person - BEHOLD",PerXI03990,beskrivelseslighed 0.44
+PerXI00296,Guirao,Angel,"Professor, Murcia 1862.",V:231;V:232,UNIK - findes intet andet sted,,nærmeste 'guido' 0.73
+PerXI00297,Haffner,,General (enten Generalmajor Wenzel H. (1774–1844) eller Generalløjtnant Wolfgang H. (1770–1829)).,VI:120,DUBLET - kan fjernes,PerXI04068,beskrivelseslighed 0.65
+PerXI00298,Hage,Maria Sophia,Trollhättan 1805.,III:380,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04075 PerXI04076 PerXI04077,
+PerXI00299,Hage,"Vilhelmine, f. Faber",g. 1840 m. Alfred H.,VI:46,"samme efternavn, anden person - BEHOLD",PerXI04075,beskrivelseslighed 0.19
+PerXI00300,Hahn,Christian Heinrich Carl,Divisionskirurg.,I:506,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04095 PerXI04096,
+PerXI00301,Hamann,"Caroline, f. Lindberg",g.m. P. H. H.,VIII:103,"ligner navn, men ingen fælles sider - BEHOLD",,'hartmann' lighed 0.86
+PerXI00302,Hamann,Peter Heinrich Chr.,"Dyrlæge, Kursmed.",VIII:103,"ligner navn, men ingen fælles sider - BEHOLD",,'hartmann' lighed 0.86
+PerXI00303,Hamann,Petra Henriette Christine (f. ca. 1842),Datter af P.H.C.H.,VIII:103,"ligner navn, men ingen fælles sider - BEHOLD",,'hartmann' lighed 0.86
+PerXI00304,Hamilton,"Maria Gharlotta, Grevinde, f. von Hofsten",g. 1816 m. Hugo H.,III:367;III:368;III:369;III:371,"samme efternavn, anden person - BEHOLD",PerXI04125,beskrivelseslighed 0.42
+PerXI00305,Hamilton,Mrs.,Loch Lomond 21.8.1847.,III:257;III:258,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04120 PerXI04121 PerXI04122,
+PerXI00306,Hamilton,Mrs.,Marseille 29.11.1869.,VIII:301;VIII:302,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04120 PerXI04121 PerXI04122,
+PerXI00307,Hanck,Christiane (Jane),Datter af J. H. T. H.,VI:338;IX:124;IX:128;IX:158;IX:159;IX:161,"delvis overlap - BEHOLD, flet manuelt",PerXI04145 PerXI04146 PerXI04147,
+PerXI00308,Hanck,Henriette (Jette),"Datter af J. H. T. H., Forfatterinde.",I:122;I:349;I:434,DUBLET - kan fjernes,PerXI04147,beskrivelseslighed 1.00
+PerXI00309,Hansen,Anders (kaldet Traes),"Skomager, H.C. Andersens Farfar.",VIII:53,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04161 PerXI04162 PerXI04163,
+PerXI00310,Hansen,"Doris Erhard, f. Pfeil","Operasangerinde ved Det kgl. Teater 1867–1885, g. 1871 m. Erhard H.",X:249,DUBLET - kan fjernes,PerXI04192,beskrivelseslighed 0.98
+PerXI00311,Hansen,Frøken,"Logerende hos Thora Hallager 1875, samler anbefalinger for Frk. Hallager til opnåelse af en Lotterikollektion.",X:409;X:410;X:411,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04161 PerXI04162 PerXI04163,
+PerXI00312,Hansen,G. A. V.,"Søn af G. B. H., Hofstolemager, Holmens Kanal 2.",VIII:180,"samme efternavn, anden person - BEHOLD",PerXI04177,beskrivelseslighed 0.44
+PerXI00313,Hansen,Gunild Margrete,g.m. Jørgen H.,I:79,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04161 PerXI04162 PerXI04163,
+PerXI00314,Hansen,Jules (»Spidsmusen«),Journalist og Diplomat.,VII:343;VII:344;VIII:67,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04161 PerXI04162 PerXI04163,
+PerXI00315,Hansen,Jørgen,"Handskemager, Oldermand for Lauget 1829–1837.",I:79,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04161 PerXI04162 PerXI04163,
+PerXI00316,Hansen,Vilhelmine Jacobine,Datter af Arkitekten C.F.H. (1756–1845).,VI:99,"samme efternavn, anden person - BEHOLD",PerXI04238,beskrivelseslighed 0.00
+PerXI00317,Hansen-Sønderkøge,,"F riskolelærer i Frederiksværk, Forfatter.",IX:318,UNIK - findes intet andet sted,,nærmeste 'ohlenundadlerkron' 0.48
+PerXI00318,Hansteen,Frk.,"redder et Barn fra at drukne September 1872 (muligvis = Asta Hansteen (1824–1908), norsk Malerinde og Kvindesagskvinde).",IX:330;IX:333,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04242,
+PerXI00319,Haphys,(Hephys),Pasha i Rustschuk.,II:215,UNIK - findes intet andet sted,,nærmeste 'chapay' 0.67
+PerXI00320,Harboe,"Marie, f. Mohns",g. 1862 m. H.C.W.H.,VI:111,"samme efternavn, anden person - BEHOLD",PerXI04251,beskrivelseslighed 0.12
+PerXI00321,Harboe,"Wilhelmine Margrethe, f. Schickerling",g.m. H.F.M.H.,IX:98,"samme efternavn, anden person - BEHOLD",PerXI04250,beskrivelseslighed 0.53
+PerXI00322,Hardwick,John,"Engelsk fhv. Retspræsident, Svoger til Fru Lina Frølich.",VII:79;VII:276,"samme efternavn, anden person - BEHOLD",PerXI04258,beskrivelseslighed 0.53
+PerXI00323,Harkort,Frue,Leipzig Februar 1846.,III:61;III:62,UNIK - findes intet andet sted,,nærmeste 'harriet' 0.71
+PerXI00324,Hartmann,Frederik (Fritz),"Søn af J.P.E.H., Student 1861, cand. jur. 1968, Overretssagfører 1873.",VI:10;VI:23;VII:204;VII:254;VIII:146;VIII:162;VIII:428;X:234;X:284;X:342;X:425;X:446,DUBLET - kan fjernes,PerXI04287,beskrivelseslighed 1.00
+PerXI00325,Harum,Ben Mohabit el,"Magiker, Beregnings- og Hukommelseskunstner, Casino 25.2.1867.",VII:251;VII:252,"ligner navn, men ingen fælles sider - BEHOLD",,'harms' lighed 0.80
+PerXI00326,Harun al Raschid,"Abu Dj afar, Kalif i Bagdad",Kalif 786.,V:295,UNIK - findes intet andet sted,,nærmeste 'bernerschilden' 0.57
+PerXI00327,Haucke,"Grevinde, f. von Rhode",Dessau 1844.,II:420,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04325,
+PerXI00328,Hauff,,,IV:175,UNIK - findes intet andet sted,,nærmeste 'haffner' 0.67
+PerXI00329,Haulleville,"Melusine Charlotte Julie Wilhelmine, Baronesse, f. von Piessen",g.m. Prosper H.,VII:67,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04327,
+PerXI00330,Haulleville,"Prosper, Baron",Brüssel.,VII:68;VIII:10,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04327,
+PerXI00331,Haurowitz. Lion V.,,Hof-Handskemager.,X:396,UNIK - findes intet andet sted,,nærmeste 'carlowitzmaxen' 0.57
+PerXI00332,Hauser,Miska (Michael),ungarsk Violinist.,VII:251,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04329,
+PerXI00333,Healey,Agnes Isabella,Danserinde ved Det kgl. Teater 1864–1865.,VI:129,"ligner navn, men ingen fælles sider - BEHOLD",,'halevy' lighed 0.83
+PerXI00334,Healey,Christine Mary,"Søster til Agnes H., Danserinde ved Det kgl. Teater 1864–1865.",VI:129;VI:185,"ligner navn, men ingen fælles sider - BEHOLD",,'halevy' lighed 0.83
+PerXI00335,Hedin,Sven (Svante),Svensk Skuespiller.,V:289,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04365,
+PerXI00336,Hegermann-Lindencrone,Gai,"Søn af J.H.H.-L., Oberstløjtnant, Chef for 2. Dragonregiment 1851–1858, senere Generalløjtnant.",IV:205,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04372 PerXI04373 PerXI04374,
+PerXI00337,Hegermann-Lindencrone,Johan Frederik (Fritz),"Søn af Cai H.-L., Premierløjtnant ved 5. Dragonregiment, senere Generalmajor og Kammerherre.",VIII:226,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04372 PerXI04373 PerXI04374,
+PerXI00338,Heilmann,"Anna Henriette, f. Bøcher",g. 1830 m. H.E.H.,VI:72,"samme efternavn, anden person - BEHOLD",PerXI04390,beskrivelseslighed 0.11
+PerXI00339,Heinitz,,"(muligvis Løjtnant, Kammerherre Paul Adolf Benno v. H. (1834–1899)).",V:111,"ligner navn, men ingen fælles sider - BEHOLD",,'leibnitz' lighed 0.80
+PerXI00340,Heins,Frøken,fra Fyn (måske: Hein).,VI:223,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04408,
+PerXI00341,Heinzel,Max,"Redaktør, Bromberg i Posen.",VIII:234,"ligner navn, men ingen fælles sider - BEHOLD",,'heine' lighed 0.83
+PerXI00342,Hennecke,Johann Heinrich,"Købmand i Goslar, Senator.",I:77;I:75,"delvis overlap - BEHOLD, flet manuelt",PerXI04452 PerXI04453 PerXI04454,
+PerXI00343,Hennecke,Johann Heinrich Erdwin,"Søn af J.H.H., Købmand i Goslar.",I:71;I:72;I:73;I:74,DUBLET - kan fjernes,PerXI04454,beskrivelseslighed 0.62
+PerXI00344,Henrik Fuglefænger,,"Tysk Konge, Konge 919.",I:73,DUBLET - kan fjernes,PerXI04467,beskrivelseslighed 0.64
+PerXI00345,Henrik III,,"Tysk-romersk Kejser, Kejser 1046.",I:73,"samme efternavn, anden person - BEHOLD",PerXI04468,beskrivelseslighed 0.54
+PerXI00346,Henrik IV,,"Tysk-romersk Kejser, Søn af Henrik III, Kejser 1084–1105.",II:370,DUBLET - kan fjernes,PerXI04469,beskrivelseslighed 0.77
+PerXI00347,Henriques’ Broder og Broderens Kone,,"(hvem H.C. Andersen mener, kan ikke afgøres), Paris 1868, Rolighed 1871 og 1872.",VIII:67;IX:152;IX:330,UNIK - findes intet andet sted,,nærmeste 'oppenheimerogfruefraleipzig' 0.39
+PerXI00348,Henselt,"Rosalie, f. Manger",g. 1837 m. Adolf H.,IV:160;IV:161;IV:162;IV:163;IV:228;V:107,"delvis overlap - BEHOLD, flet manuelt",PerXI04493,
+PerXI00349,Hermansen,G.,"cand. theol., 1839–1841 Studierejse til Tyskland, Italien, Grækenland og Orienten, 1841 Docent, 1845 Professor ved Køben",II:85;II:86;II:89,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04507,
+PerXI00350,Herskind,Carl Ludvig,Godsforvalter på Basnæs.,VIII:226,UNIK - findes intet andet sted,,nærmeste 'heering' 0.67
+PerXI00351,Herskind,Marie,g.m. C.L.H.,VIII:226,UNIK - findes intet andet sted,,nærmeste 'heering' 0.67
+PerXI00352,Herzog og Frue,,"fra Württemberg, tyske Turister 1852.",IV:109;IV:110;IV:112,UNIK - findes intet andet sted,,nærmeste 'hansenogfrue' 0.67
+PerXI00353,Hessen-Kassel,"Friedrich II, Landgreve af –",Landgreve 1760.,I:129;I:130,DUBLET - kan fjernes,PerXI04550,beskrivelseslighed 1.00
+PerXI00354,Heycke,Frøken,"Præstedatter, Maxen 15.7.1856.",IV:223;IV:224,"delvis overlap - BEHOLD, flet manuelt",PerXI04563,
+PerXI00355,Hijmans,Jacobus,"Arnhem, Stifter af Firmaet »Jacobus Hymans« i Samarang.",VII:61,"samme efternavn, anden person - BEHOLD",PerXI04581,beskrivelseslighed 0.40
+PerXI00356,Hjelm,Octavia,g. 1856 m. Wladimir Moltke-Hvitfeldt.,IV:233,"ligner navn, men ingen fælles sider - BEHOLD",,'helms' lighed 0.80
+PerXI00357,Hjelm,Sophie,Søster til Octavia H.,IV:233,"ligner navn, men ingen fælles sider - BEHOLD",,'helms' lighed 0.80
+PerXI00358,Hoffmann von Hoffmannsegg,"Johann Genturius, Greve",Tysk Entomolog og Botaniker.,I:61,UNIK - findes intet andet sted,,nærmeste 'vogelvonfalckenstein' 0.42
+PerXI00359,Hofman-Bang,"Charlotte, f. Müller","Datter af Ludvig Müller, g. 1871 m. Niels Erik H.-B.",X:385,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04634 PerXI04635 PerXI04636,
+PerXI00360,Hohwii,Andreas,sønderjydsk Kronometermager i Amsterdam.,VII:34;VII:35;VII:44;VIII:61,UNIK - findes intet andet sted,,nærmeste 'hohwu' 0.73
+PerXI00361,Hohwii,Frk.,Datter af A.H.,VII:44,UNIK - findes intet andet sted,,nærmeste 'hohwu' 0.73
+PerXI00362,Holbech,J. A. G.,"Skoledirektør i København, tit. Professor.",X:403,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04647 PerXI04648,
+PerXI00363,Hollenius,Laurence J.,Dansk-amerikansk Lystspilforfatter (1869).,VIII:190,"samme efternavn, anden person - BEHOLD",PerXI04675,beskrivelseslighed 0.00
+PerXI00364,Holst,Emil,"fhv. Møller, Komedieskriver (1.4.1862).",V:158;V:159,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04707 PerXI04708 PerXI04709,
+PerXI00365,Holstein,,Familie fra Holbæk-Egnen (1869).,VIII:197,"samme efternavn, anden person - BEHOLD",PerXI04719,beskrivelseslighed 0.00
+PerXI00366,Holstein (-Ledreborg),"Henriette, Grevinde, f. Løvenørn","Datter af Frederik de Løvenøm, g. 1867 m. Lensgreve Ludvig (Louis) H.-L.",VIII:110;VIII:111,UNIK - findes intet andet sted,,nærmeste 'holsteinholsteinborg' 0.76
+PerXI00367,Holsten-C(h)arisius,"Adam Christopher, Baron","Søn af Admiral Hans Holsten, 1849 Besidder af Baroniet Holstenshuus, Kammerherre, 1866 Gehejmekonferensraad.",II:276;II:378;II:387;II:388;V:350;V:352;V:353;V:356;V:358;V:359;V:360;VII:383;IX:12;IX:194;IX:200,UNIK - findes intet andet sted,,nærmeste 'moltkenutschau' 0.60
+PerXI00368,Holsten-Lehn-Gharisius,"Frederik (Fritz), Baron","Broder til A.G. Holsten-Charisius, Besidder af det Charisiske Fideikommis, Gehejmekonferensraad, Kammerherre.",III:406;IV:18;VII:396;IX:12;IX:23;IX:24,OCR-dublet - kan fjernes,PerXI04752,'holstenlehncharisius' lighed 0.95
+PerXI00369,Holten,,Brødrene (1861).,V:4,"samme efternavn, anden person - BEHOLD",PerXI04755,beskrivelseslighed 0.00
+PerXI00370,Honthorst,Gerhard (Gerrit) (Gherardo della Notte),"Hollandsk Maler, virkede i Italien 1610–1621.",I:249;I:250;I:276;II:103,UNIK - findes intet andet sted,,nærmeste 'scharnhorst' 0.70
+PerXI00371,Hoorn (Hornes),Filip van,"Greve 1518–1568, Guvernør i Geldern, henrettet 1568.",VII:67;VIII:335,UNIK - findes intet andet sted,,nærmeste 'scharnhorst' 0.64
+PerXI00372,Hope,"James (fra 1853: Hope-Scott),",Engelsk Sagfører.,III:238,"ligner navn, men ingen fælles sider - BEHOLD",,'hoppe' lighed 0.89
+PerXI00373,Hoppe,,"Verdensudstillingen i Paris 1867 (måske Johan Christopher H. (1841–1933), søn af Torkild H., cand. jur., senere Amtmand ",VII:267;VII:274,DUBLET - kan fjernes,PerXI04776,beskrivelseslighed 0.65
+PerXI00374,Horn,Franz (1781 (83 ?)-1837),Tysk Digter og Litteraturhistoriker.,I:106;I:107,"delvis overlap - BEHOLD, flet manuelt",PerXI04791 PerXI04792 PerXI04793,
+PerXI00375,Horn,Grevinde,"Datter af Claes H., Lærerinde på Espe (Grev Horn havde fire ugifte Døtre: Anna, Fredrika, Brita Maria og Julie; hvem af ",IX:71,"samme efternavn, anden person - BEHOLD",PerXI04793,beskrivelseslighed 0.16
+PerXI00376,Horneman,G. F. E.,"Komponist, tit. Professor 1888.",VI:266;VI:268;VI:269;IX:76;IX:240;IX:241,"ligner navn, men ingen fælles sider - BEHOLD",,'hornemann' lighed 0.94
+PerXI00377,Horrocks,John,"fhv. britisk Kaptajn, Weimar 1846.",III:53,UNIK - findes intet andet sted,,nærmeste 'homeros' 0.67
+PerXI00378,Houghton,Henry O.,"Amerikansk Forlagsboghandler (Hurd & Houghton), H.C. Andersens Forlægger.",VIII:369;VIII:370,UNIK - findes intet andet sted,,nærmeste 'hutton' 0.71
+PerXI00379,Houriet,Mile,Datter af Jules H.,I:173,DUBLET - kan fjernes,PerXI04826,beskrivelseslighed 0.64
+PerXI00380,Hübner & Matz,,"Kunsthandlere, Königsberg.",IX:36,UNIK - findes intet andet sted,,nærmeste 'humbert' 0.71
+PerXI00381,Hübsch von Grossthai,"Alphonse, Baron","Søn af Kasimir H.v.G., 1846–1848 og 1854–1856 dansk Legationssekretær i Konstantinopel.",II:199,OCR-dublet - kan fjernes,PerXI04891 PerXI04892,'hubschvongrossthal' lighed 0.94
+PerXI00382,Hundt,"Garlotta, Grevinde, f. Marchesa di Florenzi","Enke efter bayrisk Kämmerer und Oberaufschlagsbeamter von Niederbayern, Grev Ferdinand H.",VIII:305,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04863,
+PerXI00383,Hunt,John,Broder til Leigh H.,III:231,"samme efternavn, anden person - BEHOLD",PerXI04866,beskrivelseslighed 0.20
+PerXI00384,Hvid,,"(Wied?). GI. Fru Hvid, Roskilde 7.8.1863.",V:410,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04880,
+PerXI00385,Høegh-Guldberg,Christierne (Stierna),Datter af Christian H.-G.,I:31,"samme efternavn, anden person - BEHOLD",PerXI04910,beskrivelseslighed 0.16
+PerXI00386,Høegh-Guldberg,Vilhelmine (Mine),"Datter af Christian H.-G., g. 1840 m. J. A. Brasen.",II:1,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04909 PerXI04910 PerXI04911,
+PerXI00387,Høhling,"Thora, f. Baronesse Reedtz-Thott","Datter af Otto Reedtz-Thott, g. 1851 m. Theodor H.",VIII:260,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04919,
+PerXI00388,Iacobæus,Anton Holger,"Student 1828, cand. jur. 1834, Forpagter af forskellige Gaarde 1842–1874, Ejer af Appelbjerggaard, Hyllested S. 1874.",I:119,UNIK - findes intet andet sted,,nærmeste 'choræus' 0.67
+PerXI00389,Ingemann,Bernhard Severin,"Digter, Søn af Birgitte I., 1822 Lektor ved Sorø Akademi, kst. Direktor 1842–1849, Etatsraad 1845, Konferensraad 1857.",I:2;I:45;I:46;I:118;I:186;I:469;I:470;VII:28;VII:202;VII:234;VIII:10;VIII:81;VIII:222;VIII:223;VIII:252;VIII:380;X:5;X:171;X:269;X:340;X:381;X:428,"delvis overlap - BEHOLD, flet manuelt",PerXI04945 PerXI04946 PerXI04947,
+PerXI00390,Ingerslev,,Præst (1863).,V:404,"samme efternavn, anden person - BEHOLD",PerXI04948,beskrivelseslighed 0.00
+PerXI00391,Insinger,J. H.,"Direktør for Nederlandske Bank, Amsterdam.",VII:47;VII:54;X:133,DUBLET - kan fjernes,PerXI04955,beskrivelseslighed 1.00
+PerXI00391B,Ioannou,Filippos,"Professor i Æstetik ved Universitetet i Athen, Oversætter og Digter.",II:171;II:175,DUBLET - kan fjernes,PerXI04955B,beskrivelseslighed 1.00
+PerXI00393,Iwanowsky,Peter von,"polsk Adelsmand, Fader til Fyrstinde Caroline Sayn-Wittgenstein.",IV:80,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04978,
+PerXI00394,Jablonka,Josef,"Donat i den souveræne Malteser-Orden, Storpriorats-Sekretær og Inspektions-Sekretær (til 1854) i Böhmen.",IV:160,UNIK - findes intet andet sted,,nærmeste 'absalon' 0.67
+PerXI00395,Jacobi,Constance,g. 1861 m. Bogumil Dawison.,IV:131;IV:193;IV:455,"samme efternavn, ingen fælles sider - BEHOLD",PerXI04982,
+PerXI00396,Jacobi,Emma,"Datter af Prokurator J.D.J., Helsingør.",VIII:261,"samme efternavn, anden person - BEHOLD",PerXI04982,beskrivelseslighed 0.23
+PerXI00397,Jacobsen,J. G.,"Brygger, GI. Garlsberg, Kaptajn, Garlsbergfondets Stifter.",V:16;VII:240;VII:242;VII:247;VII:249;VII:369;IX:179;IX:305;X:217;X:343;X:388;X:435,DUBLET - kan fjernes,PerXI04994,beskrivelseslighed 0.94
+PerXI00398,Jaell,Alfred,Østrigsk Klavervirtuos og Komponist.,VIII:133;VIII:298,UNIK - findes intet andet sted,,nærmeste 'aall' 0.67
+PerXI00399,Jameson (kaldes af H.C. Andersen ogsaa Jackson),Andrew,skotsk Rejsende April 1834.,I:407;I:408;I:409;I:411;I:412;I:413,UNIK - findes intet andet sted,,nærmeste 'slesvigholstensonderborgglucksborg' 0.42
+PerXI00400,Janauschek,Franziska (Fanny),Tysk Skuespillerinde.,IV:301,UNIK - findes intet andet sted,,nærmeste 'wanscher' 0.67
+PerXI00401,Jansen,Ida (Marie),g. 1873 m. Ernst Løffler.,IX:331,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05005 PerXI05006 PerXI05007,
+PerXI00402,Jaque,,"(Navnet måske misforstået), »den unge Sangerinde som vor Dronning har taget sig af« (23.11.1845).",III:12,UNIK - findes intet andet sted,,nærmeste 'juel' 0.67
+PerXI00403,Jean Paul,(Pseud. f. Johann Paul Friedrich Richter),Tysk Digter.,II:54;II:225;III:54;III:55;III:67;IV:82,UNIK - findes intet andet sted,,nærmeste 'arnal' 0.62
+PerXI00404,Jeanne d’Arc,,Jomfruen fra Orléans.,II:363;II:373;III:7;III:235;V:348;V:349,UNIK - findes intet andet sted,,nærmeste 'jeanneret' 0.74
+PerXI00405,Jensen,Thora,Skuespillerinde ved Casino 1855–1862.,V:413;VI:128,"delvis overlap - BEHOLD, flet manuelt",PerXI05023 PerXI05024 PerXI05025,
+PerXI00406,Jenssen-Tusch,Wilhelm Theodor Amalrich,"Søn af Georg Friedrich J.(-T.), Sekondløjtnant ved 2. Dragonregiment i Itzehoe, 1852 udelukket fra Amnestien, død som fh",II:303;II:304;II:305;II:379,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05047 PerXI05048,
+PerXI00407,Jerichau,Nanny (Agnete),"Datter af J.A.J., Forfatterinde, g. 1837 m. Albert Frederik Læssøe.",VIII:199;VIII:246;VIII:396,"delvis overlap - BEHOLD, flet manuelt",PerXI05051 PerXI05052 PerXI05053,
+PerXI00408,Jerndorff,Frk.,Søster til J.U.J. (enten Pouline Cathrine (1811–1887) eller Petrine Christiane (1817–1894).,III:17,"samme efternavn, anden person - BEHOLD",PerXI05057,beskrivelseslighed 0.57
+PerXI00409,Jeunesse,Auguste,Fransk Forfatter.,II:323,UNIK - findes intet andet sted,,nærmeste 'jensen' 0.71
+PerXI00410,Joanny (Jean-Bernard Brisebarre,kaldet -),fransk Skuespiller.,II:351,UNIK - findes intet andet sted,,nærmeste 'saynwittgensteinberleburg' 0.42
+PerXI00411,Johan,(den lille),Randers 26.8.1859.,IV:359,"ligner navn, men ingen fælles sider - BEHOLD",,'johanne' lighed 0.83
+PerXI00412,Johann,Karantæne-Guardian,Orsova 1841.,II:219;II:220;II:222,"ligner navn, men ingen fælles sider - BEHOLD",,'johanne' lighed 0.92
+PerXI00413,Jonquiéres,Frederik de Dompierre de,"Søn af G. C. de Dompierre de J., Student 1872, cand. jur. 1878, senere Stiftamtmand over Fyns Stift og Overpræsident i K",X:285;X:286;X:287;X:288;X:296;X:379;X:388;X:428,DUBLET - kan fjernes,PerXI05101,beskrivelseslighed 0.62
+PerXI00414,Josika,"Mikols, Baron",ungarsk Forfatter af historiske Romaner.,II:241,DUBLET - kan fjernes,PerXI05109,beskrivelseslighed 1.00
+PerXI00415,Josva,,"Nuns Søn, Israels Fører efter Moses’ Død.",II:54,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05111 PerXI05111B,
+PerXI00416,Juan d’Austria,,"Søn af Kejser Karl V og Barbara Blomberg fra Regensburg, spansk Flaadefører, 1576 Statholder i Nederlandene.",IV:382,UNIK - findes intet andet sted,,nærmeste 'capodistria' 0.61
+PerXI00417,Juel,"Frederikke, f. Komtesse Knuth",g. 1797 m. Knud F. J.,II:286,"samme efternavn, anden person - BEHOLD",PerXI05119,beskrivelseslighed 0.15
+PerXI00418,Julia,,"Datter af Kejser Augustus, g. 1° Marcellus, 2° Feltherren Agrippa, 3° den senere Kejser Tiberius.",IV:97,UNIK - findes intet andet sted,,nærmeste 'juliadev' 0.77
+PerXI00419,Junck,Karl,"Østrigsk Major, Krigshistoriker.",IX:269,"ligner navn, men ingen fælles sider - BEHOLD",,'funck' lighed 0.80
+PerXI00420,Junck,Wilhelm,"Søn af Karl J., østrigsk Violinist.",IX:201;IX:202;IX:205;IX:207;IX:209;IX:211;IX:268;IX:269,"ligner navn, men ingen fælles sider - BEHOLD",,'funck' lighed 0.80
+PerXI00421,Jung,,har Pension i Dresden for unge Piger (1856).,IV:225,"samme efternavn, anden person - BEHOLD",PerXI05126,beskrivelseslighed 0.00
+PerXI00422,Jurgensen,"Caroline Christiane, f. Borch",g.m. N.J.J.,V:336;VII:85;VII:175,"samme efternavn, anden person - BEHOLD",PerXI05130,beskrivelseslighed 0.10
+PerXI00423,Jørgensen,Jørgen,Tjener hos Chr. Thyberg.,III:74;III:75,"samme efternavn, anden person - BEHOLD",PerXI05186,beskrivelseslighed 0.31
+PerXI00424,Kali,"Nancy, f. Rørbye","Søster til F. G. Rørbye, g. 1835 m. P.J.K.",IV:353,"ligner navn, men ingen fælles sider - BEHOLD",,'ali' lighed 0.86
+PerXI00425,Kali,Peter Julius,"svensknorsk Vicekonsul i Frederikshavn, Kommerceraad.",IV:344;IV:353;IV:355;IV:356,"ligner navn, men ingen fælles sider - BEHOLD",,'ali' lighed 0.86
+PerXI00426,Käsemodel,G. H.,"Oberstløjtnant, Kommandør for 6. Reservebataillon, faldet ved Fredericia.",III:400,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05560,
+PerXI00427,Käthchen von Heilbronn,,,IV:184,UNIK - findes intet andet sted,,nærmeste 'trattnervonpetrocza' 0.46
+PerXI00428,Kaulbach,Josefa von (1851–19?),Datter af Wilhelm v.K. g. 1872 m. Karl Dürck.,IV:173;IV:394;VIII:292;VIII:294,"samme efternavn, anden person - BEHOLD",PerXI05234,beskrivelseslighed 0.17
+PerXI00429,Kayser,G. J. H.,"Student 1828, dr. med., Stiftsfysikus i Odense, 1848 Professor i Statistik og Statsøkonomi, Afsked 1865, 1852–1854 og 18",III:279;III:285;III:290;III:291;VI:340;VII:34,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05236 PerXI05237,
+PerXI00430,Kircher,Frøknerne,Basel September 1860.,IV:436;IV:437,"delvis overlap - BEHOLD, flet manuelt",PerXI05283,
+PerXI00431,Kirk,"Mette, f. Ghristensdatter",g.1816 m. Ole K.,IV:336,"samme efternavn, anden person - BEHOLD",PerXI05285,beskrivelseslighed 0.13
+PerXI00432,Kiær,Emilie,Datter af Fritz K.,VIII:232,"samme efternavn, anden person - BEHOLD",PerXI05297,beskrivelseslighed 0.46
+PerXI00433,Kiær,Frederik (Fritz),"Sekondløjtnant i Kavalleriet 1842, Premierløjtnant 1849, Ritmester 1859, kar. Oberst 1872, kar. Generalmajor 1883, Gesan",III:288;III:289;V:430;V:433;V:434;VII:312;VIII:34;IX:92;IX:140;IX:141;IX:152,"delvis overlap - BEHOLD, flet manuelt",PerXI05297 PerXI05298,
+PerXI00434,Kjærulf,,"(24.4.1862: »Middag hos Ørsteds med ... Hr. Kjærulf, der ikke behager mig«).",V:163,OCR-dublet - kan fjernes,PerXI05305,'kjærulff' lighed 0.93
+PerXI00435,Klein,"Caroline, f. Serre","Søster til F. A. Serre, g.m. Rat K., Berlin.",IV:163;IV:276;IV:277;IV:281;IV:283,"delvis overlap - BEHOLD, flet manuelt",PerXI05310 PerXI05311 PerXI05312,
+PerXI00436,Klein,Victor,Dreng fra Karlsborg (29.-30.7.1849).,III:366;III:367,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05310 PerXI05311 PerXI05312,
+PerXI00437,Klock (Klok),Frk.,"Hofdame, Weimar.",III:272,UNIK - findes intet andet sted,,nærmeste 'klocker' 0.62
+PerXI00438,Klock,Frue,Weimar 1846.,III:51,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05321,
+PerXI00439,Knör & Sohn,,"Bankierfirma, Luzern.",IV:404,UNIK - findes intet andet sted,,nærmeste 'krohn' 0.77
+PerXI00440,Knudsen,Frøken,Aalborg Juli-August 1859.,IV:343;IV:344;IV:358,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05337 PerXI05338 PerXI05339,
+PerXI00441,Knuth,"Anna Eleonore Frederikke Elisabeth, Grevinde, f. Komtesse Holck-Winterfeldt","Datter af Gustav Hoick-Winterfeldt, g. 1862 m. Julius K.",X:284,"samme efternavn, anden person - BEHOLD",PerXI05368,beskrivelseslighed 0.07
+PerXI00442,Koch,G. G.,"Professor i Strassburg, fransk Historiker.",II:364,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05376 PerXI05377 PerXI05378,
+PerXI00443,Koch,Hans Henrik (Henni),"Søn af J.H.K. (1787–1860), Kadet 1850, Sekondløjtnant i Søetaten 1856, Løjtnant 1858, Kaptajn 1873, senere Viceadmiral.",V:414;V:449;V:450;VI:59;VI:60;VI:154;VI:196;VI:197;VI:202;VI:231;VI:247;VIII:34;VIII:209;VIII:248;VIII:347;VIII:350;VIII:352;VIII:453;IX:18;IX:206;IX:212;IX:213;IX:214;IX:217;IX:230;IX:336,DUBLET - kan fjernes,PerXI05383,beskrivelseslighed 1.00
+PerXI00444,Koch,Jørgen Hansen (»Jøn«),"Søn af Peter K., senere Præsident i Sø- og Handelsretten.",V:7;V:414;VI:3;VI:66;VI:76;VI:139;VI:140;VI:325;VII:216;VII:238;VIII:9;VIII:10;VIII:157;VIII:161;VIII:323;VIII:333;VIII:425;VIII:453;IX:82;X:136;X:140;X:152;X:197,"delvis overlap - BEHOLD, flet manuelt",PerXI05376 PerXI05377 PerXI05378,
+PerXI00445,Kohan,A.,"russisk Rejsende, Odessa.",V:299;V:300;VI:275,"ligner navn, men ingen fælles sider - BEHOLD",,'krohn' lighed 0.80
+PerXI00446,Kohle,,"Holstener, bosat i örebro 1837.",II:33;II:34,"ligner navn, men ingen fælles sider - BEHOLD",,'kohl' lighed 0.89
+PerXI00447,Königsberger,Elias Colm,Handelsmand fra Fürth.,II:52;II:53,UNIK - findes intet andet sted,,nærmeste 'konigswarter' 0.67
+PerXI00448,Koopmann & Comp.,,Hamburg.,X:264,UNIK - findes intet andet sted,,nærmeste 'oppermann' 0.57
+PerXI00449,Koscielski o: Koscietoki,Hugo von,Frankfurt 1869.,VIII:253,UNIK - findes intet andet sted,,nærmeste 'cederfelddesimonsen' 0.40
+PerXI00450,Kottwitz,(Fritz?),"Baron, Giion 26.5.1873.",X:91;X:92,UNIK - findes intet andet sted,,nærmeste 'howitz' 0.71
+PerXI00451,Kragh,,(Kraghs Have 10.8.1869).,VIII:239,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05445 PerXI05446 PerXI05447,
+PerXI00452,Krog-Meyer,Frøken,"Søster til H.W.K.- M. (enten Louise Augusta (1811–1891) eller Marie Margrete (1814–1907)), Ulkebøl 17.9.1844.",II:440,DUBLET - kan fjernes,PerXI05488,beskrivelseslighed 0.67
+PerXI00453,Krogh,Frøknerne,Døtre af Georg Frederik von K.,II:43;II:303;II:304;II:305,"samme efternavn, anden person - BEHOLD",PerXI05497,beskrivelseslighed 0.27
+PerXI00454,Kruse,,"(fra Nyborg), dansk Skibsfører på Vej til Valparaiso, Hamburg 23.11.1845.",III:12,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05515 PerXI05516 PerXI05517,
+PerXI00455,Kuhlau,Georg Frederik,"Brodersøn af Fr. K., senere Pianist og kgl. Kammermusikus.",I:37,"samme efternavn, anden person - BEHOLD",PerXI05539,beskrivelseslighed 0.22
+PerXI00456,Kuliman,,"Broder til J.R.K., Sodertelge 25.5.1849.",III:302,OCR-dublet - kan fjernes,PerXI05541 PerXI05542,'kullman' lighed 0.86
+PerXI00457,Kunze,Frau,"»Bondekone som digter«, Maxen 1869.",VIII:268;VIII:269,"ligner navn, men ingen fælles sider - BEHOLD",,'kuntze' lighed 0.91
+PerXI00458,Kutzner,Maria (Mimmy),"Søsterdatter af Elisabeth Jerichau-Baumann, g. 1875 m. Harald Jerichau.",IX:142,"ligner navn, men ingen fælles sider - BEHOLD",,'kustner' lighed 0.86
+PerXI00459,Køppen,Adolph Ludvig,"Informator, rejste 1834 til Grækenland, Professor i Historie og Geografi ved Miltær-Gymnasiet i Piræus, senere ved Unive",I:424;I:425;I:431;I:446;II:152;II:153;II:154;II:156;II:160;II:173;II:174;II:175;II:177;II:178;II:179;II:180;II:184;II:187;V:416;VII:277,"delvis overlap - BEHOLD, flet manuelt",PerXI05569,
+PerXI00460,Køster,Nicolette,"Datter af Apoteker S. L. K., Randers, g. 1865 m. Apoteker J. P. Karmark Obel.",IV:360,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05572 PerXI05573 PerXI05574,
+PerXI00461,Lange,"Juliana Maria, f. Michaelsen",g. 1835 m. H.W.L.,VI:314,"samme efternavn, anden person - BEHOLD",PerXI05618,beskrivelseslighed 0.20
+PerXI00462,Larramendi,Donna,g.m. José L.,V:248;V:249;V:267,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05647,
+PerXI00463,Larramendi,José,"Spansk Oberstløj tntnt, Granada.",V:247;V:248;V:249;V:250;V:251;V:254;V:255;V:263;V:264;V:266;V:268,"delvis overlap - BEHOLD, flet manuelt",PerXI05647,
+PerXI00464,Lassen,Jfr.,"Søster til Fr.Chr.L., Sæby Præstegaard 1829.",III:388,"samme efternavn, anden person - BEHOLD",PerXI05674,beskrivelseslighed 0.23
+PerXI00465,Lavaggi(?),Carolina,"Italiensk Danserinde, Milano 10.6.1861.",V:75,UNIK - findes intet andet sted,,nærmeste 'caravaggio' 0.71
+PerXI00466,Le Beuf,Madame,g.m. Ferdinand L.B.,VII:91,UNIK - findes intet andet sted,,nærmeste 'liebe' 0.73
+PerXI00467,Lees,F. S. Miss,Engelsk Beundrerinde (Oktober 1868).,VIII:134;VIII:136,UNIK - findes intet andet sted,,nærmeste 'nees' 0.75
+PerXI00468,Lehmann,Heinrich (Henri),tysk-fransk Historie- og Portrætmaler.,III:99,"samme efternavn, anden person - BEHOLD",PerXI05723,beskrivelseslighed 0.28
+PerXI00469,Leijonhufvud,Birgitta (Brita),"Søster til Dronning Margareta Leijonhufvud af Sverrig, g. 1531 m. Gustaf Olofsson Stenbock.",III:355;III:360;III:361;III:362;III:363,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05730 PerXI05731 PerXI05732,
+PerXI00470,Leo I,(den Store),Pave 440.,I:282,"ligner navn, men ingen fælles sider - BEHOLD",,'leo' lighed 0.86
+PerXI00471,Leo IV,,Pave 847.,I:282,UNIK - findes intet andet sted,,nærmeste 'leo' 0.75
+PerXI00472,Leo XII,,Pave 1823.,I:238,UNIK - findes intet andet sted,,nærmeste 'alexis' 0.67
+PerXI00473,Léon,Emilie & Virgile,Bayonne 25.4.1866.,VII:91,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05758,
+PerXI00474,Leonhard,,Købmand i Ilsenstein (1831).,I:75,"samme efternavn, anden person - BEHOLD",PerXI05761,beskrivelseslighed 0.00
+PerXI00475,Levetzau,Friederike,"Broderdatter af J.G.L., Stiftsdame i Vallø.",X:287,"samme efternavn, anden person - BEHOLD",PerXI05788,beskrivelseslighed 0.50
+PerXI00476,Levin,,(Middagsselskab hos D. B. Adler 18.12.1870).,VIII:447,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05796,
+PerXI00477,Levy,,"(fra København), Rendsborg 6.6.1860.",IV:372,"samme efternavn, ingen fælles sider - BEHOLD",PerXI05803 PerXI05804 PerXI05805,
+PerXI00478,Lewini,Ida,"Datter af W.L., Skuespillerinde ved Casino.",IX:16;IX:17,"samme efternavn, anden person - BEHOLD",PerXI05819,beskrivelseslighed 0.40
+PerXI00479,Lewis,Mrs.,g.m. engelsk Konsul i Amsterdam J.G.C.L. (1868).,VIII:62,"samme efternavn, anden person - BEHOLD",PerXI05821,beskrivelseslighed 0.00
+PerXI00480,Lichtenstein,Gustav,preussisk Konsul i Marseille (1846).,III:140,"samme efternavn, anden person - BEHOLD",PerXI05832,beskrivelseslighed 0.00
+PerXI00481,Lindemann-F römmel,Karl,Tysk Maler.,V:46,DUBLET - kan fjernes,PerXI05881,beskrivelseslighed 1.00
+PerXI00482,Linharas,"Rodrigo Domingos de Sousa Gontinho Teixeira de Andrade Barbon, Greve",Byggede 1801–1808 Kanalen til Aveiro.,VII:143;VII:144,UNIK - findes intet andet sted,,nærmeste 'linar' 0.77
+PerXI00483,Lockhart,Charlotte Harriet Jane,"Datter af J. G. L., g. 1847 m. Advokat James Hope(-Scott).",III:224;III:225;III:238,"delvis overlap - BEHOLD, flet manuelt",PerXI05924,
+PerXI00484,Lorck,Jean Etienne (fra 1914: Stefan),"Søn af Carl Julius L., senere Professor i Filologi ved Kölns Universitet.",VIII:264,"samme efternavn, anden person - BEHOLD",PerXI05939,beskrivelseslighed 0.32
+PerXI00485,Lorenzi,Battista (kaldet Battista del Cavaliere),Italiensk Billedhugger.,I:207,"ligner navn, men ingen fælles sider - BEHOLD",,'lorentz' lighed 0.86
+PerXI00486,Lough,"Mrs., f. Paget",g.m. J.G.L.,III:236,"samme efternavn, anden person - BEHOLD",PerXI05963,beskrivelseslighed 0.17
+PerXI00487,Lücke,Caroline,"Magdeburg, Passager på Jernbanen mellem Leipzig og Dresden 3.7.1844.",II:406,"ligner navn, men ingen fælles sider - BEHOLD",,'luck' lighed 0.89
+PerXI00488,Lüders & Strange,,"Speditørfirma, Lübeck og Hamburg.",IX:34,UNIK - findes intet andet sted,,nærmeste 'manderstern' 0.58
+PerXI00489,Lumbye,Caroline,"Skuespillerinde, Datter af H. C. L., g. 1 ° m. Adolph Recke 1851, 2° 1870 m. Skuespiller Frederik Madsen.",IV:10,"samme efternavn, anden person - BEHOLD",PerXI05981,beskrivelseslighed 0.15
+PerXI00490,Lumbye,Georg,"Søn af H. C. L., Komponist og Dirigent.",VII:269;VII:275,DUBLET - kan fjernes,PerXI05981,beskrivelseslighed 0.83
+PerXI00491,Lüsberg,H.,"Købmand og Brændevinsbrænder i Aarhus, Raadmand.",V:403,UNIK - findes intet andet sted,,nærmeste 'isberg' 0.77
+PerXI00492,Lutz,Elisabeth,13 år 1867.,VII:296,"ligner navn, men ingen fælles sider - BEHOLD",,'lutzen' lighed 0.80
+PerXI00493,Lützau,,"Baronesse, Schlesien (Maxen 5.8.1857).",IV:275,UNIK - findes intet andet sted,,nærmeste 'liitzau' 0.77
+PerXI00494,Lützau,Augusta,"Datter af F.G.L., g. 1881 m. Købmand i Slagelse E. Th. B. Ohmeyer.",IX:76;IX:77,UNIK - findes intet andet sted,,nærmeste 'liitzau' 0.77
+PerXI00495,Lützau,Frederik Georg,"kar. Oberst, Højstbefalende ved Korsør Søbatteri.",IX:76;IX:77,UNIK - findes intet andet sted,,nærmeste 'liitzau' 0.77
+PerXI00496,Lützau,Hugo,"Søn af F.G.L., senere Fabrikant.",IX:76;IX:77,UNIK - findes intet andet sted,,nærmeste 'liitzau' 0.77
+PerXI00497,Lützau,"Juliane, f. Borberg",g. 1853 m. F.G.L.,IX:76;IX:77,UNIK - findes intet andet sted,,nærmeste 'liitzau' 0.77
+PerXI00498,Lyngbye,Laurids (Lorents),Maler.,II:339,UNIK - findes intet andet sted,,nærmeste 'lundbye' 0.71
+PerXI00499,Læssøe,"Emy, f. Komtesse Krag-Juel-Vind-Frijs","Datter af Jens Chr. Carl Krag-Juel-Vind-Frijs, g. 1857 m. Thorald L.",V:403;V:404;V:419;V:420;X:301;X:302,"delvis overlap - BEHOLD, flet manuelt",PerXI06076 PerXI06077 PerXI06078,
+PerXI00500,Læssøe,Niels Frederik,Søn af Viggo L.,IX:298,"samme efternavn, anden person - BEHOLD",PerXI06084,beskrivelseslighed 0.22
+PerXI00501,Løitved,Emst Frederik,"Løjtnant i Søetaten, 1868 Premierløjtnant, 1881 Kaptajn.",VIII:3,UNIK - findes intet andet sted,,nærmeste 'listov' 0.62
+PerXI00502,Løvenskiold,"Eggert (Aga), Baron","Overførster, Hofjægermester.",I:495,"samme efternavn, anden person - BEHOLD",PerXI06103,beskrivelseslighed 0.33
+PerXI00503,Løvenskiold,Emst,"Kammerherre hos Dronning Desideria af Sverrig-Norge, senere Hofmarskal hos Kong Oscar I.",II:64;II:69,"delvis overlap - BEHOLD, flet manuelt",PerXI06099 PerXI06100 PerXI06101,
+PerXI00504,Løvenskiold,"Gharlotta Eugénie Louise Augusta, f. Friherreinde Lagerheim","Datter af Elias Lagerheim, g. 1852 m. Garl Ludvig L.",VIII:48,"samme efternavn, anden person - BEHOLD",PerXI06102,beskrivelseslighed 0.30
+PerXI00505,Løwe,Vilhelm,Handelsgartner.,IX:86;IX:87;IX:88,UNIK - findes intet andet sted,,nærmeste 'lowe' 0.75
+PerXI00506,Løwener,"Fanny, f. Eyckholt",g.m. Sophus L.,VIII:63;VIII:64;VIII:65,"samme efternavn, anden person - BEHOLD",PerXI06120,beskrivelseslighed 0.27
+PerXI00507,l’Escaille,Sidonie Constance Henriette de,Prinsesserne Dagmars og Thyras Guvernante.,VII:189;VIII:64;VIII:65,UNIK - findes intet andet sted,,nærmeste 'schaller' 0.71
+PerXI00508,l’Hardy,"Anastasie-Sophie-Rosalie, f. Jürgensen","Datter af Jules Jürgensen, g.m. Paul François l’H., Ægteskabet opløst 1873.",IV:406;IV:407;IV:408;IV:409;IV:410;V:201;V:202;VII:289;VII:291;VII:292;VII:293;VIII:73;X:96;X:97,UNIK - findes intet andet sted,,nærmeste 'leonhard' 0.71
+PerXI00509,l’Hardy,Anne,Datter af Paul François l’H.,IV:407;IV:408;IV:411;V:201;VII:289;VII:293;VIII:72;VIII:73;VIII:75,UNIK - findes intet andet sted,,nærmeste 'leonhard' 0.71
+PerXI00510,l’Hardy,Paul François,Jules Jürgensens Svigersøn.,V:25,UNIK - findes intet andet sted,,nærmeste 'leonhard' 0.71
+PerXI00511,Machado de Gastro,Joaquim,portugisisk Billedhugger.,VII:117,OCR-dublet - kan fjernes,PerXI06135,'machadodecastro' lighed 0.93
+PerXI00512,Madsen,A. S.,"Købmand i Faaborg, Ejer af den Voigtske Gaard.",VIII:261;VIII:262,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06145 PerXI06146 PerXI06147,
+PerXI00513,Madsen,Chr.,"Proprietær, Daurup, Medlem af Commiteen for Sjælland i Selskabet til Hesteavlens Fremme i de danske Provindser.",II:5,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06145 PerXI06146 PerXI06147,
+PerXI00514,Madsen,Jomfru,"(»En gal hysterisk Pige på Hospitalet skal elske mig, hedder Jomf Madsen«, Almanak 15.7.1840).",X:474;X:475,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06145 PerXI06146 PerXI06147,
+PerXI00515,Madsen,Nordmand,København 21.10.1868.,VIII:136;VIII:137,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06145 PerXI06146 PerXI06147,
+PerXI00516,Mallefille,Léon,"Broder til Félicien M., fransk Forfatter, København 1867.",VII:373;VII:374;VII:375;VII:376;VIII:53,"delvis overlap - BEHOLD, flet manuelt",PerXI06173,
+PerXI00517,Maltitz,Fru von,"Amerikanerinde, g.m. Franz v. M.",III:199,"samme efternavn, anden person - BEHOLD",PerXI06181,beskrivelseslighed 0.22
+PerXI00518,Månsdotter,Cecilia,Moder til Gustaf I Vasa af Sverrig.,I:151,UNIK - findes intet andet sted,,nærmeste 'andersdatter' 0.73
+PerXI00519,Manthey,G. F. Poul,"Amtsforvalter i Sønderborg Amt, Etatsraad.",II:440;II:447;II:448,"delvis overlap - BEHOLD, flet manuelt",PerXI06207 PerXI06208 PerXI06209,
+PerXI00520,Margoldt,Louise von,Datter af Henriette von M.,II:409,"samme efternavn, anden person - BEHOLD",PerXI06233,beskrivelseslighed 0.42
+PerXI00521,Marlow,Mathilde (Mathilde Homolatich),Tysk Operasangerinde.,IV:274,"ligner navn, men ingen fælles sider - BEHOLD",,'barlow' lighed 0.83
+PerXI00522,Marokko,"Sidi Muhammed, Sultan af –","Søn af Abd-ur-Rahman af M., Sultan 1859.",V:280,"samme efternavn, anden person - BEHOLD",PerXI06253,beskrivelseslighed 0.41
+PerXI00523,Martin y Rodriguez,José,"Spansk Figurmaler og Billedhugger, Professor ved Kunstskolen i Granada.",V:255;V:257,UNIK - findes intet andet sted,,nærmeste 'rodriguezdeguzman' 0.55
+PerXI00524,Martines,,"(Martini, Martinho, Martino, Martins), Nabo til Carlos O’Neill, Setübal 1866.",VII:124;VII:128;VII:131;VII:133;VII:134;VII:137;VII:155,"ligner navn, men ingen fælles sider - BEHOLD",,'martin' lighed 0.86
+PerXI00525,Martinez de la Rosa,Francisco,Spansk Statsmand og Digter.,II:354;V:311,UNIK - findes intet andet sted,,nærmeste 'calderondelabarca' 0.55
+PerXI00526,Masaniello,(Tommaso Aniello),Fører for Oprøret i Napoli 1647.,III:108;III:110,UNIK - findes intet andet sted,,nærmeste 'paesiello' 0.74
+PerXI00527,Mehmed,(Mohammed),Pasha i Rustschuk 1841.,II:215,UNIK - findes intet andet sted,,nærmeste 'muhammed' 0.71
+PerXI00528,Meisling,Bentine (Tine),"Datter af Simon M., g.1839 m. Kontrollør ved Øresunds Toldkammer Carl Eduard Theodor Schouw.",I:22;I:24;I:44;I:46;I:47;I:53;I:56;VIII:348,"delvis overlap - BEHOLD, flet manuelt",PerXI06344 PerXI06345 PerXI06346,
+PerXI00529,Melchior,Henriette (Tante Jette),Datter af Gerson Moses M.,VII:19;VII:311;VII:315;VII:316;VII:359,DUBLET - kan fjernes,PerXI06376,beskrivelseslighed 1.00
+PerXI00530,Merrel,Mrs.,København 29.4.1870.,VIII:362,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06416,
+PerXI00531,Mertens,Christiane,"Frøken, Hannover, Søster til Fru Marie (Mary) Krüger, Hotel d’Angleterre, København.",VI:311;VI:312;VIII:394;VIII:395;VIII:428,"ligner navn, men ingen fælles sider - BEHOLD",,'martens' lighed 0.86
+PerXI00532,Metella,Cæcilia,"g.m. Licinius Crassus, Officer hos Cæsar i Gallien.",I:219;I:284;II:102;II:134;V:55,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06421,
+PerXI00533,Mette,,Pige hos Frk. Hallager 1869.,VIII:189;VIII:220,"ligner navn, men ingen fælles sider - BEHOLD",,'jette' lighed 0.80
+PerXI00534,Metternich,Sybilla Wolff gen. von Friherreinde,Datter(?) af Clemens W.v.M.,IV:95,"samme efternavn, anden person - BEHOLD",PerXI06422,beskrivelseslighed 0.47
+PerXI00535,Milion de Verteville,Erneste,"Greve, fransk Legationssekretær i København 1872.",IX:209,OCR-dublet - kan fjernes,PerXI06500,'millondeverteville' lighed 0.94
+PerXI00536,Milnes,Richard Monckton (fra 1863: Lord Houghton),Engelsk Digter og Politiker.,III:263,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06501,
+PerXI00537,Miloš Obrenovic,,"Fyrste i Serbien 1817–1839, 1858–1860.",II:220;II:230,UNIK - findes intet andet sted,,nærmeste 'jeffremobrenowics' 0.58
+PerXI00538,Mindermann,Madam,Vaagekone (Rolighed 31.7–10.8.1873).,X:139;X:140;X:141;X:142,UNIK - findes intet andet sted,,nærmeste 'ingemann' 0.78
+PerXI00539,Moltke,"Julie, Komtesse","Datter af A.W.M., g. 1854 m. Herredsfoged i Eckernförde Herred, senere Amtmand over Svendborg Amt, Grev Ludvig Brockenhu",II:275,"samme efternavn, anden person - BEHOLD",PerXI06557,beskrivelseslighed 0.33
+PerXI00540,Monies,Adolph (Abraham),"Detailhandler i Kbhvn., Ungdomsven af Albert Bonnier.",II:23,"samme efternavn, anden person - BEHOLD",PerXI06611,beskrivelseslighed 0.35
+PerXI00541,Montgomery,Mrs.,Engelsk Beundrerinde 14.7.1847.,III:227;III:228,UNIK - findes intet andet sted,,nærmeste 'gommery' 0.71
+PerXI00542,Morel,Benedikt (Pater Gallus),"Benediktinermunk i Einsiedeln, Rektor ved Stiftsskolen, religiøs Lyriker.",V:100;V:101;V:191;V:192;X:111,"ligner navn, men ingen fælles sider - BEHOLD",,'moore' lighed 0.80
+PerXI00543,Mörner,"Garl, Greve",Landshøvding i Kronobergs Len.,III:311,"samme efternavn, anden person - BEHOLD",PerXI06805,beskrivelseslighed 0.21
+PerXI00544,Morsing,Johanne,Enke efter Chr.M.,I:58,"samme efternavn, anden person - BEHOLD",PerXI06635,beskrivelseslighed 0.20
+PerXI00545,Mosenthai,"Karoline, f. Weil",g.m. S.H.M.,IV:228,OCR-dublet - kan fjernes,PerXI06642 PerXI06643,'mosenthal' lighed 0.89
+PerXI00546,Moslim,,"(Navnet synes misforstået), Frue, Oldenburg 15.12.1845.",III:24,UNIK - findes intet andet sted,,nærmeste 'molin' 0.73
+PerXI00547,Mozart,Maria-Anna (Nannerl),"Pianistinde, Søster til W.A.M., g. 1784 m. Baron Barthold.",I:441,"samme efternavn, anden person - BEHOLD",PerXI06654,beskrivelseslighed 0.17
+PerXI00548,Müller,Brødrene,"Kvartetspillere, Kammervirtuoser i Meiningen (Carl Müller-Berghaus (1829–1907, Violino 1), Hugo Müller (1832–86, Violino",IV:377;IV:378;IV:379,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06658 PerXI06703 PerXI06704,
+PerXI00549,Müller,Frue,Meiningen 12.6.1860.,IV:377;IV:378,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06658 PerXI06703 PerXI06704,
+PerXI00550,Müller,"Otto, og hans Kæreste",Oldenburg 1846.,III:181,"samme efternavn, anden person - BEHOLD",PerXI06723,beskrivelseslighed 0.29
+PerXI00551,Munch,"Caroline (død 1907, 86½ år gl.)",Søster til Andreas M.,IV:449,"samme efternavn, anden person - BEHOLD",PerXI06662,beskrivelseslighed 0.29
+PerXI00552,Munch,Frøknerne,"Døtre af P.A.M., Rom 23.5.1861.",V:56,"samme efternavn, anden person - BEHOLD",PerXI06665,beskrivelseslighed 0.24
+PerXI00553,Münster,Clare Lovisa Petrine,"Datter af Helga M., Koncertsangerinde.",VII:278;VII:279;VIII:217;VIII:218,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06737,
+PerXI00554,Münster,"Helga Clare Marie Sophie, f. Fahnøe","g.m. Premierløjtnant Gutzon M., Ejer af Hegnsholt, Grønholt S.",VII:278;VII:279,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06737,
+PerXI00555,Maag,Sophie,g. 1869 m. Otto v. Düring.,VIII:221;VIII:222,UNIK - findes intet andet sted,,nærmeste 'aage' 0.75
+PerXI00556,Møller,"Eline, f. Biilow",g. 1836 m. Poul M.,III:423,"samme efternavn, anden person - BEHOLD",PerXI06786,beskrivelseslighed 0.12
+PerXI00557,Møller,Joachim Otto,"(i Folketællingen 1834: Müller), Regimentskirurg, Overkirurg ved Øresunds Hospital i Helsingør 1834–1853.",II:29,DUBLET - kan fjernes,PerXI06777,beskrivelseslighed 0.65
+PerXI00558,Mønster,G. H.,Hofvinhandler.,II:418;V:124;VI:11;VII:356;VIII:451;VIII:452;IX:39;IX:49;IX:51;IX:235,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06795,
+PerXI00559,Mønster,Gomme Garl,"Kateket i Vordingborg 1840, Sognepræst i Skørping og Frær 1849–1864.",II:296,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06795,
+PerXI00560,Nagel,Hans Garl Fog,Købmand i Skelskør.,VIII:379,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06807 PerXI06808,
+PerXI00561,Nathansen,M.,Redaktionssekretær ved Berlingske Tidende.,VII:318,"ligner navn, men ingen fælles sider - BEHOLD",,'nathanson' lighed 0.89
+PerXI00562,Naumann,Frue,Berlin (1871).,IX:175,"samme efternavn, anden person - BEHOLD",PerXI06819,beskrivelseslighed 0.00
+PerXI00563,Nederlandene,"Willem I, Konge af –",Konge 1815–1840.,II:399;III:196,"samme efternavn, anden person - BEHOLD",PerXI06828,beskrivelseslighed 0.17
+PerXI00564,Neergaard,Elisabeth (Betzy),"Datter af Godsejer Christopher N. til Julianeholm, Kusine til Marie N., Konventualinde i Roskilde adelige Jomfrukloster.",X:389,"samme efternavn, anden person - BEHOLD",PerXI06842,beskrivelseslighed 0.21
+PerXI00565,Neergaard,Frøken,København 13.4.1875 (NB! ikke fra Førslev).,X:453,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06832 PerXI06833 PerXI06834,
+PerXI00566,Neergaard,"Marie, f. Gastenschiold","Datter af L.V.Castenschiold, g. 1869 m. Johan N.",IX:238,"samme efternavn, anden person - BEHOLD",PerXI06842,beskrivelseslighed 0.47
+PerXI00567,Neruda,Wilhelmine (Wilma),"Czekisk Violinvirtuos, Søster til Franz N., g. 1° 1864–1869 m. Ludvig Norman, 2° 1888 m. Sir Charles Halle.",V:158;V:162;V:164;V:165;VIII:274;X:96;X:246;X:330,DUBLET - kan fjernes,PerXI06859,beskrivelseslighed 0.99
+PerXI00568,Neumann,Frue,"g.m. Kapelmester N., Nizza.",VIII:303;VIII:304;VIII:307;VIII:308;VIII:314;VIII:324,DUBLET - kan fjernes,PerXI06864,beskrivelseslighed 0.61
+PerXI00569,Nicolai,Martha,"Frue, Dresden, Slægtning af Chamisso (1864).",VI:264,"samme efternavn, anden person - BEHOLD",PerXI06874,beskrivelseslighed 0.00
+PerXI00570,Nielsen,F. P.,"Underkorporal, 9. Infanteri-Regiment, 2. Kompagni, Nr. 321 (Basnæs Juni 1864).",VI:74;VI:75;VI:76;VI:77;VI:78;VI:79,"samme efternavn, ingen fælles sider - BEHOLD",PerXI06883 PerXI06884 PerXI06885,
+PerXI00571,Nieuwenhuis,Coenraad Jacobus Nicolaas,"Dommer i Woerden, senere Medlem af Provinsialretten i Utrecht, dr.jur., Oversætter.",III:229;VII:28;VII:29;VII:34;VII:47;VIII:231;X:436;X:440,"delvis overlap - BEHOLD, flet manuelt",PerXI06916 PerXI06917 PerXI06918,
+PerXI00572,Nocedal,Ramon,Spansk Forfatter.,VIII:302,UNIK - findes intet andet sted,,nærmeste 'bredal' 0.62
+PerXI00573,Nolcken,"Carl Adam von, Friherre","Svensk Forfatter og Godsejer (Jordberga, Skåne).",VI:305,"samme efternavn, anden person - BEHOLD",PerXI06929,beskrivelseslighed 0.40
+PerXI00574,Norton,"Caroline E. S., f. Sheridan (senere Lady Sterling-Maxwell)","Engelsk Forfatterinde, g. 1 ° 1827 m. Advokat George Chapple N., 2° 1877 m. Sir William Stirling-Maxwell.",III:241,"ligner navn, men ingen fælles sider - BEHOLD",,'morton' lighed 0.83
+PerXI00575,Nyegaard,Frøken,Datter af Malthe Bruun N.,II:260,"samme efternavn, anden person - BEHOLD",PerXI06959,beskrivelseslighed 0.19
+PerXI00576,Næb,Frøken,"(Navnet forskrevet, NB ikke = Næboe).",IX:369,UNIK - findes intet andet sted,,nærmeste 'næboe' 0.75
+PerXI00577,Nør,"Frederik, Prins af Slesvig-Holsten-Sønderborg-Augustenborg","Søn af Frederik Christian af Augustenborg, Statholder og kommanderende General i Slesvig og Holsten 1842–1846, Besidder ",II:432;II:433;II:434;II:441;II:442;II:443;II:444;II:445;II:446;II:447;III:188;III:288;III:407;IV:176;IV:370;X:316,"delvis overlap - BEHOLD, flet manuelt",PerXI06981,
+PerXI00578,Oehlenschlæger,Charlotte (Lotte),"Datter af Adam O., g. 1832 m. Ludvig Phister.",I:33;I:36;I:37;I:88;I:89;I:90;I:92;I:118;I:493;II:51;VII:369,"delvis overlap - BEHOLD, flet manuelt",PerXI10031 PerXI10032 PerXI10033,
+PerXI00579,Oertzen,Friherreinde,g.m. Georg v. Oe.,III:269,"samme efternavn, anden person - BEHOLD",PerXI10058,beskrivelseslighed 0.12
+PerXI00580,Oesterreicher,Joseph Renner von,"Dansk Generalkonsul i Triest, senere Etatsraad.",III:79;III:80;III:81;III:82;IV:139,"delvis overlap - BEHOLD, flet manuelt",PerXI10066,
+PerXI00581,Ohlsen (Olsen?),Helene,Christiania 1871.,IX:115;IX:124;IX:130;IX:134;X:325,UNIK - findes intet andet sted,,nærmeste 'hohenzollern' 0.70
+PerXI00582,Olsen fra Fredericia,,(Haderslev 5.9.1866).,VII:181;VII:182,UNIK - findes intet andet sted,,nærmeste 'soldinseneresoldi' 0.51
+PerXI00583,Omar Pasha,,,IV:172,UNIK - findes intet andet sted,,nærmeste 'alipasha' 0.71
+PerXI00584,Oppenheimer og Frue,,"fra Leipzig, Dresden 20.8.1851.",IV:67,UNIK - findes intet andet sted,,nærmeste 'jørgensenogfrue' 0.56
+PerXI00585,Ortenbach,Alexander,Dansk Konsul i Barcelona.,V:215;V:216;V:222,UNIK - findes intet andet sted,,nærmeste 'arensbach' 0.78
+PerXI00586,Ostade,Adriaen van,Hollandsk Maler.,I:384;I:433,UNIK - findes intet andet sted,,nærmeste 'strande' 0.77
+PerXI00587,Ostfriesland,"Johan, Greve af – (omkr. 1560)",Broder til Edzard II af O.,III:359;III:360,DUBLET - kan fjernes,PerXI07074,beskrivelseslighed 0.67
+PerXI00588,Oude,"Mirza Mohummed Jowaad Allie Sekunder Husmut Bahadorr, Prins af –",Broder til Kongen af Oude (London 10.7.1857).,IV:264,UNIK - findes intet andet sted,,nærmeste 'bode' 0.75
+PerXI00589,Oxenstiema,"Axel Gustafsson, Greve","Svensk Statsmand, Rigskansler.",III:347,OCR-dublet - kan fjernes,PerXI07089,'oxenstierna' lighed 0.86
+PerXI00590,Oxholm,de yngre Frøkner,"1869, Døtre af Harald O. (Mary Ann (1842–1911), senere Stiftsdame i Vallø), Louise (1843–1913), g. 1871 m. Baron Emil Sc",VIII:259,"samme efternavn, anden person - BEHOLD",PerXI07090,beskrivelseslighed 0.29
+PerXI00591,O’Neill,"Adelaide, f. Custance (død efter 1905)",g.m. Carlos O’N. (1820–1874).,VIII:105;VIII:241;IX:156,"samme efternavn, anden person - BEHOLD",PerXI07029,beskrivelseslighed 0.00
+PerXI00592,O’Neill,Eduardo,"Setübal, Søn af José Maria O’N.",VII:133,"samme efternavn, anden person - BEHOLD",PerXI07029,beskrivelseslighed 0.00
+PerXI00593,O’Neill,Frue,Enke efter José Maria O’N.,VII:142;VII:143,"samme efternavn, anden person - BEHOLD",PerXI07038,beskrivelseslighed 0.31
+PerXI00594,O’Neill,Joaquim,"Søn af José Maria O’N., ansat på Broderen Carlos’ Kontor i Setübal.",VII:121;VII:130;VII:133;VII:134,"delvis overlap - BEHOLD, flet manuelt",PerXI07028 PerXI07029 PerXI07030,
+PerXI00595,Paganini,Niccold,Italiensk Violinvirtuos og Komponist.,I:176,"ligner navn, men ingen fælles sider - BEHOLD",,'pagani' lighed 0.86
+PerXI00596,Palmerston,"Henry John Temple, Viscount","Engelsk Statsmand, Udenrigsminister 1830–1841 og 1846–1851, Premierminister 1855–1858 og fra 1859.",III:208;III:209;III:218;III:223,"delvis overlap - BEHOLD, flet manuelt",PerXI07130,
+PerXI00597,Parish-Alvars,,Engelsk Harpevirtuos og Pianist.,III:63,UNIK - findes intet andet sted,,nærmeste 'aischylos' 0.57
+PerXI00598,Paul,(Paolo),"Karl hos H.C. Andersens Værtinde i Via purificazione, Rom, 1840–1841.",II:132,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07152,
+PerXI00599,Paul V,,Pave 1605.,I:304,"ligner navn, men ingen fælles sider - BEHOLD",,'paul' lighed 0.89
+PerXI00600,Paulus,,Apostel.,I:371;II:134;II:148;II:167;V:55,"ligner navn, men ingen fælles sider - BEHOLD",,'paul' lighed 0.80
+PerXI00601,Peacock,Gibson,Udgiver af »The Evening Bulletin« i Philadelphia.,X:318;X:319;X:384,UNIK - findes intet andet sted,,nærmeste 'plock' 0.67
+PerXI00602,Pechlin,"Elise von, Baronesse",Hofdame hos Prinsesse Juliane af Hessen-Philippsthal-Barchfeld.,III:187;III:210;III:249,DUBLET - kan fjernes,PerXI07166,beskrivelseslighed 0.72
+PerXI00603,Pedersen,Ole (jun.),"Søn af Ole P. (sen.), Elev i Slagelse Skole, senere Brændevinsbrænder i Slagelse og Heste-Ejer (»Heste-Petersen«), ivrig",II:444,DUBLET - kan fjernes,PerXI07184,beskrivelseslighed 1.00
+PerXI00604,Peer Klit,,Bondedreng fra Hem.,VI:244;VI:245,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07193,
+PerXI00605,Peisistratos,,Tyran i Athen.,II:166,UNIK - findes intet andet sted,,nærmeste 'pistorius' 0.57
+PerXI00606,Penni,Francesco (il Fattore),Italiensk Maler.,I:244,"ligner navn, men ingen fælles sider - BEHOLD",,'penio' lighed 0.80
+PerXI00607,Peres,Domingo Garcia,portugisisk Læge (Maj 1866).,VII:97;VII:98;VII:99;VII:104;VII:122,"ligner navn, men ingen fælles sider - BEHOLD",,'perle' lighed 0.80
+PerXI00608,Perikies,,Attisk Statsmand.,II:167,OCR-dublet - kan fjernes,PerXI07205,'perikles' lighed 0.88
+PerXI00609,Perrot,Jules-Joseph,Fransk Balletmester.,II:350;III:218,UNIK - findes intet andet sted,,nærmeste 'pedrotti' 0.71
+PerXI00610,Persson,Anders,"på Rankhyttan (henrettet 1534), Bondefører fra Dalarne.",III:334,"ligner navn, men ingen fælles sider - BEHOLD",,'ericsson' lighed 0.80
+PerXI00611,Perthes & Besser,,Sortimentsboghandlerfirma i Hamburg.,II:390;IV:127;IV:128,UNIK - findes intet andet sted,,nærmeste 'berthelsen' 0.61
+PerXI00612,Petersen,Clemens,"»Fædrelandet«s Teater- og Litteraturanmelder, cand. mag. i Æstetik 1857, forlod Danmark 1869, i U.S.A. indtil 1904.",V:7;V:12;V:13;V:49;V:418;V:422;V:437;VI:310;VI:332;VI:333;VII:213;VII:336;VIII:8;VIII:16;VIII:36;VIII:49;VIII:102;VIII:156;VIII:186;VIII:187;VIII:188;VIII:189;VIII:190;IX:31,"delvis overlap - BEHOLD, flet manuelt",PerXI07224 PerXI07226 PerXI07227,
+PerXI00613,Petit,Frederik (Fritz),"Broder til Charles P., dansk-tysk Forfatter og Oversætter.",I:421;II:390;II:391;II:407;II:419;II:421;III:3;III:4;III:176;III:177;III:188;III:189,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07265 PerXI07266 PerXI07267,
+PerXI00614,Pfordten,"Adelgunde von der, Friherreinde, f. Marx",g. 1844 m. Ludwig v.d.P.,III:63;IV:169;X:114;X:115,"delvis overlap - BEHOLD, flet manuelt",PerXI07290,
+PerXI00615,Pfordten,"Marie von der, Friherreinde (1848–19?)","Datter af Ludwig v.d.P., g. 1881 m. dr.med. Friedr. Ohlenschlager.",X:114;X:115,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07290,
+PerXI00616,Philips,"Mrs., f. Parson",Søster til Fru Harriet Bornemann.,III:244,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07297 PerXI07298,
+PerXI00617,Philipsen,,"(»en Hr. Philipsen jeg har seet hos Hartmann«), München August 1855.",IV:173;IV:174;IV:175,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07299 PerXI07300 PerXI07301,
+PerXI00618,Pienge,J.,"fhv. Sognepræst i Saatrup og Ødis og Præst i London, Forfatter.",X:199,"ligner navn, men ingen fælles sider - BEHOLD",,'pingel' lighed 0.83
+PerXI00619,Piesner,Augusta,"Oversætter af H.C. Andersens Eventyr, en årrække fast bosat i London.",VII:262;X:157;X:158,OCR-dublet - kan fjernes,PerXI07350 PerXI07351,'plesner' lighed 0.86
+PerXI00620,Piessen (fra 1853: Scheel-Plessen),"Cail, Baron, senere Greve","slesvig- holstensk Politiker, 1843–1845 Amtmand over Nordborg og Sønderborg Amter, 1866 preussisk Overpræsident for Sles",II:441,UNIK - findes intet andet sted,,nærmeste 'rasmussenfrastpetersborg' 0.43
+PerXI00621,Piessen,Baron,(paa hvis Gods Corfitz Ulfeldts Lig skulde være fundet).,II:271,"ligner navn, men ingen fælles sider - BEHOLD",,'niessen' lighed 0.86
+PerXI00622,Piessen,Siegfried von,"Præsident i Rentekammeret, Statsmand, Godsejer.",II:294,"ligner navn, men ingen fælles sider - BEHOLD",,'niessen' lighed 0.86
+PerXI00623,Piessen,"Vilhelmine, f. Gutfeld","Datter af F.G.Gutfeld, g. 1812 m. senere Oberstøjtnant G.L.P., Enke 1855.",IX:17,"ligner navn, men ingen fælles sider - BEHOLD",,'niessen' lighed 0.86
+PerXI00624,Piessis,Alphonsine,Fransk Kurtisane (»Kameliadamen«).,VIII:67,OCR-dublet - kan fjernes,PerXI07357,'plessis' lighed 0.86
+PerXI00625,Piessy,Jeanne,Fransk Skuespillerinde.,II:362;II:348;II:349,OCR-dublet - kan fjernes,PerXI07358,'plessy' lighed 0.83
+PerXI00626,Pius II,(Æneas Silvius Piccolomini),Pave 1458.,I:380,"ligner navn, men ingen fælles sider - BEHOLD",,'piusiii' lighed 0.92
+PerXI00627,Pius IX,,Pave 1846.,III:131;III:135;III:136;III:217;III:237;V:43;V:44;V:46;V:54;V:59;V:61;VII:361;VIII:412;X:265,UNIK - findes intet andet sted,,nærmeste 'piusiii' 0.77
+PerXI00628,Pius V,,Pave 1566.,I:304,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07335,
+PerXI00629,Pius VII,,Pave 1800.,I:289;I:464;III:98,"ligner navn, men ingen fælles sider - BEHOLD",,'piusiii' lighed 0.86
+PerXI00630,Pius VIII,,Pave 1829.,I:242,"ligner navn, men ingen fælles sider - BEHOLD",,'piusiii' lighed 0.93
+PerXI00631,Platen,Frk.,"fra Omegnen af Berlin, Jernbanepassager fra Biichen 18.5.1852.",IV:77;IV:78,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07341 PerXI07342 PerXI07343,
+PerXI00632,Plätzer,"Caroline Wilhelmine, f. Goith",g.m. Johan Christian P.,III:274,"samme efternavn, anden person - BEHOLD",PerXI07373,beskrivelseslighed 0.15
+PerXI00633,Plesner,G.,"Broder til Augusta P., Registrator ved Gehejmearkivet, Løjtnant i Artilleriets Reserve.",VIII:445,"samme efternavn, anden person - BEHOLD",PerXI07350,beskrivelseslighed 0.15
+PerXI00634,Poles,Stefan (egl. Rafael Tugenhold),"polsk Forfatter og Modstandsmand, Emigrant 1863.",V:393;X:1;X:2;X:3;X:163,"ligner navn, men ingen fælles sider - BEHOLD",,'pless' lighed 0.80
+PerXI00635,Pontoppidan,Ingeborg Magdalene (1845–19?),"Datter af Hendrik P., g. 1869 m. Købmand Heinrich Arthur Drishaus.",VI:97,"samme efternavn, anden person - BEHOLD",PerXI07394,beskrivelseslighed 0.25
+PerXI00636,Portella,Manuel Maria,portugisisk Forfatter.,VII:124;VII:131;VII:332,UNIK - findes intet andet sted,,nærmeste 'stella' 0.71
+PerXI00637,Portilla (Portielje),Frøken,Amsterdam 5.5.1868.,VIII:62,UNIK - findes intet andet sted,,nærmeste 'millondeverteville' 0.46
+PerXI00638,Prial,,fra Rio de Janeiro (1867).,VII:266,"samme efternavn, anden person - BEHOLD",PerXI07460,beskrivelseslighed 0.00
+PerXI00639,Prøsilius,Ghristoph Peter Julius,"Sekondløjtnant i Søetaten, 1852 Premierløjtnant, 1858 Løjtnant.",III:189,UNIK - findes intet andet sted,,nærmeste 'emilius' 0.62
+PerXI00640,Puggaard,C.,"Søn af Hans P., cand.polyt. 1846, dr.phil. 1851, Geolog.",III:223;III:257;III:260,"samme efternavn, anden person - BEHOLD",PerXI07495,beskrivelseslighed 0.17
+PerXI00641,Pulszky,"Franz Aurel, Edler von Lebocz und Gsesalm","ungarsk Forfatter, Arkæolog og Politiker.",III:76,"samme efternavn, anden person - BEHOLD",PerXI07502,beskrivelseslighed 0.33
+PerXI00642,Pødenphant,W. S.,Provinsskuespiller og Teaterdirektør.,IV:462,UNIK - findes intet andet sted,,nærmeste 'odencrantz' 0.60
+PerXI00643,Quatrefages de Bréau,Jean Louis Armand de,"Fransk Naturforsker og Antropolog, Professor ved Musée d’histoire naturelle i Paris, deltog i den internationale arkæolo",VIII:454;VIII:463;VIII:464,UNIK - findes intet andet sted,,nærmeste 'muntheafmorgenstierne' 0.46
+PerXI00644,Querfurth,G. O.,Edler von.,IV:281,UNIK - findes intet andet sted,,nærmeste 'herforth' 0.71
+PerXI00645,Qvoten,Salomon von,"Teaterentreprenør, Tandmedikus.",I:176,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07526,
+PerXI00646,Raben,Frue,Berlin (Wildbad August 1855).,IV:177;IV:178,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07535 PerXI07536 PerXI07537,
+PerXI00647,Radiesewitch,Thomas,Vært i Küstendje 1841.,II:212,UNIK - findes intet andet sted,,nærmeste 'haeselich' 0.67
+PerXI00648,Radziwill,Wilhelm,"Fyrste, preussisk Generalmajor.",III:39;III:40,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07547,
+PerXI00649,Rafael,(Raffaello Santi),italiensk Maler.,III:124;IV:165;IV:208;IV:229;V:41;V:56;V:65;V:68;V:73;V:322;V:325;V:326;V:327;VII:323;VII:325,"ligner navn, men ingen fælles sider - BEHOLD",,'raffel' lighed 0.83
+PerXI00650,Ramsay,"Christina Gharlotta, f. Wästfelt",g.1836 m. Otto Joh. R.,III:341,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07566 PerXI07567 PerXI07568,
+PerXI00651,Rantzau,August,"Lensgreve, til det grevelige Rantzauske Forlods, senere Hofjægermester.",V:404,DUBLET - kan fjernes,PerXI07575,beskrivelseslighed 0.92
+PerXI00652,Rasmussen,Frederik,"Skomagersvend, Poet (April 1874).",X:234;X:235,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07595 PerXI07596 PerXI07597,
+PerXI00653,Rasmussen,Frk.,rejsende Skuespillerinde (16.4.1875).,X:434;X:435,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07595 PerXI07596 PerXI07597,
+PerXI00654,Rauch,,Kapelmusikus (enten Violoncellisten Ferd. Peter Theodor R. (1817–1871) eller Violinisten Jul. Wilh. Emil R. (1818–1888)),VI:236,"samme efternavn, anden person - BEHOLD",PerXI07604,beskrivelseslighed 0.54
+PerXI00655,Redern,"Alexandra von, Grevinde, f. Friherreinde von Pahlen","Enke efter preussisk Gesandt i London, Kammerherre, Grev Sigismund von R., Overhofmesterinde hos Arvestorhertuginde Soph",III:48;III:50;III:52;III:56,UNIK - findes intet andet sted,,nærmeste 'tregder' 0.77
+PerXI00656,Reedtz,"Gatharine, f. Benzon",Enke efter Major Niels R. til Palsgaard.,III:404,"samme efternavn, anden person - BEHOLD",PerXI07636,beskrivelseslighed 0.30
+PerXI00657,Reiche,Matthias Wilhelm,"Justitiar ved Ahrensburg, Wandsbeck og Wellingsbüttel, Hofraad.",II:383,"samme efternavn, anden person - BEHOLD",PerXI07645,beskrivelseslighed 0.30
+PerXI00658,Reinhardt,G. E. F.,Kontorchef i Justitsministeriets Departement for Island.,VI:180,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07658 PerXI07659 PerXI07660,
+PerXI00659,Reissinger,"Marie, f. Stobwasser",g. 1828 m. C.G.R.,IV:222,"samme efternavn, anden person - BEHOLD",PerXI07666,beskrivelseslighed 0.09
+PerXI00660,Rem,Guido,Italiensk Maler.,II:79;II:88;II:91;II:94;II:102;II:416;X:72,UNIK - findes intet andet sted,,nærmeste 'brehm' 0.75
+PerXI00661,Retzsch,Frue,g.m. Moritz R.,II:415;II:416,"samme efternavn, anden person - BEHOLD",PerXI07695,beskrivelseslighed 0.22
+PerXI00662,Reuter,"Louise, f. Kuntze",g. 1851 m. Fritz R.,X:131;X:132,"samme efternavn, anden person - BEHOLD",PerXI07702,beskrivelseslighed 0.32
+PerXI00663,Reventlows,,(ikke nærmere angivet).,V:160,"ligner navn, men ingen fælles sider - BEHOLD",,'reventlow' lighed 0.95
+PerXI00664,Ribbing,Sofia Amalia,Svensk Malerinde.,V:47;V:54,UNIK - findes intet andet sted,,nærmeste 'bing' 0.73
+PerXI00665,Riedell,"Nicoline, f. Horn",g.m. Joh.Fr. R.,IV:355,"samme efternavn, anden person - BEHOLD",PerXI07741,beskrivelseslighed 0.13
+PerXI00666,Riegels,Frederik (Fritz),"Søn af Fr.Wilh.R., 1848–1852 Leder af Planteskolen på Snoghøj hos sin Farbroder H.C.R., senere Ejer af flere Gaarde og R",III:401,"samme efternavn, anden person - BEHOLD",PerXI07749,beskrivelseslighed 0.15
+PerXI00667,Riegels,H. C.,"Broder til F.W.R., Generalkrigskommissær, 1848- 50 Kommandant paa Als, 1850 kar. Oberst, Ejer af Snoghøj, Skovdyrker.",II:268;III:401;III:422;III:425,"samme efternavn, anden person - BEHOLD",PerXI07749,beskrivelseslighed 0.21
+PerXI00668,Riepenhausen,,"(enten Franz (1786–1831) eller Johannes (1789–1860)), tyske Malere og Raderere.",II:86,UNIK - findes intet andet sted,,nærmeste 'hohenhausen' 0.70
+PerXI00669,Rietschel,Emst,Tysk Billedhugger.,IV:284,"ligner navn, men ingen fælles sider - BEHOLD",,'fritsche' lighed 0.82
+PerXI00670,Rist,,"(den unge), Før 7.9.1844.",II:433;II:434,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07771 PerXI07772,
+PerXI00671,Rob Roy,(Robert Macgregor Campbell fra Glengylle),"Bandefører, Skotlands Robin Hood.",III:257,UNIK - findes intet andet sted,,nærmeste 'roboredo' 0.71
+PerXI00672,Robinson,E.,Søn af Therese R.,IV:85;IV:101;IV:103;IV:112,"delvis overlap - BEHOLD, flet manuelt",PerXI07790,
+PerXI00673,Robinson,Mary A.,Datter af Therese R.,IV:85;IV:101;IV:103;IV:104;IV:112,"delvis overlap - BEHOLD, flet manuelt",PerXI07790,
+PerXI00674,Rochussen,"J. B. G., f. Hubert",g.m. Hendrik R.,III:202,"samme efternavn, anden person - BEHOLD",PerXI07796,beskrivelseslighed 0.31
+PerXI00675,Rode,Frue,"Königsberg, Hotelgæst i Brunnen.",IV:402;IV:403;V:192,"delvis overlap - BEHOLD, flet manuelt",PerXI07800 PerXI07801 PerXI07802,
+PerXI00676,Röhl,Frøken,"Datter af Wilhelmine R., tysk-slesvigsk Forfatterinde.",VIII:16;VIII:51,"samme efternavn, anden person - BEHOLD",PerXI08002,beskrivelseslighed 0.26
+PerXI00677,Rollett,Herman,Østrigsk Digter.,III:51;III:59;III:60;III:168,"ligner navn, men ingen fælles sider - BEHOLD",,'collett' lighed 0.86
+PerXI00678,Rönckendorff,Franz,Vinhandler i Braunschweig.,II:48,"samme efternavn, anden person - BEHOLD",PerXI08008,beskrivelseslighed 0.19
+PerXI00679,Röscher,Paul (f. ca. 1832),"Søn af Julius J. R., Nevø af Robert Prutz.",II:418,"samme efternavn, anden person - BEHOLD",PerXI08036,beskrivelseslighed 0.44
+PerXI00680,Rosenberg,G.,"Søn af Sophie R., cand. jur. 1854, ansat i Kultusministeriet, 1863 Fuldmægtig, 1856–1867 Medarbejder ved »Dansk Maanedss",IV:409;VIII:447;IX:37;IX:117;X:296;X:297;X:305,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07853,
+PerXI00681,Rosenkrantz,,"Baron, fra Lolland. (Misforstaaelse af H.C. Andersen., se: Rosenørn-Lehn, Otto.)",VI:329,"samme efternavn, anden person - BEHOLD",PerXI07866,beskrivelseslighed 0.16
+PerXI00682,Rosenkrantz,"Birgitte Charlotte, Baronesse, f. Baronesse Reedtz-Thott","Enke efter Ritmester, Baron Jørgen R. til Vedø og Sophiendal.",VI:328,"samme efternavn, anden person - BEHOLD",PerXI07867,beskrivelseslighed 0.43
+PerXI00683,Rosenstand,Niels Peter,Skovrider under Corselitze.,III:425;III:426,UNIK - findes intet andet sted,,nærmeste 'rosenblad' 0.74
+PerXI00684,Ross,Charles (Carl),holstensk Maler.,II:59,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07889 PerXI07890 PerXI07891,
+PerXI00685,Rothe,"Vilhelmine Susanne, f. Kolderup-Rosenvinge",g. 1845 m. C.R.,IX:203,"samme efternavn, anden person - BEHOLD",PerXI07904,beskrivelseslighed 0.08
+PerXI00686,Rothmann,G. T.,"Sadelmagermester, senere Hof-Tapetserer og Direktør i Haandværkerbanken.",IX:88,"ligner navn, men ingen fælles sider - BEHOLD",,'oltmann' lighed 0.80
+PerXI00687,Rothschild,"Hannah, f. Gohen",Enke efter Bankier Nathan Mayer R.,III:225,"samme efternavn, anden person - BEHOLD",PerXI07913,beskrivelseslighed 0.35
+PerXI00688,Rothschild. Louisa,"Lady, f. Montefiore","Datter af Henrietta Montefiore, g. 1840 m. Anthony R.",III:225,UNIK - findes intet andet sted,,nærmeste 'castenschiold' 0.48
+PerXI00689,Rottweiler & Bauer,,Bankierfirma i Madrid.,VII:96;VII:97,UNIK - findes intet andet sted,,nærmeste 'schlotthauer' 0.52
+PerXI00690,Ruben,"Ida, f. Goppel","Datter af S.Coppel, g. 1865 m. Bernhard R.",VIII:219;X:56;X:57;X:70;X:198;X:200;X:232;X:388,DUBLET - kan fjernes,PerXI07934,beskrivelseslighed 1.00
+PerXI00691,Rüdiger,Karl,"Ober-Regierungsrat, Minden in Westfalen.",III:30;III:31,"samme efternavn, anden person - BEHOLD",PerXI07981,beskrivelseslighed 0.19
+PerXI00692,Rusland,"Nikolaj Alexandrovitj, Storfyrst - tronfølger af –",Søn af Kejser Alexander II af R.,V:323;VI:119;VI:133;VI:134;VI:215;VI:216;VI:230,"samme efternavn, ingen fælles sider - BEHOLD",PerXI07960 PerXI07961 PerXI07962,
+PerXI00693,Russell,John (1861 Jarl af R.),"Engelsk Politiker, 1846–1852 og 1865–1866 Premierminister.",III:237,"ligner navn, men ingen fælles sider - BEHOLD",,'crusell' lighed 0.86
+PerXI00694,Sabbatini,Lorenzo (Lorenzino da Bologna),Italiensk Maler.,I:393,UNIK - findes intet andet sted,,nærmeste 'santini' 0.75
+PerXI00695,Sachsen-Weimar-Eisenach,"Ida, Prinsesse ai –, f. Prinsesse af Sachsen-Meiningen",g.1816 m. Bernhard af S.-W.-E.,IV:81,DUBLET - kan fjernes,PerXI08070,beskrivelseslighed 0.60
+PerXI00696,Sachsen-Weimar-Eisenach,"Luise, Storhertuginde af –, f. Prinsesse af Hessen-Darmstadt",g.1775 m. Carl August af S.-W.-E.,II:402,"samme efternavn, anden person - BEHOLD",PerXI08071,beskrivelseslighed 0.50
+PerXI00697,Saint-Cyr,,(Sommeren 1848).,III:289,UNIK - findes intet andet sted,,nærmeste 'savigny' 0.67
+PerXI00698,Saint-Ferriol,Vicomte de,Fransk Gesandt i København 1869–1876.,IX:209;IX:210;IX:211;IX:234,UNIK - findes intet andet sted,,nærmeste 'saintleon' 0.67
+PerXI00699,Saint-Lieu,Marquis,"Fransk Journalist, Rolighed 28.7.1870.",VIII:407;VIII:408,UNIK - findes intet andet sted,,nærmeste 'saintleon' 0.78
+PerXI00700,Salmonsen,M.,"Boghandler, udvandret 1872 til Chicago, her Journalist, senere Magistratsembedsmand.",X:363,"ligner navn, men ingen fælles sider - BEHOLD",,'salomonsen' lighed 0.95
+PerXI00701,Saloman,Siegfried,Komponist.,VIII:146;VIII:242;VIII:243;IX:106;IX:314;X:298,OCR-dublet - kan fjernes,PerXI08101 PerXI08103 PerXI08104,'salomon' lighed 0.86
+PerXI00702,Salomon,David (døbt Julius Diedrich Slomann),"Søn af Wulf S., senere Grosserer i København.",I:121;I:123,"samme efternavn, anden person - BEHOLD",PerXI08105,beskrivelseslighed 0.24
+PerXI00703,Salomon,Israels Konge,Søn af David.,IV:56;VII:252,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08101 PerXI08103 PerXI08104,
+PerXI00704,Saltza,"Charlotta von, Friherreinde (f. og d. 1764)",Datter af Carl Fredrik von S.,III:345,"samme efternavn, anden person - BEHOLD",PerXI08125,beskrivelseslighed 0.21
+PerXI00705,Santen,"Frederika Christina van, f. Bernhard",g.m. Jac. Jasper v. S.,III:202;VII:58;VII:59,"delvis overlap - BEHOLD, flet manuelt",PerXI08144 PerXI08145,
+PerXI00706,Sanne,Nanna (ved Daaben: Anne),"Søster til Emma S., Pianistinde, Musiklærerinde, g.m. Komponisten, Kantor Louis Hornbeck.",VI:264,DUBLET - kan fjernes,PerXI08141,beskrivelseslighed 0.71
+PerXI00707,Saraceni,Carlo (Carlo Veneziano),Italiensk Maler.,I:254,UNIK - findes intet andet sted,,nærmeste 'larramendi' 0.67
+PerXI00708,Saurmar-Stenzendorf,"Roda von, Grevinde, f. Grevinde von Wurmbrand-Stuppenbach",g. 1867 m. preussisk Ritmester Joseph Johan v. S.-S.,VIII:268,UNIK - findes intet andet sted,,nærmeste 'scholtzhermensdorff' 0.49
+PerXI00709,Saxo,(omkr. 1200),Historiker.,III:416,UNIK - findes intet andet sted,,nærmeste 'saxe' 0.75
+PerXI00710,Saxtoiph,"Augusta, f. Brun",Enkefrue.,VIII:453,OCR-dublet - kan fjernes,PerXI08176 PerXI08177 PerXI08178,'saxtorph' lighed 0.88
+PerXI00711,Sayn-Wittgens tein-Berleburg,"Pulcheria, Prinsesse af –, f. Prinsesse Cantacazenos",g. 1856 m. Emil S.-W.-B.,IV:230;IV:231,"samme efternavn, anden person - BEHOLD",PerXI08184,beskrivelseslighed 0.11
+PerXI00712,Scavenius,Peder (Peer),"Søn af Peder Brønnum S., Student (Herlufsholm) 1864, cand. jur. 1870, 1872 Ejer af Vorgaard.",VI:173;VI:176;VI:177;VII:197;VII:198;VII:231;VII:363;VIII:13;VIII:18;VIII:172;VIII:186,"delvis overlap - BEHOLD, flet manuelt",PerXI08186 PerXI08187 PerXI08188,
+PerXI00713,Scavenius,"Thyra, f. Gastonier","Datter af Annie Castonier, g. 1869 m. Carl S.",IX:72;IX:73,"samme efternavn, anden person - BEHOLD",PerXI08197,beskrivelseslighed 0.14
+PerXI00714,Scheele,Frøken,"Søster til L.N.Scheele (han havde 6 ugifte Søstre, hvoraf de 5 var indskrevet i Vemmetofte, hvem H.C. Andersen mener, ka",IV:292;IV:293,"delvis overlap - BEHOLD, flet manuelt",PerXI08257 PerXI08258 PerXI08259,
+PerXI00715,Schellow,Frue,"fra Preussen, Wildbad August 1855.",IV:177;IV:178,"ligner navn, men ingen fælles sider - BEHOLD",,'schnell' lighed 0.80
+PerXI00716,Schenk,Eduard von,"tidligere Indenrigsminister i Bayern, Skuespilforfatter.",I:419;II:60,UNIK - findes intet andet sted,,nærmeste 'pischek' 0.77
+PerXI00717,Schepelem,,"to Frøkner, København 7.2.1873.",X:25,"ligner navn, men ingen fælles sider - BEHOLD",,'scheele' lighed 0.88
+PerXI00718,Schepelem,Georg,"stud, theol., 1864 cand. theol., 1869 residerende Kapellan ved Trinitatis Kirke, København, 1878 Sognepræst sst.",V:156,"ligner navn, men ingen fælles sider - BEHOLD",,'scheele' lighed 0.88
+PerXI00719,Schibbye,"Jacobine, f. Bruun",g. 1841 m. Jens S.,III:188,"samme efternavn, anden person - BEHOLD",PerXI08273,beskrivelseslighed 0.07
+PerXI00720,Schill,Ferdinand von,"Tysk Major, Frikorpsfører.",II:395,"ligner navn, men ingen fælles sider - BEHOLD",,'schiller' lighed 0.86
+PerXI00721,Schirmann,"Frue, f. Manger","Søster til Fru Rosalie Henselt, Maxen Juli 1855.",IV:161;IV:162,"ligner navn, men ingen fælles sider - BEHOLD",,'schiemann' lighed 0.89
+PerXI00722,Schlesinger,Frue,g.m. M.S.,I:485;I:486;I:488;II:256,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08320,
+PerXI00723,Schlesinger,M.,Stein- und Galanteriehändler aus Turnau in Böhmen (Juli 1834).,I:485;I:486;I:488,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08320,
+PerXI00724,Schletter,"Louise von, f. Behr","Enke efter Købmand Salomo Ferdinand v. S., Leipzig 14.2.1846.",III:62,"samme efternavn, anden person - BEHOLD",PerXI08321,beskrivelseslighed 0.40
+PerXI00725,Schlönbach,"Auguste, f. Schröder","Tysk Skuespillerinde, g. 1° Gerlach, 2° 1855 m. Arnold S.; hun var Søster til Wilhelmine Schröder-Devrient.",IV:387,"samme efternavn, anden person - BEHOLD",PerXI08331,beskrivelseslighed 0.20
+PerXI00726,Schmidt,Christian Wilhelm Michael,Søn af Chr. S.,VI:338,"samme efternavn, anden person - BEHOLD",PerXI08355,beskrivelseslighed 0.09
+PerXI00727,Schmidt fra Würzburg,,(München 6.10.1860).,IV:445,UNIK - findes intet andet sted,,nærmeste 'schaumburglippe' 0.48
+PerXI00728,Schmidt,Frue,g.m. Julian S.,IV:217,"samme efternavn, anden person - BEHOLD",PerXI08356,beskrivelseslighed 0.24
+PerXI00729,Scholler,,"(Schöller?), Bordeaux 26.8.1866.",VII:176,"ligner navn, men ingen fælles sider - BEHOLD",,'schaller' lighed 0.88
+PerXI00730,Scholtz Hermensdorff,Fru von,g.m. Henry W. von S. H.,V:238;V:239;V:241;V:245,"samme efternavn, anden person - BEHOLD",PerXI08390,beskrivelseslighed 0.27
+PerXI00731,Scholtz Hermensdorff,Henry W. von,"Adjungeret Konsul i Málaga hos Onkelen E. W. von S., 1865 dansk Vicekonsul sst.",VII:302;VIII:417;VIII:419,DUBLET - kan fjernes,PerXI08390,beskrivelseslighed 1.00
+PerXI00732,Schousboe,(f. ca. 1859),"Datter af Otto S., Rolighed 2.9.1870.",VIII:409,"samme efternavn, anden person - BEHOLD",PerXI08416,beskrivelseslighed 0.25
+PerXI00733,Schousboe,Herman,Søn af O. S.,IX:98;IX:99;IX:304,DUBLET - kan fjernes,PerXI08415,beskrivelseslighed 0.70
+PerXI00734,Schoustrup,,"(»den lille Skoustrup«), 10.8.1869.",VIII:238,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08418 PerXI08419,
+PerXI00735,Schrader,Ulla,"fra Lingen, Slægtning af Karoline v. Zöllner, Maxen Maj 1854.",IV:134;IV:135,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08426,
+PerXI00736,Schulenburg,Karen Hjort von der,"Rigsgrevinde, f. de Seue, g.1841 m. C.O.F. v.d.S.",II:308;II:309,"samme efternavn, anden person - BEHOLD",PerXI08444,beskrivelseslighed 0.38
+PerXI00737,Seat,W. H.,"Amerikansk Præst, samler ind til et Universitet i Texas.",VIII:240;VIII:241,UNIK - findes intet andet sted,,nærmeste 'sacht' 0.67
+PerXI00738,Seebach,Wilhelmine,.,IV:171,"samme efternavn, anden person - BEHOLD",PerXI08536,beskrivelseslighed 0.00
+PerXI00739,Seeker,,"Mrs. og Miss, fra Windsor, München 26.7.1855.",IV:168,OCR-dublet - kan fjernes,PerXI08532,'secker' lighed 0.83
+PerXI00740,Seiler,Otto,"Tysk Godsejer, Jernbanepassager Leipzig-Dresden 24.7.1851.",IV:50;IV:51,"ligner navn, men ingen fælles sider - BEHOLD",,'seidler' lighed 0.92
+PerXI00741,Semmler,Julius,"holstensk Musiker fra Itzehoe, Brüssel 5.3.1843.",II:318,UNIK - findes intet andet sted,,nærmeste 'remmer' 0.77
+PerXI00742,Serral,Dolorés,Spansk Danserinde.,II:41;II:42;II:344,UNIK - findes intet andet sted,,nærmeste 'soveral' 0.77
+PerXI00743,Sidenius,Jfr.,Datter af Isaac S. (enten Marie (1823–1899) eller Nicoline (1826–1893)).,IV:31,"samme efternavn, anden person - BEHOLD",PerXI08584,beskrivelseslighed 0.53
+PerXI00744,Siebold,"Antonie von, f. Nôldechen",g. 1856 m. K.Th.E.v.S.,IV:386;IV:396;IV:445;V:102;V:103;V:104,"samme efternavn, anden person - BEHOLD",PerXI08589,beskrivelseslighed 0.14
+PerXI00745,Silva-Loureiro,Antonio José da,"portugisisk Diplomat, Stockholm 1849.",III:324,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08604,
+PerXI00746,Simion,M.,Forlagsboghandler i Berlin.,III:35;III:36;III:39;III:66,"ligner navn, men ingen fælles sider - BEHOLD",,'simon' lighed 0.91
+PerXI00747,Simon,,"parisisk Skomager, hos hvem Louis XVII (1785–1795) tilbragte sin sidste Levetid.",IV:52,"samme efternavn, anden person - BEHOLD",PerXI08606,beskrivelseslighed 0.56
+PerXI00748,Simonsen,Emesta,"Datter af Sophus S., Plejedatter af H.P.Holst, g. 1869 m. Harald Christophersen.",VI:54;VIII:243;VIII:244,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08607 PerXI08608 PerXI08609,
+PerXI00749,Simony,"Anna Sophie, f. Faber",g. 1837 m. Carl S.,IV:344,"samme efternavn, anden person - BEHOLD",PerXI08620,beskrivelseslighed 0.16
+PerXI00750,Sixtus V,,Pave 1585.,I:248;I:304;III:99,UNIK - findes intet andet sted,,nærmeste 'piusv' 0.67
+PerXI00751,Skinkel,Bernike,"Rigsraad (til Rugaard, ikke Rygaard).",II:294,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08636,
+PerXI00752,Skopas fra Paros,(4.Aarh.f.Chr.),græsk Billedhugger.,I:210;II:66,UNIK - findes intet andet sted,,nærmeste 'sassoferrato' 0.54
+PerXI00753,Skovgaard,P. G.,Maler.,V:274;VII:323;VII:325;VIII:276;VIII:277;VIII:278;X:434,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08641 PerXI08642,
+PerXI00754,Skram,Erik,"Søn af Gustav Schram, Rigsdagsstenograf 1872, Protokolsekretær 1894–1918, Forfatter.",X:220,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08643 PerXI08644 PerXI08645,
+PerXI00755,Soveral,"Elisa, Viscondessa, f. Bayne",g. 1838 m. A. Pinto de S.,VII:95;VII:96,"samme efternavn, anden person - BEHOLD",PerXI08720,beskrivelseslighed 0.14
+PerXI00756,Spetz,,"(måske: Spatz), Napoli 5.3.1841.",II:140,"ligner navn, men ingen fælles sider - BEHOLD",,'paetz' lighed 0.80
+PerXI00757,Spitzeder,"Betty, f. Vio","Tysk Operasangerinde, g. 1831 m. Joseph S.",I:428,DUBLET - kan fjernes,PerXI08748,beskrivelseslighed 0.64
+PerXI00758,Spontini,GasparO,Italiensk Operakomponist. Generalmusikdirektor i Berlin.,I:495;I:496;IV:60;IV:281,"ligner navn, men ingen fælles sider - BEHOLD",,'santini' lighed 0.80
+PerXI00759,Sporon,G. G. W.,"Broder til B.G.S., Assessor i Kriminal- og Politiretten, 1871 i Landsoverretten.",VI:150,"samme efternavn, anden person - BEHOLD",PerXI08754,beskrivelseslighed 0.11
+PerXI00760,Spotturno,Bartolomeo,Dansk Vicekonsul i Cartagena 1853–1882.,V:233;V:234;V:235;V:236,UNIK - findes intet andet sted,,nærmeste 'potter' 0.67
+PerXI00761,Spotturno,Ricardo,"Søn af Bartolomeo S., russisk Vicekonsul i Cartagena 1862.",V:234;V:235,UNIK - findes intet andet sted,,nærmeste 'potter' 0.67
+PerXI00762,Spur,Frøknerne,"Døtre af Johan Henrik S., Hobro 6.7.1865.",VI:246,"samme efternavn, anden person - BEHOLD",PerXI08759,beskrivelseslighed 0.32
+PerXI00763,Staggemeier,Frøknerne,"(Wilhelmine (1832–1898), Rosa (1837–1915)), Døtre af Oberst, senere Generalmajor E.F.S., Aalborg 26.7.1859.",IV:344,DUBLET - kan fjernes,PerXI08781,beskrivelseslighed 0.87
+PerXI00764,Stahn,Frk.,ledsager Frøknerne Heinke 1874 på Rejsen til København.,X:254;X:255;X:256,"ligner navn, men ingen fælles sider - BEHOLD",,'stahl' lighed 0.80
+PerXI00765,Stahr,"Marie, f. Kraetz","g. 1833 m. Adolf S., Ægteskabet opløst 1854.",III:22,"samme efternavn, anden person - BEHOLD",PerXI08784,beskrivelseslighed 0.13
+PerXI00766,Stanley,"Edward John, Lord (1850 Baron Stanley of Alderley)",Under-secretary for Foreign Affairs 1846–1852.,III:220,"samme efternavn, anden person - BEHOLD",PerXI08811,beskrivelseslighed 0.21
+PerXI00767,Steenbuch,,"Søn af H.T.M.S. (enten Augustinus S. (1846–1879), senere cand. pharm., eller Hans S. (1847–1899), senere exam.jur.).",VII:228,DUBLET - kan fjernes,PerXI08818,beskrivelseslighed 0.72
+PerXI00768,Steinheim,Johanna (Hannah),g.1814 m. S.L.S.,VI:130,"samme efternavn, anden person - BEHOLD",PerXI08840,beskrivelseslighed 0.21
+PerXI00769,Stephensen,,"Student (enten Hilmar (1846–1889), Student 1864, senere Departementschef i Ministeriet for Island, eller Thorvald (1843–",VI:246,DUBLET - kan fjernes,PerXI08860,beskrivelseslighed 0.90
+PerXI00770,Stolberg,,"(»en stiv, fornem Grev Stolberg«) (Oldenburg 10.6.1847).",III:191,"samme efternavn, ingen fælles sider - BEHOLD",PerXI08891 PerXI08892,
+PerXI00771,Stöver,J. H.,Hollandsk Billedhugger.,VII:49;VII:50,UNIK - findes intet andet sted,,nærmeste 'soveral' 0.77
+PerXI00772,Stramboe,"Signe, f. Hollensted",g.m. Edvard S.,X:135,"samme efternavn, anden person - BEHOLD",PerXI08921,beskrivelseslighed 0.19
+PerXI00773,Strauss,Flora,"Guvernante, Holsteinborg 1874.",X:257;X:261;X:267;X:396,"delvis overlap - BEHOLD, flet manuelt",PerXI08929 PerXI08930 PerXI08931,
+PerXI00774,Støvlet-Cathrine,(Anne Cathrine Benthacken),"Chr. VII's Mætresse, g. 1° 1770 m. Advokat i övelgönne, senere Toldinspektør i Nysted C.D.R.Maës, 2° 1785 m. Musiker, se",VI:330,UNIK - findes intet andet sted,,nærmeste 'sonnleithner' 0.52
+PerXI00775,Suhrn,P. F.,Historiker.,X:260,"ligner navn, men ingen fælles sider - BEHOLD",,'suhr' lighed 0.89
+PerXI00776,Suzor,Jules de,"Greve, fransk Publicist og Foredragsholder, Leipzig 23.7.1844.",II:417,UNIK - findes intet andet sted,,nærmeste 'spur' 0.67
+PerXI00777,Svensson,Sven,Gæstgiver i Kolding 1866.,VII:20;VII:21,"ligner navn, men ingen fælles sider - BEHOLD",,'svenson' lighed 0.93
+PerXI00778,Sverrig,"Erik den Hellige, Konge af – (død ca. 1160)",sv. Helgen.,II:18;II:20;III:333,"delvis overlap - BEHOLD, flet manuelt",PerXI08995 PerXI08996 PerXI08998,
+PerXI00779,Sverrig,"Inge den Yngre, Konge af –",Konge ca. 1110.,II:11,DUBLET - kan fjernes,PerXI09007,beskrivelseslighed 1.00
+PerXI00780,Sylow,Frøken,Tidligere Guvernante.,III:368,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09042,
+PerXI00781,Sylvester II,,Pave 999.,II:236,UNIK - findes intet andet sted,,nærmeste 'hyllested' 0.60
+PerXI00782,Sønderup,Anna,"Forfatterinde, g. 1868 m. den ungarske Arkitekt Ferenc Schulz.",VII:12;VII:277;VII:346;VIII:2,UNIK - findes intet andet sted,,nærmeste 'sønderskou' 0.78
+PerXI00783,Søren,(Søren Ebbesen?),Slagelse 24.3.1826.,I:50,UNIK - findes intet andet sted,,nærmeste 'sørensen' 0.77
+PerXI00784,Sørensen,,Skuespillerinde (?) (1863).,V:438,"samme efternavn, anden person - BEHOLD",PerXI09071,beskrivelseslighed 0.00
+PerXI00785,Tacitus,Publius Cornelius (ca. 55–ca. 120),romersk Historiker.,III:85,"ligner navn, men ingen fælles sider - BEHOLD",,'titus' lighed 0.83
+PerXI00786,Tardini,Anna (Jeanette),"Balletdanserinde, g.1864 m. Emil Hansen. VI 143. — Se ogsaa: Hansen, Anna (Jeanette)",VI:143,"ligner navn, men ingen fælles sider - BEHOLD",,'tartini' lighed 0.86
+PerXI00787,Tauro,N.,Italiensk Operakomponist og Sanger.,II:140;II:141,UNIK - findes intet andet sted,,nærmeste 'tarnow' 0.73
+PerXI00788,Terkelsen,Peter Christian,"Hornblæser, Dannebrogsmand.",IV:6;IV:7,UNIK - findes intet andet sted,,nærmeste 'bertelsen' 0.78
+PerXI00789,Tesdorpf,Dorthea (Dora),Datter af Edward T.,III:425,"samme efternavn, anden person - BEHOLD",PerXI09137,beskrivelseslighed 0.18
+PerXI00790,Theoderik I,(den Store),"østgotisk Konge 475, Konge af Italien 493.",I:309,UNIK - findes intet andet sted,,nærmeste 'theodor' 0.71
+PerXI00791,Theokritos,(f.ca. 300 f.Chr.),græsk Digter.,X:54,UNIK - findes intet andet sted,,nærmeste 'tenorio' 0.71
+PerXI00792,Theresia,(Santa Teresa de Jesus),Spansk Helgeninde.,II:149,"ligner navn, men ingen fælles sider - BEHOLD",,'therese' lighed 0.80
+PerXI00793,Thiele,,"(»Onkel Thiele«, en af J.M.Thieles tre Brødre: Kontorchef i Finansministeriet, Justitsraad, senere Etatsraad Frederik Vi",IV:28,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09164 PerXI09165 PerXI09166,
+PerXI00794,Thiele,"Hanne, f. Aagesen",g. 1838 m. Just Mathias T.,V:47;V:437;VI:8;VII:208;VII:310;VIII:149;VIII:174;VIII:255;IX:176;IX:250;X:247;X:251;X:252;X:364,"samme efternavn, anden person - BEHOLD",PerXI09164,beskrivelseslighed 0.27
+PerXI00795,Thomas,Margrethe (Margarith),Fru Serres Selskabsdame.,IV:162;IV:163;IV:208;IV:280;IV:460;V:106;V:109;VIII:266;VIII:267;IX:261;X:289,UNIK - findes intet andet sted,,nærmeste 'thomsen' 0.77
+PerXI00796,Thomsen,"Bolette, f. Nielsen",g.m. Klokker ved Vartov Kirke Lars T.,VI:221,"samme efternavn, anden person - BEHOLD",PerXI09180,beskrivelseslighed 0.25
+PerXI00797,Thomsen,Rosalinde (Magda von Dolcke),"Skuespillerinde ved Det kgl. Teater 1859–1863, derefter i Tyskland, g. 1886 m. Fabrikant Bosse.",IV:469;VI:334;VIII:4;VIII:5;VIII:16;VIII:17;IX:204,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09177 PerXI09178 PerXI09179,
+PerXI00798,Thott,Frederik (Fritz),"Løjtnant ved Skånska Husarregiment, senere Generalmajor.",II:33;II:40,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09209 PerXI09210,
+PerXI00799,Thrane,Chr. W. Fr. G. C.,Oberst.,IV:229,"samme efternavn, anden person - BEHOLD",PerXI09212,beskrivelseslighed 0.10
+PerXI00800,Thyberg (fra 1866: Tybjerg),Christian,"Søn af Oline T., Arkitekt.",II:306;III:72;III:74;III:75;III:321;III:324;III:335;III:336;III:337;III:340;III:341;III:365;IV:208;IV:211;IV:217;IV:218;IV:219;IV:221;IV:222;IV:223;IV:224;IV:225;IV:226;IV:227;IV:229;IV:230;IV:231;IV:235;V:184;V:197;V:380;V:383;V:395;V:424;V:436;VI:49;IX:25;IX:27,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09228,
+PerXI00801,Thyberg (fra 1866: Tybjerg),"Juliane, f. Poulsen",g. 1858 m. Chr. T.,VI:101;VI:102;VI:130;VI:331;VII:215;VII:302,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09228,
+PerXI00802,Thyberg,Marie (Mimi),Datter af Oline T.,II:308,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09224 PerXI09227 PerXI09229,
+PerXI00803,Tichy,Antonio,"Commerzien-Rath, preussisk Konsul i Wien 1846.",III:73;III:75;III:76,"ligner navn, men ingen fælles sider - BEHOLD",,'stich' lighed 0.80
+PerXI00804,Tidemann,(?),Düsseldorf 1843 (NB! ikke Adolph Tidemand).,II:313,"ligner navn, men ingen fælles sider - BEHOLD",,'tiedemann' lighed 0.94
+PerXI00805,Titov,Frue,g.m. Vladimir Pavlovié T.,II:195,UNIK - findes intet andet sted,,nærmeste 'listov' 0.73
+PerXI00806,Titov,Vladimir Pavlovié,"russisk Diplomat og Arkæolog, Chargé d’Aff aires i Konstantinopel i 1841, senere Gesandt i Athen.",II:195,UNIK - findes intet andet sted,,nærmeste 'listov' 0.73
+PerXI00807,Toli,Johan Christoffer von,"Underløjtnant ved Sodra skånska Infanteriregiment 1835–1841, senere dr. phil., Sognepræst, Statsrevisor m.m., Friherre 1",II:9;II:10,"ligner navn, men ingen fælles sider - BEHOLD",,'toldi' lighed 0.89
+PerXI00808,Töppel,,"(Töpler?), F. A. Serres Svoger, Maxen Juli 1856.",IV:225;IV:228,"ligner navn, men ingen fælles sider - BEHOLD",,'stoppel' lighed 0.92
+PerXI00809,Torbensen,I.,"Menig, 3. Infanteri-Regiment, 6. Kompagni, Nr. 39, Basnæs Juni 1864.",VI:74;VI:75;VI:76;VI:77;VI:78;VI:79,"ligner navn, men ingen fælles sider - BEHOLD",,'thoresen' lighed 0.82
+PerXI00810,Torlonia,"Anna, Hertuginde, f. Sforza-Gesarini",g.m. Marino T.,I:239,"samme efternavn, anden person - BEHOLD",PerXI09281,beskrivelseslighed 0.16
+PerXI00811,Trane,Carl Christian,"Sekondløjtnant, faldet ved Kolding 23.4.1849.",III:345,"ligner navn, men ingen fælles sider - BEHOLD",,'thrane' lighed 0.91
+PerXI00812,Travers,C. C.,Hollandsk og dansk Generalkonsul i Athen.,II:155;II:156;II:173;II:180;II:183;II:184,"delvis overlap - BEHOLD, flet manuelt",PerXI09316,
+PerXI00813,Trémoliéres,Pierre,Fransk Maler.,I:304,UNIK - findes intet andet sted,,nærmeste 'gregoire' 0.63
+PerXI00814,Treu,Emil,fra Halle (Weimar Sept. 1857).,IV:286;IV:287,UNIK - findes intet andet sted,,nærmeste 'regun' 0.67
+PerXI00815,Trier & Goldschmidt,,Manufakturfirma.,VII:236,UNIK - findes intet andet sted,,nærmeste 'salmreifferscheidt' 0.59
+PerXI00816,Tristan l’Hermite,Louis (omkr.1450),"Fransk Adelsmand, Profos hos Kongerne Charles VII og Louis XI.",V:346,UNIK - findes intet andet sted,,nærmeste 'christophersen' 0.55
+PerXI00817,Trochi,,"(Strochi?), Søn af Direktøren for Wiener-Operette-Selskabet, Tivoli 1874.",X:307;X:308,UNIK - findes intet andet sted,,nærmeste 'troil' 0.73
+PerXI00818,Trothingham,O. B.,"Frue, g.m. Forfatteren T., Bodensøen 10.7.1873.",X:123,UNIK - findes intet andet sted,,nærmeste 'allingham' 0.60
+PerXI00819,Tyberg (fra 1866: Tybjerg),Erland,"Søn af Chr. T., senere Højesteretsdommer.",VII:302,"ligner navn, men ingen fælles sider - BEHOLD",,'thybergfra1866tybjerg' lighed 0.98
+PerXI00820,Tyberg,Henriette (Jette),"Datter af Oline T., g. 1836 m. Edvard Collin.",I:119;I:178,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09226,
+PerXI00821,Tybjerg,Asbjørn (født og død 1871),Søn af Chr. T.,IX:25,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09225 PerXI09376,
+PerXI00822,Ulla Maria,,"(Pseud.), Forfatterinde.",VII:220;VII:232,UNIK - findes intet andet sted,,nærmeste 'lamartine' 0.67
+PerXI00823,Ulrich & Brot,,Bankierfirma i Milano.,IV:111,UNIK - findes intet andet sted,,nærmeste 'ulrichs' 0.71
+PerXI00824,Ulrich,Ulrichs,"Den unge, Berlin December 1845.",III:30;III:31;III:32,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09419 PerXI09420,
+PerXI00825,Ungarn,"Geisa (Geza) I, Konge af –",Konge 1074.,II:239;II:240,"samme efternavn, anden person - BEHOLD",PerXI09425,beskrivelseslighed 0.43
+PerXI00826,Uttenreiter,Caroline,"Hotel garni, Gothersgade 9 (1874).",X:231,"samme efternavn, anden person - BEHOLD",PerXI09441,beskrivelseslighed 0.00
+PerXI00827,Üxküll (Uexküll),"Clara, Friherreinde, f. Walter",g. 1843 m. Boris v.U.,IV:66;VIII:319,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09955,
+PerXI00828,Vaccá Berlinghieri,Andrea,Italiensk Øjenlæge.,I:201,UNIK - findes intet andet sted,,nærmeste 'munchbellinghausen' 0.51
+PerXI00829,Valdemar,(Knudsen),"Søn af Kong Knud (III) Magnussen, Biskop af Slesvig 1179.",VIII:205,"ligner navn, men ingen fælles sider - BEHOLD",,'waldemar' lighed 0.88
+PerXI00830,Verhulst,Anna,"Datter af J.J.H.V., senere Pianistinde og g. Elischer.",VII:32,"samme efternavn, anden person - BEHOLD",PerXI09474,beskrivelseslighed 0.32
+PerXI00831,Véron,Pierre,Redaktør af »Charivari« 1865–1899.,VII:348,UNIK - findes intet andet sted,,nærmeste 'veronese' 0.77
+PerXI00832,Vespermann,"Catharina Sigi, f. Sigi","Tysk Operasangerinde, g. 1827 m. Wilhelm V.",II:64;II:69,"delvis overlap - BEHOLD, flet manuelt",PerXI09484 PerXI09485,
+PerXI00833,Vezin,Sulpice,Hausvogt på Breitenbürg 1844.,II:385,UNIK - findes intet andet sted,,nærmeste 'hein' 0.67
+PerXI00834,Villers,Karl,"Tysk Læge, dr. med.",IV:62,"samme efternavn, anden person - BEHOLD",PerXI09505,beskrivelseslighed 0.48
+PerXI00835,Vincent & Vives,,Handelshus i Cadix 1862.,V:291,UNIK - findes intet andet sted,,nærmeste 'vicentino' 0.67
+PerXI00836,Vliet,Anna Maria Christina van der (f. 1847),Datter af J.L.v.d.V.,III:200,"samme efternavn, anden person - BEHOLD",PerXI09529,beskrivelseslighed 0.42
+PerXI00837,Vogt,Udine,Plejedatter af Frederik Sigfried V.,I:314;I:315;I:316;I:317;I:333;I:456,"delvis overlap - BEHOLD, flet manuelt",PerXI09540 PerXI09541 PerXI09542,
+PerXI00838,Volterra,Daniele da,Italiensk Maler.,II:111,"ligner navn, men ingen fælles sider - BEHOLD",,'volterrano' lighed 0.89
+PerXI00839,Volkonsky,"Sophie, Fyrstinde, f. Wolonsky","g.m. russisk Feltmarskal, kejserlig Husminister, Fyrst Peter Mikhailovitch.",V:401;V:402,"ligner navn, men ingen fælles sider - BEHOLD",,'wolkonsky' lighed 0.89
+PerXI00840,Volpi,Vincenzio,"Ansat fra 1820 ved Biblioteca Medicea Laurenziana, Firenze.",I:387;I:388,UNIK - findes intet andet sted,,nærmeste 'savoli' 0.73
+PerXI00841,von Düring,,"ung tysk Baron, der skriver Digte (1869).",VIII:268,"samme efternavn, anden person - BEHOLD",PerXI03107,beskrivelseslighed 0.00
+PerXI00842,von Norden,,"(Taffel hos Friedrich Wilhelm IV af Preussen, Berlin 26.12.1845).",III:34,UNIK - findes intet andet sted,,nærmeste 'conradsen' 0.67
+PerXI00843,Wackinhusen,Frøken,"Mecklenburg, ledsager Pianistinden Emma Brandes August 1872 i København.",IX:313;IX:314;IX:315,UNIK - findes intet andet sted,,nærmeste 'backhuyzen' 0.67
+PerXI00844,Wagner,Richard,Tysk Komponist og Digter.,V:79;V:89;V:155;V:183;VI:164;VIII:277;VIII:292;VIII:362;VIII:363;VIII:364;VIII:403;VIII:422;IX:42;IX:245,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09581 PerXI09582 PerXI09583,
+PerXI00845,Wåhlberg,Broder til Fru Malin von Beskow (enten Gustaf af W.,"kgl. Rentemester, eller Göran Didrik W. (1792–1873), Ekspeditionssekretær, Stockholm).",III:341,"samme efternavn, anden person - BEHOLD",PerXI09573,beskrivelseslighed 0.29
+PerXI00846,Wåhlberg,Frøken de,Søster til Fru Malin von Beskov (enten Catharina Elisabet (1789–1879) eller Hedvig Charlotta (1798–1875)).,III:337;III:339;III:340;III:341;VI:299,"samme efternavn, anden person - BEHOLD",PerXI09573,beskrivelseslighed 0.50
+PerXI00847,Wansrat,Albert,"Tysk Arkitekt, 1854–1859 Professor i Tegning og Bygningskunst ved Polyteknisk Institut Collegium Carolinum, Braunschweig",II:260,OCR-dublet - kan fjernes,PerXI09629,'wanstrat' lighed 0.93
+PerXI00848,Warberg (Vahrberg),Casten Adolf,"Svensk fhv. Oberstløjtnant, Direktør ved Göta Kanal.",III:374;III:375;III:377;III:378;III:394,UNIK - findes intet andet sted,,nærmeste 'daisenberger' 0.52
+PerXI00849,Warberg,C.,"Fører af Dampskibet Götheborg, Göta Kanal 1849.",III:375,"samme efternavn, anden person - BEHOLD",PerXI09630,beskrivelseslighed 0.34
+PerXI00850,Warberg,Frøken,"Datter af K.G.W., Trollhättan August 1849.",III:375;III:378,"samme efternavn, anden person - BEHOLD",PerXI09630,beskrivelseslighed 0.27
+PerXI00851,Warburg,Pinches (Pius),"Broder til John W., Medindehaver af Bankierfirmaet W. S. Warburg i Altona.",VIII:89;VIII:90;VIII:91;VIII:92;VIII:93,"delvis overlap - BEHOLD, flet manuelt",PerXI09633 PerXI09634 PerXI09635,
+PerXI00852,Wartan,Josephi,ungarsk Gejstlig og Astronom (Donau 27.5.1841).,II:230;II:231,UNIK - findes intet andet sted,,nærmeste 'jarta' 0.73
+PerXI00853,Weber,"Katharina von, Friherreinde, f. Kramer",g.m. Max Maria v. W.,IV:282;IV:397,"samme efternavn, anden person - BEHOLD",PerXI09680,beskrivelseslighed 0.24
+PerXI00854,Wegner & Mottu,,"Fotografer, Amsterdam.",VII:45,UNIK - findes intet andet sted,,nærmeste 'abendrot' 0.53
+PerXI00855,Weiss,Johann,"dr.phil., »fra Pest«, Farbroder til Leonore Geibel, Nizza December 1869.",VIII:309;VIII:310;VIII:312;VIII:334,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09734 PerXI09735 PerXI09736,
+PerXI00856,Wennberg,Fredrik Wilhelm,"Svensk Grosserer, dansk Konsul Stockholm.",III:340,"ligner navn, men ingen fælles sider - BEHOLD",,'wienberg' lighed 0.88
+PerXI00857,Wennerberg,Gunnar,"Svensk Digter og Komponist, Docent i Uppsala i Æstetik, senere Kirkeminister og Landshøvding i Växio.",III:316;III:318;III:319,"ligner navn, men ingen fælles sider - BEHOLD",,'henneberg' lighed 0.84
+PerXI00858,Wensioe,Thure,"Sognepræst i Mariestad 1848–1856, fil.dr., 1856 Sognepræst ved S. Klara Kirke i Stockholm.",III:365;III:366,UNIK - findes intet andet sted,,nærmeste 'hense' 0.67
+PerXI00859,Wenzel den Hellige,,Hertug af Bøhmen.,I:492;IX:264,UNIK - findes intet andet sted,,nærmeste 'kunigundedenhellige' 0.63
+PerXI00860,Werff,Adriaen van der,Hollandsk Maler.,I:384,UNIK - findes intet andet sted,,nærmeste 'ewerlof' 0.67
+PerXI00861,Wergeland,Henrik,Norsk Digter.,II:22;V:47;IX:26;IX:114,UNIK - findes intet andet sted,,nærmeste 'england' 0.75
+PerXI00862,Werlauff,E. C.,"Professor i Historie ved Københavns Universitet 1828, Overbibliotekar ved Det kgl. Bibliotek 1823–1861, Historiker.",V:133;V:134;X:357;X:402,UNIK - findes intet andet sted,,nærmeste 'ewerlof' 0.67
+PerXI00863,Werligh-Staahl,Daniel Theodor,"Søn af Daniel Staahl, menig Soldat 1864.",VI:112;VI:113,UNIK - findes intet andet sted,,nærmeste 'ehrenstrahl' 0.58
+PerXI00864,Werliin,Christian,"Student 1824, 1827 kst. Adjunkt i Helsingør, cand. theol. 1829, lic.theol. 1838, 1841 Sognepræst til Hasle, Skejby og Li",I:33;I:34,UNIK - findes intet andet sted,,nærmeste 'berling' 0.71
+PerXI00865,Werliin,Henri,"Søn af Chr. W., Stedsøn af Chr. Winther, Fuldmægtig i Finansministeriet.",VIII:222,UNIK - findes intet andet sted,,nærmeste 'berling' 0.71
+PerXI00866,Werner,Karl Fr. Heinr.,Tysk Maler.,II:131,"ligner navn, men ingen fælles sider - BEHOLD",,'berner' lighed 0.83
+PerXI00867,Werner,Nathalie,Tante til Clara Heinke.,IV:276;IV:277;IV:320;VII:47,"ligner navn, men ingen fælles sider - BEHOLD",,'berner' lighed 0.83
+PerXI00868,Werning,Marie,"tidligere Solodanserinde ved Det kgl. Teater, Afsked 1837, g. s.A. m. Artisten Jean d'Abis.",VI:67,UNIK - findes intet andet sted,,nærmeste 'bering' 0.77
+PerXI00869,Wesley,,London 25.6.1857.,IV:251,"ligner navn, men ingen fælles sider - BEHOLD",,'wellesley' lighed 0.80
+PerXI00870,Wessel,Johan Herman,Digter.,V:372;V:385;VII:268;VIII:49;VIII:252,"ligner navn, men ingen fælles sider - BEHOLD",,'weisse' lighed 0.83
+PerXI00871,Wessely,Abraham,"Dispachør, Landstingsmand.",VI:274,UNIK - findes intet andet sted,,nærmeste 'weisse' 0.77
+PerXI00872,West,Hans Frederik,"Skovrider, Glorup.",III:184;III:405,UNIK - findes intet andet sted,,nærmeste 'este' 0.75
+PerXI00873,West,Johan Wilhelm,"tidligere Huslærer på Bregentved, 1832 Sognepræst i Hellested.",II:280;II:284,UNIK - findes intet andet sted,,nærmeste 'este' 0.75
+PerXI00874,Westberg,Maria,Solodanserinde ved Det kgl. Teater 1871–1890.,IX:157;X:443,"ligner navn, men ingen fælles sider - BEHOLD",,'edsberg' lighed 0.80
+PerXI00875,Westengaard,Carl Theodor,Skolelærer i Bisserup ved Holsteinborg.,VII:330;X:258,"ligner navn, men ingen fælles sider - BEHOLD",,'westergaard' lighed 0.91
+PerXI00876,Westengaard,"Caroline Jensine, f. Borup","Søster til Hansine Borup, g.m. Carl Theodor W.",VII:330;X:258,"ligner navn, men ingen fælles sider - BEHOLD",,'westergaard' lighed 0.91
+PerXI00877,Westengaard,"Else Marie, f. Høyen",g. 1820 m. L.C.D.W.,II:435,"ligner navn, men ingen fælles sider - BEHOLD",,'westergaard' lighed 0.91
+PerXI00878,Westengaard,Lauritz Christian Ditlev,Sognepræst 1830 ved St. Hans Kirke i Odense.,II:431;II:435,"ligner navn, men ingen fælles sider - BEHOLD",,'westergaard' lighed 0.91
+PerXI00879,Wester,Anders Magnus,"Svensk Publicist og Maler. »Som tidningsutgivare skrev han sig artisten Anders Magnus Wester Manhem, men om hans konstnä",IX:100,"ligner navn, men ingen fælles sider - BEHOLD",,'este' lighed 0.80
+PerXI00880,Westergaard,"Anna, f. Bille","Søster til C.St.A. Bille, g. 1852 m. Chr. Jørgensen W.",VII:319,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09754 PerXI09755,
+PerXI00881,Westergaard,Otto,"Premierløjtnant ved 5. Forstærkningsbataillon, senere Oberst.",III:399,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09754 PerXI09755,
+PerXI00882,Westermann,"Blanka, f. Vieweg","Søster til Eduard Vieweg, g. 1838 m. George W.",II:48,"ligner navn, men ingen fælles sider - BEHOLD",,'stemann' lighed 0.82
+PerXI00883,Westermann,Carl Ludvig Theodor,Søn af Carl Th. W.,IV:359,"ligner navn, men ingen fælles sider - BEHOLD",,'stemann' lighed 0.82
+PerXI00884,Westermann,Carl Th.,"Grosserer, borgerlig Raadmand og tysk Konsul i Randers.",IV:326;IV:359;IV:360;VI:247,"ligner navn, men ingen fælles sider - BEHOLD",,'stemann' lighed 0.82
+PerXI00885,Westermann,George,Forlagsboghandler i Braunschweig.,II:48;IV:223;IV:225;IV:230,"ligner navn, men ingen fælles sider - BEHOLD",,'stemann' lighed 0.82
+PerXI00886,Westermann,"Ida Sophie, f. Fürst","Søster til Augusta Fürst, g.m. Carl Theodor W.",IV:326;IV:357;IV:358;V:424;VI:281;VII:227,OCR-dublet - kan fjernes,PerXI08847 PerXI08848,'stemann' lighed 0.82
+PerXI00887,Westermann,Paul Anton,Boghandler i Leipzig.,X:355,"ligner navn, men ingen fælles sider - BEHOLD",,'stemann' lighed 0.82
+PerXI00888,Westermann,W.,Billetkasserer ved Det kgl. Teater.,V:120,"ligner navn, men ingen fælles sider - BEHOLD",,'stemann' lighed 0.82
+PerXI00889,Westmoreland,"John Fane, Jarl af –","Engelsk Diplomat, 1841 Gesandt i Berlin, 1851–1855 i Wien.",III:37,UNIK - findes intet andet sted,,nærmeste 'westergaard' 0.61
+PerXI00890,Westphal,,"fra Itzehoe (enten Obergerichtsadvokat Eggert W. eller Konsul, Købmand og Tobaksfabrikant Herman W.).",II:438,UNIK - findes intet andet sted,,nærmeste 'westrup' 0.67
+PerXI00891,Westrup,August,"Forlagsboghandler, Medredaktør og -udgiver af Illustreret Børneblad 1871 og Ugeblad for Børn 1872.",IX:97;IX:98;IX:139;IX:221;IX:222;IX:225;X:422,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09756,
+PerXI00892,Wettering,Joh. Karl Ludwig von der,Kirchspielvogt in der Crempes Marsch.,II:385,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09757,
+PerXI00893,Wexschall,"Anna, f. Brenøe","Skuespillerinde ved Det kgl. Teater, g. 1° 1823 m. Violinisten F. W., Ægteskabet opløst 1831, 2° 1834 m. Skuespiller N.P",I:471;I:472,"ligner navn, men ingen fælles sider - BEHOLD",,'schall' lighed 0.80
+PerXI00894,Weyse,C. E. F.,Komponist.,I:63;I:118;I:129;I:144;I:332;II:69;II:297;II:344;IV:195;IV:413;VI:326;VII:263;VIII:65;VIII:151;VIII:157;VIII:459;X:223;X:388;X:389,"ligner navn, men ingen fælles sider - BEHOLD",,'heyse' lighed 0.80
+PerXI00895,Whitte,Hans Kofod,"Student 1828, dr.phil., Rektor ved Randers lærde Skole 1857–1885, tit. Professor 1858.",VIII:137,"ligner navn, men ingen fælles sider - BEHOLD",,'witte' lighed 0.91
+PerXI00896,Wibe,Møller,"Østfyn, 1.8.1850.",III:422,UNIK - findes intet andet sted,,nærmeste 'wied' 0.75
+PerXI00897,Wich,Edouard Herløw,"Søn af Peder Jørgen W., Skræddersvend i Odense.",VII:385,"ligner navn, men ingen fælles sider - BEHOLD",,'wulich' lighed 0.80
+PerXI00898,Wich,Peder,Skræddermester i Odense.,VII:383,"ligner navn, men ingen fælles sider - BEHOLD",,'wulich' lighed 0.80
+PerXI00899,Wich,Peder Jørgen,"Søn af Peder W., Skræddermester, Medlem af Odense Kommunalbestyrelse.",VII:383;VII:385,"ligner navn, men ingen fælles sider - BEHOLD",,'wulich' lighed 0.80
+PerXI00900,Wichfeld,Jørgen,"cand. jur. 1824, Kammerjunker, 1846 Besidder af Engestofte og Ulriksdal, Landstingsmand, 1847 Kammerherre.",I:105;VI:328;VI:329;VIII:45;VIII:137;VIII:349,UNIK - findes intet andet sted,,nærmeste 'blichfeldt' 0.78
+PerXI00901,Wichfeld,"Warinka, f. Baronesse Rosenkrantz",g.1842 m. Jørgen W.,VIII:45;IX:41,UNIK - findes intet andet sted,,nærmeste 'blichfeldt' 0.78
+PerXI00902,Wichmann,Ludwig,Tysk Billedhugger.,III:313,"ligner navn, men ingen fælles sider - BEHOLD",,'dichmann' lighed 0.88
+PerXI00903,Wilckens,G.F.,"Thorvaldsens Kammertjener, Kustode ved Thorvaldsens Museum.",VIII:434;VIII:435;X:231;X:242,"ligner navn, men ingen fælles sider - BEHOLD",,'wilkens' lighed 0.93
+PerXI00904,Wilkens,Gl.,"cand. mag. i Filosofi 1869, Professor 1897, Filosof, Sociolog og Æstetiker.",IX:220,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09802,
+PerXI00905,Willemoes-Suhm,Frøknerne,Døtre af Martin W.-S.,II:301,"samme efternavn, anden person - BEHOLD",PerXI09808,beskrivelseslighed 0.10
+PerXI00906,Williams & Norgate,,"Boghandlerfirma i Govent Garden, London 1847.",III:225,UNIK - findes intet andet sted,,nærmeste 'winklervonforazest' 0.48
+PerXI00907,Willich,Mrs.,London 8.8.1847. Beundrerinde af H.C. Andersen og af Jenny Lind.,III:245;III:246,"ligner navn, men ingen fælles sider - BEHOLD",,'wallich' lighed 0.86
+PerXI00908,Winsløw,Ferd. S.,"Direktør for den skandinaviske Bank i Chicago, efter Bankens Fallit 1872 Indehaver af en Østersforretning i Virginia, de",IX:201,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09841,
+PerXI00909,Winther,"Petrine, f. Steffensen","Datter af Fisker Steffen Olsen, Taarbæk, g. 1873 m. Georg W.",X:180,"samme efternavn, anden person - BEHOLD",PerXI09848,beskrivelseslighed 0.21
+PerXI00910,With,,Eller Hvidt?.,III:415,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09858,
+PerXI00911,Witzleben,Fru von,Hofdame hos Dronning Amalia af Grækenland (Navnet vist misforstået af H.C. Andersen).,II:255;II:256,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09867 PerXI09868 PerXI09869,
+PerXI00912,Wulff,Henriette (Jette),Datter af P.F.W.,V:34;V:106;VII:102;VII:139;VII:168,DUBLET - kan fjernes,PerXI09928,beskrivelseslighed 1.00
+PerXI00913,Wørishøffer,J. A. P. F.,"Oberst i Infanteriet, 1864 Generalmajor, 1874 Generalløjtnant.",V:127,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09947,
+PerXI00914,Xenophon,,græsk Historiker.,I:49,UNIK - findes intet andet sted,,nærmeste 'josephson' 0.59
+PerXI00915,Xerxes,,Konge i Persien 485–65.,IV:386,UNIK - findes intet andet sted,,nærmeste 'berens' 0.67
+PerXI00916,Z,,"(uidentificeret), Slagelse 1825–1826.",I:12;I:54,UNIK - findes intet andet sted,,nærmeste 'boz' 0.50
+PerXI00917,Zeise,Frk.,Datter af Heinrich Z..,III:15,"samme efternavn, anden person - BEHOLD",PerXI09976,beskrivelseslighed 0.00
+PerXI00918,Zemlen,(Zelmen),"Napoli 1846, J.A. Josephsons Rejsefælle.",III:109;III:115;III:116;III:117;III:118;III:120;III:121;III:122;III:126;III:127,UNIK - findes intet andet sted,,nærmeste 'zeggelen' 0.71
+PerXI00919,Zimmermann,Clemens von,"Tysk Historiemaler, Raderer og Litograf.",II:67,"samme efternavn, ingen fælles sider - BEHOLD",PerXI09995 PerXI09996 PerXI09997,
+PerXI00920,Zöllner,"von, Hauptmann (død 8.6.1856)",Ven af Serres.,III:66;III:67;III:69;IV:53;IV:68;IV:134;IV:135;IV:207;IV:208,"samme efternavn, anden person - BEHOLD",PerXI10026,beskrivelseslighed 0.51
+PerXI00921,Zytphen-Adeler,"Anna Charlotte, Baronesse",Hofdame hos Kronprinsesse Louise af Danmark.,IX:181,"samme efternavn, ingen fælles sider - BEHOLD",PerXI10024,
