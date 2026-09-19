@@ -5,13 +5,16 @@ unpackings pay for themselves.
 
 This is deliberately narrow. It does not propose a new schema, new tables, or a
 different release; every recommendation below is *one column split, one column
-filled, or one vocabulary aligned* inside the shape V0.94 already has. The
+filled, or one vocabulary aligned* inside the shape the release already has. The
 release-level assessment — row counts, id crosswalks, reference encoding, fill
 rates — is in [`v094-structural-diff.md`](v094-structural-diff.md) and is not
 repeated here.
 
 Measured against `data/raw/HCA REPOSITORY V0.94/`: 2,433 locations, 3,590
-works, 4,413 diary pages, 36,889 calendar rows.
+works, 4,413 diary pages, 36,889 calendar rows. Two of the recommendations an
+earlier draft made about the works register have since been answered by
+`data/raw/5-WORK-Registry-V0.95.xlsx`; what that release settles, and what it
+leaves, is in [the note below](#note--what-v095-already-fixes).
 
 ---
 
@@ -23,16 +26,15 @@ not to consume it.
 | # | Registry | Change | Gain | Cost |
 |---|---|---|---|---|
 | 1 | Location | Split `Location` into name + four typed qualifier columns | 185 rows stop being unsearchable; 119 alternative names become findable | low |
-| 2 | Work | Fill `See also` from the `- Se ogsaa:` suffix already inside `WorkTittle` | 71 of 79 cross-references resolve to a `WorkID`; two provisioned columns stop being dead | low |
-| 3 | Work | Finish `Artist` / `MuseumEtc` / `City` from the trailing parenthesis | 115 art rows gain a museum; add a `Year` column while there | medium |
-| 4 | Diary page | Move `Day` from a space-separated list to a page↔date bridge | the documented join to `Calendar` becomes real; one impossible date surfaces | low |
-| 5 | All | Align `Category` / `PlaceType` with the `Kontrollister` sheet in `1-SITES.xlsx` | validation starts catching things | low |
-| 6 | All | Remove dead columns and placeholder values | 6 dead columns, 2,973 `(blank)` strings, 2 country values split in two by a trailing space | trivial |
-| 7 | Work | Mark the 39 collection headings and the 119 `*` entries as what they are | two categories stop being counted as works | low |
+| 2 | Diary page | Move `Day` from a space-separated list to a page↔date bridge | the documented join to `Calendar` becomes real; one impossible date surfaces | low |
+| 3 | All | Align `Category` / `PlaceType` with the `Kontrollister` sheet in `1-SITES.xlsx` | validation starts catching things | low |
+| 4 | All | Remove dead columns and placeholder values | 6 dead columns, 2,973 `(blank)` strings now leaking into a derived key, 5 vocabulary values split in two by whitespace | trivial |
+| 5 | Work | Mark the 39 collection headings and the 119 `*` entries as what they are | two categories stop being counted as works | low |
+| 6 | Work | Finish `Artist` / `MuseumEtc` / `City` from the trailing parenthesis | 115 art rows gain a museum; the last part of the title still unparsed | medium |
 
-Nothing here requires a new file. Items 1–3 and 7 add columns to sheets that
-already exist; item 4 adds one sheet that the workbook's own documentation
-already specifies.
+Nothing here requires a new file. Items 1, 5 and 6 add columns to sheets that
+already exist; item 2 adds one sheet that the workbook's own documentation
+already specifies, and that V0.95 has now built for works.
 
 ---
 
@@ -69,7 +71,7 @@ Why this is the highest-value single change: the alternative-form group alone
 is 119 places that currently cannot be found under the name most sources use
 for them, and `NearPlace` is the only containment signal in the registry
 besides `Country` — which for `Belvedere (ved Weimar)` says only `Tyskland`,
-and says the same for `Belvedere (ved Wien)`'s Austrian neighbour rows.
+and says the same for the Austrian `Belvedere (ved Wien)` two rows down.
 
 **A caution on the split.** The parentheses contain OCR damage of the same kind
 the page references do: `Amönenhöhe (ved ltzehoe)` for *Itzehoe*,
@@ -80,71 +82,7 @@ then review the 119 extracted forms once — it is one screen of text.
 
 ---
 
-## 2. Work — `See` and `See also` are empty, and the data for them is in the title
-
-Both columns are provisioned and 0 % filled. Meanwhile 77 titles end in a
-literal `- Se ogsaa: …` suffix, and two more carry `, se: …`:
-
-```
-Bagtalelsens Skole (Richard Brinsley Sheridan)- Se ogsaa: Die Lästerschule og School for Scandal
-Brölloppet på Ulfåsa (Frans Hedberg)- Se ogsaa: Brylluppet paa Ulfsbjerg
-Frankfurter Didaskalien, se: Didaskalia
-```
-
-Normalising the title — strip the author parenthesis, the leading `*`, the
-trailing period — and matching the target against it resolves **71 of 79
-targets to an existing `WorkID`**. The remaining eight are near-misses
-(`Et Glas Vand` against the stored `Et GlasVand`; `En lille Heks` against
-`Die Grille (… efter George Sand: La petite Fadette)`) and are a short manual
-list, not a research problem.
-
-That converts an untraversable string into the translation/adaptation network
-the register was built to express: the Danish, German and English titles of the
-same play currently sit in three unconnected rows.
-
-`Se ogsaa` targets are multi-valued (`… og School for Scandal`), so `See also`
-needs the same multi-value convention as the `FK…` columns, or its own bridge.
-
----
-
-## 3. Work — finish the artist / museum / city columns from the trailing parenthesis
-
-`Artist` is 59 % filled, `MuseumEtc` and `City` 16 %. The unfilled rows are not
-unknowable. For 873 of the 918 `BILLEDKUNST` rows the trailing parenthesis is
-the `artist, museum, city` triple the columns want, and 680 of those already
-carry the commas that separate it:
-
-```
-Annibale Carracci, Uffizi, Firenze
-Leonello Spada, M. borbonico, Napoli
-Salvator Rosa, Doria-P., Rom
-```
-
-**115 art rows have that triple in the title and an empty `MuseumEtc`.** Of the
-576 that are filled, 563 have the column value appearing verbatim in the title
-— good evidence that the same extraction rule produced them, that someone
-stopped partway, and that finishing is mechanical rather than editorial.
-
-The same parenthesis carries, in the non-art genres, facts that have no column
-at all: publication year (466 titles contain one), original-language title
-(267 use `»…«`), and translator or adapter (64 titles contain `efter`, 35
-contain `overs.`). **A `Year` column is the cheapest of these and the most
-used** — it is what makes the works register sortable against the diary
-chronology, which is the one axis the whole repository is organised on.
-
-I would not attempt translator/adapter extraction in the same pass. Those
-strings are genuinely irregular —
-
-```
-En lille Heks (Ad. Recke og P. Aalborg, bearbejdet efter en tysk
-Dramatisering (»Die Grille«) af George Sands Roman »La petite Fadette«)
-```
-
-— and a bad extraction there is worse than none.
-
----
-
-## 4. Diary page — `Day` is a list, so the documented calendar join does not exist
+## 2. Diary page — `Day` is a list, so the documented calendar join does not exist
 
 `1-SITES.xlsx` specifies step 2 of the load order as *"Kalender — én række pr.
 dato, som en side omhandler"*, keyed `CalendarKey` → `PageKey`. The delivered
@@ -159,8 +97,9 @@ four). The 36,889-row `Calendar` sheet is therefore joinable in principle and
 joined to nothing in practice — 8,204 of its rows are referenced, and none of
 them by a key a tool can follow.
 
-One bridge sheet — `PageKey`, `DateID` — makes it real. The same pass makes
-three other things go away:
+One bridge sheet — `PageKey`, `DateID` — makes it real, and V0.95 has just
+demonstrated the pattern on the works side. The same pass makes three other
+things go away:
 
 - `Year` and `Month` are derivable from `Day` and are stored as padded strings
   (`1825-XX`, `1825-09-XX`) that sort as text.
@@ -174,7 +113,7 @@ three other things go away:
 
 ---
 
-## 5. Align the controlled vocabularies with the workbook's own control lists
+## 3. Align the controlled vocabularies with the workbook's own control lists
 
 `1-SITES.xlsx` → `Kontrollister` defines `PlaceType` as:
 
@@ -204,12 +143,19 @@ Two smaller instances of the same drift:
   take the name the JSON mapping already gives it: `CountryArea`. The mapping
   sheet and the registry disagree today, and the mapping sheet is right.
 
+An unvalidated vocabulary drifts further with each release rather than
+settling. `FormH3` in the works register carried two whitespace-damaged values
+in V0.94 (`Skulptur `, `Faglitteratur `); in V0.95 it carries three, the new one
+being `Skuespil\n` with a trailing newline. Eighteen genres are now spelled
+twenty-one ways, and `Skuespil` is two of them.
+
 ---
 
-## 6. Dead columns, sentinels and stragglers
+## 4. Dead columns, sentinels and stragglers
 
 Cheap, and each one currently costs a reader a moment of doubt about whether
-the data is missing or the column is.
+the data is missing or the column is. Counts below are V0.94; the works figures
+are unchanged in V0.95 unless noted.
 
 | Where | What | Count |
 |---|---|---|
@@ -220,7 +166,7 @@ the data is missing or the column is.
 | Diary page | `AI-genSummary`, `HCACSummary` entirely empty | 4,413 |
 | Work | `SubFormH4` holds the string `(blank)` rather than an empty cell | 2,973 |
 | Location | `Country` / `Category` hold the string `0` rather than empty | 5 rows |
-| Work | `FormH3` values with a trailing space (`Skulptur `, `Faglitteratur `) | 2 values, 517 rows |
+| Work | `FormH3` values differing only in whitespace | 2 values in V0.94, 3 in V0.95 |
 | Location | `Country` values with a trailing space (`Slovakiet `, `Polen `) | 2 values |
 | Diary page | `KBLinkString` with trailing whitespace | 2 |
 | Diary page | `SourceStatus` marked required (`*`) but empty | 4,363 of 4,413 |
@@ -229,14 +175,29 @@ The two trailing-space countries are the ones to fix first: `Polen` and
 `Polen ` are two different values in every pivot, facet and group-by built on
 this file, and nothing on screen distinguishes them.
 
-`Sequense` in the works register runs 1–5,120 across 3,590 rows. If the 1,530
-gaps are deleted entries, the column is a register-order key rather than a
-sequence, and saying so in the header stops the next reader treating the gaps
-as data loss.
+**The `(blank)` sentinel has now escaped its cell.** V0.95's new
+`WorkTittlePath` column concatenates the genre hierarchy into a single path
+key, and 2,973 of 3,784 paths read
+
+```
+VÆRK-REGISTER / H. C. ANDERSEN / Samlede og blandede Skrifter / (blank) / Gesammelte Werke (1847-72)
+```
+
+The same release's `WorkRegistry` sheet builds `RegistryTitelPath` from the
+same hierarchy and gets it right — 0 of 11,195 contain the sentinel. Two
+builders of the same key disagree, which is the cheapest possible argument for
+deleting the sentinel at source rather than teaching each consumer about it.
+
+`Sequense` in the works register runs 1–5,120 across 3,590 rows in V0.94 and
+1–40,193 across 3,784 in V0.95. If the gaps are deleted entries, the column is
+a register-order key rather than a sequence, and saying so in the header stops
+the next reader treating the gaps as data loss.
 
 ---
 
-## 7. Two kinds of row in the works register that are not works
+## 5. Two kinds of row in the works register that are not works
+
+Both survive unchanged into V0.95.
 
 - **39 collection headings.** `FormH3 = "Museer og Samlinger"` holds rows like
   `Amsterdam. Chr. E. van Eeghens Samling` and `Firenze. Aceademia delle helle
@@ -244,24 +205,127 @@ as data loss.
   artist, they carry 145 page references between them, and several are
   near-duplicates of each other. They inflate the works count — and they are
   also the natural authority for `MuseumEtc`, which is the argument for keeping
-  them, in a column that says what they are. (`Aceademia delle helle arti` is
-  OCR of *Accademia delle belle arti*; these rows need the same OCR review
-  as §1.)
+  them, in a column that says what they are. The register itself says as much:
+  V0.95's `PagkFormNote` records the printed legend *"De forkortede
+  Museumsnavne er oplyst i foranstaaende Museumsregister."* (`Aceademia delle
+  helle arti` is OCR of *Accademia delle belle arti*; these rows need the same
+  OCR review as §1.)
 - **119 rows whose title begins with `*`**, all of them H.C. Andersen poems.
-  The asterisk is a register convention with a defined meaning in the printed
-  legend, and it is currently a character in the sort key — `*»Aabne Strand…«`
-  sorts ahead of everything. Moved to a flag column, the poems sort where a
-  reader expects them and the convention becomes queryable.
+  V0.95 supplies the legend that V0.94 left to inference — `PagkTitelNote`
+  reads *"\* betegner at Digtets Tekst meddeles."*, i.e. the diary gives the
+  poem's text. That is a genuine research facet and it is currently a character
+  in the sort key: `*»Aabne Strand…«` sorts ahead of everything. Now that the
+  meaning is recorded in the data, moving it to a boolean column is a rename,
+  not a decision.
+
+---
+
+## 6. Work — finish the artist / museum / city columns from the trailing parenthesis
+
+The one recommendation about the works register that V0.95 does not act on. A
+cell-by-cell diff of the 3,590 carried-over rows shows **zero changes** in
+`Artist`, `MuseumEtc` and `City`: still 2,113 / 576 / 574 filled, 59 % / 16 % /
+16 %. The new `WorkRegistry` sheet provisions an `ArtistDerived` column and
+leaves it 0 % filled.
+
+The unfilled rows are not unknowable. For 873 of the 918 `BILLEDKUNST` rows the
+trailing parenthesis is the `artist, museum, city` triple the columns want, and
+680 of those already carry the commas that separate it:
+
+```
+Annibale Carracci, Uffizi, Firenze
+Leonello Spada, M. borbonico, Napoli
+Salvator Rosa, Doria-P., Rom
+```
+
+**115 art rows have that triple in the title and an empty `MuseumEtc`.** Of the
+576 that are filled, 563 have the column value appearing verbatim in the title
+— good evidence that the same extraction rule produced them, that someone
+stopped partway, and that finishing is mechanical rather than editorial.
+
+Two facts in the same parenthesis still have no column anywhere: the
+original-language title (267 titles use `»…«`) and the translator or adapter
+(64 titles contain `efter`, 35 contain `overs.`). I would take the first and
+leave the second: those strings are genuinely irregular —
+
+```
+En lille Heks (Ad. Recke og P. Aalborg, bearbejdet efter en tysk
+Dramatisering (»Die Grille«) af George Sands Roman »La petite Fadette«)
+```
+
+— and a bad extraction there is worse than none.
+
+---
+
+## Note — what V0.95 already fixes
+
+`data/raw/5-WORK-Registry-V0.95.xlsx` answers two of this document's earlier
+recommendations for the works register and most of a third from
+[`v094-structural-diff.md`](v094-structural-diff.md). It carries the 3,590
+V0.94 work rows forward byte-identically, adds 194, and adds a second sheet,
+`WorkRegistry`, of 11,195 rows — one per work↔page reference.
+
+**Cross-references: solved.** `See` is filled on 118 rows, `See also` on 76, and
+a new `FKWorkID` column resolves **193 of 193 targets to a real `WorkID`** —
+better than the 71-of-79 a title-suffix parse would have managed. The 118 `see`
+entries are the printed register's own cross-reference headings
+(`Aamanden, se: Klokkedybet`) and are correctly modelled as rows of their own.
+
+One thing to tidy, though: the 76 `see also` links hang off 194 new stub rows
+(`WOR200000`–) that carry no page references and no `OLDWorkID`, and 75 of them
+duplicate the title of an existing work row. The original rows still carry the
+unparsed `- Se ogsaa:` suffix in `WorkTittle` with `See also` empty — so
+`Bagtalelsens Skole` (`WOR055700`) does not know about its own cross-reference;
+its shadow (`WOR206050`) does. Copying `FKWorkID` onto the 76 originals and
+stripping the suffix would finish the job. Titles now also carry embedded
+newlines (137 rows, `Aamanden, \nse: Klokkedybet`), which belong in §4's list.
+
+**Publication year: solved.** `YearDerived` covers 470 distinct works across
+1,455 reference rows — against the 466 V0.94 titles that had a year buried in
+them, so essentially complete. `DateDerived` adds an exact date for 228 works,
+which V0.94 had nowhere at all. The six `WorkComposition…` / `WorkFirstPublication…`
+/ `WorkFirstPerformance…` columns are provisioned and entirely empty; §4's
+warning about empty columns applies to them.
+
+**Artist, museum and city: not addressed.** See §6.
+
+Three further gains worth recording, none of which this document asked for:
+
+- **References are a fact table now**, not a space-separated list — `VolRef`
+  and `PageRef` split, one row per reference, a KB link per row. This is the
+  works half of what §2 still asks for on the diary-page side.
+- **The OCR-damaged page keys are repaired.** `VIII           O-226-27` is now
+  `VIII-226` and `VIII-227`; `VI ,-119,` is `VI-119`; `III  (Noten)-229` is
+  `III-229`; `V l-l` is `V-1`. Abbreviated ranges are expanded rather than
+  right-split. `v094-structural-diff.md` counted 224 unreadable keys across 37
+  rows; what remains is 72 rows for a single work
+  (`Franske - Fantaisies danoises …`) whose `PageKeys` read `IV-` — a volume
+  with no page.
+- **Order of mention is back.** `WorkSeqNo` is filled on all 11,195 rows.
+  `v094-structural-diff.md` recorded that V0.94 could not express the live
+  `seq` and that it "cannot be recovered from it — only re-invented"; V0.95
+  carries it. The printed register's own apparatus comes with it: `ColumnNo`
+  (499 rows), `PageRefStyle`, and the three `Pagk…Note` columns that record the
+  legends quoted in §5.
+
+Two small defects in the new sheet, for whoever ingests it: `PageRef` is mixed-
+typed (11,006 numeric cells, 117 text), and `PageRefStyle` is filled on 35 of
+11,195 rows — either a column that was started and abandoned, or one whose
+blank means `Normal` and should say so.
 
 ---
 
 ## What I would do first
 
-Items 6 and 4, in that order. The trailing spaces and sentinels are twenty
-minutes of work and stop silently splitting groups; the calendar bridge turns
-the largest sheet in the release from decoration into data. Then item 1, which
-is the one that changes what a reader can find.
+Items 4 and 2, in that order. The whitespace-split vocabulary values and the
+sentinels are twenty minutes of work and stop silently splitting groups — and
+the `(blank)` leak into `WorkTittlePath` shows the cost compounding rather than
+holding steady. The calendar bridge then turns the largest sheet in the release
+from decoration into data, and V0.95 has already shown, on the works side, that
+the team can build exactly that.
 
-Item 2's cross-references and item 3's year extraction are both worth doing,
-but each needs a short human pass over the output. They are afternoon jobs,
-not five-minute ones.
+Then item 1, which is the one that changes what a reader can find.
+
+Item 6 needs a short human pass over its output, so it is an afternoon job
+rather than a five-minute one — but V0.95's `ArtistDerived` column suggests it
+is already on someone's list.
