@@ -1,0 +1,159 @@
+model,bin,n,mean_conf,accuracy
+fornavn (eksakt),0.60–0.70,337,0.6663,0.9881
+fornavn (eksakt),0.70–0.80,225,0.7487,1.0
+fornavn (eksakt),0.80–0.90,768,0.8498,0.9961
+fornavn (eksakt),0.90–0.95,662,0.9243,1.0
+fornavn (eksakt),0.95–0.98,894,0.9684,1.0
+fornavn (eksakt),0.98–1.00,500,0.9847,0.998
+fornavn (eksakt),ECE,,,0.107
+fornavn (stavevariant),0.60–0.70,305,0.6662,0.9869
+fornavn (stavevariant),0.70–0.80,207,0.7486,1.0
+fornavn (stavevariant),0.80–0.90,721,0.8488,0.9958
+fornavn (stavevariant),0.90–0.95,678,0.9256,1.0
+fornavn (stavevariant),0.95–0.98,955,0.9689,1.0
+fornavn (stavevariant),0.98–1.00,579,0.9855,0.9983
+fornavn (stavevariant),ECE,,,0.0997
+sidste fornavn,0.50–0.60,17,0.5131,0.1765
+sidste fornavn,0.60–0.70,345,0.6653,0.9681
+sidste fornavn,0.70–0.80,270,0.75,0.9963
+sidste fornavn,0.80–0.90,697,0.8447,0.9971
+sidste fornavn,0.90–0.95,656,0.9242,0.9954
+sidste fornavn,0.95–0.98,862,0.9682,0.9988
+sidste fornavn,0.98–1.00,291,0.9849,1.0
+sidste fornavn,ECE,,,0.1149
+fornavnsendelse 3 tegn,0.50–0.60,92,0.5516,0.4783
+fornavnsendelse 3 tegn,0.60–0.70,225,0.6605,0.8444
+fornavnsendelse 3 tegn,0.70–0.80,204,0.7479,0.9608
+fornavnsendelse 3 tegn,0.80–0.90,549,0.8475,0.98
+fornavnsendelse 3 tegn,0.90–0.95,581,0.9269,0.9948
+fornavnsendelse 3 tegn,0.95–0.98,889,0.9681,0.9944
+fornavnsendelse 3 tegn,0.98–1.00,1228,0.9901,0.9984
+fornavnsendelse 3 tegn,ECE,,,0.063
+fornavnsendelse 2 tegn,0.50–0.60,139,0.5526,0.518
+fornavnsendelse 2 tegn,0.60–0.70,181,0.658,0.7072
+fornavnsendelse 2 tegn,0.70–0.80,210,0.7533,0.8238
+fornavnsendelse 2 tegn,0.80–0.90,377,0.8555,0.9363
+fornavnsendelse 2 tegn,0.90–0.95,494,0.9227,0.9676
+fornavnsendelse 2 tegn,0.95–0.98,884,0.9672,0.9864
+fornavnsendelse 2 tegn,0.98–1.00,1650,0.9894,0.9945
+fornavnsendelse 2 tegn,ECE,,,0.0271
+fuldt navn (efternavn+fornavne),ECE,,,0.0
+efternavn,0.50–0.60,1078,0.5318,0.4796
+efternavn,0.60–0.70,1448,0.6479,0.4724
+efternavn,0.70–0.80,445,0.7404,0.4876
+efternavn,0.80–0.90,229,0.8219,0.6114
+efternavn,0.90–0.95,12,0.9043,0.9167
+efternavn,ECE,,,0.1467
+efternavnsendelse,0.50–0.60,85,0.5362,0.5647
+efternavnsendelse,0.60–0.70,324,0.6782,0.6975
+efternavnsendelse,0.70–0.80,90,0.7049,0.6222
+efternavnsendelse,ECE,,,0.0323
+label-segment (ikke-markør),0.60–0.70,32,0.6667,1.0
+label-segment (ikke-markør),0.70–0.80,22,0.75,1.0
+label-segment (ikke-markør),0.80–0.90,30,0.8598,1.0
+label-segment (ikke-markør),0.90–0.95,18,0.9265,1.0
+label-segment (ikke-markør),0.95–0.98,99,0.9682,1.0
+label-segment (ikke-markør),ECE,,,0.1236
+erhverv (første ord i beskrivelsens hoved),0.50–0.60,9,0.5,0.4444
+erhverv (første ord i beskrivelsens hoved),0.60–0.70,102,0.661,0.9216
+erhverv (første ord i beskrivelsens hoved),0.70–0.80,72,0.748,0.9583
+erhverv (første ord i beskrivelsens hoved),0.80–0.90,96,0.8278,0.9271
+erhverv (første ord i beskrivelsens hoved),0.90–0.95,30,0.9045,0.9
+erhverv (første ord i beskrivelsens hoved),0.95–0.98,58,0.9588,1.0
+erhverv (første ord i beskrivelsens hoved),ECE,,,0.1479
+rolle (person_role.csv),0.50–0.60,29,0.5157,0.5517
+rolle (person_role.csv),0.60–0.70,102,0.6611,0.6863
+rolle (person_role.csv),0.70–0.80,633,0.7416,0.7504
+rolle (person_role.csv),0.80–0.90,76,0.8319,0.7237
+rolle (person_role.csv),0.95–0.98,98,0.9676,0.9796
+rolle (person_role.csv),ECE,,,0.0198
+titel i beskrivelsens hoved,0.60–0.70,4,0.6667,0.5
+titel i beskrivelsens hoved,0.70–0.80,3,0.75,1.0
+titel i beskrivelsens hoved,0.80–0.90,28,0.8365,1.0
+titel i beskrivelsens hoved,0.90–0.95,13,0.9057,1.0
+titel i beskrivelsens hoved,0.95–0.98,31,0.9789,1.0
+titel i beskrivelsens hoved,0.98–1.00,30,0.9809,1.0
+titel i beskrivelsens hoved,ECE,,,0.0775
+nationalitet,0.50–0.60,75,0.5345,0.5467
+nationalitet,0.60–0.70,48,0.6552,0.7083
+nationalitet,0.70–0.80,207,0.7318,0.7585
+nationalitet,0.80–0.90,24,0.8359,0.7083
+nationalitet,0.90–0.95,14,0.9048,1.0
+nationalitet,ECE,,,0.0364
+har leveår i label,0.50–0.60,4021,0.5826,0.5827
+har leveår i label,0.80–0.90,464,0.8364,0.8384
+har leveår i label,ECE,,,0.0003
+antal bind med henvisninger,0.50–0.60,1671,0.5653,0.5655
+antal bind med henvisninger,0.60–0.70,2803,0.6344,0.6354
+antal bind med henvisninger,0.70–0.80,11,0.7066,0.5455
+antal bind med henvisninger,ECE,,,0.0011
+har fornavn i label,0.50–0.60,1660,0.5975,0.6096
+har fornavn i label,0.60–0.70,2472,0.6015,0.5934
+har fornavn i label,0.70–0.80,353,0.7154,0.7167
+har fornavn i label,ECE,,,0.009
+LR navne,0.50–0.60,461,0.5771,0.6638
+LR navne,0.60–0.70,92,0.6523,0.8587
+LR navne,0.70–0.80,198,0.76,0.9091
+LR navne,0.80–0.90,478,0.8611,0.9833
+LR navne,0.90–0.95,727,0.9281,0.9917
+LR navne,0.95–0.98,925,0.9665,0.9957
+LR navne,0.98–1.00,1445,0.9888,0.9993
+LR navne,ECE,,,0.0544
+LR navne,logloss/brier,,0.1482,0.0395
+LR navne+efternavn,0.50–0.60,349,0.5524,0.6447
+LR navne+efternavn,0.60–0.70,211,0.646,0.7725
+LR navne+efternavn,0.70–0.80,221,0.7548,0.9095
+LR navne+efternavn,0.80–0.90,525,0.8574,0.9733
+LR navne+efternavn,0.90–0.95,675,0.929,0.997
+LR navne+efternavn,0.95–0.98,901,0.9668,0.9967
+LR navne+efternavn,0.98–1.00,1444,0.9891,0.9993
+LR navne+efternavn,ECE,,,0.0559
+LR navne+efternavn,logloss/brier,,0.1524,0.041
+LR alle features,0.50–0.60,100,0.5528,0.59
+LR alle features,0.60–0.70,101,0.6499,0.7723
+LR alle features,0.70–0.80,212,0.7566,0.9009
+LR alle features,0.80–0.90,647,0.8567,0.9397
+LR alle features,0.90–0.95,534,0.9275,0.985
+LR alle features,0.95–0.98,797,0.9672,0.9987
+LR alle features,0.98–1.00,1935,0.9917,1.0
+LR alle features,ECE,,,0.0399
+LR alle features,logloss/brier,,0.1123,0.0277
+LR uden metadata,0.50–0.60,111,0.552,0.6306
+LR uden metadata,0.60–0.70,167,0.6567,0.7545
+LR uden metadata,0.70–0.80,374,0.7453,0.8904
+LR uden metadata,0.80–0.90,467,0.8569,0.9615
+LR uden metadata,0.90–0.95,485,0.9287,0.9876
+LR uden metadata,0.95–0.98,733,0.9674,0.9986
+LR uden metadata,0.98–1.00,1989,0.9922,1.0
+LR uden metadata,ECE,,,0.0451
+LR uden metadata,logloss/brier,,0.1205,0.0312
+"LR uden metadata, isotonisk kalibreret",0.50–0.60,56,0.545,0.5179
+"LR uden metadata, isotonisk kalibreret",0.60–0.70,69,0.655,0.7101
+"LR uden metadata, isotonisk kalibreret",0.70–0.80,141,0.7603,0.7801
+"LR uden metadata, isotonisk kalibreret",0.80–0.90,256,0.8545,0.8555
+"LR uden metadata, isotonisk kalibreret",0.90–0.95,236,0.9278,0.9364
+"LR uden metadata, isotonisk kalibreret",0.95–0.98,283,0.9685,0.9753
+"LR uden metadata, isotonisk kalibreret",0.98–1.00,3285,0.9978,0.9954
+"LR uden metadata, isotonisk kalibreret",ECE,,,0.0047
+"LR uden metadata, isotonisk kalibreret",logloss/brier,,0.0986,0.0276
+"LR alle features, isotonisk kalibreret",0.50–0.60,35,0.5495,0.6
+"LR alle features, isotonisk kalibreret",0.60–0.70,60,0.6477,0.5667
+"LR alle features, isotonisk kalibreret",0.70–0.80,72,0.7547,0.6806
+"LR alle features, isotonisk kalibreret",0.80–0.90,253,0.8618,0.913
+"LR alle features, isotonisk kalibreret",0.90–0.95,440,0.9264,0.9159
+"LR alle features, isotonisk kalibreret",0.95–0.98,238,0.9676,0.9748
+"LR alle features, isotonisk kalibreret",0.98–1.00,3228,0.998,0.9963
+"LR alle features, isotonisk kalibreret",ECE,,,0.0085
+"LR alle features, isotonisk kalibreret",logloss/brier,,0.0956,0.0257
+Gradient boosting (target-encoding),0.50–0.60,71,0.5458,0.6056
+Gradient boosting (target-encoding),0.60–0.70,124,0.6479,0.6129
+Gradient boosting (target-encoding),0.70–0.80,185,0.7559,0.7189
+Gradient boosting (target-encoding),0.80–0.90,73,0.8544,0.726
+Gradient boosting (target-encoding),0.90–0.95,62,0.9269,0.7903
+Gradient boosting (target-encoding),0.95–0.98,79,0.9679,0.8354
+Gradient boosting (target-encoding),0.98–1.00,3732,0.9992,0.9938
+Gradient boosting (target-encoding),ECE,,,0.0148
+Gradient boosting (target-encoding),logloss/brier,,0.1199,0.0339
+ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),ECE,,,0.0
+ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),ECE,,,0.0
+ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),ECE,,,0.0

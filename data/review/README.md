@@ -38,3 +38,4 @@ re-reading after any change to the registers:
 | `index_integrity_review.csv` | `scripts/validation/check_indexes.py` — dangling cross-references and kind-specific missing values |
 | `person_reference_unmatched_{ours,reference}.csv` | `scripts/validation/compare_to_reference.py` — entries on one side of the independent transcription and not the other, after spelling variants are discounted |
 | `person_duplicate_candidates.csv` | the same script — entries sharing a surname, a page signature and a compatible given name |
+| `gender_inference/` | `scripts/enrichment/gender_inference_experiments.py` — feature/model experiments for the persons `parse_person_gender.py` leaves undetermined; read with [`docs/reports/gender-inference-experiment.md`](../../docs/reports/gender-inference-experiment.md). `llm_spotcheck.csv` is a one-off model-assisted judgement, not regenerated |

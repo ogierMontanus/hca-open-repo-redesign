@@ -1,0 +1,413 @@
+{
+  "n_persons": 10228,
+  "parser_reproduction_mismatch": 0,
+  "existing": {
+    "?": 3228,
+    "M": 3714,
+    "K": 3286
+  },
+  "excluded_total": {
+    "henvisningsstub": 449,
+    "kurateret: crossReference": 37,
+    "fejlsegmenteret/relationel label": 253,
+    "gruppe/flere personer": 36,
+    "kurateret: relationalPlaceholder": 12,
+    "kurateret: family": 38,
+    "kurateret: organisation": 12,
+    "kurateret: group": 8,
+    "kurateret: animal": 1
+  },
+  "excluded_unknown": {
+    "henvisningsstub": 372,
+    "kurateret: crossReference": 33,
+    "fejlsegmenteret/relationel label": 53,
+    "gruppe/flere personer": 31,
+    "kurateret: relationalPlaceholder": 12,
+    "kurateret: family": 35,
+    "kurateret: organisation": 12,
+    "kurateret: group": 8,
+    "kurateret: animal": 1
+  },
+  "excluded_known": {
+    "('fejlsegmenteret/relationel label', 'K')": 194,
+    "('henvisningsstub', 'M')": 32,
+    "('henvisningsstub', 'K')": 45,
+    "('gruppe/flere personer', 'M')": 2,
+    "('fejlsegmenteret/relationel label', 'M')": 6,
+    "('gruppe/flere personer', 'K')": 3,
+    "('kurateret: crossReference', 'K')": 3,
+    "('kurateret: family', 'K')": 3,
+    "('kurateret: crossReference', 'M')": 1
+  },
+  "label_basis": {
+    "NAME": 2337,
+    "DESC+NAME": 1366,
+    "LABEL+NAME": 952,
+    "DESC+LABEL+NAME": 834,
+    "DESC": 709,
+    "LABEL": 488,
+    "DESC+LABEL": 314
+  },
+  "name_only_labels": 2337,
+  "ref_markers": {
+    "M": 1774,
+    "K": 2613
+  },
+  "ref_wo_NAME": {
+    "M": 1774,
+    "K": 2613
+  },
+  "ref_wo_LABEL": {
+    "M": 1271,
+    "K": 1779
+  },
+  "ref_wo_DESC": {
+    "K": 1824,
+    "M": 761
+  },
+  "unknown_profile": {
+    "total": 3228,
+    "udelukket (ikke enkeltperson/henvisning)": 557,
+    "har fornavn": 1881,
+    "har beskrivelse": 2762,
+    "har erhvervsord i beskrivelsens hoved": 2628,
+    "hverken fornavn eller erhvervsord": 70,
+    "har leveår": 1816,
+    "har egen nationalitet": 892
+  },
+  "label_noise_name_vs_markers": {
+    "enige": 2828,
+    "uenige": 4
+  },
+  "dup": {
+    "navnenøgler med >1 post (efternavn+fornavnsvariant)": 320,
+    "poster i sådanne grupper": 725,
+    "eksakte dubletter (label+beskrivelse)": 5
+  },
+  "name_disjoint": {
+    "fornavn (stavevariant)": {
+      "0.5": {
+        "n_eval": 4326,
+        "coverage_n": 0,
+        "coverage": 0.0,
+        "precision": NaN,
+        "errors": 0,
+        "prec_K": NaN,
+        "recall_K": 0.0,
+        "pred_K": 0,
+        "prec_M": NaN,
+        "recall_M": 0.0,
+        "pred_M": 0
+      },
+      "0.9": {
+        "n_eval": 4326,
+        "coverage_n": 0,
+        "coverage": 0.0,
+        "precision": NaN,
+        "errors": 0,
+        "prec_K": NaN,
+        "recall_K": 0.0,
+        "pred_K": 0,
+        "prec_M": NaN,
+        "recall_M": 0.0,
+        "pred_M": 0
+      },
+      "0.95": {
+        "n_eval": 4326,
+        "coverage_n": 0,
+        "coverage": 0.0,
+        "precision": NaN,
+        "errors": 0,
+        "prec_K": NaN,
+        "recall_K": 0.0,
+        "pred_K": 0,
+        "prec_M": NaN,
+        "recall_M": 0.0,
+        "pred_M": 0
+      }
+    },
+    "fornavnsendelse 3 tegn": {
+      "0.5": {
+        "n_eval": 4326,
+        "coverage_n": 2865,
+        "coverage": 0.6622746185852982,
+        "precision": 0.9204188481675393,
+        "errors": 228,
+        "prec_K": 0.9336211548839719,
+        "recall_K": 0.671583850931677,
+        "pred_K": 1853,
+        "prec_M": 0.8962450592885376,
+        "recall_M": 0.5182857142857142,
+        "pred_M": 1012
+      },
+      "0.9": {
+        "n_eval": 4326,
+        "coverage_n": 1542,
+        "coverage": 0.3564493758668516,
+        "precision": 0.9630350194552529,
+        "errors": 57,
+        "prec_K": 0.9817427385892116,
+        "recall_K": 0.4592391304347826,
+        "pred_K": 1205,
+        "prec_M": 0.8961424332344213,
+        "recall_M": 0.17257142857142857,
+        "pred_M": 337
+      },
+      "0.95": {
+        "n_eval": 4326,
+        "coverage_n": 1200,
+        "coverage": 0.27739251040221913,
+        "precision": 0.9933333333333333,
+        "errors": 8,
+        "prec_K": 0.9962370649106302,
+        "recall_K": 0.41110248447204967,
+        "pred_K": 1063,
+        "prec_M": 0.9708029197080292,
+        "recall_M": 0.076,
+        "pred_M": 137
+      }
+    }
+  },
+  "firstname_by_n": {
+    "1": {
+      "n": 297,
+      "præcision": 0.9865319865319865
+    },
+    "1 / renhed=1": {
+      "n": 297,
+      "præcision": 0.9865319865319865
+    },
+    "10–19": {
+      "n": 619,
+      "præcision": 1.0
+    },
+    "10–19 / renhed=1": {
+      "n": 619,
+      "præcision": 1.0
+    },
+    "2": {
+      "n": 199,
+      "præcision": 1.0
+    },
+    "2 / renhed=1": {
+      "n": 199,
+      "præcision": 1.0
+    },
+    "20+": {
+      "n": 1438,
+      "præcision": 0.9993045897079277
+    },
+    "20+ / renhed=1": {
+      "n": 1346,
+      "præcision": 0.9992570579494799
+    },
+    "20+ / renhed≥0,9": {
+      "n": 92,
+      "præcision": 1.0
+    },
+    "3–4": {
+      "n": 320,
+      "præcision": 0.996875
+    },
+    "3–4 / renhed<0,9": {
+      "n": 8,
+      "præcision": 1.0
+    },
+    "3–4 / renhed=1": {
+      "n": 312,
+      "præcision": 0.9967948717948718
+    },
+    "5–9": {
+      "n": 572,
+      "præcision": 0.9965034965034965
+    },
+    "5–9 / renhed<0,9": {
+      "n": 9,
+      "præcision": 1.0
+    },
+    "5–9 / renhed=1": {
+      "n": 563,
+      "præcision": 0.9964476021314387
+    }
+  },
+  "firstname_unseen_in_fold": {
+    "n": 881,
+    "af": 4326
+  },
+  "firstname_classes": {
+    "meget sikker mand": 74,
+    "meget sikker kvinde": 102,
+    "sandsynlig mand": 48,
+    "tvetydig": 2,
+    "sandsynlig kvinde": 55,
+    "sjælden (n<3)": 560
+  },
+  "unknown_firstname_in_lexicon": {
+    "ukendte med fornavn": 1881,
+    "fornavn set ≥1 gang": 854,
+    "fornavn set ≥5 gange": 98,
+    "fornavn i 'meget sikker'-klasse": 91
+  },
+  "combined_by_availability_at_0.95": {
+    "fornavn / intet erhverv": {
+      "n": 3472,
+      "dækket": 2951,
+      "præcision": 0.9966113181972213
+    },
+    "fornavn / erhverv": {
+      "n": 500,
+      "dækket": 425,
+      "præcision": 0.9905882352941177
+    },
+    "intet fornavn / intet erhverv": {
+      "n": 195,
+      "dækket": 48,
+      "præcision": 0.9583333333333334
+    },
+    "intet fornavn / erhverv": {
+      "n": 159,
+      "dækket": 42,
+      "præcision": 0.9523809523809523
+    }
+  },
+  "name_rule_guard_eval": {
+    "uden værn": {
+      "dækning_n": 2932,
+      "dækning": 0.6777623670827554,
+      "præcision": 0.9986357435197817,
+      "fremmed_nationalitet_dækket": 86,
+      "fremmed_nationalitet_præcision": 0.9883720930232558
+    },
+    "med værn": {
+      "dækning_n": 2873,
+      "dækning": 0.6641239019879797,
+      "præcision": 0.9989557953358859,
+      "fremmed_nationalitet_dækket": 27,
+      "fremmed_nationalitet_præcision": 1.0
+    }
+  },
+  "desc_title_rule_eval": {
+    "dækning_n": 117,
+    "n_eval": 2531,
+    "præcision": 0.9914529914529915,
+    "ukendte_dækket": 121
+  },
+  "prior": {
+    "træning_andel_K": 0.6091415830546265,
+    "ukendte_estimeret_andel_K": 0.14767801014823811
+  },
+  "unknown_coverage": {
+    "ukendte i alt": 3228,
+    "udelukket (ikke enkeltperson/henvisning)": 557,
+    "ukendte ekskl. udelukkede": 2671,
+    "S1 fornavn (med værn)": {
+      "n": 333,
+      "andel": 0.12467240733807562,
+      "K": 24,
+      "M": 309
+    },
+    "S2 titel→fornavn→erhverv": {
+      "n": 448,
+      "andel": 0.1677274429052789,
+      "K": 37,
+      "M": 411
+    },
+    "S2 konflikter (efterlades ubestemt)": 0,
+    "S3 LR rå ≥ 0.7": {
+      "n": 2362,
+      "andel": 0.8843129913889929,
+      "K": 666,
+      "M": 1696
+    },
+    "S3 LR prior-korrigeret ≥ 0.7": {
+      "n": 2282,
+      "andel": 0.8543616622987645,
+      "K": 151,
+      "M": 2131
+    },
+    "S3 LR rå ≥ 0.8": {
+      "n": 2080,
+      "andel": 0.7787345563459378,
+      "K": 501,
+      "M": 1579
+    },
+    "S3 LR prior-korrigeret ≥ 0.8": {
+      "n": 2073,
+      "andel": 0.7761138150505429,
+      "K": 111,
+      "M": 1962
+    },
+    "S3 LR rå ≥ 0.9": {
+      "n": 1625,
+      "andel": 0.6083863721452639,
+      "K": 294,
+      "M": 1331
+    },
+    "S3 LR prior-korrigeret ≥ 0.9": {
+      "n": 1936,
+      "andel": 0.7248221639835267,
+      "K": 80,
+      "M": 1856
+    },
+    "S3 LR rå ≥ 0.95": {
+      "n": 1209,
+      "andel": 0.45263946087607637,
+      "K": 154,
+      "M": 1055
+    },
+    "S3 LR prior-korrigeret ≥ 0.95": {
+      "n": 1774,
+      "andel": 0.6641707225758143,
+      "K": 54,
+      "M": 1720
+    },
+    "S3 LR rå ≥ 0.98": {
+      "n": 869,
+      "andel": 0.32534631224260574,
+      "K": 98,
+      "M": 771
+    },
+    "S3 LR prior-korrigeret ≥ 0.98": {
+      "n": 1531,
+      "andel": 0.5731935604642456,
+      "K": 40,
+      "M": 1491
+    },
+    "S3 LR rå ≥ 0.99": {
+      "n": 644,
+      "andel": 0.24110819917633844,
+      "K": 56,
+      "M": 588
+    },
+    "S3 LR prior-korrigeret ≥ 0.99": {
+      "n": 1241,
+      "andel": 0.46461999251216773,
+      "K": 40,
+      "M": 1201
+    },
+    "Anbefalet (S2 + S3-mand ≥ 0.95)": {
+      "n": 1801,
+      "andel": 0.6742792961437664,
+      "K": 37,
+      "M": 1764,
+      "fra S2": 448,
+      "fra S3": 1353
+    },
+    "Anbefalet (S2 + S3-mand ≥ 0.98)": {
+      "n": 1624,
+      "andel": 0.6080119805316361,
+      "K": 37,
+      "M": 1587,
+      "fra S2": 448,
+      "fra S3": 1176
+    },
+    "Anbefalet (S2 + S3-mand ≥ 0.99)": {
+      "n": 1384,
+      "andel": 0.5181579932609509,
+      "K": 37,
+      "M": 1347,
+      "fra S2": 448,
+      "fra S3": 936
+    }
+  }
+}

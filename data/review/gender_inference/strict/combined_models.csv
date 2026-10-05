@@ -1,0 +1,99 @@
+model,cv,tærskel,n_eval,dækning,dækning_n,præcision,fejl,præc_K,recall_K,præc_M,recall_M
+LR navne,group,0.5,4326,1.0,4326,0.9526,205,0.9366,0.9872,0.9795,0.9017
+LR navne,group,0.7,4326,0.8722,3773,0.9902,37,0.9903,0.8758,0.99,0.8457
+LR navne,group,0.8,4326,0.8264,3575,0.9947,19,0.995,0.8521,0.9942,0.7777
+LR navne,group,0.9,4326,0.7159,3097,0.9964,11,0.997,0.7849,0.9953,0.608
+LR navne,group,0.95,4326,0.5479,2370,0.9979,5,0.9983,0.6751,0.9968,0.3577
+LR navne,group,0.98,4326,0.334,1445,0.9993,1,0.9992,0.472,1.0,0.1303
+LR navne,group,0.99,4326,0.1299,562,0.9982,1,0.9982,0.2131,1.0,0.0069
+LR navne+efternavn,group,0.5,4326,1.0,4326,0.951,212,0.9447,0.9748,0.961,0.916
+LR navne+efternavn,group,0.7,4326,0.8706,3766,0.9894,40,0.9894,0.8715,0.9893,0.8463
+LR navne+efternavn,group,0.8,4326,0.8195,3545,0.9944,20,0.9945,0.8443,0.9941,0.7714
+LR navne+efternavn,group,0.9,4326,0.6981,3020,0.998,6,0.9985,0.7671,0.9971,0.5931
+LR navne+efternavn,group,0.95,4326,0.5421,2345,0.9983,4,0.9982,0.6638,0.9984,0.3606
+LR navne+efternavn,group,0.98,4326,0.3338,1444,0.9993,1,0.9992,0.4689,1.0,0.1343
+LR navne+efternavn,group,0.99,4326,0.1521,658,0.9985,1,0.9984,0.2387,1.0,0.024
+LR alle features,group,0.5,4326,1.0,4326,0.9693,133,0.9671,0.9818,0.9725,0.9509
+LR alle features,group,0.7,4326,0.9535,4125,0.9833,69,0.9802,0.9608,0.9881,0.9034
+LR alle features,group,0.8,4326,0.9045,3913,0.9877,48,0.9843,0.9262,0.9933,0.8451
+LR alle features,group,0.9,4326,0.755,3266,0.9972,9,0.9965,0.7822,0.9984,0.7097
+LR alle features,group,0.95,4326,0.6315,2732,0.9996,1,0.9994,0.6696,1.0,0.5749
+LR alle features,group,0.98,4326,0.4473,1935,1.0,0,1.0,0.4992,1.0,0.3709
+LR alle features,group,0.99,4326,0.301,1302,1.0,0,1.0,0.33,1.0,0.2583
+LR uden metadata,group,0.5,4326,1.0,4326,0.9658,148,0.9616,0.9818,0.9723,0.9423
+LR uden metadata,group,0.7,4326,0.9357,4048,0.9837,66,0.9811,0.9468,0.9878,0.8817
+LR uden metadata,group,0.8,4326,0.8493,3674,0.9932,25,0.9938,0.8696,0.9923,0.8051
+LR uden metadata,group,0.9,4326,0.7413,3207,0.9978,7,0.998,0.7884,0.9974,0.668
+LR uden metadata,group,0.95,4326,0.6292,2722,0.9996,1,0.9994,0.6871,1.0,0.5434
+LR uden metadata,group,0.98,4326,0.4598,1989,1.0,0,1.0,0.5237,1.0,0.3657
+LR uden metadata,group,0.99,4326,0.3199,1384,1.0,0,1.0,0.3684,1.0,0.2486
+"LR uden metadata, isotonisk kalibreret",group,0.5,4326,1.0,4326,0.9649,152,0.9709,0.9701,0.9561,0.9571
+"LR uden metadata, isotonisk kalibreret",group,0.7,4326,0.9711,4201,0.975,105,0.9774,0.9554,0.9715,0.9343
+"LR uden metadata, isotonisk kalibreret",group,0.8,4326,0.9385,4060,0.9818,74,0.9828,0.929,0.9803,0.9103
+"LR uden metadata, isotonisk kalibreret",group,0.9,4326,0.8793,3804,0.9903,37,0.9912,0.8746,0.9889,0.8651
+"LR uden metadata, isotonisk kalibreret",group,0.95,4326,0.8248,3568,0.9938,22,0.9958,0.828,0.9909,0.8074
+"LR uden metadata, isotonisk kalibreret",group,0.98,4326,0.7594,3285,0.9954,15,0.9975,0.7616,0.9924,0.7474
+"LR uden metadata, isotonisk kalibreret",group,0.99,4326,0.6905,2987,0.9977,7,0.9984,0.7116,0.9965,0.6554
+"LR alle features, isotonisk kalibreret",group,0.5,4326,1.0,4326,0.9676,140,0.9681,0.9779,0.9669,0.9526
+"LR alle features, isotonisk kalibreret",group,0.7,4326,0.978,4231,0.9764,100,0.9765,0.9666,0.9762,0.9377
+"LR alle features, isotonisk kalibreret",group,0.8,4326,0.9614,4159,0.9815,77,0.9798,0.9585,0.9841,0.9217
+"LR alle features, isotonisk kalibreret",group,0.9,4326,0.9029,3906,0.9859,55,0.9834,0.8944,0.9898,0.884
+"LR alle features, isotonisk kalibreret",group,0.95,4326,0.8012,3466,0.9948,18,0.996,0.7787,0.9931,0.824
+"LR alle features, isotonisk kalibreret",group,0.98,4326,0.7462,3228,0.9963,12,0.9984,0.7166,0.9935,0.7829
+"LR alle features, isotonisk kalibreret",group,0.99,4326,0.6889,2980,0.9983,5,0.9994,0.696,0.9966,0.6754
+Gradient boosting (target-encoding),group,0.5,4326,1.0,4326,0.9545,197,0.9535,0.9709,0.956,0.9303
+Gradient boosting (target-encoding),group,0.7,4326,0.9549,4131,0.9707,121,0.9723,0.9406,0.9683,0.9069
+Gradient boosting (target-encoding),group,0.8,4326,0.9122,3946,0.9825,69,0.9876,0.8979,0.9751,0.8937
+Gradient boosting (target-encoding),group,0.9,4326,0.8953,3873,0.9873,49,0.9913,0.8886,0.9815,0.8771
+Gradient boosting (target-encoding),group,0.95,4326,0.881,3811,0.9906,36,0.9926,0.8812,0.9875,0.86
+Gradient boosting (target-encoding),group,0.98,4326,0.8627,3732,0.9938,23,0.9947,0.8703,0.9926,0.8383
+Gradient boosting (target-encoding),group,0.99,4326,0.84,3634,0.9959,15,0.9973,0.856,0.9937,0.808
+LR navne,name,0.5,4326,1.0,4326,0.8703,561,0.844,0.9596,0.9256,0.7389
+LR navne,name,0.7,4326,0.6544,2831,0.9484,146,0.9622,0.7803,0.9097,0.3857
+LR navne,name,0.8,4326,0.5774,2498,0.962,95,0.9747,0.7333,0.9179,0.2937
+LR navne,name,0.9,4326,0.4149,1795,0.9889,20,0.995,0.613,0.9423,0.112
+LR navne,name,0.95,4326,0.2247,972,0.9959,4,0.9958,0.3661,1.0,0.0143
+LR navne,name,0.98,4326,0.0962,416,1.0,0,1.0,0.1615,nan,0.0
+LR navne,name,0.99,4326,0.0257,111,1.0,0,1.0,0.0431,nan,0.0
+LR navne+efternavn,name,0.5,4326,1.0,4326,0.8622,596,0.844,0.9429,0.8985,0.7434
+LR navne+efternavn,name,0.7,4326,0.6667,2884,0.9442,161,0.9554,0.7811,0.9139,0.4063
+LR navne+efternavn,name,0.8,4326,0.5636,2438,0.966,83,0.9769,0.7213,0.9272,0.284
+LR navne+efternavn,name,0.9,4326,0.4071,1761,0.9886,20,0.9954,0.5897,0.9447,0.1269
+LR navne+efternavn,name,0.95,4326,0.2427,1050,0.9962,4,0.9961,0.3917,1.0,0.0211
+LR navne+efternavn,name,0.98,4326,0.1077,466,1.0,0,1.0,0.1809,nan,0.0
+LR navne+efternavn,name,0.99,4326,0.0374,162,1.0,0,1.0,0.0629,nan,0.0
+LR alle features,name,0.5,4326,1.0,4326,0.9179,355,0.9211,0.9429,0.913,0.8811
+LR alle features,name,0.7,4326,0.8578,3711,0.9625,139,0.9666,0.8657,0.9558,0.7669
+LR alle features,name,0.8,4326,0.7675,3320,0.9735,88,0.975,0.8012,0.9709,0.6674
+LR alle features,name,0.9,4326,0.5354,2316,0.9918,19,0.9929,0.5939,0.9897,0.4383
+LR alle features,name,0.95,4326,0.3597,1556,0.9955,7,0.9981,0.413,0.9898,0.2771
+LR alle features,name,0.98,4326,0.1896,820,1.0,0,1.0,0.2263,1.0,0.1354
+LR alle features,name,0.99,4326,0.1031,446,1.0,0,1.0,0.125,1.0,0.0709
+LR uden metadata,name,0.5,4326,1.0,4326,0.905,411,0.8941,0.9534,0.924,0.8337
+LR uden metadata,name,0.7,4326,0.8474,3666,0.9553,164,0.9518,0.882,0.9617,0.7029
+LR uden metadata,name,0.8,4326,0.7011,3033,0.9835,50,0.9845,0.7632,0.9817,0.5811
+LR uden metadata,name,0.9,4326,0.5344,2312,0.9944,13,0.9957,0.6324,0.9911,0.3829
+LR uden metadata,name,0.95,4326,0.39,1687,0.9959,7,0.9984,0.4841,0.9886,0.2474
+LR uden metadata,name,0.98,4326,0.2115,915,1.0,0,1.0,0.2663,1.0,0.1309
+LR uden metadata,name,0.99,4326,0.1147,496,1.0,0,1.0,0.144,1.0,0.0714
+"LR uden metadata, isotonisk kalibreret",name,0.5,4326,1.0,4326,0.9117,382,0.9158,0.9379,0.9052,0.8731
+"LR uden metadata, isotonisk kalibreret",name,0.7,4326,0.9357,4048,0.9373,254,0.9411,0.9123,0.931,0.8251
+"LR uden metadata, isotonisk kalibreret",name,0.8,4326,0.8692,3760,0.9529,177,0.9574,0.8634,0.9457,0.7766
+"LR uden metadata, isotonisk kalibreret",name,0.9,4326,0.7644,3307,0.9746,84,0.9823,0.7776,0.9621,0.6971
+"LR uden metadata, isotonisk kalibreret",name,0.95,4326,0.6692,2895,0.9851,43,0.9907,0.7026,0.9757,0.5954
+"LR uden metadata, isotonisk kalibreret",name,0.98,4326,0.5791,2505,0.9916,21,0.9957,0.6297,0.984,0.4926
+"LR uden metadata, isotonisk kalibreret",name,0.99,4326,0.4877,2110,0.9953,10,0.9978,0.5361,0.9904,0.4109
+"LR alle features, isotonisk kalibreret",name,0.5,4326,1.0,4326,0.9168,360,0.9258,0.9352,0.9031,0.8897
+"LR alle features, isotonisk kalibreret",name,0.7,4326,0.9191,3976,0.9447,220,0.9571,0.8921,0.9257,0.8331
+"LR alle features, isotonisk kalibreret",name,0.8,4326,0.8745,3783,0.9561,166,0.9663,0.8575,0.9405,0.8046
+"LR alle features, isotonisk kalibreret",name,0.9,4326,0.7723,3341,0.968,107,0.9747,0.7481,0.9582,0.7469
+"LR alle features, isotonisk kalibreret",name,0.95,4326,0.6438,2785,0.9817,51,0.9912,0.6145,0.9689,0.6577
+"LR alle features, isotonisk kalibreret",name,0.98,4326,0.5587,2417,0.9888,27,0.9978,0.5237,0.9775,0.5949
+"LR alle features, isotonisk kalibreret",name,0.99,4326,0.463,2003,0.9965,7,0.9984,0.4779,0.9935,0.4371
+Gradient boosting (target-encoding),name,0.5,4326,1.0,4326,0.8819,511,0.9003,0.9014,0.8546,0.8531
+Gradient boosting (target-encoding),name,0.7,4326,0.9045,3913,0.9157,330,0.9358,0.8653,0.8844,0.7737
+Gradient boosting (target-encoding),name,0.8,4326,0.8209,3551,0.9349,231,0.9577,0.7997,0.9,0.72
+Gradient boosting (target-encoding),name,0.9,4326,0.7397,3200,0.9516,155,0.9656,0.7636,0.9269,0.616
+Gradient boosting (target-encoding),name,0.95,4326,0.6637,2871,0.9631,106,0.973,0.7143,0.9439,0.5286
+Gradient boosting (target-encoding),name,0.98,4326,0.5546,2399,0.9746,61,0.9827,0.6401,0.9556,0.3937
+Gradient boosting (target-encoding),name,0.99,4326,0.4827,2088,0.9813,39,0.9909,0.5916,0.9545,0.3
