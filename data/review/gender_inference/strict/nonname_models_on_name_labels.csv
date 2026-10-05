@@ -1,0 +1,22 @@
+model,evalsæt,tærskel,n_eval,eval_K,eval_M,coverage,coverage_n,precision,errors,prec_K,recall_K,prec_M,recall_M,pred_K,pred_M
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.5,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.7,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.8,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.9,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.95,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.98,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.99,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.5,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.7,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.8,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.9,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.95,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.98,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.99,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.5,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.7,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.8,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.9,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.95,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.98,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.99,0,0,0,0,0,nan,0,nan,nan,nan,nan,0,0

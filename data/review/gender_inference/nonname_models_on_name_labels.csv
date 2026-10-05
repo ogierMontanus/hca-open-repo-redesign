@@ -1,0 +1,22 @@
+model,evalsæt,tærskel,n_eval,eval_K,eval_M,coverage,coverage_n,precision,errors,prec_K,recall_K,prec_M,recall_M,pred_K,pred_M
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.5,2110,199,1911,1.0,2110,0.881,251,0.4343,0.8643,0.9842,0.8828,396,1714
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.7,2110,199,1911,0.91,1920,0.926,142,0.5512,0.7839,0.9908,0.8488,283,1637
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.8,2110,199,1911,0.8517,1797,0.9438,101,0.6213,0.7337,0.9923,0.8111,235,1562
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.9,2110,199,1911,0.6502,1372,0.9934,9,0.9688,0.1558,0.994,0.697,32,1340
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.95,2110,199,1911,0.5791,1222,0.9943,7,1.0,0.1055,0.9942,0.6248,21,1201
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.98,2110,199,1911,0.464,979,0.9939,6,1.0,0.0653,0.9938,0.5024,13,966
+beskrivelse (hovedled+rolle),kun-fornavn-etiketter,0.99,2110,199,1911,0.3507,740,0.9959,3,1.0,0.0603,0.9959,0.3794,12,728
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.5,2110,199,1911,1.0,2110,0.8758,262,0.4241,0.8844,0.9864,0.8749,415,1695
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.7,2110,199,1911,0.8976,1894,0.9382,117,0.5977,0.7688,0.9915,0.8498,256,1638
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.8,2110,199,1911,0.846,1785,0.949,91,0.6441,0.7186,0.9923,0.8116,222,1563
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.9,2110,199,1911,0.655,1382,0.9913,12,0.8824,0.1508,0.9941,0.7012,34,1348
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.95,2110,199,1911,0.5749,1213,0.9934,8,0.95,0.0955,0.9941,0.6206,20,1193
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.98,2110,199,1911,0.4569,964,0.9959,4,0.9,0.0452,0.9969,0.4976,10,954
+beskrivelse+nationalitet,kun-fornavn-etiketter,0.99,2110,199,1911,0.3787,799,0.9987,1,1.0,0.0402,0.9987,0.4134,8,791
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.5,2110,199,1911,1.0,2110,0.8645,286,0.4009,0.8844,0.9862,0.8624,439,1671
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.7,2110,199,1911,0.9123,1925,0.8987,195,0.4633,0.794,0.9924,0.8226,341,1584
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.8,2110,199,1911,0.8028,1694,0.951,83,0.5714,0.4824,0.9928,0.7928,168,1526
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.9,2110,199,1911,0.6085,1284,0.993,9,0.8333,0.1005,0.996,0.6567,24,1260
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.95,2110,199,1911,0.4773,1007,0.997,3,1.0,0.0251,0.997,0.5228,5,1002
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.98,2110,199,1911,0.3469,732,0.9973,2,nan,0.0,0.9973,0.382,0,732
+beskrivelse+nationalitet+efternavn+metadata,kun-fornavn-etiketter,0.99,2110,199,1911,0.2602,549,1.0,0,nan,0.0,1.0,0.2873,0,549
