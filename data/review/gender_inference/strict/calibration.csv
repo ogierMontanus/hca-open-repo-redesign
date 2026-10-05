@@ -61,13 +61,12 @@ erhverv (første ord i beskrivelsens hoved),0.80–0.90,96,0.8278,0.9271
 erhverv (første ord i beskrivelsens hoved),0.90–0.95,30,0.9045,0.9
 erhverv (første ord i beskrivelsens hoved),0.95–0.98,58,0.9588,1.0
 erhverv (første ord i beskrivelsens hoved),ECE,,,0.1479
-rolle (person_role.csv),0.50–0.60,13,0.5343,0.8462
-rolle (person_role.csv),0.60–0.70,423,0.6563,0.6809
-rolle (person_role.csv),0.70–0.80,220,0.7491,0.7682
-rolle (person_role.csv),0.80–0.90,99,0.8322,0.7677
-rolle (person_role.csv),0.90–0.95,49,0.926,1.0
-rolle (person_role.csv),0.95–0.98,120,0.9657,0.975
-rolle (person_role.csv),ECE,,,0.0322
+rolle (person_role.csv),0.50–0.60,29,0.5157,0.5517
+rolle (person_role.csv),0.60–0.70,102,0.6611,0.6863
+rolle (person_role.csv),0.70–0.80,633,0.7416,0.7504
+rolle (person_role.csv),0.80–0.90,76,0.8319,0.7237
+rolle (person_role.csv),0.95–0.98,98,0.9676,0.9796
+rolle (person_role.csv),ECE,,,0.0198
 titel i beskrivelsens hoved,0.60–0.70,4,0.6667,0.5
 titel i beskrivelsens hoved,0.70–0.80,3,0.75,1.0
 titel i beskrivelsens hoved,0.80–0.90,28,0.8365,1.0
@@ -110,42 +109,42 @@ LR navne+efternavn,0.95–0.98,901,0.9668,0.9967
 LR navne+efternavn,0.98–1.00,1444,0.9891,0.9993
 LR navne+efternavn,ECE,,,0.0559
 LR navne+efternavn,logloss/brier,,0.1524,0.041
-LR alle features,0.50–0.60,97,0.5499,0.5773
-LR alle features,0.60–0.70,98,0.6499,0.8163
-LR alle features,0.70–0.80,248,0.7598,0.9113
-LR alle features,0.80–0.90,681,0.8566,0.9413
-LR alle features,0.90–0.95,594,0.9282,0.9899
-LR alle features,0.95–0.98,870,0.9677,0.9977
-LR alle features,0.98–1.00,1738,0.9906,1.0
-LR alle features,ECE,,,0.0447
-LR alle features,logloss/brier,,0.1151,0.0277
-LR uden metadata,0.50–0.60,132,0.5552,0.6288
-LR uden metadata,0.60–0.70,300,0.6566,0.8167
-LR uden metadata,0.70–0.80,265,0.7555,0.8981
-LR uden metadata,0.80–0.90,489,0.8572,0.9734
-LR uden metadata,0.90–0.95,548,0.9284,0.9964
-LR uden metadata,0.95–0.98,838,0.9672,0.9988
-LR uden metadata,0.98–1.00,1754,0.9909,1.0
-LR uden metadata,ECE,,,0.0536
-LR uden metadata,logloss/brier,,0.1259,0.0322
-"LR uden metadata, isotonisk kalibreret",0.50–0.60,52,0.553,0.5577
-"LR uden metadata, isotonisk kalibreret",0.60–0.70,57,0.6502,0.6491
-"LR uden metadata, isotonisk kalibreret",0.70–0.80,184,0.76,0.7717
-"LR uden metadata, isotonisk kalibreret",0.80–0.90,247,0.8468,0.8543
-"LR uden metadata, isotonisk kalibreret",0.90–0.95,201,0.931,0.9453
-"LR uden metadata, isotonisk kalibreret",0.95–0.98,266,0.9671,0.9737
-"LR uden metadata, isotonisk kalibreret",0.98–1.00,3319,0.9985,0.9967
-"LR uden metadata, isotonisk kalibreret",ECE,,,0.0034
-"LR uden metadata, isotonisk kalibreret",logloss/brier,,0.0978,0.0271
-"LR alle features, isotonisk kalibreret",0.50–0.60,45,0.5414,0.5333
-"LR alle features, isotonisk kalibreret",0.60–0.70,45,0.6523,0.6
-"LR alle features, isotonisk kalibreret",0.70–0.80,88,0.7574,0.7955
-"LR alle features, isotonisk kalibreret",0.80–0.90,269,0.8676,0.9368
-"LR alle features, isotonisk kalibreret",0.90–0.95,384,0.9275,0.901
-"LR alle features, isotonisk kalibreret",0.95–0.98,295,0.9666,0.9627
-"LR alle features, isotonisk kalibreret",0.98–1.00,3200,0.9985,0.9972
-"LR alle features, isotonisk kalibreret",ECE,,,0.0093
-"LR alle features, isotonisk kalibreret",logloss/brier,,0.0958,0.0249
+LR alle features,0.50–0.60,100,0.5528,0.59
+LR alle features,0.60–0.70,101,0.6499,0.7723
+LR alle features,0.70–0.80,212,0.7566,0.9009
+LR alle features,0.80–0.90,647,0.8567,0.9397
+LR alle features,0.90–0.95,534,0.9275,0.985
+LR alle features,0.95–0.98,797,0.9672,0.9987
+LR alle features,0.98–1.00,1935,0.9917,1.0
+LR alle features,ECE,,,0.0399
+LR alle features,logloss/brier,,0.1123,0.0277
+LR uden metadata,0.50–0.60,111,0.552,0.6306
+LR uden metadata,0.60–0.70,167,0.6567,0.7545
+LR uden metadata,0.70–0.80,374,0.7453,0.8904
+LR uden metadata,0.80–0.90,467,0.8569,0.9615
+LR uden metadata,0.90–0.95,485,0.9287,0.9876
+LR uden metadata,0.95–0.98,733,0.9674,0.9986
+LR uden metadata,0.98–1.00,1989,0.9922,1.0
+LR uden metadata,ECE,,,0.0451
+LR uden metadata,logloss/brier,,0.1205,0.0312
+"LR uden metadata, isotonisk kalibreret",0.50–0.60,56,0.545,0.5179
+"LR uden metadata, isotonisk kalibreret",0.60–0.70,69,0.655,0.7101
+"LR uden metadata, isotonisk kalibreret",0.70–0.80,141,0.7603,0.7801
+"LR uden metadata, isotonisk kalibreret",0.80–0.90,256,0.8545,0.8555
+"LR uden metadata, isotonisk kalibreret",0.90–0.95,236,0.9278,0.9364
+"LR uden metadata, isotonisk kalibreret",0.95–0.98,283,0.9685,0.9753
+"LR uden metadata, isotonisk kalibreret",0.98–1.00,3285,0.9978,0.9954
+"LR uden metadata, isotonisk kalibreret",ECE,,,0.0047
+"LR uden metadata, isotonisk kalibreret",logloss/brier,,0.0986,0.0276
+"LR alle features, isotonisk kalibreret",0.50–0.60,35,0.5495,0.6
+"LR alle features, isotonisk kalibreret",0.60–0.70,60,0.6477,0.5667
+"LR alle features, isotonisk kalibreret",0.70–0.80,72,0.7547,0.6806
+"LR alle features, isotonisk kalibreret",0.80–0.90,253,0.8618,0.913
+"LR alle features, isotonisk kalibreret",0.90–0.95,440,0.9264,0.9159
+"LR alle features, isotonisk kalibreret",0.95–0.98,238,0.9676,0.9748
+"LR alle features, isotonisk kalibreret",0.98–1.00,3228,0.998,0.9963
+"LR alle features, isotonisk kalibreret",ECE,,,0.0085
+"LR alle features, isotonisk kalibreret",logloss/brier,,0.0956,0.0257
 Gradient boosting (target-encoding),0.50–0.60,71,0.5458,0.6056
 Gradient boosting (target-encoding),0.60–0.70,124,0.6479,0.6129
 Gradient boosting (target-encoding),0.70–0.80,185,0.7559,0.7189

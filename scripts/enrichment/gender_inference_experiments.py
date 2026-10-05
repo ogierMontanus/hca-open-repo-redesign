@@ -186,7 +186,7 @@ def load():
     roles = {}
     with open(ROLE, encoding="utf-8") as f:
         for r in csv.DictReader(f):
-            roles[r["entity_id"]] = [x for x in r["roller"].split("|") if x.strip()]
+            roles[r["entity_id"]] = [x for x in r["roller"].split(";") if x.strip()]
     nref, vols = Counter(), defaultdict(set)
     with open(REFS, encoding="utf-8") as f:
         for r in csv.DictReader(f):

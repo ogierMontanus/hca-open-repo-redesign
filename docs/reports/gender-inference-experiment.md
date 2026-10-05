@@ -10,14 +10,14 @@ fornavn, så erhverv — kan kategorisere **837 af de 2.671 egentlige personer
 (31 %)** blandt de ubestemte. Den estimerede præcision er ≈ 99,5 %.
 
 Hvis en logistisk regression får lov til at tilføje **mænd** med sikkerhed
-≥ 0,98, stiger dækningen til **1.495 (56 %)** ved samme præcisionsniveau.
+≥ 0,98, stiger dækningen til **1.477 (55 %)** ved samme præcisionsniveau.
 Maskinlæringens **kvindelige** forudsigelser er ikke sikre nok til at bruges
 (≈ 76 % korrekte i stikprøven), og en mere avanceret model gav ingen
 forbedring.
 
 Der er to forbehold, som skal med, hvor resultatet bruges:
 
-- De infererede kategorier er stærkt skæve mod mænd (45 K mod 1.450 M). Det
+- De infererede kategorier er stærkt skæve mod mænd (45 K mod 1.432 M). Det
   er langtfra den sande fordeling.
 - Den eksisterende "kendte" kategorisering er selv regelbaseret inferens og
   ikke en uafhængig registrering.
@@ -131,7 +131,7 @@ reference.
 | label-segment (ikke-markør) | 5,7 % | 99,4 % | 3,1 % | 100 % | 63 |
 | **erhverv (hovedled)** | 34,8 % | 96,2 % | 12,6 % | 99,3 % | **2.526** |
 | **titel i beskrivelsen** | 2,5 % | 99,3 % | 1,0 % | 100 % | 121 |
-| rolle (`person_role.csv`) | 55,6 % | 80,2 % | 2,1 % | 95,1 % | 1.798 |
+| rolle (`person_role.csv`) | 56,2 % | 80,2 % | 0 % | – | 1.798 |
 | nationalitet | 15,4 % | 75,5 % | 0,1 % | – | 889 |
 | leveår / antal bind / har fornavn | 100 % | 55–59 % | 0 % | – | – |
 
@@ -219,21 +219,21 @@ under to CV-regimer:
 | Model | Grupperet CV ≥ 0,95: dækning / præcision | Navne-disjunkt CV ≥ 0,95: dækning / præcision | Navne-disjunkt CV ≥ 0,99: dækning / præcision |
 |---|---|---|---|
 | LR, kun navne | 55,6 % / 99,88 % | 26,7 % / 99,67 % | 3,7 % / 100 % |
-| LR, alle features | 61,3 % / 99,86 % | 30,3 % / 99,71 % | 7,5 % / 100 % |
-| LR uden metadata | 60,2 % / 99,96 % | 33,9 % / 99,74 % | 8,1 % / 100 % |
-| LR, alle features, isotonisk kalibreret | 82,3 % / 99,31 % | 61,4 % / **97,80 %** | 40,1 % / 99,08 % |
+| LR, alle features | 63,3 % / 99,90 % | 36,8 % / 99,59 % | 10,6 % / 99,80 % |
+| LR uden metadata | 63,7 % / 99,93 % | 39,8 % / 99,62 % | 11,5 % / 99,81 % |
+| LR, alle features, isotonisk kalibreret | 81,4 % / 99,36 % | 62,7 % / **98,02 %** | 46,1 % / 99,10 % |
 | Gradient boosting | 88,9 % / 99,05 % | 61,5 % / **93,96 %** | 42,4 % / 97,08 % |
 
 Fortolkning:
 
 - **Kombinationen forbedrer kun lidt, når der er et kendt fornavn.** Ved
-  0,95 går præcisionen fra 99,88 % (kun navne) til 99,86–99,96 %, og
-  dækningen fra 56 % til 60–61 %. Fornavnet bærer næsten alt.
+  0,95 går præcisionen fra 99,88 % (kun navne) til 99,90–99,93 %, og
+  dækningen fra 56 % til 63–64 %. Fornavnet bærer næsten alt.
 - **Gradient boosting giver ingen dokumenterbar forbedring.** Den er dårligst
   på ukendte navne (94 % ved ≥ 0,95). Den fravælges.
 - **Kalibrering, der virker inden for fordelingen, holder ikke uden for den.**
-  Isotonisk kalibrering bringer ECE ned fra 0,042 til 0,006 under grupperet
-  CV. Men på ukendte navne betyder en sikkerhed på "≥ 0,95" kun 97,8 %
+  Isotonisk kalibrering bringer ECE ned fra 0,039 til 0,006 under grupperet
+  CV. Men på ukendte navne betyder en sikkerhed på "≥ 0,95" kun 98,0 %
   præcision. En model, der siger 95 %, er altså ikke korrekt 95 % af gangene,
   når den møder nye navne.
 
@@ -246,9 +246,9 @@ navnefeatures kan evalueres ærligt på dem (199 K, 1.911 M).
 
 | Model (ingen navnefeatures) | ≥ 0,95: dækning / præcision | ≥ 0,98: dækning / præcision | K-præcision ved 0,5 |
 |---|---|---|---|
-| beskrivelse (hovedled + rolle) | 57,9 % / 99,4 % | 46,4 % / 99,4 % | 43 % |
-| + nationalitet | 57,5 % / 99,3 % | 45,7 % / **99,6 %** | 42 % |
-| + efternavn + metadata | 47,7 % / 99,7 % | 34,7 % / 99,7 % | 40 % |
+| beskrivelse (hovedled + rolle) | 55,5 % / 99,3 % | 42,2 % / 99,4 % | 43 % |
+| + nationalitet | 54,2 % / 99,7 % | 43,6 % / **99,7 %** | 42 % |
+| + efternavn + metadata | 47,4 % / 99,6 % | 18,9 % / 99,5 % | 40 % |
 
 Beskrivelsen kan altså sikkert pege på **mænd** (≈ 99,5 %), men den kan ikke
 pege på kvinder. Ved en neutral tærskel er kun 43 % af dens K-forudsigelser
@@ -278,22 +278,30 @@ ubestemte, og i stikprøven ramte den netop romanske mandsnavne forkert
 |---|---:|---:|---:|
 | S1 fornavn alene | 341 (12,8 %) | 32 | 309 |
 | S2 titel → fornavn → erhverv | 837 (31,3 %) | 45 | 792 |
-| S2 + LR-mænd ≥ 0,99 | 1.380 (51,7 %) | 45 | 1.335 |
-| **S2 + LR-mænd ≥ 0,98** | **1.495 (56,0 %)** | **45** | **1.450** |
-| S2 + LR-mænd ≥ 0,95 | 1.714 (64,2 %) | 45 | 1.669 |
-| LR alene ≥ 0,95, prior-korrigeret (fravalgt) | 1.573 (58,9 %) | 66 | 1.507 |
-| LR alene ≥ 0,70, prior-korrigeret (fravalgt) | 2.152 (80,6 %) | 206 | 1.946 |
+| S2 + LR-mænd ≥ 0,99 | 1.347 (50,4 %) | 45 | 1.302 |
+| **S2 + LR-mænd ≥ 0,98** | **1.477 (55,3 %)** | **45** | **1.432** |
+| S2 + LR-mænd ≥ 0,95 | 1.738 (65,1 %) | 45 | 1.693 |
+| LR alene ≥ 0,95, prior-korrigeret (fravalgt) | 1.602 (60,0 %) | 68 | 1.534 |
+| LR alene ≥ 0,70, prior-korrigeret (fravalgt) | 2.207 (82,6 %) | 275 | 1.932 |
 
 **Prior-skift.** Træningsetiketterne er 45 % kvinder. EM-estimatet efter
-Saerens et al. (2002) for de ubestemte er **19 % kvinder** (14 % under den
+Saerens et al. (2002) for de ubestemte er **21 % kvinder** (15 % under den
 strenge reference). Uden korrektion overvurderer LR systematisk P(kvinde) for
-de ubestemte. Med 0,95 som tærskel falder de rå K-forudsigelser fra 96 til 66,
+de ubestemte. Med 0,95 som tærskel falder de rå K-forudsigelser fra 90 til 68,
 når der korrigeres.
 
 ### 4.3 Kontrol på selve målpopulationen (stikprøve)
 
 Ingen etiketter for de ubestemte findes. Derfor er stikprøver af forudsigelserne
 vurderet ud fra navn og beskrivelse (`llm_spotcheck.csv`).
+
+**Rettelse efter stikprøven.** Stikprøven er taget på en kørsel, hvor rollefeltet fra
+`person_role.csv` blev læst forkert (skilletegn `;` læst som `|`, så 1.254 personer med flere
+roller blev én sammensat kategori). Fejlen er rettet, og alle tal i denne rapport er fra den
+rettede kørsel. Rettelsen ændrede ikke S2, men flyttede 130 poster ud af og 112 ind i S3's
+mandlige niveau uden at vende noget køn. De 112 tilkomne er gennemlæst (alle læses som mænd:
+fx Ulysses S. Grant, Madvig, Tietgen). De øvrige stikprøvetal gælder forrige kørsel, og de
+er derfor ikke gentaget på det rettede resultat.
 
 **Forbehold: Vurderingen er foretaget af Claude, en sprogmodel, og er ikke
 kildeverificeret.** Den bør gentages af en redaktør, før resultatet
@@ -322,7 +330,7 @@ LR-kvindernes 9 fejl er alle mandsnavne:
 
 Endelsesfeatures lærer, at -ine, -a og -e er kvindeligt, og det holder ikke
 for romanske og ældre nordiske mandsnavne. **LR's kvindelige forudsigelser
-kan ikke bruges automatisk.** De 39 poster er derimod en god
+kan ikke bruges automatisk.** Køen (41 poster) er derimod en god
 gennemgangskø (≈ 76 % træf).
 
 Stikprøven fandt også fejl, der *ikke* stammede fra metoderne:
@@ -423,8 +431,8 @@ Fravalgt med begrundelse:
 |---|---|
 | **Features** | som S2, plus logistisk regression på fornavn, fornavnsendelser, efternavn, beskrivelsens hovedled (alle ord), rolle og nationalitet. Ingen metadata. Isotonisk kalibreret og prior-korrigeret. |
 | **Sådan virker den** | S2 først. Poster, S2 ikke afgør, kategoriseres som **Mandlig**, hvis LR giver P(M) ≥ 0,98, og posten har mindst ét fornavn, erhvervsord eller titelord. LR's kvindelige forudsigelser bruges ikke automatisk, men lægges i en gennemgangskø. |
-| **Forventet præcision** | ≈ 99,5 % (LR-mænd: 99,6 % på proxy-sættet ved 0,98; stikprøve 100/100) |
-| **Dækning af de ubestemte** | 1.495 / 2.671 (56,0 %), 45 K / 1.450 M |
+| **Forventet præcision** | ≈ 99,5 % (LR-mænd: 99,7 % på proxy-sættet ved 0,98; stikprøve 100/100) |
+| **Dækning af de ubestemte** | 1.477 / 2.671 (55,3 %), 45 K / 1.432 M |
 | **Vigtigste styrke** | Fanger mænd med usædvanlige erhvervsbeskrivelser ("Konsumptionskasserer", "Overrabbiner", "Hotelvært"), som intet leksikon har set nok gange. |
 | **Vigtigste svaghed** | Modelvægte i stedet for en tælling; begrundelsen er mindre direkte. Afhænger af en tærskel, hvis kalibrering ikke kan verificeres på de ubestemte. |
 | **Gennemsigtighed** | Reproducerbar (fast seed, deterministisk). Kan forklares som "ligner N mandlige poster med de samme ord", men ikke linje for linje. |
@@ -440,21 +448,21 @@ hvilke på en model.
 | Niveau | Metode | Poster | Estimeret præcision |
 |---|---|---:|---:|
 | `høj` | S2 (titel / fornavn / erhverv) | 837 | ≈ 99,5–99,9 % |
-| `sandsynlig` | S3, LR-mand ≥ 0,98 med evidens | 658 | ≈ 99,5 % |
-| — | ingen tilstrækkelig evidens | 1.176 | – |
+| `sandsynlig` | S3, LR-mand ≥ 0,98 med evidens | 640 | ≈ 99,5 % |
+| — | ingen tilstrækkelig evidens | 1.194 | – |
 | `ikke relevant` | henvisning, gruppe, familie, organisation | 557 | – |
 
-Det er **ca. 56 % af de ubestemte personer** med meget høj sikkerhed.
+Det er **ca. 55 % af de ubestemte personer** med meget høj sikkerhed.
 Resten forbliver ubestemt. Det er korrekt og ikke en mangel.
 
 Fire ting, der skal med:
 
-1. **Repræsentationsskævhed.** 45 K mod 1.450 M, mens den estimerede andel af
-   kvinder blandt de ubestemte er ≈ 19 % (≈ 500 personer). Metoden finder
+1. **Repræsentationsskævhed.** 45 K mod 1.432 M, mens den estimerede andel af
+   kvinder blandt de ubestemte er ≈ 21 % (≈ 550 personer). Metoden finder
    kvinderne langt dårligere end mændene. Facettællinger efter inferensen må
    derfor ikke læses som registrets kønsfordeling. Et UI med kønsfacet bør
    vise "infereret" separat.
-2. **Kvinderne kræver mennesker.** LR-kvindekøen (39 poster, ≈ 76 % træf blandt de afgørbare),
+2. **Kvinderne kræver mennesker.** LR-kvindekøen (41 poster, ≈ 76 % træf blandt de 38 afgørbare i stikprøven),
    "Mile"-tilfældene og de 70 poster uden fornavn og erhverv er de oplagte
    mål for manuel gennemgang.
 3. **Billige forbedringer af parseren** med samme metode:
@@ -467,7 +475,7 @@ Fire ting, der skal med:
    (`--strict`), forsvinder etiketterne baseret på kun fornavn fra
    erhvervsleksikonets grundlag. S2's erhvervsled skrumper da (S2: 837 → 448).
    Fornavns- og titelleddene er uændrede (99,9 % og 99,1 %), og S2 + S3
-   dækker stadig 1.568. Valget af 0,70 er begrundet i, at fornavns- og
+   dækker stadig 1.624. Valget af 0,70 er begrundet i, at fornavns- og
    markøretiketter er enige i 99,83 % af tilfældene.
 
 ---

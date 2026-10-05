@@ -62,14 +62,11 @@ erhverv (første ord i beskrivelsens hoved),0.90–0.95,360,0.9242,0.9778
 erhverv (første ord i beskrivelsens hoved),0.95–0.98,633,0.9678,0.9953
 erhverv (første ord i beskrivelsens hoved),0.98–1.00,122,0.9848,0.9836
 erhverv (første ord i beskrivelsens hoved),ECE,,,0.0992
-rolle (person_role.csv),0.50–0.60,658,0.5428,0.5653
-rolle (person_role.csv),0.60–0.70,450,0.6528,0.6511
-rolle (person_role.csv),0.70–0.80,150,0.7515,0.78
-rolle (person_role.csv),0.80–0.90,886,0.8603,0.8815
-rolle (person_role.csv),0.90–0.95,1067,0.9219,0.9316
-rolle (person_role.csv),0.95–0.98,79,0.9654,0.9241
-rolle (person_role.csv),0.98–1.00,44,0.9812,1.0
-rolle (person_role.csv),ECE,,,0.0159
+rolle (person_role.csv),0.50–0.60,413,0.5177,0.5182
+rolle (person_role.csv),0.70–0.80,1121,0.7399,0.7449
+rolle (person_role.csv),0.80–0.90,865,0.88,0.8855
+rolle (person_role.csv),0.90–0.95,960,0.9197,0.9167
+rolle (person_role.csv),ECE,,,0.004
 titel i beskrivelsens hoved,0.50–0.60,1,0.5,1.0
 titel i beskrivelsens hoved,0.60–0.70,6,0.6667,0.8333
 titel i beskrivelsens hoved,0.70–0.80,17,0.75,1.0
@@ -114,42 +111,42 @@ LR navne+efternavn,0.95–0.98,922,0.9673,0.9978
 LR navne+efternavn,0.98–1.00,1620,0.9895,0.9994
 LR navne+efternavn,ECE,,,0.053
 LR navne+efternavn,logloss/brier,,0.1511,0.0411
-LR alle features,0.50–0.60,112,0.5469,0.6161
-LR alle features,0.60–0.70,125,0.6567,0.792
-LR alle features,0.70–0.80,211,0.7608,0.9005
-LR alle features,0.80–0.90,719,0.8558,0.9374
-LR alle features,0.90–0.95,615,0.9273,0.9886
-LR alle features,0.95–0.98,893,0.9673,0.9955
-LR alle features,0.98–1.00,1926,0.9909,1.0
-LR alle features,ECE,,,0.042
-LR alle features,logloss/brier,,0.1173,0.029
-LR uden metadata,0.50–0.60,134,0.5534,0.6269
-LR uden metadata,0.60–0.70,303,0.6565,0.7789
-LR uden metadata,0.70–0.80,304,0.7498,0.9145
-LR uden metadata,0.80–0.90,485,0.8555,0.9629
-LR uden metadata,0.90–0.95,607,0.9294,0.9934
-LR uden metadata,0.95–0.98,837,0.9676,0.9988
-LR uden metadata,0.98–1.00,1931,0.9912,1.0
-LR uden metadata,ECE,,,0.0502
-LR uden metadata,logloss/brier,,0.1266,0.0328
-"LR uden metadata, isotonisk kalibreret",0.50–0.60,58,0.5528,0.5517
-"LR uden metadata, isotonisk kalibreret",0.60–0.70,92,0.6547,0.6304
-"LR uden metadata, isotonisk kalibreret",0.70–0.80,178,0.7533,0.7753
-"LR uden metadata, isotonisk kalibreret",0.80–0.90,248,0.8483,0.871
-"LR uden metadata, isotonisk kalibreret",0.90–0.95,224,0.9299,0.9375
-"LR uden metadata, isotonisk kalibreret",0.95–0.98,252,0.9672,0.9603
-"LR uden metadata, isotonisk kalibreret",0.98–1.00,3549,0.9982,0.9966
-"LR uden metadata, isotonisk kalibreret",ECE,,,0.0046
-"LR uden metadata, isotonisk kalibreret",logloss/brier,,0.1011,0.028
-"LR alle features, isotonisk kalibreret",0.50–0.60,63,0.5496,0.4286
-"LR alle features, isotonisk kalibreret",0.60–0.70,52,0.6429,0.7115
-"LR alle features, isotonisk kalibreret",0.70–0.80,81,0.7528,0.8395
-"LR alle features, isotonisk kalibreret",0.80–0.90,282,0.8625,0.8652
-"LR alle features, isotonisk kalibreret",0.90–0.95,338,0.9211,0.9142
-"LR alle features, isotonisk kalibreret",0.95–0.98,374,0.9666,0.9599
-"LR alle features, isotonisk kalibreret",0.98–1.00,3411,0.9981,0.9968
-"LR alle features, isotonisk kalibreret",ECE,,,0.0062
-"LR alle features, isotonisk kalibreret",logloss/brier,,0.0988,0.0268
+LR alle features,0.50–0.60,111,0.5508,0.7117
+LR alle features,0.60–0.70,120,0.654,0.7417
+LR alle features,0.70–0.80,192,0.7586,0.901
+LR alle features,0.80–0.90,691,0.8555,0.9349
+LR alle features,0.90–0.95,575,0.9288,0.9809
+LR alle features,0.95–0.98,825,0.9679,0.9964
+LR alle features,0.98–1.00,2087,0.9919,1.0
+LR alle features,ECE,,,0.0393
+LR alle features,logloss/brier,,0.115,0.0289
+LR uden metadata,0.50–0.60,106,0.5496,0.4434
+LR uden metadata,0.60–0.70,181,0.6532,0.779
+LR uden metadata,0.70–0.80,416,0.7446,0.875
+LR uden metadata,0.80–0.90,438,0.8553,0.9612
+LR uden metadata,0.90–0.95,531,0.9289,0.9849
+LR uden metadata,0.95–0.98,756,0.9668,0.9974
+LR uden metadata,0.98–1.00,2173,0.9922,1.0
+LR uden metadata,ECE,,,0.0444
+LR uden metadata,logloss/brier,,0.1217,0.0319
+"LR uden metadata, isotonisk kalibreret",0.50–0.60,72,0.5483,0.5278
+"LR uden metadata, isotonisk kalibreret",0.60–0.70,76,0.6517,0.7368
+"LR uden metadata, isotonisk kalibreret",0.70–0.80,128,0.7595,0.8047
+"LR uden metadata, isotonisk kalibreret",0.80–0.90,305,0.851,0.8426
+"LR uden metadata, isotonisk kalibreret",0.90–0.95,223,0.9286,0.9417
+"LR uden metadata, isotonisk kalibreret",0.95–0.98,348,0.9678,0.954
+"LR uden metadata, isotonisk kalibreret",0.98–1.00,3449,0.9981,0.9968
+"LR uden metadata, isotonisk kalibreret",ECE,,,0.0061
+"LR uden metadata, isotonisk kalibreret",logloss/brier,,0.1025,0.0286
+"LR alle features, isotonisk kalibreret",0.50–0.60,49,0.5443,0.6122
+"LR alle features, isotonisk kalibreret",0.60–0.70,57,0.6519,0.7895
+"LR alle features, isotonisk kalibreret",0.70–0.80,97,0.7494,0.7423
+"LR alle features, isotonisk kalibreret",0.80–0.90,295,0.8673,0.8814
+"LR alle features, isotonisk kalibreret",0.90–0.95,356,0.925,0.9045
+"LR alle features, isotonisk kalibreret",0.95–0.98,334,0.9669,0.9641
+"LR alle features, isotonisk kalibreret",0.98–1.00,3413,0.9979,0.9965
+"LR alle features, isotonisk kalibreret",ECE,,,0.0063
+"LR alle features, isotonisk kalibreret",logloss/brier,,0.0994,0.0273
 Gradient boosting (target-encoding),0.50–0.60,75,0.5443,0.52
 Gradient boosting (target-encoding),0.60–0.70,89,0.6422,0.5393
 Gradient boosting (target-encoding),0.70–0.80,221,0.7455,0.7466
@@ -159,27 +156,27 @@ Gradient boosting (target-encoding),0.95–0.98,113,0.9671,0.8496
 Gradient boosting (target-encoding),0.98–1.00,3979,0.9994,0.9945
 Gradient boosting (target-encoding),ECE,,,0.0145
 Gradient boosting (target-encoding),logloss/brier,,0.1193,0.0328
-ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.50–0.60,105,0.5372,0.3714
-ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.60–0.70,85,0.6491,0.4941
-ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.70–0.80,123,0.7637,0.6667
-ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.80–0.90,425,0.8355,0.7835
-ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.90–0.95,150,0.9278,0.9867
-ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.95–0.98,243,0.9698,0.9959
-ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.98–1.00,979,0.9935,0.9939
-ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),ECE,,,0.038
-ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.50–0.60,105,0.5465,0.3143
-ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.60–0.70,111,0.6469,0.3423
-ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.70–0.80,109,0.7596,0.7615
-ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.80–0.90,403,0.839,0.804
-ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.90–0.95,169,0.9265,0.9763
-ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.95–0.98,249,0.9665,0.9839
-ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.98–1.00,964,0.9954,0.9959
-ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),ECE,,,0.0406
-ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.50–0.60,82,0.5467,0.4634
-ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.60–0.70,103,0.6506,0.5437
-ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.70–0.80,231,0.7618,0.5152
-ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.80–0.90,410,0.8502,0.8195
-ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.90–0.95,277,0.9255,0.9783
-ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.95–0.98,275,0.9671,0.9964
-ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.98–1.00,732,0.9945,0.9973
-ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),ECE,,,0.0531
+ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.50–0.60,73,0.5455,0.3836
+ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.60–0.70,113,0.6456,0.354
+ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.70–0.80,160,0.753,0.7188
+ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.80–0.90,413,0.8434,0.7845
+ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.90–0.95,179,0.9243,0.9832
+ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.95–0.98,282,0.9715,0.9894
+ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),0.98–1.00,890,0.9877,0.9944
+ikke-navn: beskrivelse (hovedled+rolle) (kun-fornavn-etiketter),ECE,,,0.0456
+ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.50–0.60,82,0.5551,0.3049
+ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.60–0.70,142,0.6481,0.3451
+ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.70–0.80,142,0.7545,0.7817
+ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.80–0.90,384,0.848,0.8073
+ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.90–0.95,216,0.9239,0.9537
+ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.95–0.98,224,0.9682,0.9955
+ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),0.98–1.00,920,0.9884,0.9967
+ikke-navn: beskrivelse+nationalitet (kun-fornavn-etiketter),ECE,,,0.049
+ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.50–0.60,89,0.555,0.4719
+ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.60–0.70,107,0.65,0.4766
+ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.70–0.80,216,0.7595,0.5926
+ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.80–0.90,429,0.8491,0.7855
+ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.90–0.95,269,0.927,0.974
+ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.95–0.98,601,0.9709,0.9967
+ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),0.98–1.00,399,0.9903,0.995
+ikke-navn: beskrivelse+nationalitet+efternavn+metadata (kun-fornavn-etiketter),ECE,,,0.0565
