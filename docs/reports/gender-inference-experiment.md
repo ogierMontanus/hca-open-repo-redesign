@@ -539,3 +539,43 @@ repoets egen arkitekturbeskrivelse.*
 | `llm_spotcheck.csv` | stikprøvevurderingerne (LLM, ikke kildeverificeret) |
 | `existing_label_suspects.csv`, `label_noise_name_vs_markers.csv` | mistænkte fejl i den eksisterende kategorisering |
 | `strict/` | samme kørsel med referencekrav ≥ 0,90 |
+
+---
+
+### Kategorier til gennemsyn (`build_gender_review_excel.py`)
+
+`gender_inference_experiments.py` udvider nu »Endnu ubestemt« (parserens
+confidence < 0,70) til fire værdier; `unknown_predictions.csv` har kolonnerne
+`kategori`, `kategori_sikkerhed`, `kategori_metode` og `kategori_grundlag`.
+`build_gender_review_excel.py` bygger samme kategorisering over den manuelt
+rettede segmentering (`data/raw/hca-personregister-redesign_gender-testing.xlsx`,
+10.079 poster) som en Excel-fil sorteret efter Køn, Kønssikkerhed og Navn og
+farvet efter køn.
+
+| Værdi i Køn | Betydning |
+|---|---|
+| Irrelevant | firma, slægt, anden korporation, gruppe, dyr eller krydshenvisning, uanset hvor mange personer posten dækker. Kuratorlisten tæller kun, når parseren ikke selv har fundet et køn (»Müller« er både en henvisning og en person) |
+| Endnu ubestemt, sandsynligvis kvinde / mand | kun når forslagets sikkerhed er under 0,71 (`LEAN_BELOW`); derover står Mandlig/Kvindelig, og kolonnen Kønsmetode viser, at det er afledt. Forslaget er det første af: S2-kaskaden, S3-mand ≥ 0,98, enkeltnavn i fornavnsleksikonet, kvindelig form i beskrivelsens første ord (-inde, -dame, -datter, jfr. …), S3-mand ≥ 0,60 |
+| Endnu ubestemt, kræver manuelt gennemsyn | ingen evidens, uenige regler eller en model, der kun peger svagt |
+
+Modellens kvindeforslag bruges ikke alene, af samme grund som i §4.3: de
+holdt ikke i stikprøven, og på poster med kun efternavn er de næsten
+udelukkende mænd (Euripides, Moses, Eugène Cavaignac). De ligger under
+»kræver manuelt gennemsyn« med modellens retning i grundlaget.
+`--base-rate-male` flytter de poster, hvor modellen kun er svag, til
+»sandsynligvis mand« ud fra grundraten; `--female-min` slår modellens
+kvindeforslag til igen. Grænsen 0,60 for mænd er ikke målt mod facit.
+
+**Ordregler (oktober 2026).** Reglerne R0–R5, P1–P5 og B1–B2 fra
+[`gender-unclear-dictations.md`](../gender-unclear-dictations.md) er bygget ind i
+`scripts/enrichment/gender_head_rules.py` med ordlisterne i
+`data/curated/gender_head_terms_da.csv`. De kører efter S2 og før S3. På
+HCAP-segmentringen (10.079 poster) falder »kræver manuelt gennemsyn« fra 648 til
+454. To afvigelser fra diktatet: R4 tæller ikke, når hovedleddet også har et
+-inde-ord (»Forfatterinde og Oversætter«), og R3 tæller ikke et -inde-ord foran
+et egennavn (»Grevinde Elise Moltke-Hvitfeldts Sjælesørger«). *Abbed* er føjet
+til P3. Hver regel er målt mod parserens afgjorte poster
+(`head_terms_measured.csv`), og poster, hvor en regel modsiger parseren, står i
+`rule_vs_parser_disagreements.csv` (fx Lafayette som Kvindelig, franske mænd ved
+navn Auguste og Marie). R5's navneliste skrives til
+`data/normalized/given_name_markers_male.csv`.

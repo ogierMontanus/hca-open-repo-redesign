@@ -146,6 +146,110 @@ def exclusion_reason(label, desc, given, etypes):
             re.search(r"\s(og|&)\s", " ".join(given)):
         return "gruppe/flere personer"
     return None
+# ── Kategorier til gennemsynet (ikke en del af eksperimenterne) ────────────
+CAT_IRRELEVANT = "Irrelevant"
+CAT_LEAN_F = "Endnu ubestemt, sandsynligvis kvinde"
+CAT_LEAN_M = "Endnu ubestemt, sandsynligvis mand"
+CAT_MANUAL = "Endnu ubestemt, kræver manuelt gennemsyn"
+
+# Poster, som er korporationer, uanset hvor mange personer de dækker. Beskrivelsens
+# FØRSTE ord (efter nationalitetsadjektiver) skal være korporationsordet:
+# "Grosserer (Firma: Brødrene Andersen)" er en person, "Møbelfirma i Leipzig" er ikke.
+CORP_WORD_RE = re.compile(
+    r"^(familie|familien|slægt|slægten|\w*firma|\w*firmaet|handelshus|bogtrykkeri|"
+    r"boghandel|forlag|\w*forlaget)$", re.I)
+# Brødrene/Søstrene er ikke med: grupper af ét køn får kønnet (R0 i
+# docs/gender-unclear-dictations.md; gender_head_rules.single_gender_group).
+CORP_LABEL_RE = re.compile(r"(?:^|\s)&\s*(?:Co|Comp|Cie|Søn|Sønner|Sønnen)\b\.?|"
+                           r"\b(?:Familien|Slægten)\b")
+# Poster, hvis type kun er afgjort ud fra labelen, men som ofte er overfladiske
+# navnesammenfald med en rigtig person (efternavnet "Müller" findes både som
+# henvisning og som person): de tæller kun som ikke-person, når parseren ikke
+# har fundet noget køn at holde fast i.
+CORP_TYPES = {"kurateret: family", "kurateret: organisation", "kurateret: group",
+              "kurateret: animal", "kurateret: relationalPlaceholder",
+              "gruppe/flere personer", "henvisningsstub",
+              "fejlsegmenteret/relationel label"}
+
+
+def corporation_reason(label, desc, nat_words=frozenset()):
+    """Firma, slægt eller anden korporation ud fra tekst (ikke kuratorlisten)."""
+    if CORP_LABEL_RE.search(label):
+        return "korporation i label"
+    toks = [t.lower() for t in TOKEN_RE.findall(desc_head(desc))]
+    toks = [t for t in toks if t not in nat_words and not t.endswith("sk")]
+    if toks and CORP_WORD_RE.match(toks[0]):
+        return f"korporation i beskrivelsen: {toks[0]}"
+    return None
+
+
+def irrelevant_reason(label, desc, excluded, parser_known, is_crossref=False,
+                      nat_words=frozenset(), group_gender=None):
+    """Grund til, at køn er irrelevant for posten, eller None.
+
+    parser_known: parseren har allerede afgjort Mandlig/Kvindelig (≥ 0,70).
+    group_gender: posten er en gruppe af ét køn (»Frøknerne«) og får kønnet."""
+    if is_crossref:
+        return "krydshenvisning"
+    corp = corporation_reason(label, desc, nat_words)
+    if corp:
+        return corp
+    if excluded in CORP_TYPES and not parser_known and not group_gender:
+        return excluded
+    if excluded == "kurateret: crossReference" and not parser_known and not desc.strip():
+        return "krydshenvisning"
+    return None
+
+
+# ── Poster, der samler flere personer (familiegrupper) ─────────────────────
+# Kønnet hører til den enkelte person. En post, der dækker et ægtepar, søskende
+# eller en familie, skal deles i flere poster i et senere berigelsestrin
+# (docs/gender-unclear-dictations.md, »Opdeling af familiegrupper«). Her
+# markeres kun, hvilke poster der skal deles, og hvilken type gruppen er.
+_FAM_LABEL = (
+    ("ægtepar", re.compile(r"\bog (?:Frue|Fru|Hustru|Mand|Hr\.?|Madame|Kone|Broderens Kone)\b")),
+    ("forældre/børn", re.compile(r"\b(?:og|med) (?:Børnene|Børn|Barn|Datter|Døtre|Søn|Sønner)\b|\bForældre")),
+    ("familie", re.compile(r"\bFamili(?:e|en)\b")),
+    ("søskende", re.compile(r"\b(?:Brødrene|Søstrene|Brødre|Søstre|Søskende|Frøknerne|Frøkner|"
+                            r"Komtesserne|Baronesserne|Døtre|Sønner)\b")),
+)
+_FAM_DESC = (
+    ("søskende", re.compile(r"^(?:(?:To|Tre|Fire|\d+)\s+)?(?:unge\s+|yngre\s+|ældste\s+)?"
+                            r"(?:Frøknerne|Frøkner|Komtesser|Baronesser|Brødre|Søstre|Døtre|Sønner)\b(?!\s+[A-ZÆØÅ])")),
+    ("forældre/børn", re.compile(r"\bog dennes Børn\b|\bSøster og Søsterdatter\b|\bmed Frue og Børn\b")),
+)
+_NAME_AND_NAME = re.compile(r"^[A-ZÆØÅ][^,()]* og [A-ZÆØÅ]")
+_LIFESPAN = re.compile(r"\(\s*(?:ca\.\s*)?\d{3,4}\s*[–-]\s*(?:ca\.\s*)?\d{2,4}\s*\)")
+
+
+def family_group(label, desc, entity_type=None):
+    """(type, grundlag) for en post, der samler flere personer og skal deles i et
+    senere trin, ellers ("", ""). Kun etiketten og beskrivelsens indledning
+    tæller; et ord som »Familien X« midt i en beskrivelse (»Ven af Familien
+    Livingstone«) beskriver en anden person og udløser intet.
+
+    entity_type: den kuraterede entitetstype fra person_entity_types.tsv."""
+    lab = label or ""
+    for kind, rx in _FAM_LABEL:
+        m = rx.search(lab)
+        if m:
+            return kind, f"label: »{m.group(0).strip()}«"
+    head = (desc or "").strip()
+    for kind, rx in _FAM_DESC:
+        m = rx.search(head)
+        if m:
+            return kind, f"beskrivelse: »{m.group(0).strip()}«"
+    if entity_type in ("family", "kurateret: family"):
+        return "familie", "kurateret: family"
+    if entity_type in ("group", "kurateret: group"):
+        return "gruppe", "kurateret: group"
+    if len(_LIFESPAN.findall(lab)) >= 2:
+        return "flere personer", "flere leveårspar i label"
+    if "," not in lab and _NAME_AND_NAME.match(lab):
+        return "flere personer", "label: »A og B«"
+    return "", ""
+
+
 YEARS_RE = re.compile(r"\((?:[^)]*\d{3,4}[^)]*)\)\s*$")
 
 
@@ -192,6 +296,18 @@ def load():
         for r in csv.DictReader(f):
             nref[r["entity_id"]] += 1
             vols[r["entity_id"]].add(r["vol"])
+    return build_persons(rows, markers, titles, overrides, nats, existing, roles, nref, vols)
+
+
+def build_persons(rows, markers, titles, overrides, nats, existing=None,
+                  roles=None, nref=None, vols=None):
+    """Personposter med parserens indikatorer og referenceetiketter.
+
+    rows: [{entity_id, label, description}]. existing: {entity_id: {koen,
+    confidence}} fra person_gender.csv; udelades den (fx for en anden
+    segmentering end entities.csv), udledes den af parserens eget gennemløb,
+    som er præcis det, parse_person_gender.py skriver."""
+    roles, nref, vols = roles or {}, nref or Counter(), vols or {}
 
     # Genskab parserens navnestatistik præcis som den køres (gennemløb 1+2).
     seed = []
@@ -208,9 +324,12 @@ def load():
     for r in rows:
         eid = r["entity_id"]
         g, conf, _, inds, nat = P.classify(r, markers, stats, overrides, nats, titles=titles)
-        ex = existing[eid]
-        if g != ex["koen"]:
-            mismatch += 1
+        if existing is None:
+            ex = {"koen": g, "confidence": conf}
+        else:
+            ex = existing[eid]
+            if g != ex["koen"]:
+                mismatch += 1
         surname, given, rest = P.split_label(r["label"], titles)
         fams = {family_of(c) for _, w, c, _ in inds if w > 0}
         ref_all = label_from(inds)
@@ -695,7 +814,10 @@ def fmt(x, pct=True):
 
 
 def write_csv(name, rows, cols=None):
-    path = os.path.join(OUT, name)
+    return write_csv_to(os.path.join(OUT, name), rows, cols)
+
+
+def write_csv_to(path, rows, cols=None):
     if not rows:
         return path
     cols = cols or list(rows[0].keys())
@@ -705,6 +827,267 @@ def write_csv(name, rows, cols=None):
         for r in rows:
             w.writerow({k: (round(v, 4) if isinstance(v, float) else v) for k, v in r.items()})
     return path
+
+
+def infer_unknown(persons, markers, mterms, nat_words, title_terms):
+    """Endelige kandidatstrategier (S1 fornavn, S2 kaskade, S3 LR) for de
+    ubestemte. Returnerer (pred_rows, erhvervstabel, summary-delen)."""
+    global TMAP
+    TMAP = title_gender_map(markers)
+    summary = {}
+    unk = [p for p in persons if p["existing"] is None]
+    pool = [p for p in persons if p["ref_all"] and not p["stub"]]
+    ev_o = [p for p in persons if p["ref_wo"]["DESC"] and not p["stub"]]
+
+    def fn_occ(p):
+        return occupation(p["desc"], mterms, nat_words)
+
+    unk_live = [p for p in unk if not p["stub"]]
+
+    # Fornavnsleksikon. Optællingerne bygger KUN på markør-etiketter, så
+    # navne-etiketterne ikke tæller navnet med sig selv. Optalt både generelt
+    # og pr. nationalitet (til nationalitetsværnet).
+    def name_counts(rows, label_of):
+        cnt, cnt_nat = defaultdict(Counter), defaultdict(Counter)
+        for p in rows:
+            if p["given"]:
+                k = variant(p["given"][0])
+                cnt[k][label_of(p)] += 1
+                cnt_nat[(k, p["nat"])][label_of(p)] += 1
+        return cnt, cnt_nat
+
+    def name_rule(p, cnt, cnt_nat, guard, min_n=3, min_share=0.95):
+        if not p["given"]:
+            return None
+        k = variant(p["given"][0])
+        c = cnt.get(k)
+        if not c:
+            return None
+        n = c[K] + c[M]
+        top = K if c[K] >= c[M] else M
+        if n < min_n or c[top] / n < min_share:
+            return None
+        if guard and p["nat"] not in HOME_NATS:
+            cn = cnt_nat.get((k, p["nat"]), Counter())
+            if cn[top] < 1 or cn[K if top == M else M] > 0:
+                return None  # navnet er ikke belagt i personens egen navneskik
+        return top, f"fornavn »{p['given'][0]}« {c[top]}/{n}"
+
+    # Evaluering af nationalitetsværnet på markør-etiketter (CV)
+    ev_name = [p for p in persons if p["ref_wo"]["NAME"] and not p["stub"]]
+    guard_eval = {}
+    for guard in (False, True):
+        cov = cor = cov_f = cor_f = 0
+        for tr, te in cv_splits(ev_name, [group_key(p) for p in ev_name]):
+            cnt, cnt_nat = name_counts([ev_name[i] for i in tr], lambda p: p["ref_wo"]["NAME"])
+            for i in te:
+                q = ev_name[i]
+                r = name_rule(q, cnt, cnt_nat, guard)
+                if r:
+                    ok = r[0] == q["ref_wo"]["NAME"]
+                    cov += 1
+                    cor += ok
+                    if q["nat"] not in HOME_NATS:
+                        cov_f += 1
+                        cor_f += ok
+        guard_eval["med værn" if guard else "uden værn"] = {
+            "dækning_n": cov, "dækning": cov / len(ev_name), "præcision": cor / cov if cov else None,
+            "fremmed_nationalitet_dækket": cov_f,
+            "fremmed_nationalitet_præcision": cor_f / cov_f if cov_f else None}
+    summary["name_rule_guard_eval"] = guard_eval
+
+    cnt, cnt_nat = name_counts(ev_name, lambda p: p["ref_wo"]["NAME"])
+
+    def s1(p):
+        return name_rule(p, cnt, cnt_nat, guard=True)
+
+    # Erhvervsleksikon: n ≥ 5 og Wilson-nedre ≥ 0,90, optalt på etiketter,
+    # der ikke afhænger af beskrivelsen.
+    tB = build_rule_table([fn_occ(p) for p in ev_o], [p["ref_wo"]["DESC"] for p in ev_o], 5, 0.90)
+
+    def cascade(p):
+        """S2: titel i beskrivelse → fornavn → erhverv. Uenighed → ubestemt."""
+        votes = []
+        t = desc_title(p["desc"], TMAP)
+        if t:
+            votes.append((TMAP[t], f"titel »{t}« i beskrivelsen"))
+        a = s1(p)
+        if a:
+            votes.append(a)
+        b = tB.get(fn_occ(p))
+        if b and not a:
+            votes.append((b[0], f"erhverv »{fn_occ(p)}« {b[1]}/{b[2]}"))
+        if not votes:
+            return None, ""
+        if len({v[0] for v in votes}) > 1:
+            return None, "konflikt: " + "; ".join(v[1] for v in votes)
+        return votes[0][0], "; ".join(v[1] for v in votes)
+
+    # Kaskadens samlede præcision på uafhængige etiketter: hvert led måles på
+    # de etiketter, der ikke afhænger af leddets egen familie.
+    t_rule = [p for p in persons if p["ref_wo"]["DESC"] and not p["stub"]]
+    hits = [(TMAP[desc_title(p["desc"], TMAP)], p["ref_wo"]["DESC"]) for p in t_rule
+            if desc_title(p["desc"], TMAP)]
+    summary["desc_title_rule_eval"] = {
+        "dækning_n": len(hits), "n_eval": len(t_rule),
+        "præcision": sum(a == b for a, b in hits) / len(hits) if hits else None,
+        "ukendte_dækket": sum(1 for p in unk_live if desc_title(p["desc"], TMAP))}
+
+    # S3: logistisk regression uden metadata (metadata gav en falsk kvindelig
+    # skævhed på efternavns-poster, se stikprøven), isotonisk kalibreret og
+    # prior-korrigeret (Saerens et al. 2002): træningsetiketterne er ~45 % K,
+    # de ukendte langt færre.
+    use_s3 = ("name", "surname", "desc", "nat")
+    yb_pool = np.array([1 if p["ref_all"] == K else 0 for p in pool])
+    dvc = DictVectorizer()
+    Xc = dvc.fit_transform([feat_dict(p, mterms, nat_words, title_terms, use_s3) for p in pool])
+    mc = make_lr(True).fit(Xc, yb_pool)
+    pc_raw = mc.predict_proba(dvc.transform(
+        [feat_dict(p, mterms, nat_words, title_terms, use_s3) for p in unk_live]))[:, 1]
+    pi_t = float(yb_pool.mean())
+    pi_u, pc = em_prior(pc_raw, pi_t)
+    summary["prior"] = {"træning_andel_K": pi_t, "ukendte_estimeret_andel_K": pi_u}
+
+    def has_evidence(p):
+        return bool(p["given"] or fn_occ(p) or desc_title(p["desc"], TMAP))
+
+    pred_rows = []
+    for p, q_raw, q in zip(unk_live, pc_raw, pc):
+        a = s1(p)
+        g2, why2 = cascade(p)
+        conf3 = float(max(q, 1 - q))
+        g3 = (K if q > 0.5 else M) if has_evidence(p) else None
+        pred_rows.append({
+            "entity_id": p["id"], "label": p["label"], "beskrivelse": p["desc"][:160],
+            "nationalitet": p["nat"],
+            "S1_fornavn": a[0] if a else "", "S1_grundlag": a[1] if a else "",
+            "S2_kaskade": g2 or "", "S2_grundlag": why2,
+            "S3_lr": g3 or "", "S3_p_kvinde_rå": round(float(q_raw), 4),
+            "S3_p_kvinde": round(float(q), 4), "S3_konf": round(conf3, 4),
+            "har_evidens": has_evidence(p),
+        })
+    def final(r, thr=0.98):
+        """Anbefalet kombination: S2 først. LR må kun udfylde MANDLIGE poster
+        med evidens — dens kvindelige forudsigelser holdt ikke i stikprøven
+        (romanske mandsnavne på -ine/-a/-e læses som kvindelige), og et
+        LR-veto over S2 fjernede kun korrekte mænd (Jean-Marie, Antoine)."""
+        if r["S2_kaskade"]:
+            return r["S2_kaskade"], "S2"
+        if r["S3_lr"] == M and r["S3_konf"] >= thr and not r["S2_grundlag"].startswith("konflikt"):
+            return M, "S3"
+        return None, ""
+
+    cov = {"ukendte i alt": len(unk), "udelukket (ikke enkeltperson/henvisning)": len(unk) - len(unk_live),
+           "ukendte ekskl. udelukkede": len(unk_live)}
+    for key, col in (("S1 fornavn (med værn)", "S1_fornavn"), ("S2 titel→fornavn→erhverv", "S2_kaskade")):
+        sel = [r for r in pred_rows if r[col]]
+        cov[key] = {"n": len(sel), "andel": len(sel) / len(unk_live),
+                    "K": sum(r[col] == K for r in sel), "M": sum(r[col] == M for r in sel)}
+    cov["S2 konflikter (efterlades ubestemt)"] = sum(
+        1 for r in pred_rows if r["S2_grundlag"].startswith("konflikt"))
+    for thr in THRESHOLDS:
+        for lab, col in (("S3 LR rå", "S3_p_kvinde_rå"), ("S3 LR prior-korrigeret", "S3_p_kvinde")):
+            sel = [r for r in pred_rows if r["har_evidens"] and max(r[col], 1 - r[col]) >= thr]
+            cov[f"{lab} ≥ {thr}"] = {"n": len(sel), "andel": len(sel) / len(unk_live),
+                                     "K": sum(1 for r in sel if r[col] > 0.5),
+                                     "M": sum(1 for r in sel if r[col] < 0.5)}
+    for thr in (0.95, 0.98, 0.99):
+        fin = Counter(final(r, thr) [1] for r in pred_rows)
+        g = Counter(final(r, thr)[0] for r in pred_rows)
+        cov[f"Anbefalet (S2 + S3-mand ≥ {thr})"] = {
+            "n": g[K] + g[M], "andel": (g[K] + g[M]) / len(unk_live), "K": g[K], "M": g[M],
+            "fra S2": fin["S2"], "fra S3": fin["S3"]}
+    summary["unknown_coverage"] = cov
+    for r in pred_rows:
+        g, src = final(r)
+        r["anbefalet"] = g or ""
+        r["anbefalet_kilde"] = src
+    def name_lookup(token, nat):
+        """Fornavnsleksikonet slået op på ét ord, som ikke står i fornavnsfeltet
+        (labels som »Peter« eller »Minna« uden komma har intet fornavnsfelt)."""
+        return name_rule({"given": [token], "nat": nat}, cnt, cnt_nat, guard=True)
+
+    return pred_rows, tB, summary, name_lookup
+
+
+RULE_CONF = 0.95   # sorteringsværdi for regelbaserede forslag (målt præcision ≈ 99 %)
+MANUAL_CONF = 0.5
+
+
+LEAN_BELOW = 0.71   # »sandsynligvis« kun under denne sikkerhed; derover er køn afgjort
+
+
+def lean_category(p, r, name_lookup, mterms, nat_words, manual_below=0.60,
+                  female_min=1.01, base_rate_male=False):
+    """Som _lean_category, men et forslag med sikkerhed ≥ LEAN_BELOW kaldes
+    Mandlig/Kvindelig (metoden i andet led viser, at det er afledt), og kun
+    forslag under grænsen får mærkatet »Endnu ubestemt, sandsynligvis …«."""
+    cat, conf, how, why = _lean_category(p, r, name_lookup, mterms, nat_words,
+                                         manual_below, female_min, base_rate_male)
+    if cat in (CAT_LEAN_F, CAT_LEAN_M) and conf >= LEAN_BELOW:
+        cat = P.FEMALE if cat == CAT_LEAN_F else P.MALE
+    return cat, conf, how, why
+
+
+def _lean_category(p, r, name_lookup, mterms, nat_words, manual_below=0.60,
+                   female_min=1.01, base_rate_male=False):
+    """Udvid »Endnu ubestemt« (parserens confidence < 0,70) til en retning.
+
+    p: person (build_persons), r: forudsigelsesrække fra infer_unknown.
+    Returnerer (kategori, sikkerhed, metode, grundlag).
+
+    Rækkefølge — den første, der har et svar, vinder:
+      1. S2-kaskaden (titel i beskrivelsen → fornavn → erhverv): regel.
+      2. S3 mand ≥ 0,98 (den anbefalede model-udvidelse): model.
+      3. Ét-ords-label, der er et fornavn i leksikonet (»Peter«, »Minna«).
+      4. (Ordreglerne R0–R5 i gender_head_rules.py går forud for denne
+         funktion; kvindelige former m.m. afgøres dér.)
+      5. Logistisk regression (prior-korrigeret): kun MAND, fra `manual_below`.
+         Modellens kvindeforslag bruges ikke (`female_min` > 1 slår dem fra):
+         de holdt ikke i stikprøven (≈ 76 % korrekte ved ≥ 0,95; romanske
+         mandsnavne som Antoine og Andrea) og er langt dårligere under 0,95,
+         især for poster med kun efternavn. De sendes til gennemsyn med
+         modellens retning noteret.
+      6. Ellers: kræver manuelt gennemsyn. Med `base_rate_male` får de poster,
+         hvor modellen kun er svag, i stedet »sandsynligvis mand« ud fra
+         grundraten (≈ 76 % af de ubestemte er mænd); poster helt uden evidens
+         går stadig til gennemsyn."""
+    if r["S2_grundlag"].startswith("konflikt"):
+        return CAT_MANUAL, MANUAL_CONF, "regler uenige", r["S2_grundlag"]
+    if r["S2_kaskade"]:
+        g = r["S2_kaskade"]
+        return (CAT_LEAN_F if g == K else CAT_LEAN_M), RULE_CONF, "regel (S2)", r["S2_grundlag"]
+    if r["anbefalet"]:
+        g = r["anbefalet"]
+        return (CAT_LEAN_F if g == K else CAT_LEAN_M), float(r["S3_konf"]), \
+            "model (S3, mand ≥ 0,98)", f"logistisk regression, P = {float(r['S3_konf']):.2f}"
+
+    if not p["given"] and "," not in p["label"] and len(p["label"].split()) == 1:
+        a = name_lookup(p["label"].strip(), p["nat"])
+        if a:
+            g = a[0]
+            return (CAT_LEAN_F if g == K else CAT_LEAN_M), RULE_CONF, "regel (enkeltnavn)", \
+                "enkeltnavn: " + a[1]
+
+    if not r["har_evidens"]:
+        return CAT_MANUAL, MANUAL_CONF, "ingen evidens", \
+            "hverken fornavn, erhvervsord eller titel at gå efter"
+    g, conf = r["S3_lr"], float(r["S3_konf"])
+    how = f"logistisk regression, P = {conf:.2f}"
+    weak_male = base_rate_male and not (g == M and conf >= manual_below) and \
+        not (g == K and conf >= female_min and p["nat"] in HOME_NATS)
+    if weak_male:
+        return CAT_LEAN_M, 0.70, "grundrate (svag model)", \
+            f"{how} ({'kvinde' if g == K else 'mand'}); modellen er for svag, " \
+            "så grundraten bestemmer (≈ 76 % af de ubestemte er mænd)"
+    if g == M:
+        if conf >= manual_below:
+            return CAT_LEAN_M, conf, "model (S3)", how
+        return CAT_MANUAL, MANUAL_CONF, "model peger svagt på mand", how
+    if conf >= female_min and p["nat"] in HOME_NATS:
+        return CAT_LEAN_F, conf, "model (S3)", how
+    return CAT_MANUAL, MANUAL_CONF, "model peger på kvinde (usikkert)", \
+        f"{how}; kvindeforslag fra modellen alene er ikke sikre nok"
 
 
 def main():
@@ -1012,169 +1395,26 @@ def main():
     write_csv("nonname_models_on_name_labels.csv", nonname_rows)
     write_csv("calibration.csv", rel_rows + comb_rel, ["model", "bin", "n", "mean_conf", "accuracy"])
 
-    # ── 6. Endelige kandidatstrategier ───────────────────────────────────
-    unk_live = [p for p in unk if not p["stub"]]
-
-    # Fornavnsleksikon. Optællingerne bygger KUN på markør-etiketter, så
-    # navne-etiketterne ikke tæller navnet med sig selv. Optalt både generelt
-    # og pr. nationalitet (til nationalitetsværnet).
-    def name_counts(rows, label_of):
-        cnt, cnt_nat = defaultdict(Counter), defaultdict(Counter)
-        for p in rows:
-            if p["given"]:
-                k = variant(p["given"][0])
-                cnt[k][label_of(p)] += 1
-                cnt_nat[(k, p["nat"])][label_of(p)] += 1
-        return cnt, cnt_nat
-
-    def name_rule(p, cnt, cnt_nat, guard, min_n=3, min_share=0.95):
-        if not p["given"]:
-            return None
-        k = variant(p["given"][0])
-        c = cnt.get(k)
-        if not c:
-            return None
-        n = c[K] + c[M]
-        top = K if c[K] >= c[M] else M
-        if n < min_n or c[top] / n < min_share:
-            return None
-        if guard and p["nat"] not in HOME_NATS:
-            cn = cnt_nat.get((k, p["nat"]), Counter())
-            if cn[top] < 1 or cn[K if top == M else M] > 0:
-                return None  # navnet er ikke belagt i personens egen navneskik
-        return top, f"fornavn »{p['given'][0]}« {c[top]}/{n}"
-
-    # Evaluering af nationalitetsværnet på markør-etiketter (CV)
-    ev_name = [p for p in persons if p["ref_wo"]["NAME"] and not p["stub"]]
-    guard_eval = {}
-    for guard in (False, True):
-        cov = cor = cov_f = cor_f = 0
-        for tr, te in cv_splits(ev_name, [group_key(p) for p in ev_name]):
-            cnt, cnt_nat = name_counts([ev_name[i] for i in tr], lambda p: p["ref_wo"]["NAME"])
-            for i in te:
-                q = ev_name[i]
-                r = name_rule(q, cnt, cnt_nat, guard)
-                if r:
-                    ok = r[0] == q["ref_wo"]["NAME"]
-                    cov += 1
-                    cor += ok
-                    if q["nat"] not in HOME_NATS:
-                        cov_f += 1
-                        cor_f += ok
-        guard_eval["med værn" if guard else "uden værn"] = {
-            "dækning_n": cov, "dækning": cov / len(ev_name), "præcision": cor / cov if cov else None,
-            "fremmed_nationalitet_dækket": cov_f,
-            "fremmed_nationalitet_præcision": cor_f / cov_f if cov_f else None}
-    summary["name_rule_guard_eval"] = guard_eval
-
-    cnt, cnt_nat = name_counts(ev_name, lambda p: p["ref_wo"]["NAME"])
-
-    def s1(p):
-        return name_rule(p, cnt, cnt_nat, guard=True)
-
-    # Erhvervsleksikon: n ≥ 5 og Wilson-nedre ≥ 0,90, optalt på etiketter,
-    # der ikke afhænger af beskrivelsen.
-    tB = build_rule_table([fn_occ(p) for p in ev_o], [p["ref_wo"]["DESC"] for p in ev_o], 5, 0.90)
-
-    def cascade(p):
-        """S2: titel i beskrivelse → fornavn → erhverv. Uenighed → ubestemt."""
-        votes = []
-        t = desc_title(p["desc"], TMAP)
-        if t:
-            votes.append((TMAP[t], f"titel »{t}« i beskrivelsen"))
-        a = s1(p)
-        if a:
-            votes.append(a)
-        b = tB.get(fn_occ(p))
-        if b and not a:
-            votes.append((b[0], f"erhverv »{fn_occ(p)}« {b[1]}/{b[2]}"))
-        if not votes:
-            return None, ""
-        if len({v[0] for v in votes}) > 1:
-            return None, "konflikt: " + "; ".join(v[1] for v in votes)
-        return votes[0][0], "; ".join(v[1] for v in votes)
-
-    # Kaskadens samlede præcision på uafhængige etiketter: hvert led måles på
-    # de etiketter, der ikke afhænger af leddets egen familie.
-    t_rule = [p for p in persons if p["ref_wo"]["DESC"] and not p["stub"]]
-    hits = [(TMAP[desc_title(p["desc"], TMAP)], p["ref_wo"]["DESC"]) for p in t_rule
-            if desc_title(p["desc"], TMAP)]
-    summary["desc_title_rule_eval"] = {
-        "dækning_n": len(hits), "n_eval": len(t_rule),
-        "præcision": sum(a == b for a, b in hits) / len(hits) if hits else None,
-        "ukendte_dækket": sum(1 for p in unk_live if desc_title(p["desc"], TMAP))}
-
-    # S3: logistisk regression uden metadata (metadata gav en falsk kvindelig
-    # skævhed på efternavns-poster, se stikprøven), isotonisk kalibreret og
-    # prior-korrigeret (Saerens et al. 2002): træningsetiketterne er ~45 % K,
-    # de ukendte langt færre.
-    use_s3 = ("name", "surname", "desc", "nat")
-    yb_pool = np.array([1 if p["ref_all"] == K else 0 for p in pool])
-    dvc = DictVectorizer()
-    Xc = dvc.fit_transform([feat_dict(p, mterms, nat_words, title_terms, use_s3) for p in pool])
-    mc = make_lr(True).fit(Xc, yb_pool)
-    pc_raw = mc.predict_proba(dvc.transform(
-        [feat_dict(p, mterms, nat_words, title_terms, use_s3) for p in unk_live]))[:, 1]
-    pi_t = float(yb_pool.mean())
-    pi_u, pc = em_prior(pc_raw, pi_t)
-    summary["prior"] = {"træning_andel_K": pi_t, "ukendte_estimeret_andel_K": pi_u}
-
-    def has_evidence(p):
-        return bool(p["given"] or fn_occ(p) or desc_title(p["desc"], TMAP))
-
-    pred_rows = []
-    for p, q_raw, q in zip(unk_live, pc_raw, pc):
-        a = s1(p)
-        g2, why2 = cascade(p)
-        conf3 = float(max(q, 1 - q))
-        g3 = (K if q > 0.5 else M) if has_evidence(p) else None
-        pred_rows.append({
-            "entity_id": p["id"], "label": p["label"], "beskrivelse": p["desc"][:160],
-            "nationalitet": p["nat"],
-            "S1_fornavn": a[0] if a else "", "S1_grundlag": a[1] if a else "",
-            "S2_kaskade": g2 or "", "S2_grundlag": why2,
-            "S3_lr": g3 or "", "S3_p_kvinde_rå": round(float(q_raw), 4),
-            "S3_p_kvinde": round(float(q), 4), "S3_konf": round(conf3, 4),
-            "har_evidens": has_evidence(p),
-        })
-    write_csv("unknown_predictions.csv", pred_rows)
-
-    def final(r, thr=0.98):
-        """Anbefalet kombination: S2 først. LR må kun udfylde MANDLIGE poster
-        med evidens — dens kvindelige forudsigelser holdt ikke i stikprøven
-        (romanske mandsnavne på -ine/-a/-e læses som kvindelige), og et
-        LR-veto over S2 fjernede kun korrekte mænd (Jean-Marie, Antoine)."""
-        if r["S2_kaskade"]:
-            return r["S2_kaskade"], "S2"
-        if r["S3_lr"] == M and r["S3_konf"] >= thr and not r["S2_grundlag"].startswith("konflikt"):
-            return M, "S3"
-        return None, ""
-
-    cov = {"ukendte i alt": len(unk), "udelukket (ikke enkeltperson/henvisning)": len(unk) - len(unk_live),
-           "ukendte ekskl. udelukkede": len(unk_live)}
-    for key, col in (("S1 fornavn (med værn)", "S1_fornavn"), ("S2 titel→fornavn→erhverv", "S2_kaskade")):
-        sel = [r for r in pred_rows if r[col]]
-        cov[key] = {"n": len(sel), "andel": len(sel) / len(unk_live),
-                    "K": sum(r[col] == K for r in sel), "M": sum(r[col] == M for r in sel)}
-    cov["S2 konflikter (efterlades ubestemt)"] = sum(
-        1 for r in pred_rows if r["S2_grundlag"].startswith("konflikt"))
-    for thr in THRESHOLDS:
-        for lab, col in (("S3 LR rå", "S3_p_kvinde_rå"), ("S3 LR prior-korrigeret", "S3_p_kvinde")):
-            sel = [r for r in pred_rows if r["har_evidens"] and max(r[col], 1 - r[col]) >= thr]
-            cov[f"{lab} ≥ {thr}"] = {"n": len(sel), "andel": len(sel) / len(unk_live),
-                                     "K": sum(1 for r in sel if r[col] > 0.5),
-                                     "M": sum(1 for r in sel if r[col] < 0.5)}
-    for thr in (0.95, 0.98, 0.99):
-        fin = Counter(final(r, thr) [1] for r in pred_rows)
-        g = Counter(final(r, thr)[0] for r in pred_rows)
-        cov[f"Anbefalet (S2 + S3-mand ≥ {thr})"] = {
-            "n": g[K] + g[M], "andel": (g[K] + g[M]) / len(unk_live), "K": g[K], "M": g[M],
-            "fra S2": fin["S2"], "fra S3": fin["S3"]}
-    summary["unknown_coverage"] = cov
+    pred_rows, tB, s6, name_lookup = infer_unknown(persons, markers, mterms, nat_words, title_terms)
+    summary.update(s6)
+    # Kategorier til gennemsynet: udvid »Endnu ubestemt« til en retning med
+    # S2 → ordreglerne R1–R4/P1–P5/B1–B2 → R5 → S3 (gender_head_rules.py).
+    import gender_head_rules as H
+    ctx = H.Context(persons, title_terms, P.load_name_overrides(), name_lookup)
+    pred = {r["entity_id"]: r for r in pred_rows}
+    decided, r5_rows = H.decide_unknowns(persons, list(pred), pred, ctx)
     for r in pred_rows:
-        g, src = final(r)
-        r["anbefalet"] = g or ""
-        r["anbefalet_kilde"] = src
+        d = decided[r["entity_id"]]
+        r.update({"kategori": d["kategori"], "kategori_sikkerhed": d["sikkerhed"],
+                  "kategori_metode": d["metode"], "kategori_grundlag": d["grundlag"],
+                  "kategori_rolle": d["rolle"]})
+    if not args.strict:
+        write_csv_to(os.path.join(ROOT, "data", "normalized", "given_name_markers_male.csv"),
+                     r5_rows)
+    write_csv("rule_vs_parser_disagreements.csv", H.disagreements(persons, ctx))
+    write_csv("head_terms_measured.csv", H.measure_terms(persons, ctx))
+    summary["kategorier_ubestemte"] = Counter(r["kategori"] for r in pred_rows)
+    summary["kategorier_ubestemte"][CAT_IRRELEVANT] = sum(1 for p in unk if p["stub"])
     write_csv("unknown_predictions.csv", pred_rows)
 
     # Regel-tabeller som inspicerbare filer

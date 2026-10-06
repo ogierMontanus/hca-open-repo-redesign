@@ -294,7 +294,7 @@
   },
   "prior": {
     "træning_andel_K": 0.4526896140664581,
-    "ukendte_estimeret_andel_K": 0.20684365382115882
+    "ukendte_estimeret_andel_K": 0.20684365382115869
   },
   "unknown_coverage": {
     "ukendte i alt": 3228,
@@ -409,5 +409,12 @@
       "fra S2": 837,
       "fra S3": 510
     }
+  },
+  "kategorier_ubestemte": {
+    "Endnu ubestemt, kræver manuelt gennemsyn": 434,
+    "Mandlig": 2108,
+    "Kvindelig": 109,
+    "Endnu ubestemt, sandsynligvis mand": 20,
+    "Irrelevant": 557
   }
 }

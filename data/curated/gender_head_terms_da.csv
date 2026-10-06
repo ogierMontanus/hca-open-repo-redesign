@@ -1,0 +1,102 @@
+rule,term,match,gender,role_bucket,level,scope,notes
+R1,jomfru,exact,K,,høj,label,titel i fornavnsfeltet eller som label-segment
+R1,jfr,exact,K,,høj,label,
+R1,frk,exact,K,,høj,label,
+R1,frøken,exact,K,,høj,label,
+R1,mile,exact,K,,høj,label,Mile = Mlle (»Olsen, Mile«)
+R1,mlle,exact,K,,høj,label,
+R1,mademoiselle,exact,K,,høj,label,
+R1,misses,exact,K,,høj,label,»Philips, Misses«
+R1,madam,exact,K,,høj,label,
+R1,madame,exact,K,,høj,label,
+R1,mme,exact,K,,høj,label,
+R1,frue,exact,K,,høj,label,
+R1,fru,exact,K,,høj,label,
+R1,marquise,exact,K,,høj,label,P4 må ikke ramme Marquise
+R2,søster,exact,K,,høj,desc,også efter »Hans«/»Hendes«: possessivets køn ignoreres
+R2,moder,exact,K,,høj,desc,
+R2,niece,exact,K,,høj,desc,
+R2,niecer,exact,K,,høj,desc,
+R2,elskede,exact,K,,høj,desc,»Rafaels Elskede«
+R2,værtinde,exact,K,,høj,desc,
+R2,mætresse,exact,K,,høj,desc,
+R2,enke,exact,K,,høj,desc,
+R2,enkefrue,exact,K,,høj,desc,
+R2,hustru,exact,K,,høj,desc,
+R2,præstekone,exact,K,,høj,desc,P1 skal ikke ramme den
+R2,præsteenke,exact,K,,høj,desc,P1 skal ikke ramme den
+R2,broder,exact,M,,høj,desc,
+R2,fader,exact,M,,høj,desc,
+R2,svoger,exact,M,,høj,desc,
+P1,præst,suffix,M,Gejstlig,høj,both,ordet skal ende på »præst«: ikke Præstekone/Præstegaard
+P2,menig,exact,M,Militær,høj,both,
+P2,sergent,exact,M,Militær,høj,both,
+P2,sergeant,exact,M,Militær,høj,both,
+P2,løjtnant,suffix,M,Militær,høj,both,Premier-/Sekond-/Oberst-/Generalløjtnant
+P2,major,exact,M,Militær,høj,both,
+P2,officer,prefix,M,Militær,høj,both,Officer.*
+P2,korporal,contains,M,Militær,høj,both,.*korporal.*
+P3,abbé,exact,M,Gejstlig,høj,both,Abbedisse er K og står i markørlisten
+P3,abbe,exact,M,Gejstlig,høj,both,
+P3,abbed,exact,M,Gejstlig,høj,both,dansk form af Abbé (»Diis, Abbed«); ikke i diktatet
+P4,marquis,exact,M,Adel/Kongelig/Hof,høj,both,ikke Marquise
+P4,marquisen,exact,M,Adel/Kongelig/Hof,høj,both,
+P4,pasha,exact,M,Adel/Kongelig/Hof,høj,both,
+P4,emir,exact,M,Adel/Kongelig/Hof,høj,both,
+P5,komtesse,prefix,K,Adel/Kongelig/Hof,høj,both,Komtesse.*
+B1,vært,exact,M,,høj,desc,ikke Værtinde/Værtens
+B1,dreng,suffix,M,,høj,desc,Bondedreng/Fiskerdreng
+B1,drenge,suffix,M,,høj,desc,
+B1,søn,suffix,M,,høj,desc,Kongesøn/Brodersøn/Dattersøn/Sønnesøn
+B1,læge,suffix,M,,høj,desc,Overlæge/Badelæge
+B1,filosof,exact,M,,høj,desc,
+B1,mester,suffix,M,,sandsynlig,desc,98 % (122 M / 2 K)
+B1,historiker,suffix,M,,sandsynlig,desc,98 % (60 M / 1 K)
+B1,kok,exact,M,,sandsynlig,desc,ikke Kokkepige
+B1,svend,suffix,M,,sandsynlig,desc,
+B1,bonde,suffix,M,,sandsynlig,desc,ikke Husbonde
+B2,pige,suffix,K,,høj,desc,Tjenestepige/Barnepige
+B2,piger,suffix,K,,høj,desc,
+B2,datter,suffix,K,,høj,desc,Søsterdatter/Svigerdatter/Præstedatter
+B2,frøknerne,exact,K,,høj,desc,ikke foran et genitivnavn (»Frøknerne Rossings Pension«)
+B2,hetære,exact,K,,høj,desc,
+B2,jomfru,exact,K,,høj,desc,ikke Jomfruland/Jomfruens Egede
+B2,jomfruen,exact,K,,høj,desc,
+B2,jomfruerne,exact,K,,høj,desc,
+B2,jfr,exact,K,,høj,desc,
+B2,frk,exact,K,,høj,desc,
+B2,mlle,exact,K,,høj,desc,
+B2,madam,exact,K,,høj,desc,
+B2,mademoiselle,exact,K,,høj,desc,
+B2,demoiselle,exact,K,,høj,desc,
+B2,donna,exact,K,,høj,desc,
+B2,kurtisane,exact,K,,høj,desc,
+B2,demimonde,exact,K,,høj,desc,
+B2,guvernante,exact,K,,høj,desc,
+B2,tante,exact,K,,høj,desc,
+B2,kusine,exact,K,,høj,desc,
+R4,forfatter,suffix,M,,høj,desc,kvindeform forfatterinde
+R4,digter,suffix,M,,høj,desc,kvindeform digterinde
+R4,maler,suffix,M,,høj,desc,kvindeform malerinde
+R4,lærer,suffix,M,,høj,desc,kvindeform lærerinde
+R4,skuespiller,suffix,M,,høj,desc,kvindeform skuespillerinde
+R4,sanger,suffix,M,,høj,desc,kvindeform sangerinde
+R4,komponist,suffix,M,,sandsynlig,desc,
+R4,journalist,suffix,M,,sandsynlig,desc,
+R4,redaktør,suffix,M,,sandsynlig,desc,
+R4,oversætter,suffix,M,,sandsynlig,desc,16 M / 3 K
+R4,billedhugger,suffix,M,,sandsynlig,desc,
+R4,pianist,suffix,M,,sandsynlig,desc,
+R4,violinist,suffix,M,,sandsynlig,desc,
+R4,general,suffix,M,,sandsynlig,desc,Generalinde fanges af R3
+R4,kejser,suffix,M,,sandsynlig,desc,
+R4,konge,suffix,M,,sandsynlig,desc,
+R4,professor,suffix,M,,sandsynlig,desc,
+R4,musiker,suffix,M,,sandsynlig,desc,
+R4,kontorist,suffix,M,,sandsynlig,desc,
+R4,kapelmester,suffix,M,,sandsynlig,desc,
+R4,embedsmand,exact,M,,sandsynlig,desc,kun de attesterede -mand-ord (ikke Tidemand)
+R4,landmand,exact,M,,sandsynlig,desc,
+R4,sømand,exact,M,,sandsynlig,desc,
+R4,stormand,exact,M,,sandsynlig,desc,
+R4,finansmand,exact,M,,sandsynlig,desc,

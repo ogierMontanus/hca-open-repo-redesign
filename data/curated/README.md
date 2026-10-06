@@ -27,3 +27,9 @@ here.
 
 `persons_wikidata.csv` is declared optional in `scripts/publish.py` and is not
 yet populated.
+
+`gender_manual_review.csv` holds the editor's manual gender decisions for rows
+the parser left undetermined (`hcap_id, navn, koen, modelforslag, modelmetode`;
+`koen` is Mandlig, Kvindelig or Irrelevant). Taken from the reviewed workbook
+`data/review/gender_inference/hca-personregister-redesign_gender-review_NHB_backup.xlsx`.
+`build_gender_review_excel.py` applies it over every automatic suggestion.
