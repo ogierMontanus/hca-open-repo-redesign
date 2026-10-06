@@ -28,6 +28,8 @@ repo used to run itself, as stages 1a–1e of its own build_all.py.
   1d  enrich   enrichment/detect_work_language.py   probable work language
   1e  enrich   enrichment/parse_person_ethnic_descriptors.py  nationality adjectives
   1f  enrich   enrichment/parse_person_gender.py       gender facet
+  1f' enrich   enrichment/apply_gender_review.py       reviewed gender over 1f
+                                                    (curated/person_gender_reviewed.csv)
   1g  ingest   enrichment/build_kb_links.py         Det Kgl. Bibliotek page links
   1h  reconcile enrichment/reconcile_steder_categories.py  verified place categories
 
@@ -89,6 +91,13 @@ STAGES = [
      "scripts/enrichment/parse_person_ethnic_descriptors.py", [], True),
     ("1f", "person descriptions -> gender facet",
      "scripts/enrichment/parse_person_gender.py", [], True),
+    # Must follow 1f: overlays the editor-reviewed gender
+    # (data/curated/person_gender_reviewed.csv, frozen from the review
+    # workbook by enrichment/export_gender_review.py). Cross-references lose
+    # their row; firms, families and groups become »Andet (især firmaer,
+    # slægter og øvrige grupper)«.
+    ("1f'", "reviewed gender over the parser's gender facet",
+     "scripts/enrichment/apply_gender_review.py", [], True),
     ("1g", "KB link workbook -> diary page permalinks",
      "scripts/enrichment/build_kb_links.py", [], True),
     ("1h", "verified place workbook -> categories/countries",

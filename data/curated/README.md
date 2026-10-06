@@ -19,6 +19,7 @@ person is meant to edit.
 | `gender_markers_da.csv` | `enrichment/parse_person_gender.py` | the gendered-term vocabulary |
 | `given_name_gender_overrides.csv` | the same | cross-culturally ambiguous given names, resolved by hand |
 | `person_role_terms_da.csv` | `curation/parse_person_role.py` | ~185 role terms grouped into buckets |
+| `person_gender_reviewed.csv` | `enrichment/apply_gender_review.py` (stage 1f') | the reviewed gender per live person (Reg id), laid over the parser's facet |
 | `person_emendations.tsv` | `segmentation/apply_person_emendations.py` — validates them against the register, and emits the merged view | editorial corrections to individual register entries |
 
 The first seven cross to the publication repository — see
@@ -33,3 +34,12 @@ the parser left undetermined (`hcap_id, navn, koen, modelforslag, modelmetode`;
 `koen` is Mandlig, Kvindelig or Irrelevant). Taken from the reviewed workbook
 `data/review/gender_inference/hca-personregister-redesign_gender-review_NHB_backup.xlsx`.
 `build_gender_review_excel.py` applies it over every automatic suggestion.
+
+`person_gender_reviewed.csv` (`entity_id, koen, confidence, metode, grundlag,
+familiegruppe, hcap_ids`) is the same review keyed on the live site's Reg ids,
+frozen from `hca-personregister-redesign_gender-review.xlsx` by
+`enrichment/export_gender_review.py`. Several register entries that the site
+merges into one person keep their gender only when they agree; otherwise the
+person is »Endnu ubestemt«. Re-run the export after a new review; stage 1f'
+then applies it. It is read only here — what crosses is the resulting
+`person_gender.csv`.
