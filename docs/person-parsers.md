@@ -714,6 +714,12 @@ Things found while documenting that a newcomer will otherwise trip over:
 7. **Gender is inferred, not recorded**, and its name statistics are culturally
    narrow (§10.4). Treat "Mandlig/Kvindelig" as *derived from markers and given
    names* in any UI or documentation.
+8. **Some rows unite several persons** (couples `X og Frue`, siblings
+   `Frøknerne`, `Familien X`, parent + child). Gender belongs to the individual,
+   so these rows must be **split into one row per person in a later enrichment
+   stage**. They are flagged today in column `Familiegruppe` of the gender review
+   workbook (108 rows); see "Opdeling af familiegrupper" in
+   [`gender-unclear-dictations.md`](gender-unclear-dictations.md).
 
 ## 13. File map
 
