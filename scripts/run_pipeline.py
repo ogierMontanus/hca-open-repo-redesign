@@ -94,8 +94,8 @@ STAGES = [
     # Must follow 1f: overlays the editor-reviewed gender
     # (data/curated/person_gender_reviewed.csv, frozen from the review
     # workbook by enrichment/export_gender_review.py). Cross-references lose
-    # their row; firms, families and groups become »Andet (især firmaer,
-    # slægter og øvrige grupper)«.
+    # their row; firms, families and groups become »Andet (især
+    # firmaer/slægter/øvrige grupper)«.
     ("1f'", "reviewed gender over the parser's gender facet",
      "scripts/enrichment/apply_gender_review.py", [], True),
     ("1g", "KB link workbook -> diary page permalinks",

@@ -10,7 +10,7 @@ parse_person_gender.py (stage 1f), som ellers overskriver resultatet.
     Irrelevant, krydshenvisning            rækken udelades: uden række får
                                            posten intet køn, og Køn-facetten
                                            springer den over
-    Irrelevant, øvrige                     »Andet (især firmaer, slægter og
+    Irrelevant, øvrige                     »Andet (især firmaer/slægter/
                                            øvrige grupper)«: firma, slægt,
                                            ægtepar, familie, gruppe, dyr
 
@@ -35,7 +35,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 GENDER = os.path.join(ROOT, "data", "normalized", "person_gender.csv")
 REVIEWED = os.path.join(ROOT, "data", "curated", "person_gender_reviewed.csv")
 
-OTHER = "Andet (især firmaer, slægter og øvrige grupper)"
+OTHER = "Andet (især firmaer/slægter/øvrige grupper)"
 
 
 def is_cross_ref(rv):

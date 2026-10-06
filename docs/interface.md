@@ -32,7 +32,7 @@ script had to change when the preprocessing moved out.
 | `data/normalized/sv14_places_reconciled.csv` | 4c | coordinates matched from the SV14 TEI place-list, for places `rejser.tsv` does not cover |
 | `data/normalized/work_languages.csv` | 4a, 4f | probable language per work title, with method and confidence |
 | `data/normalized/person_ethnic_descriptors.csv` | 4b, 4f | ethnic/national adjectives per person, with leading/embedded position |
-| `data/normalized/person_gender.csv` | 4b | gender facet — the parser's output (1f) with the editor-reviewed gender laid over it (1f'); cross-references have no row and so no gender; firms, families and other groups are »Andet (især firmaer, slægter og øvrige grupper)« |
+| `data/normalized/person_gender.csv` | 4b | gender facet — the parser's output (1f) with the editor-reviewed gender laid over it (1f'); cross-references have no row and so no gender; firms, families and other groups are »Andet (især firmaer/slægter/øvrige grupper)« |
 | `data/normalized/person_role.csv` | 4b | role facet |
 | `data/normalized/kb_diary_links.csv` | 3a | Det Kgl. Bibliotek facsimile permalink per diary page |
 | `data/normalized/steder_verified_categories.csv` | 4c, 4f | human-verified place category and country |
